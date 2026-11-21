@@ -1,0 +1,1681 @@
+{
+  "search_term": "software engineer",
+  "fetched_at": "11-21-02-59",
+  "response": {
+    "count": 125971,
+    "mean": 153357.27,
+    "results": [
+      {
+        "contract_type": "contract",
+        "title": "Civil Project Engineer",
+        "location": {
+          "display_name": "Durham, Durham County",
+          "area": [
+            "US",
+            "North Carolina",
+            "Durham County",
+            "Durham"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "latitude": 35.996611,
+        "longitude": -78.89908,
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQyNzY4MCIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.dJ-epOIKrI3rlkqvugEj94Mppb214rntAjzfPsnZ5Mk",
+        "redirect_url": "https://www.adzuna.com/details/5973427680?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "engineering-jobs",
+          "label": "Engineering Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 62272.68,
+        "salary_max": 62272.68,
+        "created": "2026-11-20T21:45:31Z",
+        "id": "5973427680",
+        "description": "Job Title: Civil Project Engineer Job Description The Civil Project Engineer will play a key role within the Civil Engineering Department, leading site development projects and contributing to the firms growth. This position requires a highly motivated professional with a strong commitment to design excellence, the ability to manage project deadlines, build and maintain client relationships, and inspire high performance from project teams. Responsibilities Plan, develop, and coordinate civil en\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Actalent"
+        }
+      },
+      {
+        "longitude": -81.374139,
+        "latitude": 28.541508,
+        "title": "Distribution Engineer",
+        "contract_type": "contract",
+        "location": {
+          "area": [
+            "US",
+            "Florida",
+            "Orange County",
+            "Orlando"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Orlando, Orange County"
+        },
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDI3Njk2In0.pxzH1zDQVJgM-5LV1XMlmwe-da7hGejPZrj2c1lJDIM",
+        "redirect_url": "https://www.adzuna.com/details/5973427696?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 91499.91,
+        "salary_max": 91499.91,
+        "category": {
+          "tag": "engineering-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Engineering Jobs"
+        },
+        "company": {
+          "display_name": "Actalent",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:45:31Z",
+        "id": "5973427696",
+        "description": "Job Title: Distribution Design Engineer Job Description This role focuses on utility-scale distribution engineering projects based in the Orlando office, with an emphasis on transformer replacements, retrofits, and reconductoring work. You will join an established distribution team and support a major utility client, including learning and using their proprietary systems. This is an open-ended contract position with access to appropriate benefits and offers strong opportunities for growth withi\u2026"
+      },
+      {
+        "longitude": -88.13724,
+        "latitude": 41.77992,
+        "contract_type": "contract",
+        "title": "Piping Engineer",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Illinois",
+            "DuPage County",
+            "Naperville"
+          ],
+          "display_name": "Naperville, DuPage County"
+        },
+        "contract_time": "full_time",
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQyNzYyMyIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.IRuGBL5h9E-7BZP3f1_D6JcceApremO8qeCw4ZrvbL8",
+        "redirect_url": "https://www.adzuna.com/details/5973427623?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 104635.79,
+        "salary_max": 104635.79,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "engineering-jobs",
+          "label": "Engineering Jobs"
+        },
+        "company": {
+          "display_name": "Actalent",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:45:16Z",
+        "id": "5973427623",
+        "description": "Piping Engineer | 100% Remote 100% Remote | Anywhere in the U.S. Junior to Mid-Level | 3 Years of Experience Half-Day Fridays Looking to take the next step in your engineering career and build experience in the nuclear power industry? Were hiring a Piping Engineer to support major nuclear power plant upgrades, modifications, and modernization projects across the U.S. This is a great opportunity for an engineer with a few years of piping, mechanical, or stress analysis experience who wants to gr\u2026"
+      },
+      {
+        "longitude": -104.75578,
+        "latitude": 38.85431,
+        "location": {
+          "area": [
+            "US",
+            "Colorado",
+            "El Paso County",
+            "Colorado Springs"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Colorado Springs, El Paso County"
+        },
+        "title": "Technology Systems & AI Engineer",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973424399?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQyNDM5OSIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.ETdIg0zumzrTTPNmxIxuATE46qnMxesf1zzX2JAMK3U",
+        "salary_max": 82955.24,
+        "salary_min": 82955.24,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Cogitic Corporation"
+        },
+        "description": "Technology Systems & AI Engineer Colorado Springs, CO | Full-Time | On-Site Reports To: Financial Controller Keep Technology Running. Build Smarter Systems. Drive Innovation. At Cogitic Corporation, technology plays a critical role in supporting our mission. We manufacture precision components for the U.S. Navy and national defense programs, where reliability, security, and continuous improvement are essential. We're looking for a talented, hands-on Technology Systems & AI Engineer who can keep\u2026",
+        "id": "5973424399",
+        "created": "2026-11-20T21:41:37Z"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 115614.66,
+        "salary_max": 115614.66,
+        "category": {
+          "tag": "legal-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Legal Jobs"
+        },
+        "contract_type": "contract",
+        "title": "U.S. Copyright Law Expert - Intellectual Property & AI Legal Evaluation",
+        "location": {
+          "display_name": "US",
+          "area": [
+            "US"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Gramian Consulting Group"
+        },
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDI0MzI0In0.gojjiV5lfFBxYYZjzPPKz29CNZqYmiFZos6IKmdv0E4",
+        "created": "2026-11-20T21:41:26Z",
+        "redirect_url": "https://www.adzuna.com/details/5973424324?utm_medium=api&utm_source=d30dc240",
+        "id": "5973424324",
+        "description": "About Gramian Gramian Consultancy is a boutique consultancy specializing in IT professional services and engineering talent solutions. With a strong background in software engineering and leadership, we help companies build high-performing teams by matching them with professionals who truly fit their needs. About the Role We are seeking a U.S. Copyright Law Expert to contribute to a legal data annotation and AI evaluation project focused on intellectual property law. The ideal candidate will ha\u2026"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Gramian Consulting Group"
+        },
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQyNDMxOSIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.EYrqZ9tTQO805B0zHagQ8goGP_OEz1TO3Hx-00Vswr0",
+        "created": "2026-11-20T21:41:26Z",
+        "redirect_url": "https://www.adzuna.com/details/5973424319?utm_medium=api&utm_source=d30dc240",
+        "id": "5973424319",
+        "description": "About Gramian Gramian Consultancy is a boutique consultancy specializing in IT professional services and engineering talent solutions. With a strong background in software engineering and leadership, we help companies build high-performing teams by matching them with professionals who truly fit their needs. About the Role We are looking for experienced and detail-oriented photographers who own or have reliable access to a Sony Alpha 1 II (Sony A1 II) to participate in a photography project supp\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 85958.18,
+        "salary_max": 85958.18,
+        "contract_type": "contract",
+        "title": "Professional Photographer - Sony Alpha 1 II (RAW Photography Project)",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "location": {
+          "area": [
+            "US"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "US"
+        }
+      },
+      {
+        "title": "U.S. Constitutional Law Expert - Legal Research & AI Evaluation",
+        "contract_type": "contract",
+        "category": {
+          "label": "Legal Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "legal-jobs"
+        },
+        "location": {
+          "display_name": "US",
+          "area": [
+            "US"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 73806.91,
+        "salary_min": 73806.91,
+        "redirect_url": "https://www.adzuna.com/details/5973424326?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQyNDMyNiIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.RQlQ_BFfEakU9Z4iqX8b-hwVlCkUs0dXy5xocur6tZs",
+        "created": "2026-11-20T21:41:26Z",
+        "description": "About Gramian Gramian Consultancy is a boutique consultancy specializing in IT professional services and engineering talent solutions. With a strong background in software engineering and leadership, we help companies build high-performing teams by matching them with professionals who truly fit their needs. About the Role We are seeking a knowledgeable U.S. Constitutional Law Expert to support a legal data annotation and AI evaluation project. The ideal candidate will have a strong understandin\u2026",
+        "id": "5973424326",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Gramian Consulting Group"
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 85138.82,
+        "salary_min": 85138.82,
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Engineering Manager",
+        "location": {
+          "display_name": "US",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US"
+          ]
+        },
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Christie"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973424316?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQyNDMxNiIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.RisM0ndB4nEfYQ9fLi5cVvihbFF8v3xz-__OAK1jRRs",
+        "salary_is_predicted": "1",
+        "created": "2026-11-20T21:41:26Z",
+        "description": "You run the team day to day and are accountable for its outcomes and its health. You are inside the team, not above it: one-on-ones, hiring, performance and merit reviews, capacity planning, the on-call rota and the team's record are yours. You answer for capacity when the product owners set quarterly priorities, and you say no out loud when the queue is longer than the team. The release calendar itself is run by the delivery lead; the technical standard is set by the Technical Lead. You make s\u2026",
+        "id": "5973424316"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 220000,
+        "longitude": -97.152093,
+        "latitude": 32.633077,
+        "salary_min": 180000,
+        "title": "Director - Terafab Operations",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "engineering-jobs",
+          "label": "Engineering Jobs"
+        },
+        "location": {
+          "display_name": "Arlington, Tarrant County",
+          "area": [
+            "US",
+            "Texas",
+            "Tarrant County",
+            "Arlington"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "company": {
+          "display_name": "Terabase Energy",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973424318?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:41:26Z",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQyNDMxOCIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.DRYiNlDE4oCoEvvMeTLNdLCUOsD_TFMoqOawnpTqeXw",
+        "description": "About Terabase Energy Terabase Energy is building a digital and automation platform to improve how utility-scale solar projects are designed and built. The company combines software, robotics, engineering, and construction expertise to modernize solar deployment. This role sits at the center of that effort by building the field operations capability required to deploy and support TeraFab successfully at scale. The Mandate: This role is effectively the general manager of TeraFab field operations\u2026",
+        "id": "5973424318"
+      },
+      {
+        "salary_min": 107387.28,
+        "salary_max": 107387.28,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "US",
+          "area": [
+            "US"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "title": "Security Automation Solutions Engineer",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "contract_time": "full_time",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "STN Incorporated"
+        },
+        "id": "5973424302",
+        "description": "Security Automation Solutions Engineer Location: Remote (United States) Reporting to: Director of Cybersecurity At STN , we don't just adapt to the digital future, we engineer it. Our mission is to help organizations thrive in a rapidly evolving technology landscape through strategic insight, cutting-edge solutions, and a security-first mindset. We provide end-to-end services spanning cloud consulting, AI infrastructure, and enterprise security, enabling secure, scalable, and future-ready trans\u2026",
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDI0MzAyIn0.exMOIImd0zq7AHDef7MDP1Hip8XHcPxEPElJmiGptTE",
+        "created": "2026-11-20T21:41:24Z",
+        "redirect_url": "https://www.adzuna.com/details/5973424302?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US"
+          ],
+          "display_name": "US"
+        },
+        "title": "Senior Application Security Engineer",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_min": 200289.97,
+        "salary_max": 200289.97,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973424303",
+        "description": "Senior Application Security Engineer Location: Remote (United States) Reporting to: Director of Cybersecurity At STN , we don't just adapt to the digital future, we engineer it. Our mission is to help organizations thrive in a rapidly evolving technology landscape through strategic insight, cutting-edge solutions, and a security-first mindset. We provide end-to-end services spanning cloud consulting, AI infrastructure, and enterprise security, enabling secure, scalable, and future-ready transfo\u2026",
+        "created": "2026-11-20T21:41:24Z",
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQyNDMwMyIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.QLN3EOmnlsQqmcaUl8sb_o-XqnU7tfHqbsBA30nIpp4",
+        "redirect_url": "https://www.adzuna.com/details/5973424303?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "STN Incorporated"
+        }
+      },
+      {
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973415550?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDE1NTUwIn0.dbQAo77q3ZIJMmepPCOoLNKt6QUSJWgUPg5dXruT2OQ",
+        "longitude": -122.395222,
+        "latitude": 37.761957,
+        "location": {
+          "area": [
+            "US",
+            "California",
+            "San Francisco",
+            "Potrero Hill"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Potrero Hill, San Francisco"
+        },
+        "title": "Multiple Open Positions",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "KikOff Inc."
+        },
+        "description": "KikOff Inc. has the below job openings in San Francisco, CA. 3 Software Engineer $137093/yr. 1 Data Engineer $168418/yr. 1 Customer Operations Associate $95k/yr. 1 Software Engineer-Front End 185k/yr. 1 Data Engineer $152k/yr. Send resume by mail to 633 Folsom St. STE 300, San Francisco, CA 94107. Attn: K. Lagunte",
+        "id": "5973415550",
+        "created": "2026-11-20T21:36:16Z",
+        "salary_max": 100936.26,
+        "salary_min": 100936.26,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "label": "Engineering Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "engineering-jobs"
+        }
+      },
+      {
+        "longitude": -86.777425,
+        "latitude": 36.164613,
+        "title": "Senior Automation Business Analyst",
+        "location": {
+          "display_name": "Nashville, Davidson County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Tennessee",
+            "Davidson County",
+            "Nashville"
+          ]
+        },
+        "contract_time": "part_time",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDE1NDg1In0.x6zezsPcItylUfYgyJlCnxjajWuY-siylTzoe5iAJpg",
+        "redirect_url": "https://www.adzuna.com/details/5973415485?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 97760,
+        "salary_max": 108160,
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "CYNET SYSTEMS"
+        },
+        "created": "2026-11-20T21:36:15Z",
+        "id": "5973415485",
+        "description": "Pay Range: $47.00hr - $52.00hr Job Overview: The Automation Analyst is responsible for supporting the end-to-end lifecycle of enterprise automation initiatives as a subject matter expert for the automation solution, from initial project intake and business process Client through requirements definition, development coordination, testing, implementation, and operational handoff. The Automation Analyst is responsible for understanding business processes and objectives, translating stakeholder nee\u2026"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Aditi Consulting"
+        },
+        "description": "Payrate: $75.00 - $80.00/hr Position\u2019s Contributions to Work Group: The Technical Product Owner works intimately with the Scrum Team with the primary task of creating and managing the Product Backlog and to ensure everyone knows the priorities and assisting the scrum team to meet the objectives of each sprint Typical task breakdown: Responsible for maximizing the value of the product and the work of theDevelopment Team Responsible for acting as Product Owner for larger, more complex projects wi\u2026",
+        "id": "5973415509",
+        "created": "2026-11-20T21:36:15Z",
+        "salary_max": 166400,
+        "salary_min": 156000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973415509?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNTUwOSIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.He8YTgJI__GGQxbHAswFG3OH9fXhMajPAYVKrqtMYgA",
+        "longitude": -89.58943,
+        "latitude": 40.69179,
+        "location": {
+          "display_name": "Peoria, Peoria County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Illinois",
+            "Peoria County",
+            "Peoria"
+          ]
+        },
+        "title": "Technical Product Owner"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNTQ3NCIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.EdsJvnnzHJ4H_oeb2VtKJ-e89KHNz_L55g18VwX6v9I",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.com/details/5973415474?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "location": {
+          "area": [
+            "US",
+            "Arizona",
+            "Maricopa County",
+            "Phoenix"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Phoenix, Maricopa County"
+        },
+        "contract_type": "contract",
+        "title": "Junior Software Engineer (Spring Boot and Microservices)/Junior Data Scientist \u2013 Remote",
+        "longitude": -112.0696,
+        "latitude": 33.4492,
+        "id": "5973415474",
+        "description": "Degree on the Wall, Interview Inbox on Empty You did the coursework. Nobody taught you how hiring actually works. You walked across a stage, posted the photo, and expected software engineer interviews to follow. Instead, junior Java postings want Spring Boot, REST, SQL, Git, and \"two years of experience\u201d for an entry-level salary. Career services told you to network. Networking told you to apply online. Online applications told you nothing. What New Grads Must Be Able to Show Employers hire jun\u2026",
+        "created": "2026-11-20T21:36:14Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "SynergisticIT"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "salary_min": 79000,
+        "salary_max": 136000,
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973415356?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNTM1NiIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.eJ8_zW0ScYAscU1GcO74fi9XM_D0DU_tId8NVLSzLME",
+        "longitude": -73.997006,
+        "latitude": 40.750133,
+        "title": "Junior Data Engineer/Junior Backend Developer \u2013 Remote",
+        "location": {
+          "area": [
+            "US",
+            "New York",
+            "New York City",
+            "Manhattan",
+            "Chelsea and Clinton"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Chelsea and Clinton, Manhattan"
+        },
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "SynergisticIT"
+        },
+        "created": "2026-11-20T21:36:12Z",
+        "description": "Mid-Career Reset: Roles for Jobseekers Starting Over Age Bias Is Real. Unpreparedness Makes It Worse. You are not a new grad. You may be changing careers, returning after a long break, or coming back from a non-coding role. Interviewers assume you are expensive, slow, or outdated before you speak. Jobseekers in this position often over-explain biography and under-show code. That is reversible. SynergisticIT JOPP works with jobseekers who need handholding to enter or reenter software engineering\u2026",
+        "id": "5973415356",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 142000,
+        "salary_min": 82000,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        }
+      },
+      {
+        "location": {
+          "area": [
+            "US",
+            "New Jersey",
+            "Mercer County",
+            "Princeton"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Princeton, Mercer County"
+        },
+        "title": "Java Software Engineer",
+        "longitude": -74.667223,
+        "latitude": 40.357298,
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNTM3NyIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.V3een-Z_2SX2zwm7evVhK9kLPgy_GVLeRIrgKdHcPjs",
+        "redirect_url": "https://www.adzuna.com/details/5973415377?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_min": 94139.39,
+        "salary_max": 94139.39,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973415377",
+        "description": "Toshiba Global Commerce Solutions is seeking a hands-on Software Engineer to contribute to the design, development, testing, and support of modern retail platforms and solutions. In this role, you will partner with senior engineers, architects, product teams, and technical leaders to deliver high-quality software that meets client and business objectives. You will participate in both Discovery and Delivery activities within a Dual-Track Agile environment, helping validate concepts, implement fe\u2026",
+        "created": "2026-11-20T21:36:12Z",
+        "company": {
+          "display_name": "TGCS",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973415294?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDE1Mjk0In0.ul0vP5amb89Z3xFP1F4bI0iRzneihYNmHq_Lcd5AXZM",
+        "salary_is_predicted": "1",
+        "contract_time": "full_time",
+        "contract_type": "permanent",
+        "title": "AI Architect (GenAI / MLOps)",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "North Carolina",
+            "Mecklenburg County",
+            "Newell"
+          ],
+          "display_name": "Newell, Mecklenburg County"
+        },
+        "longitude": -80.740913,
+        "latitude": 35.320054,
+        "created": "2026-11-20T21:36:10Z",
+        "description": "Job Title: AI Architect (GenAI / MLOps) Position Overview Turning promising AI ideas into production systems that are secure, compliant, and built to scale is the hard part of enterprise AI. This role sits at the center of that work. You\u2019ll own the architecture for enterprise AI and GenAI solutions end to end, from data foundations and model selection through deployment, governance, and monitoring. You\u2019ll work closely with business, data, engineering, and risk teams, and you\u2019ll advise executive\u2026",
+        "id": "5973415294",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HTC Global Services Inc"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 137844.48,
+        "salary_min": 137844.48
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "SynergisticIT"
+        },
+        "description": "Done With Staffing Runarounds: Jobs Without the Bench Story Marketing Your Resume Should Not Mean Sitting on a Bench You talked to consulting and staffing firms that promised interviews, asked you to inflate a resume, or left you waiting. Some offered contract roles that reset every few months. You wanted a full-time Java developer job. You got process. SynergisticIT contrasts JOPP with staffing companies that offer placement support without the upskilling, interview engine, and outcome model J\u2026",
+        "id": "5973415247",
+        "created": "2026-11-20T21:36:09Z",
+        "salary_max": 136000,
+        "salary_min": 82000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973415247?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDE1MjQ3In0.IXw_sJhCrt-M1_6G8GfoyXsaPgxFF3YdySxb2NLHlto",
+        "longitude": -71.0691,
+        "latitude": 42.3575,
+        "location": {
+          "display_name": "Boston, Suffolk County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Massachusetts",
+            "Suffolk County",
+            "Boston"
+          ]
+        },
+        "contract_type": "contract",
+        "title": "Junior Java Developer (Docker)/Junior Data Scientist \u2013 Remote"
+      },
+      {
+        "longitude": -74.40612,
+        "latitude": 40.86204,
+        "location": {
+          "display_name": "Parsippany Troy Hills, Morris County",
+          "area": [
+            "US",
+            "New Jersey",
+            "Morris County",
+            "Parsippany Troy Hills"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "title": "Associate Systems Test Engineer",
+        "contract_time": "full_time",
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDE1MjA0In0.NsMfgLLz3cnrwQkrT1yVWXNsYUarIZkwXT9LlJbWpxY",
+        "redirect_url": "https://www.adzuna.com/details/5973415204?utm_medium=api&utm_source=d30dc240",
+        "salary_min": 83595.59,
+        "salary_max": 83595.59,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "company": {
+          "display_name": "Canfield Scientific, Inc.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5973415204",
+        "description": "We are looking for an Associate Systems Test Engineer to complete software application testing used across our commercial applications. The ideal candidate will be detail oriented, have a strong understanding of the software testing life cycle, and work with multiple applications and projects. The right candidate is one who performs productively in a fast-paced work environment, works efficiently on multiple projects simultaneously, possesses strong communication skills, and has a proven track \u2026",
+        "created": "2026-11-20T21:36:08Z"
+      },
+      {
+        "created": "2026-11-20T21:36:07Z",
+        "id": "5973415161",
+        "description": "The Degree Was Enough to Apply. Not Enough to Get Hired. You finished a computer science, IT, or engineering degree and expected recruiters to call. Instead, applications sit in ATS queues, \"entry-level\u201d Java jobs ask for two years of Spring Boot, and campus career services send generic resume tips. That is not a personal failure. Employers hire people who can talk through production-style Java work, not people who only completed coursework. What Recent Graduates Actually Need Employers screeni\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "SynergisticIT"
+        },
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 82000,
+        "salary_max": 136000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDE1MTYxIn0.aN0sfht8-5KWYsd14SsrgtXFMhiZuDowpcmQMczttEY",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.com/details/5973415161?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "title": "Junior Java Developer/Junior Generative AI Engineer \u2013 Remote",
+        "location": {
+          "display_name": "San Jose, Santa Clara County",
+          "area": [
+            "US",
+            "California",
+            "Santa Clara County",
+            "San Jose"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": -121.889295,
+        "latitude": 37.333698
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Staff Experts"
+        },
+        "description": "Staff Experts, LLC is a highly specialized full-service Staffing & Recruiting Firm. We specialize in staffing in the areas of Engineering, Construction Management, Manufacturing, Information Technology, Aerospace & Defense, Administrative-Accounting-Finance, Call Center Operations, Life Sciences, Healthcare, Skilled Trades and Logistics. Staff Experts, LLC is currently seeking to fill a Direct Hire Quality Manager position. If you are interested, please email us your resume and call 602-666-650\u2026",
+        "id": "5973415108",
+        "redirect_url": "https://www.adzuna.com/details/5973415108?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNTEwOCIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.mt4Bg36tCr_mRCffBwF6onk-tTFZ4cLSZsTNMfDIfuY",
+        "created": "2026-11-20T21:36:05Z",
+        "salary_max": 80000,
+        "latitude": 33.331208,
+        "longitude": -111.988084,
+        "salary_min": 70000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Arizona",
+            "Maricopa County",
+            "Guadalupe"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Guadalupe, Maricopa County"
+        },
+        "title": "Quality Manager",
+        "category": {
+          "tag": "engineering-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Engineering Jobs"
+        }
+      },
+      {
+        "latitude": 40.721832,
+        "longitude": -74.0447,
+        "contract_type": "contract",
+        "title": "Release Train Engineer (RTE) / Agile Coach",
+        "location": {
+          "display_name": "Jersey City, Hudson County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "New Jersey",
+            "Hudson County",
+            "Jersey City"
+          ]
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973415033?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDE1MDMzIn0.MeylaaLUiukfyaxtxlGh8hHf5xmtv9IhDVa3rHyWRJs",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 208000,
+        "salary_min": 197600,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Collabera"
+        },
+        "created": "2026-11-20T21:36:04Z",
+        "description": "Release Train Engineer (RTE) / Agile Coach Job Posting ID: Release Train Engineer/Agile coach Location: Jersey City, NJ 07310 Contract Duration: 12- 18 months Expected Pay: $95/hr - $100/hr Client: Banking/FinTech Position Overview We are seeking an experienced Release Train Engineer (RTE) / Agile Coach to serve as a servant leader and chief coordinator for an Agile Release Train. This individual will partner closely with Product Management, Product Owners, Scrum Masters, Delivery Leads, Engine\u2026",
+        "id": "5973415033"
+      },
+      {
+        "latitude": 39.95278,
+        "longitude": -75.17415,
+        "title": "Entry Level Software Engineer / Deep Learning Engineer (Remote)",
+        "location": {
+          "display_name": "Middle West, Philadelphia County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Pennsylvania",
+            "Philadelphia County",
+            "Middle West"
+          ]
+        },
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973415004?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNTAwNCIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.7be2_WBdTM6a_0XtQTcW6-9ZCr43WVPCZcRIFKla45I",
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 142000,
+        "salary_min": 82000,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "company": {
+          "display_name": "SynergisticIT",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:36:03Z",
+        "description": "Three Hundred  Applications, Zero Recruiter Calls Volume Is Not a Strategy When Nobody Opens the Resume You track applications in a spreadsheet. The number looks impressive. The callback count is zero. ATS filters, keyword mismatches, and sourcers who never see your name are not mysteries. They are the default. If you cannot get Java interviews, the market is not \"ignoring talent.\u201d It is ignoring an unmarketed, unproven profile. SynergisticIT exists for jobseekers who cannot break the first-rou\u2026",
+        "id": "5973415004"
+      },
+      {
+        "contract_time": "full_time",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNDg4NSIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.iZrkXFcJ_1oBieCHHpcBY64w7W4q1JkH5-YSq0YFKMM",
+        "redirect_url": "https://www.adzuna.com/details/5973414885?utm_medium=api&utm_source=d30dc240",
+        "longitude": -87.6436,
+        "latitude": 41.8834,
+        "title": "Project Manager IT",
+        "location": {
+          "display_name": "West Loop, Chicago",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Illinois",
+            "Cook County",
+            "Chicago",
+            "West Loop"
+          ]
+        },
+        "company": {
+          "display_name": "Aditi Consulting",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:36:01Z",
+        "id": "5973414885",
+        "description": "Payrate: $50.00 - $56.00/hr Summary: The role supports highly visible In-Cab AI Assistant Program, an AI-enabled solution designed to deliver operator coaching, safety guidance, onboarding assistance, and real-time support directly within heavy machines. The program is now in the execution and launch phase. This is a dedicated PMO-focused role supporting one specific program within company's portfolio, requiring strong coordination across product, engineering, software, hardware, dealers, and b\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 104000,
+        "salary_max": 116480,
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "id": "5973414872",
+        "description": "Project Description- We are seeking a highly skilled and experienced Senior Software Engineer to join our dynamic team. The ideal candidate will have extensive experience in Salesforce development and a strong understanding of the Salesforce platform. As a Senior Software Engineer, you will be responsible for designing, developing, and implementing high-quality solutions on the Salesforce platform. You will work closely with stakeholders to understand business requirements and translate them in\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDE0ODcyIn0.szRaQT93i54lM41hi9zWx6eftLYfsC3N-M6YT3GQKv8",
+        "salary_is_predicted": "0",
+        "created": "2026-11-20T21:36:00Z",
+        "redirect_url": "https://www.adzuna.com/details/5973414872?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "display_name": "Trail Blazer IT Consulting",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "location": {
+          "display_name": "Walnut Creek, Contra Costa County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "California",
+            "Contra Costa County",
+            "Walnut Creek"
+          ]
+        },
+        "title": "Senior Salesforce Engineer",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "longitude": -122.0667,
+        "latitude": 37.865566,
+        "salary_min": 135200,
+        "salary_max": 141440,
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "id": "5973414696",
+        "description": "Job Title -Senior Software Engineer (Azure, C#/.NET & React) Position Overview Work on sophisticated software solutions spanning on-premises, hybrid, and cloud environments, leveraging Microsoft Azure, C#/.NET, and React. This role offers the opportunity to develop scalable applications, build APIs and microservices, contribute to cloud architecture, and support application modernization and cloud migration initiatives. The ideal candidate brings strong hands-on software engineering experience,\u2026",
+        "created": "2026-11-20T21:35:56Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HTC Global Services Inc"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "salary_min": 186779.64,
+        "salary_max": 186779.64,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNDY5NiIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.hQPox9klvloShGuA6Mm6eTwNbC7ke369ghPQiLT25g8",
+        "redirect_url": "https://www.adzuna.com/details/5973414696?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "California",
+            "Sacramento County",
+            "Sacramento"
+          ],
+          "display_name": "Sacramento, Sacramento County"
+        },
+        "contract_type": "permanent",
+        "title": "SE3 - Azure Engineer with C# and T-SQL",
+        "latitude": 38.571652,
+        "longitude": -121.465873
+      },
+      {
+        "description": "Genesis10 is currently seeking a Junior Generative AI Engineer - Remote position with a Global Law Firm located in New York, NY. This is a direct hire opportunity. You will join an internal AI Acceleration Team building bespoke AI solutions for legal work, drawing on software engineering, data science, and deep domain expertise. In this role, you will help prototype, build, test, and deploy LLM-powered products that extract intelligence from complex legal documents. This is a tight-knit, remote\u2026",
+        "id": "5973414606",
+        "created": "2026-11-20T21:35:53Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Genesis10"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_max": 160000,
+        "salary_min": 120000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973414606?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDE0NjA2In0.bHEH8qlbL7oh8eF7Hqs9D3FbVgz_haCFJHipJll20BA",
+        "contract_time": "full_time",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "New York",
+            "New York City",
+            "Manhattan",
+            "Peck Slip"
+          ],
+          "display_name": "Peck Slip, Manhattan"
+        },
+        "contract_type": "permanent",
+        "title": "Junior Generative AI Engineer - Remote",
+        "longitude": -74.00327,
+        "latitude": 40.70774
+      },
+      {
+        "salary_max": 100000,
+        "latitude": 38.300403,
+        "longitude": -76.507454,
+        "salary_min": 73160,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Maryland",
+            "St. Mary's County",
+            "California"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "California, St. Mary's County"
+        },
+        "title": "Junior NextGen Developer",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "DCS Corp"
+        },
+        "description": "DCS is seeking an experienced Junior Developer to join its teams developing exciting and modern Navy next-generation mission planning software on an Agile/SAFe team. This position can be performed 100% remote within Eastern Standard or Central Standard time zones. Essential Job Functions: Contribute to software development as part of a team contributing to a multi-team, multi-organization enterprise using Scaled Agile Framework (SAFe). Take ownership of and responsibility for software products \u2026",
+        "id": "5973414537",
+        "redirect_url": "https://www.adzuna.com/details/5973414537?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDE0NTM3In0.FqOWbfL8csAcbSqkyGCvJ05dIFPJEAqLIAZ4muQVWPQ",
+        "created": "2026-11-20T21:35:52Z"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "DCS Corp"
+        },
+        "id": "5973414504",
+        "description": "Salary: $73,160 - $100,000 DCS is looking for a Software Developer to join our team supporting the NAVY Test Wing Atlantic. Software development is performed within a Scaled Agile Framework (SAFe) team. Mission planning software is migrating from a federated app (standalone executable) to a cloud-based service developed and maintained in Amazon Web Services (AWS) utilizing the Atlassian tool suite. Duties will include requirements analysis, design, development, test and deployment of software t\u2026",
+        "salary_is_predicted": "0",
+        "created": "2026-11-20T21:35:51Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNDUwNCIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.2kHMP4OYbJAWZPJEOj6D7hRAx0PQHB1DZyoTl3cYvBE",
+        "redirect_url": "https://www.adzuna.com/details/5973414504?utm_medium=api&utm_source=d30dc240",
+        "longitude": -76.711777,
+        "salary_min": 73160,
+        "latitude": 38.814273,
+        "salary_max": 100000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Maryland",
+            "Prince George's County",
+            "Patuxent River"
+          ],
+          "display_name": "Patuxent River, Prince George's County"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "WEP Computer Scientist - Dev"
+      },
+      {
+        "created": "2026-11-20T21:35:50Z",
+        "description": "Description Must-Have Skills (Final) Core Engineering C++ (modern C++) 5-8 years of experience Developed and maintained enterprise Windows applications using Modern C++ (C++11/14/17). Designed and maintained large-scale C++ enterprise services supporting risk assessment, identity verification, and data processing workflows. Built supporting utilities, test tools, and automation scripts in C++, Python.",
+        "id": "5973414458",
+        "company": {
+          "display_name": "Drevol",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 68874.9,
+        "salary_min": 68874.9,
+        "redirect_url": "https://www.adzuna.com/details/5973414458?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNDQ1OCIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.gsBZbUFrhW7aPwxkCgU2kTGTnZdbuCVbpkUexyAzu_g",
+        "contract_time": "full_time",
+        "title": "Sr. Software Engineer (C++)",
+        "location": {
+          "display_name": "Coppell, Dallas",
+          "area": [
+            "US",
+            "Texas",
+            "Dallas",
+            "Coppell"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": -96.959684,
+        "latitude": 32.926746
+      },
+      {
+        "contract_time": "full_time",
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDE0MzU2In0.vL8vNv4T_FciDhMyxxsZDPCMbN8OmLdUtvOG1whfy98",
+        "redirect_url": "https://www.adzuna.com/details/5973414356?utm_medium=api&utm_source=d30dc240",
+        "longitude": -88.95306,
+        "latitude": 40.47837,
+        "title": "Software Engineer - Full Stack",
+        "contract_type": "permanent",
+        "location": {
+          "area": [
+            "US",
+            "Illinois",
+            "McLean County",
+            "Bloomington"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Bloomington, McLean County"
+        },
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HTC Global Services Inc"
+        },
+        "created": "2026-11-20T21:35:47Z",
+        "id": "5973414356",
+        "description": "Job Title: Software Engineer \u2013 Scala, AWS & Data Pipelines Position Overview Work on enterprise application modernization initiatives involving cloud-native development, scalable data processing, and API engineering. This role offers an opportunity to develop and enhance enterprise applications and data pipelines, improve data accessibility, and support the transition of existing technologies to modern programming platforms while maintaining critical business operations. The ideal candidate bri\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 101023.41,
+        "salary_max": 101023.41,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        }
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas",
+            "Harris County",
+            "Katy"
+          ],
+          "display_name": "Katy, Harris County"
+        },
+        "title": "IT SOFTWARE ENGINEER",
+        "longitude": -95.802207,
+        "latitude": 29.735999,
+        "redirect_url": "https://www.adzuna.com/details/5973414287?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDE0Mjg3In0.bxSne-nKTJRjVL0aD3c4g5C6qIIG_xwbLW5xgVgtNPY",
+        "contract_time": "full_time",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_max": 158458.88,
+        "salary_min": 158458.88,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "IT SOFTWARE ENGINEER (Katy, Tx) Dsgn, dvlop, & maintain custom web apps & internal tools that spport the firm\u2019s engineering prjcts & day-to-day operations, inclding prjct dashboards & document mnagmnt systems. Help Installing, configuring, & maintaining the firm\u2019s IT infrastructure, including servers, networks, & software apps. Prvide tech spport & troubleshoot sftware issues, implementing updates & security measures to protect company data & ensure reliable operation of internal systems as wel\u2026",
+        "id": "5973414287",
+        "created": "2026-11-20T21:35:45Z",
+        "company": {
+          "display_name": "FIF Engineering LLC.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "description": "Salary: $90,220 - $200,000 DCS is seeking a Senior Software Engineer to join its teams developing and modernizing Air Force and Navy mission planning software on an Agile/SAFe team. This position can be performed 100% remote within Eastern Standard or Central Standard time zones. Essential Job Functions: Contribute to software development as part of a team contributing to a multi-team, multi-organization enterprise using Scaled Agile Framework (SAFe). Take ownership of and responsibility for so\u2026",
+        "id": "5973414136",
+        "redirect_url": "https://www.adzuna.com/details/5973414136?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNDEzNiIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.olu7FlHs2-F4IV3uAJh2B123uyrmQugd2IyAQrY-ajM",
+        "salary_is_predicted": "0",
+        "created": "2026-11-20T21:35:42Z",
+        "company": {
+          "display_name": "DCS Corp",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Maryland",
+            "St. Mary's County",
+            "California"
+          ],
+          "display_name": "California, St. Mary's County"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "title": "Senior Software Engineer",
+        "salary_max": 200000,
+        "latitude": 38.300403,
+        "longitude": -76.507454,
+        "salary_min": 90220,
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973414022?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "0",
+        "created": "2026-11-20T21:35:39Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNDAyMiIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.tY6rw6vF6qIDwRAiXO0GVvZdAKcrL7o33Lfpm2h4oDo",
+        "description": "JOB TITLE: Software Engineer JOB LOCATION: Burlington, MA WAGE RANGE*: 80 - 87/ hour Must be W2 JOB NUMBER: 241571 JOB DESCRIPTION: Hands-on experience with AWS/Azure/GCP deploying, monitoring and maintaining apps through Infrastructure as Code. Platform: Python3, JDK 25, Springboot4, NodeJS Runtime: Kubernetes, Docker Database: Postgres, MongoDB Cloud services: Storage, Compute, Database Kafka, Kubernetes, Serverless functions Azure AI Foundry AWS Bedrock, AgentCore Agentic AI: Langchain, Lang\u2026",
+        "id": "5973414022",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "The Computer Merchant, Ltd"
+        },
+        "title": "Software Engineer",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "location": {
+          "area": [
+            "US",
+            "Massachusetts",
+            "Middlesex County",
+            "Burlington"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Burlington, Middlesex County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 180960,
+        "latitude": 42.50848,
+        "longitude": -71.201131,
+        "salary_min": 166400
+      },
+      {
+        "latitude": 41.148057,
+        "longitude": -81.519648,
+        "salary_min": 103576.94,
+        "salary_max": 103576.94,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Ohio",
+            "Cuyahoga County",
+            "Munson"
+          ],
+          "display_name": "Munson, Cuyahoga County"
+        },
+        "title": "Mechanical Engineer 4",
+        "category": {
+          "label": "Engineering Jobs",
+          "tag": "engineering-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "company": {
+          "display_name": "The Steelastic Company, LLC",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5973413965",
+        "description": "THE COMPANY: For over 50 years, Steelastic, based in Cuyahoga Falls, Northeast Ohio, is a leading manufacturer and innovator of specialist capital equipment to service the needs of the global tire industry. We have over 900 systems operating in more than 55 countries around the world. Our customers include all the multinational tire companies, and most of the top independent tire companies in the world. We pride ourselves on being customer focused, market driven with a culture that encourages c\u2026",
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMzk2NSIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.NInCCSr62Ac69-k3GmHt2zO41DJbjxfonGiM4ht93Lo",
+        "created": "2026-11-20T21:35:38Z",
+        "redirect_url": "https://www.adzuna.com/details/5973413965?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 151840,
+        "latitude": 38.97,
+        "longitude": -77.23,
+        "salary_min": 135200,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "title": "AI Engineer",
+        "location": {
+          "display_name": "Mc Lean, Fairfax County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Virginia",
+            "Fairfax County",
+            "Mc Lean"
+          ]
+        },
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Collabera"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973413672?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMzY3MiIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.zOd_HmlzMNBPqVwoqpuhn2EPJAvovco69TUDhw-d2IY",
+        "salary_is_predicted": "0",
+        "created": "2026-11-20T21:35:35Z",
+        "description": "Position: Spec-Driven AI Development Engineer Client: Mortgage client Location: McLean, VA (Hybrid ) Interview Process: 2 rounds, including an onsite second round with a live coding assessment. Rate: $65- $75 Role Overview: Client is looking for a hands-on AI Development Engineer with strong experience in spec-driven development, agentic AI and production-level software engineering. The role involves taking business use cases from initial requirements through technical specifications, AI-driven\u2026",
+        "id": "5973413672"
+      },
+      {
+        "id": "5973413549",
+        "description": "Job Purpose Designs, analyzes, evaluates, and validates products and subsystems for performance/reliability improvement and cost reduction. Supports manufacturing and field service for new and existing components and designs. Designs and supports manufacturing solutions and collaborates with other supporting groups to rapidly develop new applications for a wide range of various maintenance of way hydraulic and mechanical systems. Utilizes engineering methodologies, principles, and tools to deve\u2026",
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDEzNTQ5In0.WbPg3qGfFSpeGk-h0sTl75KhTjBHRNgEK4MDlsqivxU",
+        "created": "2026-11-20T21:35:33Z",
+        "redirect_url": "https://www.adzuna.com/details/5973413549?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Kershaw Equipment L.L.C."
+        },
+        "location": {
+          "display_name": "Mount Meigs, Montgomery County",
+          "area": [
+            "US",
+            "Alabama",
+            "Montgomery County",
+            "Mount Meigs"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "title": "Engineer II",
+        "category": {
+          "label": "Engineering Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "engineering-jobs"
+        },
+        "latitude": 32.366327,
+        "longitude": -86.170647,
+        "salary_min": 80797.45,
+        "salary_max": 80797.45,
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "created": "2026-11-20T21:35:30Z",
+        "id": "5973413243",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HII's Mission Technologies division"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 45760,
+        "salary_max": 66560,
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMzI0MyIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.Y07LKj60k24ZeeLqMg6gCzOLD0v4l7p936Dgw5qYs2Q",
+        "redirect_url": "https://www.adzuna.com/details/5973413243?utm_medium=api&utm_source=d30dc240",
+        "contract_type": "contract",
+        "title": "Summer 2027 Internship - DevOps Engineer (Hybrid) - 30230",
+        "location": {
+          "display_name": "Columbia, Howard County",
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": -76.883626,
+        "latitude": 39.206658
+      },
+      {
+        "title": "Senior Principal Software Engineer",
+        "location": {
+          "display_name": "Fredon, Sussex County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "New Jersey",
+            "Sussex County",
+            "Fredon"
+          ]
+        },
+        "longitude": -74.783978,
+        "latitude": 41.057564,
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDEyOTYzIn0.wRiM1JQ6R2GTExpusFDwvDofns1tlGiu6YJqEYd4ugI",
+        "redirect_url": "https://www.adzuna.com/details/5973412963?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 132400,
+        "salary_max": 251600,
+        "created": "2026-11-20T21:35:26Z",
+        "id": "5973412963",
+        "description": "Some of our competitive benefits package includes: Medical, dental, and vision insurance Three weeks of vacation for newly hired employees Generous 401(k) plan that includes employer matching funds and separate employer retirement contribution, including a Lifetime Income Strategy option Tuition reimbursement program Student Loan Repayment Program Life insurance and disability coverage Optional coverages you can buy pet insurance, home and auto insurance, additional life and accident insurance,\u2026",
+        "company": {
+          "display_name": "Radiant Infotech",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "title": "Business Analyst",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Massachusetts",
+            "Middlesex County",
+            "Burlington"
+          ],
+          "display_name": "Burlington, Middlesex County"
+        },
+        "longitude": -71.201131,
+        "latitude": 42.50848,
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDEyODc1In0.bv4P6e8nedQCKTVQL9CAKVWF3Utnfw4l3PfGNKdEjDg",
+        "redirect_url": "https://www.adzuna.com/details/5973412875?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 135200,
+        "salary_max": 145600,
+        "created": "2026-11-20T21:35:25Z",
+        "id": "5973412875",
+        "description": "Payrate: $65.00 - $70.00/hr Required Skills: Strong communication, presentation, and interpersonal skills. Strong technical aptitude with the ability to collaborate effectively with software engineering teams. Strong analytical and problem-solving skills, including the ability to reconcile conflicting requirements and data sources. Advanced writing skills with the ability to abstract and summarize highly detailed technical and business information. Ability to translate business needs into detai\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Aditi Consulting"
+        }
+      },
+      {
+        "company": {
+          "display_name": "BC Forward",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:35:24Z",
+        "description": "Job Title: Full Stack Software Engineer - CMS Location: Columbus, OH Duration: Contract - 6 months with opportunity to convert to FTE Pay Range: $72 - $80/hr on W2 About BCforward BCforward is a leading global IT consulting and workforce solutions firm providing services and support to Fortune 500 and government clients. Founded in 1998, BCforward has grown with our customers needs into a full-service business solutions provider. With delivery centers and offices across North America and India,\u2026",
+        "id": "5973412788",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 158080,
+        "salary_min": 156000,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973412788?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDEyNzg4In0.hEvoLxOOF2Tik_S5UoKhSy9SRNBpWgfFqVrYoQwFnSs",
+        "salary_is_predicted": "0",
+        "longitude": -83.020025,
+        "latitude": 40.103832,
+        "title": "Java Full Stack Software Engineer - CMS",
+        "location": {
+          "area": [
+            "US",
+            "Ohio",
+            "Franklin County",
+            "Columbus"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Columbus, Franklin County"
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 127599.27,
+        "salary_min": 127599.27,
+        "longitude": -111.898592,
+        "latitude": 40.756393,
+        "title": "Lead Software Engineer",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "location": {
+          "display_name": "Salt Lake City, Salt Lake County",
+          "area": [
+            "US",
+            "Utah",
+            "Salt Lake County",
+            "Salt Lake City"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "company": {
+          "display_name": "AAPC",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973412784?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "1",
+        "created": "2026-11-20T21:35:24Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDEyNzg0In0.Jvlv-NUvKazVg7jtVZVoJ2FMJdduPS7ELebObVzuTlU",
+        "description": "This is a remote position The Opportunity AAPC seeks a distinctive type of software engineer: someone who blends strong technical skills with curiosity, initiative, product insight, and a rare passion for delivering value. You will join an engineering team in AAPC\u2019s Technology and Engineering organization that is focused on the marketing domain: our website, digital products, e-commerce, and the systems that take people from discovery through membership, certification, and renewal. You will wor\u2026",
+        "id": "5973412784"
+      },
+      {
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMjY1MiIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.v5FBMehUFE7nXvzr69eV1Wm7E-NBrQRVghatNf5Uhlg",
+        "redirect_url": "https://www.adzuna.com/details/5973412652?utm_medium=api&utm_source=d30dc240",
+        "contract_type": "permanent",
+        "title": "Tool & Die Engineering Supervisor",
+        "location": {
+          "display_name": "Durham, Middlesex County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Connecticut",
+            "Middlesex County",
+            "Durham"
+          ]
+        },
+        "latitude": 41.481782,
+        "longitude": -72.681258,
+        "created": "2026-11-20T21:35:21Z",
+        "id": "5973412652",
+        "description": "Tool & Die Engineering Supervisor Location: Middlesex County, CT Salary: $90,000-$110,000 Join an innovative manufacturer driving excellence in industrial packaging and storage solutions. Lead a skilled Tool & Die team while making a direct impact on manufacturing performance, automation initiatives, and continuous improvement in a collaborative, growth-focused environment. Job Duties & Responsibilities * Supervise the Tool & Die Department, providing leadership, coaching, scheduling, and overs\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Synerfac Technical Staffing"
+        },
+        "category": {
+          "label": "Engineering Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "engineering-jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 90000,
+        "salary_max": 110000
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973412614?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDEyNjE0In0.1-o85rlrHNb3c2Ph2_SRZeA9ljJSGBMsEnTY3f__LZc",
+        "contract_time": "full_time",
+        "title": "Mid-Level Software Engineer - Hybrid",
+        "contract_type": "contract",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "New Jersey",
+            "Hudson County",
+            "Meadows"
+          ],
+          "display_name": "Meadows, Hudson County"
+        },
+        "longitude": -73.985971,
+        "latitude": 40.765153,
+        "created": "2026-11-20T21:35:20Z",
+        "description": "Genesis10 is currently seeking a Mid-Level Software Engineer for a hybrid position (4 days/week onsite) with a Leading Global Alternative Asset Manager located in New York, NY. This is a 12 month contract opportunity. Compensation: $70.00 - $85.00 per hour, W2, based on qualifications Position Overview: This role is part of the Trading Technology team supporting the trading platform. These engineers will work embedded within an existing squad focused on building out the new order blotter, pre-t\u2026",
+        "id": "5973412614",
+        "company": {
+          "display_name": "Genesis10",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 176800,
+        "salary_min": 145600
+      },
+      {
+        "title": "Sr Java AWS Engineer/Open Banking SME",
+        "location": {
+          "display_name": "Minneapolis, Hennepin County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Minnesota",
+            "Hennepin County",
+            "Minneapolis"
+          ]
+        },
+        "longitude": -93.269357,
+        "latitude": 44.983654,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMjYwMiIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.3tpr53cc7Kot6hVxcbxLN_tdvSr2M8ahefCTp-o2v4U",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.com/details/5973412602?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 110000,
+        "salary_max": 120000,
+        "created": "2026-11-20T21:35:20Z",
+        "id": "5973412602",
+        "description": "Why Zensar? We\u2019re a bunch of hardworking, fun-loving, people-oriented technology enthusiasts. We love what we do, and we\u2019re passionate about helping our clients thrive in an increasingly complex digital world. Zensar is an organization focused on building relationships with our clients and with each other\u2014and happiness is at the core of everything we do. In fact, we\u2019re so into happiness that we\u2019ve created a Global Happiness Council, and we send out a Happiness Survey to our employees each year.\u2026",
+        "company": {
+          "display_name": "Zensar Technologies",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "longitude": -71.066119,
+        "latitude": 42.354856,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Massachusetts",
+            "Suffolk County",
+            "Boston"
+          ],
+          "display_name": "Boston, Suffolk County"
+        },
+        "title": "Principal Software Engineer",
+        "contract_time": "full_time",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMjUxOSIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.xJBk3Ym7Ys2ooWtSu-tzp9J-8p5frY9cLM6FD58K-MI",
+        "redirect_url": "https://www.adzuna.com/details/5973412519?utm_medium=api&utm_source=d30dc240",
+        "salary_min": 107500,
+        "salary_max": 204500,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "company": {
+          "display_name": "Radiant Infotech",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5973412519",
+        "description": "Qualifications You Must Have Experience in Software Engineering to include experience working various phases of the software development lifecycle Experience with Software Development Using C++ Experience with real-time operating systems (RTOS), embedded programming, processor/board architecture and design Working knowledge of Linux, VxWorks or other Real time operating systems Experience working in a collaborative team environment that requires communication with other engineering disciplines,\u2026",
+        "created": "2026-11-20T21:35:18Z"
+      },
+      {
+        "title": "Materials Planning",
+        "location": {
+          "area": [
+            "US",
+            "South Carolina",
+            "Spartanburg County",
+            "Duncan"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Duncan, Spartanburg County"
+        },
+        "longitude": -82.120389,
+        "latitude": 34.908052,
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDEyNTI4In0.I0raCXp73WL4G-r4Su52Vs_bMwXUYuZ6b0eamzBFKio",
+        "redirect_url": "https://www.adzuna.com/details/5973412528?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "engineering-jobs",
+          "label": "Engineering Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 52000,
+        "salary_max": 52000,
+        "created": "2026-11-20T21:35:18Z",
+        "id": "5973412528",
+        "description": "Payrate: $25.00 - $25.00/hr. Summary: The Work Order Packet Coordinator is responsible for creating, maintaining, and distributing accurate manufacturing work order packets for production operations. This role ensures that all required documentation is current, complete, and available before production begins. The position works closely with Planning, Engineering, Quality, and Manufacturing teams to ensure compliance with company procedures, document control requirements, and production schedul\u2026",
+        "company": {
+          "display_name": "Aditi Consulting",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "location": {
+          "area": [
+            "US",
+            "Arizona",
+            "Maricopa County",
+            "Mesa"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Mesa, Maricopa County"
+        },
+        "contract_type": "permanent",
+        "title": "Applications Engineer",
+        "longitude": -111.844935,
+        "latitude": 33.432953,
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMjM3NSIsInMiOiJsT2k4aTFmbDhSR0sxSm96cHZfV3RBIn0.4E5jXNKoKkyG6V2up0xCwkTrXnwyU5BscVHbWoHbwQA",
+        "redirect_url": "https://www.adzuna.com/details/5973412375?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "category": {
+          "label": "Engineering Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "engineering-jobs"
+        },
+        "salary_min": 91945.06,
+        "salary_max": 91945.06,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973412375",
+        "description": "Applications Engineering acts as the bridge between our customers' visions and our internal expertise, transforming ideas into reality while championing the capabilities of our design and manufacturing teams; including research and procurement of technology supporting operational excellence. We work on next-generation systems developing solutions for some of the most advanced engineering groups in the industry while building relationships with internal and external stakeholders. Essential Dutie\u2026",
+        "created": "2026-11-20T21:35:15Z",
+        "company": {
+          "display_name": "Amphenol Borisch Technologies",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "id": "5973412353",
+        "description": "Electrical Engineering Manager, Burlington, MA area US Citizenship is required, no sponsorship possible for this position. Background check and drug test are required. Position Summary The Electrical Engineering Manager will lead the electrical engineering team in designing and developing advanced control solutions our client's vacuum robots and electromechanical systems. This role combines technical leadership, project management, and team development to deliver innovative, reliable products o\u2026",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoibE9pOGkxZmw4UkdLMUpvenB2X1d0QSIsImkiOiI1OTczNDEyMzUzIn0.F19jMcu9LZhZZEyAopGeH68PYXjtwBcUN5MOIQKyyRg",
+        "created": "2026-11-20T21:35:14Z",
+        "redirect_url": "https://www.adzuna.com/details/5973412353?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "GCR Professional Services"
+        },
+        "location": {
+          "display_name": "Burlington, Middlesex County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Massachusetts",
+            "Middlesex County",
+            "Burlington"
+          ]
+        },
+        "category": {
+          "tag": "engineering-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Engineering Jobs"
+        },
+        "title": "Electrical Engineering Manager",
+        "latitude": 42.504716,
+        "longitude": -71.195621,
+        "salary_min": 165000,
+        "salary_max": 175000,
+        "__CLASS__": "Adzuna::API::Response::Job"
+      }
+    ],
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults"
+  }
+}

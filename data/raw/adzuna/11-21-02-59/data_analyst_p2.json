@@ -1,0 +1,1674 @@
+{
+  "search_term": "data analyst",
+  "fetched_at": "11-21-02-59",
+  "response": {
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "count": 14544,
+    "mean": 118128.74,
+    "results": [
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973402385?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 76960,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs"
+        },
+        "longitude": -77.02188,
+        "id": "5973402385",
+        "title": "Treasury Analyst/ Financial data",
+        "latitude": 38.87532,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Greetings from BizTech Fusion! We are seeking for a Treasury Analyst who will play a key role in managing cash flow, investments, and financial reporting. This position involves a variety of analytical, reporting, and administrative duties to ensure effective cash management and financial operations. The Treasury Analyst will support senior leadership with critical financial data, manage treasury-related databases, and contribute to the development and maintenance of financial policies and proc\u2026",
+        "salary_min": 62400,
+        "company": {
+          "display_name": "BizTech Fusion LLC",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:32:09Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDAyMzg1In0.KYt2Bok1rF3bhvPyH6vz1Qn2oju5hZXyetQlD17UNbM",
+        "location": {
+          "display_name": "Crystal, Arlington County",
+          "area": [
+            "US",
+            "Virginia",
+            "Arlington County",
+            "Crystal"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwMjE2NyIsInMiOiI2SUltazFmbDhSR0ItYkRJeTVkRGdRIn0.RtD4i02_ZB37wl3u1TOVwpJCw9_cnu3-1na58-lZjRQ",
+        "description": "Pay Range: $50.00hr - $55.00hr Job Overview: As a Consulting Data Engineer, the successful candidate will architect, build, and optimize the next generation of real-time healthcare data platforms and event-driven architectures. The candidate will play a foundational role in moving clinical, operational, and financial data away from legacy batch processing toward high-throughput, near-zero-latency streaming pipelines. In this role, the candidate will champion modern data engineering practices, d\u2026",
+        "latitude": 36.164613,
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973402167",
+        "salary_max": 114400,
+        "location": {
+          "area": [
+            "US",
+            "Tennessee",
+            "Davidson County",
+            "Nashville"
+          ],
+          "display_name": "Nashville, Davidson County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "part_time",
+        "salary_is_predicted": "0",
+        "created": "2026-11-20T21:32:06Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "CYNET SYSTEMS"
+        },
+        "salary_min": 104000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -86.777425,
+        "title": "Senior GCP Data Engineer",
+        "redirect_url": "https://www.adzuna.com/details/5973402167?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "id": "5973401657",
+        "latitude": 47.523926,
+        "salary_max": 128960,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwMTY1NyIsInMiOiI2SUltazFmbDhSR0ItYkRJeTVkRGdRIn0.tYVF2RenkTAgv2_9oPCZW02FR2qUqQyDgyXiSRd97MQ",
+        "description": "Pay Range: $57.00hr - $62.00hr Job Overview: We are seeking a highly experienced and technically proficient Senior Backend Developer specializing in Java Spring Boot and Microservices Architecture. The ideal candidate will have a strong background in the retail domain, proven leadership capabilities, and a passion for implementing best development practices across onsite-offshore teams. The candidate will participate in all aspects of the SDLC lifecycle including solution design, implementation\u2026",
+        "longitude": -122.048633,
+        "title": "Lead Java Spring Boot Backend Developer",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973401657?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:31:58Z",
+        "location": {
+          "area": [
+            "US",
+            "Washington",
+            "King County",
+            "Issaquah"
+          ],
+          "display_name": "Issaquah, King County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0",
+        "contract_time": "part_time",
+        "salary_min": 118560,
+        "company": {
+          "display_name": "CYNET SYSTEMS",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973401688",
+        "latitude": 30.271158,
+        "salary_max": 104000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwMTY4OCIsInMiOiI2SUltazFmbDhSR0ItYkRJeTVkRGdRIn0.Iq4JEQ1o5ARX1NK8FRWvOylmcqbOCH0WAskAhUdiKfI",
+        "description": "Pay Range: $45.00hr - $50.00hr Job Overview: We are seeking a highly skilled Senior Data Analyst / Business Data Consultant to partner with our Data Team. This role is pivotal in bridging business strategy with technical execution - converting complex business needs into scalable, data-driven solutions. The successful candidate will lead detailed data analysis efforts, uncover business-critical insights, and identify data use cases that drive measurable impact across the organization. This proj\u2026",
+        "longitude": -97.741701,
+        "title": "Data Analyst",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973401688?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:31:58Z",
+        "location": {
+          "display_name": "Austin, Travis County",
+          "area": [
+            "US",
+            "Texas",
+            "Travis County",
+            "Austin"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0",
+        "contract_time": "part_time",
+        "salary_min": 93600,
+        "company": {
+          "display_name": "CYNET SYSTEMS",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Cyber Operate - Cyber Detection Engineering Manager",
+        "longitude": -86.80933,
+        "redirect_url": "https://www.adzuna.com/details/5973364228?utm_medium=api&utm_source=d30dc240",
+        "location": {
+          "display_name": "Birmingham, Jefferson County",
+          "area": [
+            "US",
+            "Alabama",
+            "Jefferson County",
+            "Birmingham"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "1",
+        "contract_time": "full_time",
+        "created": "2026-11-20T20:12:02Z",
+        "contract_type": "permanent",
+        "salary_min": 430073,
+        "company": {
+          "display_name": "Deloitte",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "latitude": 33.51914,
+        "id": "5973364228",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_max": 430073,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzY0MjI4In0.E80gioo6JK3UJ65pN3V99OQWAvPVQxnRGG6Xu1rVwMM",
+        "description": "The Cyber Detection Engineering Manager leads detection engineering lifecycle management for the Security Operations Center (SOC) of a large banking client, with a specific focus on detection use cases that monitor AI systems. The role is the connective tissue between detection engineers, threat intelligence analysts, data engineers, platform teams, and business stakeholders, driving structured program delivery from detection concept through production deployment and continuous improvement. Rec\u2026"
+      },
+      {
+        "salary_max": 108758.35,
+        "redirect_url": "https://www.adzuna.com/land/ad/5973362695?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=F12F28F7356C9DC1673A4914EA972E64B5EE9BBF",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 40.75284,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "longitude": -73.97528,
+        "title": "Business Analyst",
+        "id": "5973362695",
+        "description": "Job Tittle: Business & Data Analyst Location: NYC Hybrid Duration: Long Term Contract 8\u201312 years of experience as a Business Analyst in Banking or Financial Services. Strong understanding of BCBS 239 and regulatory reporting. Experience with Data Lineage, Data Governance, and Data Mapping. Knowledge of Risk Data Aggregation and data quality concepts. Strong business requirement gathering and documentation skills. Experience working with business, technology, risk, and compliance stakeholders. K\u2026",
+        "salary_min": 108758.35,
+        "company": {
+          "display_name": "Momento USA LLC",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "1",
+        "location": {
+          "display_name": "Grand Central, Manhattan",
+          "area": [
+            "US",
+            "New York",
+            "New York City",
+            "Manhattan",
+            "Grand Central"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "created": "2026-11-20T20:11:47Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzYyNjk1In0.NP8HnE841sj9Sn2M4Q6IN76z1Bkqp_zYIney96CBmeA"
+      },
+      {
+        "company": {
+          "display_name": "Shiro Technologies",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Job Title: Programmer Analyst 5 \u2013 Data Analyst / ETL Developer Location: Lansing, MI Work Schedule: Hybrid \u2013 Tuesday & Wednesday onsite Duration: 1 Year (Extension Possible) Required Skills: 6 years of experience as a Data Analyst / ETL Developer. Strong experience with Microsoft Azure, Azure Data Factory (ADF), and Microsoft Fabric. Expertise in SQL, T-SQL, and Azure SQL Managed Instance. Experience with ETL/ELT development, data migration, mapping, profiling, and validation. Strong knowledge \u2026",
+        "salary_min": 94438.73,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM2MjY3MSIsInMiOiI2SUltazFmbDhSR0ItYkRJeTVkRGdRIn0.DQ2iM8G0t4mZpTWcAjQY9TXZFmWnRyGIwfgMOhWMJ2c",
+        "created": "2026-11-20T20:11:46Z",
+        "salary_is_predicted": "1",
+        "location": {
+          "area": [
+            "US",
+            "Michigan",
+            "Eaton County",
+            "Dimondale"
+          ],
+          "display_name": "Dimondale, Eaton County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.com/land/ad/5973362671?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=AF91E5DDB949DB4FBC21C0C1A911BEABEC928111",
+        "salary_max": 94438.73,
+        "id": "5973362671",
+        "title": "Immediate Hiring Programmer Analyst 5 \u2013 Data Analyst / ETL Developer",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -84.6228,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 42.7039
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 42.7039,
+        "title": "ETL Developer",
+        "id": "5973362178",
+        "longitude": -84.6228,
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_max": 71505.34,
+        "redirect_url": "https://www.adzuna.com/land/ad/5973362178?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=31AA0E05B90F08B362C66F477E5C7EA7EEEDD0F9",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Dimondale, Eaton County",
+          "area": [
+            "US",
+            "Michigan",
+            "Eaton County",
+            "Dimondale"
+          ]
+        },
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzYyMTc4In0.-AjIEdMHvWnJWves_e-FvPSb9EDfQ2qOxQRlaIblCIQ",
+        "created": "2026-11-20T20:11:41Z",
+        "description": "Senior Data Analyst / ETL Developer (Programmer Analyst 5) Role Overview Contract role ( Hybrid \u2014 2 days onsite/week in Lansing, MI) supporting a large-scale legacy modernization initiative to replace a 20-year-old retirement system with a modern cloud platform. Working in an Agile environment, you will architect scalable Azure data pipelines, lead on-premises-to-cloud data migrations, enforce data quality and governance, and mentor junior developers. Location & Work Setup Location: Lansing, MI\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Stellar Professionals LLC"
+        },
+        "salary_min": 71505.34
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Michigan",
+            "Eaton County",
+            "Dimondale"
+          ],
+          "display_name": "Dimondale, Eaton County"
+        },
+        "salary_is_predicted": "1",
+        "created": "2026-11-20T20:11:38Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzYxOTU0In0.iWRMLuMP8RpUDEPEklXbneJifJNO5g_1GG1cxR-192c",
+        "description": "Title: Senior Azure Data Engineer - Hybrid - In Person Interview Location: Lansing,MI Length :Long term Restriction: w2 or c2c Description:  In Person Interview  Very long term project; initial PO for 1 year and usually the project goes for 3-5 years with this customer  Hybrid2 days a week onsite Job Description As a Data Analyst / ETL Developer within the Office of Retirement Services (ORS), you will play a vital role in managing and optimizing the data infrastructure, ensuring data quality, a\u2026",
+        "company": {
+          "display_name": "MSYS Inc.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 88647.38,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 42.7039,
+        "longitude": -84.6228,
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "id": "5973361954",
+        "title": "Senior Azure Data Engineer - Hybrid - In Person Interview",
+        "salary_max": 88647.38,
+        "redirect_url": "https://www.adzuna.com/land/ad/5973361954?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=2116138A3D6C4C78439900ADF971EA05EBADDB8F"
+      },
+      {
+        "latitude": 42.7039,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "longitude": -84.6228,
+        "id": "5973361915",
+        "title": "Senior Azure Data Engineer ADF, Microsoft Fabric & SQL and ETL -Hybrid@Michigan( Local to MI)",
+        "salary_max": 93979.27,
+        "redirect_url": "https://www.adzuna.com/land/ad/5973361915?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=9C5D60223F3A2046552FE5AB098D075AD388C27C",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Dimondale, Eaton County",
+          "area": [
+            "US",
+            "Michigan",
+            "Eaton County",
+            "Dimondale"
+          ]
+        },
+        "salary_is_predicted": "1",
+        "created": "2026-11-20T20:11:38Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzYxOTE1In0.2SEbpKCOr3GlSAC114Xt8-rquCKNgcFjlBEaLAwUOJQ",
+        "salary_min": 93979.27,
+        "description": "Title : Senior Azure Data Engineer \u2013 ADF, Microsoft Fabric & SQL and ETL Interview Process : Interviews will be conducted in-person in Lansing, MI. Location: 525 West Allegan Street, Lansing, MI \u2013 48933 - Hybrid Candidates must be willing to relocate within 70-miles of Lansing, MI within the 1st week of starting this position. The State will not provide any relocation assistance with relocating, all costs incurred are the sole responsibility of the candidate. Top Skills & Years of Experience: -\u2026",
+        "company": {
+          "display_name": "HPTech Inc.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "salary_min": 53497,
+        "company": {
+          "display_name": "Public Health Foundation Enterprises, In",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "contract_type": "permanent",
+        "created": "2026-11-20T20:11:24Z",
+        "salary_is_predicted": "0",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "California",
+            "San Diego County",
+            "San Diego"
+          ],
+          "display_name": "San Diego, San Diego County"
+        },
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973361294?utm_medium=api&utm_source=d30dc240",
+        "longitude": -117.16431,
+        "title": "Data Analyst (BIDS)",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "SUMMARY The California Border Infectious Disease Surveillance (BIDS) Program focuses on enhancing surveillance, laboratory testing, and reporting of urgent and routine infectious diseases in the US border region. BIDS is a collaborative between the California Department of Public Health (CDPH) Office of Binational Border Health (OBBH), the Centers for Disease Control and Prevention (CDC), the County of San Diego Health and Human Services Agency, and the Imperial County Public Health Department.\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM2MTI5NCIsInMiOiI2SUltazFmbDhSR0ItYkRJeTVkRGdRIn0.B2YvQHS5syxkBeLDqRNuE99QoJvQQJDAdVlrE8-FX-k",
+        "salary_max": 53497,
+        "category": {
+          "tag": "scientific-qa-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Scientific & QA Jobs"
+        },
+        "id": "5973361294",
+        "latitude": 32.7211
+      },
+      {
+        "salary_max": 113988.76,
+        "latitude": 27.982689,
+        "id": "5973361274",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "description": "The Opportunity The Data Integrity Analyst (Intelligence Analyst) will support a U.S. Government mission by researching, assessing, and exploiting Publicly Available Information (PAI) and Commercially Available Information (CAI) to evaluate data sources, vendors, and associated risks. The analyst will integrate open-source and commercial data into comprehensive intelligence assessments that support operational, strategic, and acquisition decision-making. This position requires a seasoned profes\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzYxMjc0In0.kYOaorhiFbyLVarofa56e9zdeWpAkSA4G_PNwd3qcFk",
+        "redirect_url": "https://www.adzuna.com/details/5973361274?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Data Integrity Analyst",
+        "longitude": -82.340158,
+        "contract_type": "permanent",
+        "company": {
+          "display_name": "NexTech Solutions LLC",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 113988.76,
+        "contract_time": "full_time",
+        "location": {
+          "area": [
+            "US",
+            "Florida",
+            "Hillsborough County",
+            "East Lake-Orient Park"
+          ],
+          "display_name": "East Lake-Orient Park, Hillsborough County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "1",
+        "created": "2026-11-20T20:11:23Z"
+      },
+      {
+        "longitude": -75.71076,
+        "title": "Data Integrity & Governance, Analyst",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973360964?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T20:11:21Z",
+        "location": {
+          "area": [
+            "US",
+            "Delaware",
+            "New Castle County",
+            "Glasgow"
+          ],
+          "display_name": "Glasgow, New Castle County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "salary_is_predicted": "1",
+        "company": {
+          "display_name": "JPMorgan Chase Bank, N.A.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 176322.6,
+        "contract_type": "permanent",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973360964",
+        "latitude": 39.6192,
+        "salary_max": 176322.6,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM2MDk2NCIsInMiOiI2SUltazFmbDhSR0ItYkRJeTVkRGdRIn0.3enhncH-gKxlWMueA4OCYW19hlEiuC8AxtnpBT7sQyA",
+        "description": "Join JPMorganChase's Corporate Finance Firmwide Regulatory Reporting & Analysis (FRRA) team, where you'll play a pivotal role in safeguarding the accuracy and integrity of regulatory submissions across U.S. and International markets. This is an opportunity to work at the intersection of governance, operational risk, and executive reporting within the Office of the CFO. You'll partner with senior leaders and cross-functional teams to drive disciplined control frameworks that underpin the firm's \u2026"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "JPMorgan Chase Bank, N.A."
+        },
+        "salary_min": 143491.1,
+        "contract_type": "permanent",
+        "created": "2026-11-20T20:11:20Z",
+        "contract_time": "full_time",
+        "location": {
+          "area": [
+            "US",
+            "Texas",
+            "Collin County",
+            "Plano"
+          ],
+          "display_name": "Plano, Collin County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "1",
+        "redirect_url": "https://www.adzuna.com/details/5973360847?utm_medium=api&utm_source=d30dc240",
+        "longitude": -96.737561,
+        "title": "Data Scientist (Multiple Positions Available)",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "DESCRIPTION: Duties: Provide technical leadership and oversight by conducting design reviews, setting coding and modeling standards, and ensuring analytical rigor, validation, and compliance. Design and implement scalable analytical methods and tools leveraging diverse datasets from disparate sources, utilizing advanced modeling techniques to generate insights while ensuring data integrity, accuracy, and efficient processing at scale. Focus on purely technical infrastructure, such as building a\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzYwODQ3In0.flilbPZ6h8EdUOXYwbk0wcfnPpuOKeQWaoQMQGZPPsQ",
+        "salary_max": 143491.1,
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs"
+        },
+        "id": "5973360847",
+        "latitude": 33.056019
+      },
+      {
+        "description": "Schneider Electric has a hybrid opportunity for a Senior Financial Analyst in the following hub locations: Nashville, TN; Foxboro, MA; Boston, MA; Dallas, TX. In this role you will partner and influence the commercial organization, driving performance, and upholding internal controls and compliance standards. This is an exciting and unique opportunity to support business growth as Schneider Electric builds on its leading market position providing critical infrastructure to the future of data ce\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzYwNDQxIn0.2rnaRavdG3-w26FNTodD1HBF5ZVeTXObqdPI5lQvduA",
+        "salary_max": 135983.73,
+        "id": "5973360441",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "latitude": 36.164613,
+        "salary_min": 135983.73,
+        "company": {
+          "display_name": "Schneider Electric",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "contract_type": "permanent",
+        "created": "2026-11-20T20:11:12Z",
+        "location": {
+          "display_name": "Nashville, Davidson County",
+          "area": [
+            "US",
+            "Tennessee",
+            "Davidson County",
+            "Nashville"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "salary_is_predicted": "1",
+        "redirect_url": "https://www.adzuna.com/details/5973360441?utm_medium=api&utm_source=d30dc240",
+        "title": "Senior Financial Analyst, Data Center Systems",
+        "longitude": -86.777425,
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "salary_min": 94627.43,
+        "company": {
+          "display_name": "Schneider Electric",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "contract_type": "permanent",
+        "created": "2026-11-20T20:11:12Z",
+        "salary_is_predicted": "1",
+        "location": {
+          "area": [
+            "US",
+            "Massachusetts",
+            "Norfolk County",
+            "Foxboro"
+          ],
+          "display_name": "Foxboro, Norfolk County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973360453?utm_medium=api&utm_source=d30dc240",
+        "longitude": -71.242132,
+        "title": "Senior Financial Analyst, Data Center Systems",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Schneider Electric has a hybrid opportunity for a Senior Financial Analyst in the following hub locations: Nashville, TN; Foxboro, MA; Boston, MA; Dallas, TX. In this role you will partner and influence the commercial organization, driving performance, and upholding internal controls and compliance standards. This is an exciting and unique opportunity to support business growth as Schneider Electric builds on its leading market position providing critical infrastructure to the future of data ce\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzYwNDUzIn0.kWLJ-y8OS3NBZT9e4zeBhvqAFMwAxOT8Bu-8yHPs27w",
+        "salary_max": 94627.43,
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "id": "5973360453",
+        "latitude": 42.064882
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973360440?utm_medium=api&utm_source=d30dc240",
+        "longitude": -96.798344,
+        "title": "Senior Financial Analyst, Data Center Systems",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Schneider Electric"
+        },
+        "salary_min": 106026.82,
+        "contract_type": "permanent",
+        "created": "2026-11-20T20:11:12Z",
+        "contract_time": "full_time",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas",
+            "Dallas",
+            "Highland Park"
+          ],
+          "display_name": "Highland Park, Dallas"
+        },
+        "salary_is_predicted": "1",
+        "salary_max": 106026.82,
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs"
+        },
+        "id": "5973360440",
+        "latitude": 32.786999,
+        "description": "Schneider Electric has a hybrid opportunity for a Senior Financial Analyst in the following hub locations: Nashville, TN; Foxboro, MA; Boston, MA; Dallas, TX. In this role you will partner and influence the commercial organization, driving performance, and upholding internal controls and compliance standards. This is an exciting and unique opportunity to support business growth as Schneider Electric builds on its leading market position providing critical infrastructure to the future of data ce\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzYwNDQwIn0.B7xbjPgw6gBOr2Zq18T22mT70GXHyXj3G6hBlck3Ulc"
+      },
+      {
+        "salary_is_predicted": "1",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Boston, Suffolk County",
+          "area": [
+            "US",
+            "Massachusetts",
+            "Suffolk County",
+            "Boston"
+          ]
+        },
+        "contract_time": "full_time",
+        "created": "2026-11-20T20:11:12Z",
+        "contract_type": "permanent",
+        "company": {
+          "display_name": "Schneider Electric",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 104287.3,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Senior Financial Analyst, Data Center Systems",
+        "longitude": -71.0691,
+        "redirect_url": "https://www.adzuna.com/details/5973360447?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzYwNDQ3In0.w14MR15Jlg04qxbWRfs7_Zkt1pYgORoTVbB8e8H9quM",
+        "description": "Schneider Electric has a hybrid opportunity for a Senior Financial Analyst in the following hub locations: Nashville, TN; Foxboro, MA; Boston, MA; Dallas, TX. In this role you will partner and influence the commercial organization, driving performance, and upholding internal controls and compliance standards. This is an exciting and unique opportunity to support business growth as Schneider Electric builds on its leading market position providing critical infrastructure to the future of data ce\u2026",
+        "latitude": 42.3575,
+        "id": "5973360447",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "salary_max": 104287.3
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973359523?utm_medium=api&utm_source=d30dc240",
+        "longitude": -76.4382,
+        "title": "Supply Chain Data Analyst",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 91304.48,
+        "company": {
+          "display_name": "Howmet Aerospace",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "contract_type": "permanent",
+        "created": "2026-11-20T20:11:01Z",
+        "location": {
+          "area": [
+            "US",
+            "Virginia",
+            "Newport News City",
+            "Newport News"
+          ],
+          "display_name": "Newport News, Newport News City",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "1",
+        "contract_time": "full_time",
+        "salary_max": 91304.48,
+        "category": {
+          "tag": "consultancy-jobs",
+          "label": "Consultancy Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973359523",
+        "latitude": 37.0218,
+        "description": "Compensation and Benefits: If a pay range is identified for this job, it is based on a good faith estimate at the time of this posting. Actual compensation is subject to variation due to factors such as education, experience, skillset, market/business considerations, and/or location. Howmet Aerospace offers a competitive benefits package to support the health, financial well-being, and professional growth of our employees. Benefits include: Comprehensive medical, prescription, dental, and visio\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzU5NTIzIn0.y0Kygj0zC6vbAX0JNlUJAEgy7B5ldqU9VsnnxJnIack"
+      },
+      {
+        "salary_min": 64588.73,
+        "description": "Summary: We are seeking a motivated and detail-oriented Entry-Level Data Analyst to join our team. The ideal candidate will support data collection, analysis, and reporting activities to help drive data-driven decision-making across the organization. This role is ideal for entry level candidates or individuals starting their career in data analytics. Responsibilities: \u00b7 Collect, clean, and analyse data from multiple sources \u00b7 Prepare reports, dashboards, and visualizations for business stakehol\u2026",
+        "company": {
+          "display_name": "Dhalite Inc.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzU1OTUwIn0.yOdDLo5bz7cDDzl9SQR2ePiRE_WJuEZh5C2uNrABLZ8",
+        "created": "2026-11-20T20:09:26Z",
+        "salary_is_predicted": "1",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "New Jersey",
+            "Essex County",
+            "Newark"
+          ],
+          "display_name": "Newark, Essex County"
+        },
+        "redirect_url": "https://www.adzuna.com/land/ad/5973355950?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=D69524C383D0AF035004B1A19E52C32337F40503",
+        "salary_max": 64588.73,
+        "id": "5973355950",
+        "title": "Entry-Level Data Analyst",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -74.173124,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 40.735686
+      },
+      {
+        "salary_max": 48172.57,
+        "redirect_url": "https://www.adzuna.com/land/ad/5973355960?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=46D817051A8425102A3A289C189E23BF60341AEC",
+        "latitude": 30.320233,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Business Analyst/Project Manager",
+        "id": "5973355960",
+        "longitude": -97.865683,
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Innosoul inc"
+        },
+        "description": "Job ID: TX-537701800R (912791125) Hybrid/Local TX Govt Healthcare Data/Business Analyst/PM (C2H/PMP/15) with BPR, data warehousing/integration/analytics/reporting experience Location: Austin, TX (HHSC) Duration: 5 Months Position will be 2 days remote with 3 days (manager\u2019s decision of required days on site) required to be onsite at the location listed above. Program will only accept LOCAL ONLY candidates for this position. Please do not submit candidates who are currently out of state and are \u2026",
+        "salary_min": 48172.57,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas",
+            "Travis County",
+            "Bee Cave"
+          ],
+          "display_name": "Bee Cave, Travis County"
+        },
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM1NTk2MCIsInMiOiI2SUltazFmbDhSR0ItYkRJeTVkRGdRIn0.VzqAZ7bcNI77M0TjUaNZOauHE1vHovB5zV9OFfvO0r0",
+        "created": "2026-11-20T20:09:26Z"
+      },
+      {
+        "salary_max": 71671.86,
+        "redirect_url": "https://www.adzuna.com/land/ad/5973355890?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=264BDAEBE672BDBD44E40BB8FA688F3F3555BF04",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973355890",
+        "title": "Direct Client Req: Need Junior Data Analyst / Reporting Analyst",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_min": 71671.86,
+        "description": "Hi, Greetings from DIA SOFTWARE SOLUTIONS LLC! We reaching out about an exciting Direct client opportunity with one of our clients. Please review the requirements and let me know if you are interested in this position? Direct client Req:: Need Direct Client Req : Junior Data Analyst / Reporting Analyst ,Remote, NC PLEASE SEND THE RESUMES TO SKUMAR AT DIASOFTWARESOLUTIONS DOT COM ! Job Description: NC HIEA operates NC HealthConnex, the state-designated health information exchange supporting secu\u2026",
+        "company": {
+          "display_name": "Dia Software Solutions",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "1",
+        "location": {
+          "area": [
+            "US"
+          ],
+          "display_name": "US",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM1NTg5MCIsInMiOiI2SUltazFmbDhSR0ItYkRJeTVkRGdRIn0.cVdU7rv7gIv1L-9LzazvbOI0qXtqfebApvarEaOnn24",
+        "created": "2026-11-20T20:09:25Z"
+      },
+      {
+        "location": {
+          "area": [
+            "US",
+            "Texas",
+            "Travis County",
+            "Bee Cave"
+          ],
+          "display_name": "Bee Cave, Travis County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzU1OTIwIn0.8jWQbHYlj9P-chDQQ-D_j6RUZH9bK3xqf_mX_tbqhU4",
+        "created": "2026-11-20T20:09:25Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Maddisoft"
+        },
+        "description": "Job Title: Senior Business Analyst, Data Modernization Job Location: Austin, Texas- Hybrid Role Overview The organization is seeking an experienced Business Analyst to support a data modernization project. The Business Analyst will gather and document business, functional, reporting, data, security, and user-access requirements. The role will facilitate stakeholder workshops, document current and future processes, develop user stories and acceptance criteria, support data mapping and testing, m\u2026",
+        "salary_min": 66908.04,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 30.320233,
+        "id": "5973355920",
+        "title": "Business Analyst",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "longitude": -97.865683,
+        "salary_max": 66908.04,
+        "redirect_url": "https://www.adzuna.com/land/ad/5973355920?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=F3737504E168018A63E84DB09EBC6A2A14C0F3ED"
+      },
+      {
+        "salary_max": 106842.6,
+        "redirect_url": "https://www.adzuna.com/land/ad/5973355244?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=0EDC3C0B7C8069F68FBB41199D7BEDAE89945F8E",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 39.74806,
+        "id": "5973355244",
+        "title": "Informatica IICS Support Engineer",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "longitude": -75.54567,
+        "description": "Job Title: Data Engineer Location: Wilmington DE Years of Experience: 7 10 Years Job Summary: We are seeking a skilled Data Engineer with extensive experience in Informatica IICS to join our team in Wilmington, DE. The ideal candidate will have a strong background in data integration, transformation, and management, with a proven track record of delivering high-quality data solutions. This role requires a detail-oriented professional who can work collaboratively with cross functional teams to s\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Tech Mahindra  Inc."
+        },
+        "salary_min": 106842.6,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Wilmington, New Castle County",
+          "area": [
+            "US",
+            "Delaware",
+            "New Castle County",
+            "Wilmington"
+          ]
+        },
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM1NTI0NCIsInMiOiI2SUltazFmbDhSR0ItYkRJeTVkRGdRIn0.GB_FVzzUsPzdbwEZOal8aCEqbuHevABoDP8UL4U4jgo",
+        "created": "2026-11-20T20:09:20Z"
+      },
+      {
+        "salary_min": 83104.9,
+        "description": "Hi, Greetings from DIA SOFTWARE SOLUTIONS LLC! We reaching out about an exciting Direct client opportunity with one of our clients. Please review the requirements and let me know if you are interested in this position? Direct client Req:: Direct Client Req : Need Azure data engineer ,Hybrid, MI PLEASE SEND THE RESUMES TO SKUMAR AT DIASOFTWARESOLUTIONS DOT COM ! Job Description: Short Description: Data Analyst / ETL Developer (Contractor)-PA5 Position: Data Analyst / ETL Developer Location: Stat\u2026",
+        "company": {
+          "display_name": "Dia Software Solutions",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T20:04:10Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzQwNTgxIn0.G0oLAHI5Q7LTBSbrAEVka6ossp0TPHMQkkQE7ruaeKA",
+        "salary_is_predicted": "1",
+        "location": {
+          "area": [
+            "US",
+            "Michigan",
+            "Eaton County",
+            "Dimondale"
+          ],
+          "display_name": "Dimondale, Eaton County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.com/land/ad/5973340581?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=D010AE90D9A7A61F4F99CE23A5E4195979848BDC",
+        "salary_max": 83104.9,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "longitude": -84.6228,
+        "id": "5973340581",
+        "title": "Direct Client Req: Need Azure data engineer",
+        "latitude": 42.7039,
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Software Guidance & Assistance"
+        },
+        "description": "Software Guidance & Assistance, Inc., (SGA), is searching for a QA Analyst for a CONTRACT assignment with one of our premier Regulatory clients in Rockville, MD. This position implements Quality Assurance initiatives for Information Operations. This includes: reviewing and analyzing a sampling of daily work performed by other analysts, maintaining statistical data, and performing root cause and trend analysis under minimal supervision. Incumbent will be required to employ well developed subject\u2026",
+        "salary_min": 38680.26,
+        "location": {
+          "area": [
+            "US",
+            "Maryland",
+            "Montgomery County",
+            "Derwood"
+          ],
+          "display_name": "Derwood, Montgomery County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzQwNTY0In0.JeM8vKSX5-aRtC1kFoHn84TioF3dPO8yOAKsYOSkZ2c",
+        "created": "2026-11-20T20:04:02Z",
+        "salary_max": 38680.26,
+        "redirect_url": "https://www.adzuna.com/land/ad/5973340564?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=BFADB6394A3FA2BE688812A8BA1CF623359E0341",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 39.084,
+        "id": "5973340564",
+        "title": "QA Analyst",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "longitude": -77.1537
+      },
+      {
+        "location": {
+          "area": [
+            "US",
+            "Michigan",
+            "Eaton County",
+            "Dimondale"
+          ],
+          "display_name": "Dimondale, Eaton County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM0MDU1OSIsInMiOiI2SUltazFmbDhSR0ItYkRJeTVkRGdRIn0.8xXOCQlCioRgFuzI3V0tzeUZrbYTlpQWhXIsQZhYmMo",
+        "created": "2026-11-20T20:03:58Z",
+        "description": "Data Analyst / ETL Developer Lansing, MI Long term contract Job Description: Data Analyst / ETL Developer (Contractor)-PA5 Key Responsibilities: Expertise in Design, develop, and maintain scalable data pipelines using Microsoft Azure Strong experience with data profiling, data cleansing, data validation, and resolving data quality issues during large-scale migration projects. Root-Cause Analysis: Oversee the identification and resolution of data irregularities by conducting root-cause analyses \u2026",
+        "salary_min": 104008.8,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "TekDelite, LLC"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 42.7039,
+        "id": "5973340559",
+        "title": "ETL Developer",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -84.6228,
+        "salary_max": 104008.8,
+        "redirect_url": "https://www.adzuna.com/land/ad/5973340559?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=25B3B8D39BC5CB47B8BEF3E40B305502368FEDAE"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzQwMzkwIn0.eUQ_wIi7qdvqIJ1ujoE5TXLOlNxliZkJPAOVz7kOgXc",
+        "description": "AgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17 industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards. WHY JOIN US If you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you! ABOUT THE ROLE We are looking for a Senior Data Analyst to develop governed HR me\u2026",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973340390",
+        "latitude": 26.121147,
+        "salary_max": 83280.16,
+        "created": "2026-11-20T20:00:12Z",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Fort Lauderdale, Broward County",
+          "area": [
+            "US",
+            "Florida",
+            "Broward County",
+            "Fort Lauderdale"
+          ]
+        },
+        "salary_is_predicted": "1",
+        "salary_min": 83280.16,
+        "company": {
+          "display_name": "AgileEngine",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "contract_type": "contract",
+        "longitude": -80.129176,
+        "title": "Senior Data Analyst ID102546",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973340390?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "contract_type": "contract",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "AgileEngine"
+        },
+        "salary_min": 88403.56,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Seybold, Miami-Dade County",
+          "area": [
+            "US",
+            "Florida",
+            "Miami-Dade County",
+            "Seybold"
+          ]
+        },
+        "salary_is_predicted": "1",
+        "created": "2026-11-20T20:00:12Z",
+        "redirect_url": "https://www.adzuna.com/details/5973340339?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -80.19822,
+        "title": "Senior Data Analyst ID102546",
+        "description": "AgileEngine is an Inc. 5000 company that creates award-winning software for Fortune 500 brands and trailblazing startups across 17 industries. We rank among the leaders in areas like application development and AI/ML, and our people-first culture has earned us multiple Best Place to Work awards. WHY JOIN US If you're looking for a place to grow, make an impact, and work with people who care, we'd love to meet you! ABOUT THE ROLE We are looking for a Senior Data Analyst to develop governed HR me\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzQwMzM5In0.iQdXZYO5JiyhRYF_xKznp7zt2IlHdL8BCsl0g_T08iA",
+        "salary_max": 88403.56,
+        "latitude": 25.779,
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973340339"
+      },
+      {
+        "salary_max": 139912.17,
+        "redirect_url": "https://www.adzuna.com/details/5973334506?utm_medium=api&utm_source=d30dc240",
+        "latitude": 37.798085,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -122.466538,
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "title": "Power BI and City Data Project IT Director, MADI (1070-Technology Product Director)\u2013DPH-166752",
+        "id": "5973334506",
+        "description": "Job Description The Power BI and City Data Project IT Director, MADI (1070-Technology Product Director) serves as the technical lead for enterprise data visualization and integrated data initiatives within SFDPH, including projects shared across City agencies and public-facing dashboards. Reporting to the DPH IT Analytics Director and Chief Data Officer, this position leads the development of enterprise Power BI solutions that support epidemiology, healthcare operations, community health progra\u2026",
+        "salary_min": 139912.17,
+        "company": {
+          "display_name": "City and County of San Francisco",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "San Francisco, California",
+          "area": [
+            "US",
+            "California",
+            "San Francisco"
+          ]
+        },
+        "salary_is_predicted": "1",
+        "created": "2026-11-20T19:43:53Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzMzNDUwNiIsInMiOiI2SUltazFmbDhSR0ItYkRJeTVkRGdRIn0.71VPNdsZd4BtQ90Vi1SvcVUusMly-5Fslmv8xylITJM"
+      },
+      {
+        "salary_max": 162216.31,
+        "redirect_url": "https://www.adzuna.com/details/5973334272?utm_medium=api&utm_source=d30dc240",
+        "latitude": 38.0057,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973334272",
+        "title": "Senior Infrastructure & Platform Engineer",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "longitude": -78.510018,
+        "description": "Job Description The Senior Infrastructure & Platform Engineer owns Apex's foundational enterprise platforms: cloud infrastructure, security tooling, network architecture, and the operational technology integrations that connect our corporate environment to wind, solar, and storage sites across North America. This is not a break-fix role. It is a platform ownership role with direct exposure to the highest-priority workstreams in the company and a mandate to build infrastructure that is resilient\u2026",
+        "company": {
+          "display_name": "Apex Clean Energy",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 162216.31,
+        "salary_is_predicted": "1",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Charlottesville, Virginia",
+          "area": [
+            "US",
+            "Virginia",
+            "Charlottesville"
+          ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzM0MjcyIn0.7vSq9OTPjR2Zm2roZbjN7T6si0biP6dP2_KLXntKXdU",
+        "created": "2026-11-20T19:43:52Z"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 42.327152,
+        "title": "Principal Data Engineer, Global Security",
+        "id": "5973334407",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "longitude": -87.857431,
+        "salary_max": 107773.05,
+        "redirect_url": "https://www.adzuna.com/details/5973334407?utm_medium=api&utm_source=d30dc240",
+        "location": {
+          "area": [
+            "US",
+            "Illinois",
+            "Lake County",
+            "North Chicago"
+          ],
+          "display_name": "North Chicago, Lake County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzM0NDA3In0.T-ikGIx9vdJAM6H4dTQr1mPcNjlrNHz11lzz7Gtmyt0",
+        "created": "2026-11-20T19:43:52Z",
+        "description": "Job Description Global Security is advancing toward an integrated, intelligence-led, and AI-enabled operating model. The function generates and consumes significant operational, intelligence, investigative, resilience, travel risk, product protection, physical security, emergency communications, case management, threat intelligence, access control, video surveillance, visitor management, workflow, and enterprise security data. The Global Security Data & Analytics team seeks to unlock the full v\u2026",
+        "company": {
+          "display_name": "AbbVie",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 107773.05
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973334198?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 63360.79,
+        "longitude": -122.205506,
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "title": "Decision Support Analyst",
+        "id": "5973334198",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 47.462337,
+        "description": "Job Description The Decision Support Analyst supports organizational decision-making by collecting, validating, analyzing, and interpreting healthcare, finance, cost accounting, and operational data. This role partners with senior analysts, Finance, operational leaders, Information Technology to develop reports, conduct analyses, maintain data systems, develop pro-forma income statements, and support cost accounting methodologies that inform hospital operations, patient care, service line perfo\u2026",
+        "salary_min": 63360.79,
+        "company": {
+          "display_name": "Valley Medical Center & Clinics",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T19:43:51Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzM0MTk4In0.trGMBC2nsWyIjezDPKYyoBxSUAiRRpgzVJyWFd0-qJE",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Renton, King County",
+          "area": [
+            "US",
+            "Washington",
+            "King County",
+            "Renton"
+          ]
+        },
+        "salary_is_predicted": "1"
+      },
+      {
+        "latitude": 42.460908,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Data Analyst",
+        "id": "5973333521",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Scientific & QA Jobs",
+          "tag": "scientific-qa-jobs"
+        },
+        "longitude": -71.222083,
+        "salary_max": 79441.55,
+        "redirect_url": "https://www.adzuna.com/details/5973333521?utm_medium=api&utm_source=d30dc240",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Massachusetts",
+            "Middlesex County",
+            "Lexington"
+          ],
+          "display_name": "Lexington, Middlesex County"
+        },
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzMzMzUyMSIsInMiOiI2SUltazFmbDhSR0ItYkRJeTVkRGdRIn0.zpKgVVP-Kzlf0442NHb01jgXIA7ZpBEUk1x_pv2Bpfo",
+        "created": "2026-11-20T19:43:45Z",
+        "description": "About the Homeland Protection Systems Group Are you excited to contribute to world-class research in Homeland Protection with real impact on national security? The Homeland Protection Systems Group at MIT Lincoln Laboratory has decades of experience developing, assessing, and deploying advanced technologies aimed at safeguarding the National Airspace and addressing emerging national security priorities in the homeland. The Group has successfully deployed innovative technology solutions addressi\u2026",
+        "company": {
+          "display_name": "MIT Lincoln Laboratory",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 79441.55
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzA4MjA1In0.h6FCDX49nSePS7o0P0E5_9sREV0JHrKEHZnhi-gpKxU",
+        "description": "Diversified Services Network, Inc. (DSN) is seeking a full-time Product Compliance Data Analyst to join our onsite team in Rapid City, SD . We offer full benefits, PTO, 401k, and more! If you're looking to grow your career within an extremely reputable, stable Fortune 100 company - let's talk! Position Overview The Product Compliance Data Analyst will join a Product Compliance & Support \u2013 Substance Compliance team, performing hands-on data analysis for product chemical management regulatory com\u2026",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "id": "5973308205",
+        "latitude": 44.118807,
+        "salary_max": 40000,
+        "created": "2026-11-20T18:36:53Z",
+        "location": {
+          "display_name": "Rapid City, Pennington County",
+          "area": [
+            "US",
+            "South Dakota",
+            "Pennington County",
+            "Rapid City"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "salary_is_predicted": "0",
+        "salary_min": 35000,
+        "company": {
+          "display_name": "Diversified Services Network, Inc.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "longitude": -103.187884,
+        "title": "(1120764) Product Compliance Data Analyst",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973308205?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "title": "Marketing Analyst",
+        "longitude": -122.466538,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973307093?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T18:34:25Z",
+        "salary_is_predicted": "1",
+        "location": {
+          "area": [
+            "US",
+            "California",
+            "San Francisco"
+          ],
+          "display_name": "San Francisco, California",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_min": 73411.26,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "CVHCare"
+        },
+        "contract_type": "contract",
+        "id": "5973307093",
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "pr-advertising-marketing-jobs"
+        },
+        "latitude": 37.798085,
+        "salary_max": 73411.26,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMzA3MDkzIn0.syUg1Ul27aNT5Btlt0telgGdKkPDOLZQKHFftAuVCxc",
+        "description": "Location: San Francisco, CA | Work Arrangement: ONSITE Position Summary CuraeSoft is a mid-market SaaS company helping healthcare organizations optimize how they schedule, staff, and manage their workforce. We're looking for a curious, data-driven Marketing Analyst to join our growing marketing team. This role is ideal for someone who loves asking \"why\" behind the numbers and enjoys turning data into clear, actionable insights. You'll support our marketing efforts across the full funnel \u2014 from \u2026"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzMwNTk0NCIsInMiOiI2SUltazFmbDhSR0ItYkRJeTVkRGdRIn0.SRclZHns9tAu-0LHEpp-CaCWtnl_FaumAvP8_OAvG3o",
+        "description": "Job Description Job Description Total Compensation: $140k-$180k A friendly community hospital is hiring Hospitalist Nurse Practitioners to care for adult oncology patients. You\u2019ll do rewarding, hands-on hospital medicine on a week-on, week-off schedule, and know someone great? There\u2019s room for them too. What You\u2019ll Do Care for hospitalized cancer patients from admission through discharge Work as part of a team with physicians, nurses, and specialists Help shape treatment plans alongside an esta\u2026",
+        "latitude": 40.887572,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "id": "5973305944",
+        "salary_max": 207753.44,
+        "salary_is_predicted": "1",
+        "location": {
+          "area": [
+            "US",
+            "New Jersey",
+            "Bergen County",
+            "Hackensack"
+          ],
+          "display_name": "Hackensack, Bergen County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "created": "2026-11-20T18:33:27Z",
+        "contract_type": "permanent",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Atlas Search"
+        },
+        "salary_min": 207753.44,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -74.049884,
+        "title": "7 on/7 off Hospitalist Oncology Nurse Practitioner",
+        "redirect_url": "https://www.adzuna.com/land/ad/5973305944?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=FF0C6AEFB006557D9975C288BCBD404EB235CDB6"
+      },
+      {
+        "salary_min": 100000,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "GSFoods"
+        },
+        "contract_time": "full_time",
+        "location": {
+          "area": [
+            "US",
+            "California",
+            "San Bernardino County",
+            "Guasti"
+          ],
+          "display_name": "Guasti, San Bernardino County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-11-20T18:23:22Z",
+        "redirect_url": "https://www.adzuna.com/details/5973289808?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Data Analyst",
+        "longitude": -117.616883,
+        "description": "TITLE: Data Analyst DIVISION/DEPARTMENT: Finance \u2013 Financial Planning & Analysis (FP&A) REPORTS TO: FP&A Manager FLSA CLASSIFICATION: Full-Time, Exempt LOCATION: Ontario, CA COMPANY OVERVIEW GS Foods Group is a leading specialty food distributor serving K-12 schools and customers across foodservice, institutional, correctional, senior living, and other specialized markets. Our family of companies is committed to delivering exceptional service, operational excellence, and innovative solutions to\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMjg5ODA4In0.lNvYBwYct67iRUWX2gLYo83PqaSxeMudyU9onP-q4wA",
+        "salary_max": 115000,
+        "latitude": 34.029233,
+        "id": "5973289808",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        }
+      },
+      {
+        "latitude": 34.029233,
+        "id": "5973289821",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "salary_max": 150000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMjg5ODIxIn0.urJ3Pb6ouBaK8Q-2Gx_BlbeddHjGCebmymOsS_xg0dc",
+        "description": "TITLE: FP&A Manager DIVISION/DEPARTMENT: Finance \u2013 Financial Planning & Analysis (FP&A) REPORTS TO: Senior Director, FP&A FLSA CLASSIFICATION: Full-Time, Exempt LOCATION: Ontario, CA COMPANY OVERVIEW GS Foods Group, Inc. and its subsidiaries (\u201cGS Foods\u201d or the \u201cCompany\u201d) is a private equity-backed specialty food distributor serving primarily K-12 schools, as well as food service, institutional, correctional, senior living, and other specialized end markets. At GS Foods, we recognize that our te\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "FP&A Manager",
+        "longitude": -117.616883,
+        "redirect_url": "https://www.adzuna.com/details/5973289821?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "location": {
+          "display_name": "Guasti, San Bernardino County",
+          "area": [
+            "US",
+            "California",
+            "San Bernardino County",
+            "Guasti"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-11-20T18:23:22Z",
+        "company": {
+          "display_name": "GS Foods",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 135000
+      },
+      {
+        "latitude": 32.64297,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -83.633986,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "id": "5973284631",
+        "title": "Data Platform Engineer",
+        "salary_max": 160746.08,
+        "redirect_url": "https://www.adzuna.com/land/ad/5973284631?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=C76D276C4C4EB3509CBBE721DD76BF35CBF5E38D",
+        "location": {
+          "area": [
+            "US",
+            "Georgia",
+            "Houston County",
+            "Warner Robins"
+          ],
+          "display_name": "Warner Robins, Houston County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "1",
+        "created": "2026-11-20T18:10:45Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzI4NDYzMSIsInMiOiI2SUltazFmbDhSR0ItYkRJeTVkRGdRIn0.vRi8aoasly0pdeKIRkb4_W1ExrspFBCqqUw776myRt0",
+        "description": "Job Number: R0253996 Data Platform Engineer The Opportunity: Ever-expanding technology like IoT, machine learning, and artifi cia l intelligence means that there's more structured and unstructured data available today than ever before. As a data engineer, you know that organizing data can yield pivotal insights when it's gathered from disparate sources. We need an experience d data engineer like you to help our clients find answers in their data to impact important missions-from fraud detection\u2026",
+        "company": {
+          "display_name": "Booz Allen Hamilton",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 160746.08
+      },
+      {
+        "salary_is_predicted": "1",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Pennsylvania",
+            "Allegheny County",
+            "Bloomfield"
+          ],
+          "display_name": "Bloomfield, Allegheny County"
+        },
+        "created": "2026-11-20T18:10:45Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzI4NDYzMCIsInMiOiI2SUltazFmbDhSR0ItYkRJeTVkRGdRIn0.OBJM2MNgG4ROhu9uM2SU478qmqjwvPOcRW9o9A2V42s",
+        "description": "Carnegie Mellon University is searching for a Senior Manager of Departmental Technologies to join their team. This is an exciting opportunity for someone who thrives in an interesting and challenging work environment. The Senior Manager of Departmental Technologies will manage a team of technology support specialists and provide strategic leadership, governance, and operational oversight for the technology portfolio supporting several administrative and retail departments at the university. Cor\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Carnegie Mellon University"
+        },
+        "salary_min": 250910.55,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 40.444374,
+        "longitude": -79.941817,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "title": "Senior Manager, Departmental Technologies",
+        "id": "5973284630",
+        "salary_max": 250910.55,
+        "redirect_url": "https://www.adzuna.com/land/ad/5973284630?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=343C6879AE495C217DC669E6C3AB52A7F87B73F6"
+      },
+      {
+        "company": {
+          "display_name": "Highnote",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "About Highnote Founded in 2020 by a team of leaders from Braintree, PayPal, and Lending Club, Highnote is the unified platform for embedded finance, built for modern issuing, acquiring, credit, ledger, and real-time money movement. With an integrated ledger, full program management, and a purpose-built architecture, we help companies design financial products around their customers and launch faster with greater control. We've raised $145M and have grown our team to 140 employees across 25 US S\u2026",
+        "salary_min": 103971.52,
+        "location": {
+          "display_name": "Hayes Valley, San Francisco",
+          "area": [
+            "US",
+            "California",
+            "San Francisco",
+            "Hayes Valley"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMjg0NTg4In0._LhoQKztJo8S_us_20R5JPrQEmMWwV5LOldLHvqT1ps",
+        "created": "2026-11-20T18:10:39Z",
+        "salary_max": 103971.52,
+        "redirect_url": "https://www.adzuna.com/land/ad/5973284588?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=13BB73B01DE36A5DA7A7517AAC36F1B50A2628E5",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 37.775,
+        "id": "5973284588",
+        "title": "Data Analyst",
+        "longitude": -122.4183,
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs"
+        }
+      },
+      {
+        "description": "Expert Systems Developer HBITS-08-15117 DURATION: 24 Months LOCATION : Albany, NY This position is for a systems developer with experience working on a Oracle Data Warehouse/Business Intelligence team. The developer will design/model, construct, load and validate the tables through the enterprise Data Warehouse architecture. Qualifications Systems Developer - Develops and implements applications and programs for the backend processing systems used in businesses and organizations. Expert- 84 mon\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "GD Resources LLC"
+        },
+        "salary_min": 106492.77,
+        "created": "2026-11-20T18:10:08Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMjg0MzM0In0.7G10orQnX5FcIaTnS_mtjvQcpxXvGnFQH8QR78pWObw",
+        "salary_is_predicted": "1",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "New York",
+            "Albany County",
+            "Elsmere"
+          ],
+          "display_name": "Elsmere, Albany County"
+        },
+        "redirect_url": "https://www.adzuna.com/land/ad/5973284334?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=92E14572BFA73368FBDB04F3B4A9227990884706",
+        "salary_max": 106492.77,
+        "longitude": -73.80007,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "id": "5973284334",
+        "title": "State of NY-Oracle Data Warehouse / ETL Developer || Albany, NY",
+        "latitude": 42.64469,
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "id": "5973283901",
+        "title": "Data Test Engineer",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/land/ad/5973283901?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=1EEBCB7B6CF4234B59FB2ABFC7598D607404E1BE",
+        "salary_max": 142215.94,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzI4MzkwMSIsInMiOiI2SUltazFmbDhSR0ItYkRJeTVkRGdRIn0.CW26C4wfAD7gohGZUFZKPpEk-eeprB0-KBoMhJbJQ7o",
+        "created": "2026-11-20T18:08:33Z",
+        "location": {
+          "area": [
+            "US"
+          ],
+          "display_name": "US",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "1",
+        "salary_min": 142215.94,
+        "description": "Job Title: Data Test Engineer Job Category: Information Technology Time Type: Full time Minimum Clearance Required to Start: Secret Employee Type: Regular Percentage of Travel Required: Up to 10% Type of Travel: Continental US * * * The Opportunity: Join our team supporting USTRANSCOM's Joint Transportation Management System (JTMS), a mission-critical enterprise platform that modernizes transportation, logistics, and financial operations through SAP S/4HANA ERP integration. We're looking for an\u2026",
+        "company": {
+          "display_name": "CACI International, Inc.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "description": "Overview Thank you for considering IT Concepts dba Kentro, where innovation drives opportunity and collaboration leads to success. Our dynamic community of experts is fully committed to advancing our customers' missions, fostering professional growth, and making a positive impact on our communities. By joining our supportive community, you will find that Kentro is dedicated to your personal and professional development. Together, we can drive meaningful change, spark innovation, and achieve ext\u2026",
+        "company": {
+          "display_name": "Kentro",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 130298.86,
+        "salary_is_predicted": "1",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US"
+          ],
+          "display_name": "US"
+        },
+        "created": "2026-11-20T18:08:11Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMjgzNzY0In0.g5ODy7PssJIYpMB0o5un0lSJ6CG1Y6OeWoEs1TDr93I",
+        "salary_max": 130298.86,
+        "redirect_url": "https://www.adzuna.com/land/ad/5973283764?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=D53A318668201FBB124E33C681F5BA84CC9445A2",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Senior Data Engineer",
+        "id": "5973283764"
+      },
+      {
+        "salary_is_predicted": "1",
+        "location": {
+          "display_name": "Cedar Pass, Utah County",
+          "area": [
+            "US",
+            "Utah",
+            "Utah County",
+            "Cedar Pass"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzI4Mzc1NCIsInMiOiI2SUltazFmbDhSR0ItYkRJeTVkRGdRIn0.4K2XhZafNTCLESeY2s1DF32aPV8LGp44m3W5K1EDQVQ",
+        "created": "2026-11-20T18:08:09Z",
+        "salary_min": 142998.2,
+        "description": "The Opportunity Adobe Digital Insights (ADI) has been a leading authority on the global digital economy since 2013, building its analysis on trillions of visits, billions of online transactions, and the prompts behind billions of AI-generated assets crafted with Adobe Firefly. ADI works with creators, marketers, and business leaders, up to C-level leadership at Adobe's largest customers, to help them understand how the digital economy is shifting and how their business is performing relative to\u2026",
+        "company": {
+          "display_name": "Adobe Systems",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 40.405807,
+        "title": "Data Scientist",
+        "id": "5973283754",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "longitude": -111.864519,
+        "salary_max": 142998.2,
+        "redirect_url": "https://www.adzuna.com/land/ad/5973283754?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=FF53DF9F325F2243C76C787C0846A5F5C9CCB95F"
+      },
+      {
+        "salary_max": 114995.58,
+        "redirect_url": "https://www.adzuna.com/land/ad/5973283474?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=1E4BEB051E86E36BB37599DD0EAB075E9EF3257C",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 35.054723,
+        "longitude": -78.906299,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "id": "5973283474",
+        "title": "Senior Data Platform Engineer - Palantir Foundry",
+        "description": "Overview Thank you for considering IT Concepts dba Kentro, where innovation drives opportunity and collaboration leads to success. Our dynamic community of experts is fully committed to advancing our customers' missions, fostering professional growth, and making a positive impact on our communities. By joining our supportive community, you will find that Kentro is dedicated to your personal and professional development. Together, we can drive meaningful change, spark innovation, and achieve ext\u2026",
+        "salary_min": 114995.58,
+        "company": {
+          "display_name": "Kentro",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "1",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "North Carolina",
+            "Cumberland County",
+            "Haymount"
+          ],
+          "display_name": "Haymount, Cumberland County"
+        },
+        "created": "2026-11-20T18:06:07Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzI4MzQ3NCIsInMiOiI2SUltazFmbDhSR0ItYkRJeTVkRGdRIn0.iMXPWHyM1GDrqagtzY_-_mrG_oYSs8kjb2Z4loy0xvE"
+      },
+      {
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "longitude": -79.941817,
+        "id": "5973283417",
+        "title": "Data and AI Governance Lead - Computing Services",
+        "latitude": 40.444374,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/land/ad/5973283417?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=58774FEBA7AA754D9E1DA9CF5E6D1BDA25104A83",
+        "salary_max": 181418.62,
+        "created": "2026-11-20T18:05:43Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMjgzNDE3In0.34D72VKhrMwtukrX2HQjWQiOTTAf_eexHt2ENCEtv3k",
+        "salary_is_predicted": "1",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Pennsylvania",
+            "Allegheny County",
+            "Bloomfield"
+          ],
+          "display_name": "Bloomfield, Allegheny County"
+        },
+        "description": "Carnegie Mellon University (CMU) is seeking a dynamic, highly collaborative Data and AI Governance Lead to shape and operationalize the framework for how our institution manages, protects, and leverages its most critical data and AI assets. Unlike traditional management roles, this position does not oversee a direct team. Instead, you will act as the university's primary architect and facilitator of Data and AI Governance, working across academic and administrative units to drive progress throu\u2026",
+        "salary_min": 181418.62,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Carnegie Mellon University"
+        }
+      },
+      {
+        "salary_min": 244947.73,
+        "description": "Hello, I am Mohammed Dastagir with Saxon Global Inc wanted to let you know about the job opportunity for Lead Azure Databricks Engineer position if interested please share your updated resume along with expecting rate. Job Title: Lead Azure Databricks Engineer Location: Dallas, TXOnsite duration: 12  months contract Only on W2 Job Summary We are looking for an experienced Azure Databricks Data Engineer with strong expertise in designing, developing, and implementing scalable data engineering so\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Saxon Global Inc."
+        },
+        "created": "2026-11-20T18:05:27Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMjgzMzQzIn0.Ar2e0arTxnMCFltsU5bkJCaAReJJ4JWqk-gV6weV5CQ",
+        "location": {
+          "area": [
+            "US",
+            "Texas",
+            "Dallas",
+            "Highland Park"
+          ],
+          "display_name": "Highland Park, Dallas",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "1",
+        "redirect_url": "https://www.adzuna.com/land/ad/5973283343?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=A78F18874FF68974212DE6E51844F3160225164F",
+        "salary_max": 244947.73,
+        "longitude": -96.765058,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "title": "Lead Azure Databricks Engineer @ Dallas, TXOnsite",
+        "id": "5973283343",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 32.760168
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/land/ad/5973283289?se=6IImk1fl8RGB-bDIy5dDgQ&utm_medium=api&utm_source=d30dc240&v=ED288C7AD6340DDBAC3EDCBD1D90343B80962367",
+        "salary_max": 117171.99,
+        "title": "Data Analyst/Data Engineer (Healthcare Payer)",
+        "id": "5973283289",
+        "longitude": -71.428836,
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "latitude": 42.383197,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "company": {
+          "display_name": "Lorven Technologies, Inc.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Job Title: Data Analyst Location: Canton, MA | Onsite Employment Type: Contract Job Description: Join as a Senior Data Analyst supporting complex data, analytics, and information management initiatives within the healthcare payer domain. In this role, you will partner with business leaders, technical teams, and external vendors to translate business needs into scalable analytical solutions, strengthen data quality, and deliver actionable insights. You will independently design and execute analy\u2026",
+        "salary_min": 117171.99,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNklJbWsxZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczMjgzMjg5In0.1S4WegYvK_QO_lh0MQwZR8cZ1X3p2t11h3fU6EePaTk",
+        "created": "2026-11-20T18:05:07Z",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Sudbury, Middlesex County",
+          "area": [
+            "US",
+            "Massachusetts",
+            "Middlesex County",
+            "Sudbury"
+          ]
+        },
+        "salary_is_predicted": "1"
+      }
+    ]
+  }
+}

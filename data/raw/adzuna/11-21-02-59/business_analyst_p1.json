@@ -1,0 +1,1697 @@
+{
+  "search_term": "business analyst",
+  "fetched_at": "11-21-02-59",
+  "response": {
+    "results": [
+      {
+        "contract_type": "permanent",
+        "latitude": 30.484031,
+        "salary_max": 64413.97,
+        "salary_is_predicted": "1",
+        "longitude": -84.324082,
+        "title": "Business Systems Analyst (On-Site and Full-Time)",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "description": "Full-Time Business Systems Analyst Industry: Non-profit organization specializing in SBA 504 loans Compensation: Competitive annual salary commensurate with experience  full benefit package that includes a generous IRA contribution (see below for details) Location: Tallahassee, FL Summary of Important Qualifications: Must be a U.S. citizen or permanent resident (this is a requirement by the government agencies we work with) 3\u20135 years of relevant experience in IT, business systems, or software-r\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973424356?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:41:26Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "FFCFC"
+        },
+        "salary_min": 64413.97,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT2xYSW4xZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDI0MzU2In0.N8uuuLwReIQAx7WLpK0sP83nzmkQ-y3f7q_f9sb9b3I",
+        "id": "5973424356",
+        "location": {
+          "display_name": "Tallahassee, Leon County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Florida",
+            "Leon County",
+            "Tallahassee"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_is_predicted": "1",
+        "title": "Technical Lead / Architect",
+        "id": "5973424350",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "US",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US"
+          ]
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973424350?utm_medium=api&utm_source=d30dc240",
+        "description": "You own the architecture, the coding standards and the code-review standard across roughly thirty .NET services on AKS and a large React front end. About half your time is hands-on back-end work; the other half is the standard: what a reviewer looks for, how big a change may be, which areas need a second reviewer, and how generated code is reviewed, tested and merged. You are the person who decides what is recorded, from decision records to runbooks to the repository agent guides, and you run t\u2026",
+        "salary_min": 73668.86,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Christie"
+        },
+        "created": "2026-11-20T21:41:26Z",
+        "salary_max": 73668.86,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQyNDM1MCIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.Ykkej1YnYiIwa4zw1iEkZNfovFk2oZzZVYKorXpII88"
+      },
+      {
+        "latitude": 32.295842,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT2xYSW4xZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDE1NzM2In0.SmjNwxGRRSyejhQGbObDoK9T9VTakYT9boiWpIwgyP8",
+        "salary_max": 108381.27,
+        "created": "2026-11-20T21:36:21Z",
+        "company": {
+          "display_name": "Hirekeyz Inc",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 108381.27,
+        "redirect_url": "https://www.adzuna.com/details/5973415736?utm_medium=api&utm_source=d30dc240",
+        "description": "HireKeyz INC is seeking a Business Analyst for a contract engagement supporting the Mississippi Department of Human Services. This role is hybrid (remote plus onsite in Jackson, MS). Focus areas: SNAP and Jira; six weeks initial onsite in Jackson then remote option. Requisition 163494.",
+        "location": {
+          "display_name": "Jackson, Hinds County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Mississippi",
+            "Hinds County",
+            "Jackson"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973415736",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "1",
+        "title": "Business Analyst",
+        "longitude": -90.185251
+      },
+      {
+        "id": "5973415594",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Missouri",
+            "Boone County",
+            "Columbia"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Columbia, Boone County"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNTU5NCIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.cF2bgJ9c7uBTQl6uqbWR3W7fw3jzLyi1EbP5wt1fIGw",
+        "description": "Senior Medicaid Business Analyst Position Overview Contribute to large-scale government healthcare IT transformation initiatives involving complex business processes, requirements analysis, and technology solutions. This role offers an opportunity to support significant Medicaid IT projects, working closely with business stakeholders, IT teams, vendors, and other organizations to evaluate agency needs and translate business objectives into effective technical and non-technical solutions. The Se\u2026",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973415594?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HTC Global Services Inc"
+        },
+        "salary_min": 66341.79,
+        "created": "2026-11-20T21:36:18Z",
+        "title": "Senior Medicaid Business Analyst",
+        "longitude": -92.25231,
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_is_predicted": "1",
+        "salary_max": 66341.79,
+        "latitude": 38.882174,
+        "contract_type": "permanent"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT2xYSW4xZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDE1NDg1In0.Z4krq4UatWqlRCkQVMeDIkgqsTbuMTM3cV-YEPWx47I",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "CYNET SYSTEMS"
+        },
+        "salary_min": 97760,
+        "created": "2026-11-20T21:36:15Z",
+        "contract_time": "part_time",
+        "description": "Pay Range: $47.00hr - $52.00hr Job Overview: The Automation Analyst is responsible for supporting the end-to-end lifecycle of enterprise automation initiatives as a subject matter expert for the automation solution, from initial project intake and business process Client through requirements definition, development coordination, testing, implementation, and operational handoff. The Automation Analyst is responsible for understanding business processes and objectives, translating stakeholder nee\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973415485?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Tennessee",
+            "Davidson County",
+            "Nashville"
+          ],
+          "display_name": "Nashville, Davidson County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5973415485",
+        "salary_max": 108160,
+        "latitude": 36.164613,
+        "longitude": -86.777425,
+        "salary_is_predicted": "0",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "title": "Senior Automation Business Analyst"
+      },
+      {
+        "company": {
+          "display_name": "Aditi Consulting",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 145600,
+        "created": "2026-11-20T21:36:12Z",
+        "redirect_url": "https://www.adzuna.com/details/5973415389?utm_medium=api&utm_source=d30dc240",
+        "description": "Payrate: $70.00 - $75.00/hr Summary: Strategizes the planning, design, and optimization of data center white space, including rack layout, hot/cold aisle containment, power distribution, cable pathways, and build phases, ensuring a transformative impact on broader strategies and industry standards. Leads engagements with colocation providers, developers, and multidisciplinary internal teams (e.g., mechanical, plumbing, construction operations) to drive the strategic alignment and execution of i\u2026",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT2xYSW4xZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDE1Mzg5In0.0ERlIW8r1245DEUIKC4ee6-HQRGd5j5tv3ays9DynS4",
+        "location": {
+          "area": [
+            "US",
+            "Tennessee",
+            "Davidson County",
+            "Nashville"
+          ],
+          "display_name": "Nashville, Davidson County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973415389",
+        "salary_max": 156000,
+        "latitude": 36.146286,
+        "longitude": -86.792457,
+        "salary_is_predicted": "0",
+        "title": "Business Analyst",
+        "category": {
+          "label": "Engineering Jobs",
+          "tag": "engineering-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "salary_is_predicted": "1",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -84.522934,
+        "title": "Business Analyst - Lansing, MI",
+        "salary_max": 33281.34,
+        "latitude": 42.704602,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Lansing, Ingham County",
+          "area": [
+            "US",
+            "Michigan",
+            "Ingham County",
+            "Lansing"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973415364",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT2xYSW4xZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDE1MzY0In0.abV9-27IQAnv6wLGiywsYa1-SbCGvKVpgnN0_zisrKM",
+        "salary_min": 33281.34,
+        "company": {
+          "display_name": "Digital Technology Solutions",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:36:12Z",
+        "contract_time": "full_time",
+        "description": "DTS is looking for experienced Business Analyst for our client project in Lansing, MI Job Description Required skills \u00b7 -10 years of experience as a Business Analyst - Experience and familiarity with CMS\u2019s Analysis of Alternatives template and MMIS RFP Cost Benefit Analysis. \u00b7 -Medicaid Enterprise Systems (MES/MMIS) consulting experience and CMS Advanced Planning Document (APD) support experience. \u00b7 -Medicaid consulting expertise to assist in gathering industry information and providing a total\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973415364?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "salary_is_predicted": "0",
+        "title": "Business Analyst/Staff Analyst (Environmental investigations / Lead inspections)",
+        "longitude": -73.93254,
+        "id": "5973415299",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Astoria, Queens",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "New York",
+            "New York City",
+            "Queens",
+            "Astoria"
+          ]
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973415299?utm_medium=api&utm_source=d30dc240",
+        "description": "Trigyn's direct government client has an immediate need for Business Analyst / Staff Analyst in Long Island City, NY. Description: Manage, monitor, revise and review vendors XRF lead report for HPD submissions; assist with Maximo data entry, verify invoices from various vendors; Review multiple development directories in Teams for incoming reports; Download WO folders and XRF datasheet files; QA files for basic processing requirements; etc.",
+        "created": "2026-11-20T21:36:10Z",
+        "salary_min": 93600,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "TRIGYN TECHNOLOGIES, INC."
+        },
+        "latitude": 40.74816,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNTI5OSIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.JP9yljDWsw2BSLiUejA_VC-86LGw7tnQBaz87VfetiE",
+        "salary_max": 99840
+      },
+      {
+        "location": {
+          "display_name": "Texas, US",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973415026",
+        "salary_min": 85567.71,
+        "company": {
+          "display_name": "vaaridatech",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:36:04Z",
+        "redirect_url": "https://www.adzuna.com/details/5973415026?utm_medium=api&utm_source=d30dc240",
+        "description": "Role -Product Owner with P&C Background Location -Dallas TX / Bloomington, IL Job type- Full Time Employment Job description Below Job Summary The Product Owner will manage and prioritize the product backlog for Property & Casualty insurance solutions, with a primary focus on Personal Auto products and policy administration. This role translates business needs into actionable product and technical requirements and collaborates with product managers, business analysts, architects, engineering le\u2026",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT2xYSW4xZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDE1MDI2In0.gc7Y7j5f3-X9tvu4Zd7CIxoTBFXZbrsemgj2xZ2yAnw",
+        "title": "Product Owner with P&C Background",
+        "longitude": -98.656775,
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "1",
+        "contract_type": "permanent",
+        "salary_max": 85567.71,
+        "latitude": 31.709263
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Michigan",
+            "Ingham County",
+            "Lansing"
+          ],
+          "display_name": "Lansing, Ingham County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5973414980",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Digital Technology Solutions"
+        },
+        "salary_min": 69029.16,
+        "created": "2026-11-20T21:36:03Z",
+        "description": "DTS is looking for .Net Angular Developer for our direct client position in Lansing, MI Top Skills & Years of Experience: \u2022 6 years of Angular Development experience \u2022 6 years of experience with Azure DevOps \u2022 6 years of experience with .NET technologies \u2022 6 years of experience with Cloud AWS Migration \u2022 Strong experience working within process-oriented Agile methodologies \u2022 Proven experience with Test-Driven Development \u2022 Experience with Playwright for integration testing \u2022 Clear and concise w\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973414980?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNDk4MCIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.TT9Li3XYZVDPBC3oyHYVu8dKngEmfEjGRjbt00Vsv5A",
+        "longitude": -84.522934,
+        "title": ".Net Angular Developer - Lansing, MI",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_is_predicted": "1",
+        "salary_max": 69029.16,
+        "latitude": 42.704602
+      },
+      {
+        "latitude": 44.841468,
+        "salary_max": 137280,
+        "contract_type": "contract",
+        "salary_is_predicted": "0",
+        "longitude": -93.161187,
+        "title": "508 Accessibility Consultant - Remote",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT2xYSW4xZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDE0OTI0In0.F1PQkRPgW5XqYfceNbGbT1Sbu2n7X1aIeM3HIUS0UtU",
+        "created": "2026-11-20T21:36:02Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Genesis10"
+        },
+        "salary_min": 133120,
+        "description": "Genesis10 is currently seeking a Business Analyst / Accessibility Consultant for a contract position with a Leading Pharmacy Benefit Manager located in Eagan, MN. Compensation: $64.00 - $66.00 per hour, W2, based on qualifications Position Overview: We are seeking an experienced Business Analyst / Accessibility Consultant to support an upcoming government healthcare program implementation by conducting accessibility assessments of critical contact center applications. The ideal candidate will h\u2026",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973414924?utm_medium=api&utm_source=d30dc240",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Eagan, Dakota County",
+          "area": [
+            "US",
+            "Minnesota",
+            "Dakota County",
+            "Eagan"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973414924"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Sacramento, Sacramento County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "California",
+            "Sacramento County",
+            "Sacramento"
+          ]
+        },
+        "id": "5973414696",
+        "created": "2026-11-20T21:35:56Z",
+        "company": {
+          "display_name": "HTC Global Services Inc",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 186779.64,
+        "description": "Job Title -Senior Software Engineer (Azure, C#/.NET & React) Position Overview Work on sophisticated software solutions spanning on-premises, hybrid, and cloud environments, leveraging Microsoft Azure, C#/.NET, and React. This role offers the opportunity to develop scalable applications, build APIs and microservices, contribute to cloud architecture, and support application modernization and cloud migration initiatives. The ideal candidate brings strong hands-on software engineering experience,\u2026",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973414696?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNDY5NiIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.W7PhY3HMsf2jT2VFsBgvnCnAuZk7d6M7GAtYX1Ej0Uw",
+        "title": "SE3 - Azure Engineer with C# and T-SQL",
+        "salary_is_predicted": "1",
+        "longitude": -121.465873,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "contract_type": "permanent",
+        "latitude": 38.571652,
+        "salary_max": 186779.64
+      },
+      {
+        "salary_is_predicted": "1",
+        "title": "Lead Salesforce Developer",
+        "longitude": -81.52728,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "latitude": 28.416,
+        "salary_max": 84204.88,
+        "id": "5973414645",
+        "location": {
+          "area": [
+            "US",
+            "Florida",
+            "Orange County",
+            "Lake Buena Vista"
+          ],
+          "display_name": "Lake Buena Vista, Orange County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973414645?utm_medium=api&utm_source=d30dc240",
+        "description": "Relocation Assistance may be available Position Summary As a member of the professional staff, contributes specialized knowledge and skill in a discipline (e.g., Accounting, Finance, Human Resources, Information Technology, Operations Planning & Support, Sales & Marketing) area to support team and/or department business objectives. Generally, works under limited supervision, but within established guidelines, producing and analyzing more complex business information to assist in the decision-ma\u2026",
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:35:55Z",
+        "salary_min": 84204.88,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Marriott Vacations Worldwide"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNDY0NSIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.vFzaOn_0AWpdqNLKPGCrFqi-lGr2vYJ1HE2Apc2oDqo"
+      },
+      {
+        "location": {
+          "area": [
+            "US"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "US"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973414381",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "1",
+        "title": "Business Analyst",
+        "salary_max": 76604.88,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT2xYSW4xZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDE0MzgxIn0.BZsyh9XrTgTT42V-gz2-T_2lTrQ2ZnODCtQYz1CGVaY",
+        "created": "2026-11-20T21:35:48Z",
+        "salary_min": 76604.88,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Hirekeyz Inc"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973414381?utm_medium=api&utm_source=d30dc240",
+        "description": "HireKeyz INC is seeking a technical Business Analyst for a contract engagement supporting the Mississippi Department of Education. This role is remote, supporting a Jackson-based agency. Focus areas: technical business analysis and quality assurance. Requisition 155286."
+      },
+      {
+        "salary_max": 93600,
+        "latitude": 36.067604,
+        "longitude": -79.756811,
+        "salary_is_predicted": "0",
+        "title": "Benefits Systems Analyst \u2013 HRIS / SuccessFactors",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNDQxMyIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.0blKyceSNh7DN8PmvZETYdaPxAe3C9B5U_posiG2K_M",
+        "company": {
+          "display_name": "Advanced Personnel Resources, Inc.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 83200,
+        "created": "2026-11-20T21:35:48Z",
+        "description": "Advanced Personnel Resources is currently recruiting for an experienced Benefits Systems Analyst (HRIS) for one of our premier clients. Please note: This is not a general Business Analyst, Data Analyst, Financial Analyst, or IT Analyst position. Candidates must have professional experience supporting HRIS, Benefits Administration, Payroll, Compensation, or related HR systems. What We\u2019re Looking For The ideal candidate brings 5 years of hands-on HR systems experience and understands how Benefits\u2026",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973414413?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "North Carolina",
+            "Guilford County",
+            "Greensboro"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Greensboro, Guilford County"
+        },
+        "id": "5973414413"
+      },
+      {
+        "longitude": -92.25231,
+        "salary_is_predicted": "1",
+        "title": "Mainframe Developer",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "latitude": 38.882174,
+        "salary_max": 123481.59,
+        "contract_type": "permanent",
+        "location": {
+          "area": [
+            "US",
+            "Missouri",
+            "Boone County",
+            "Columbia"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Columbia, Boone County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973414176",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNDE3NiIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.2TMuJZIfIehr1Hf4Fe_Fw4ke_JNGxow0tB-21fl8BrM",
+        "created": "2026-11-20T21:35:43Z",
+        "company": {
+          "display_name": "HTC Global Services Inc",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 123481.59,
+        "redirect_url": "https://www.adzuna.com/details/5973414176?utm_medium=api&utm_source=d30dc240",
+        "description": "Senior Mainframe Developer \u2013 Enterprise COBOL / NaturalOne (Financial Systems) Position Overview Work on a specialized enhancement to an established z/OS financial accounting platform, introducing composite reservoir accounts into an existing production environment. This role involves extending a large, established COBOL application to support pooled account structures while maintaining existing balances, posting accuracy, settlement, accruals, reporting, and reconciliation processes. The posit\u2026",
+        "contract_time": "full_time"
+      },
+      {
+        "longitude": -77.528317,
+        "salary_is_predicted": "1",
+        "title": "Portfolio Data Analyst 3",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_max": 87586.2,
+        "latitude": 37.660285,
+        "id": "5973414167",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Staples Mill, Henrico County",
+          "area": [
+            "US",
+            "Virginia",
+            "Henrico County",
+            "Staples Mill"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNDE2NyIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.kA6EJiEmK31uXnycqbXoi019MmppzEMRKrVZSGHLGvc",
+        "redirect_url": "https://www.adzuna.com/details/5973414167?utm_medium=api&utm_source=d30dc240",
+        "description": "Portfolio Data Analyst 3 Location: Richmond 2 days a week onsite VA Interview Types: Both Web Cam and In Person. (The first will be a webcam, followed by a in-person in Richmond VA) Summary: We need a (Portfolio) Data Analyst with experience with multiple data sources and creating visualizations of that data analysis. The Portfolio Data Analyst is a role within the PMCOE, created to elevate the Commonwealth's IT portfolio intelligence from compliance reporting to strategic decision support. Thi\u2026",
+        "contract_time": "full_time",
+        "salary_min": 87586.2,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Lateral Insights LLC"
+        },
+        "created": "2026-11-20T21:35:43Z"
+      },
+      {
+        "salary_is_predicted": "1",
+        "longitude": -74.044957,
+        "title": "Senior Credit Risk BA/PM - Hybrid",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_max": 154780.06,
+        "latitude": 40.721167,
+        "contract_type": "contract",
+        "location": {
+          "area": [
+            "US",
+            "New Jersey",
+            "Hudson County",
+            "Jersey City"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Jersey City, Hudson County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973414108",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNDEwOCIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.sdzzRGx3bkcSEhWvvmjPh3OZY0kqOq19Kidg8lrtwPQ",
+        "company": {
+          "display_name": "Genesis10",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 154780.06,
+        "created": "2026-11-20T21:35:42Z",
+        "description": "Genesis10 is currently seeking a Senior Credit Risk BA/PM - Hybrid position with a Global Financial Institution located in Jersey City, NJ. This is a 6 month contract opportunity. This role serves as a liaison between business stakeholders and technical teams, analyzing business processes, gathering requirements, and recommending solutions to support strategic objectives and operational improvements. Responsibilities: Gather and document business requirements through stakeholder interviews, wor\u2026",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973414108?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "id": "5973414124",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Charlotte, Mecklenburg County",
+          "area": [
+            "US",
+            "North Carolina",
+            "Mecklenburg County",
+            "Charlotte"
+          ]
+        },
+        "description": "Job Title: Business Analyst Location: Charlotte, NC Work Arrangement: Hybrid Client Industry: Banking Client Duration: 12 months contract Schedule: Monday to Friday, 8 AM \u2013 5 PM Must-Haves: 6 years of Business Analyst experience Capture information, gather requirements, UAT Testing Digital Assets experience: Crypto, Bitcoin, Ethereum, Distributed ledger technology, blockchain, custody settlement, etc Day To Day: This Digital Assets Business Analyst will join the Corporate Investment Banking Ope\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973414124?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:35:42Z",
+        "salary_min": 156000,
+        "company": {
+          "display_name": "Collabera",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNDEyNCIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.3RL1juyIEqbeuhBFuyoobaOuhiS6ztfcI2dvlLYVutI",
+        "salary_is_predicted": "0",
+        "longitude": -80.846082,
+        "title": "Business Analyst",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "contract_type": "contract",
+        "latitude": 35.232678,
+        "salary_max": 156000
+      },
+      {
+        "description": "Overview We are looking for a business data analyst for our banking client on a project basis. This contract role is onsite in New York, NY and has a duration of 3 months. Responsibilities Analyze front-to-back business processes and data flows, tracing transactions from Front Office through Middle Office, Operations, Risk, Finance, and downstream reporting. Perform data analysis, mapping, reconciliation, and root-cause analysis to identify data quality issues, process gaps, and breaks across u\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973414048?utm_medium=api&utm_source=d30dc240",
+        "salary_min": 93600,
+        "company": {
+          "display_name": "Talent Shift",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "contract_type": "contract",
+        "created": "2026-11-20T21:35:40Z",
+        "salary_max": 114400,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNDA0OCIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.pBTUXSG29XGZ6yaNpz0LRlBroQ_cY8HUeELqKHq4Chg",
+        "title": "Business Data Analyst",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "engineering-jobs",
+          "label": "Engineering Jobs"
+        },
+        "salary_is_predicted": "0",
+        "id": "5973414048",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "New York City, New York",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "New York",
+            "New York City"
+          ]
+        }
+      },
+      {
+        "latitude": 42.50848,
+        "salary_max": 145600,
+        "longitude": -71.201131,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "salary_is_predicted": "0",
+        "title": "Business Analyst",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT2xYSW4xZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDEyODc1In0.ZlkyVPRf0gVd5tGTZTqv5PQ5Nwpj24CetHwxhh2QAyI",
+        "description": "Payrate: $65.00 - $70.00/hr Required Skills: Strong communication, presentation, and interpersonal skills. Strong technical aptitude with the ability to collaborate effectively with software engineering teams. Strong analytical and problem-solving skills, including the ability to reconcile conflicting requirements and data sources. Advanced writing skills with the ability to abstract and summarize highly detailed technical and business information. Ability to translate business needs into detai\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973412875?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:35:25Z",
+        "company": {
+          "display_name": "Aditi Consulting",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 135200,
+        "id": "5973412875",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Massachusetts",
+            "Middlesex County",
+            "Burlington"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Burlington, Middlesex County"
+        }
+      },
+      {
+        "latitude": 40.676603,
+        "salary_max": 111987,
+        "longitude": -74.432146,
+        "title": "Business Analyst",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMjc1OSIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.hIHlwrut0vtfQPHEyaqDqQf8NEyF9R2BQl11blGZDGg",
+        "created": "2026-11-20T21:35:24Z",
+        "salary_min": 110240,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Aditi Consulting"
+        },
+        "contract_time": "full_time",
+        "description": "Payrate: $53.00 - $53.84/hr Summary: The main function of a business operations specialist is to maintain vendor relationships, acting as a business analyst for non-IT projects or filling organizational roles above an administrative level, but below a management level. Other responsibilities may include maintaining all project management processes, including project goals, deadlines, metrics and budget. The business operations specialist usually reports to a project manager or director. Respons\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973412759?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "New Jersey",
+            "Union County",
+            "Berkeley Heights"
+          ],
+          "display_name": "Berkeley Heights, Union County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5973412759"
+      },
+      {
+        "salary_max": 145600,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMjU1MSIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.QtT_g975io6SFlvkQXVbA-VFhS0OF9Z3XJdCvMXb9Zs",
+        "latitude": 42.50848,
+        "redirect_url": "https://www.adzuna.com/details/5973412551?utm_medium=api&utm_source=d30dc240",
+        "description": "JOB TITLE: Business Analyst JOB LOCATION: Burlington, MA WAGE RANGE*: 65- 70/ hour must be W2 JOB NUMBER:242153 JOB DESCRIPTION: Ideal Experience \u2022 5 years working within the software development lifecycle, preferably in Agile environments. \u2022 BA work experience in financial services, preferably equity trading. \u2022 Familiar with Atlassian products (Jira, Confluence) for Agile project management and collaboration. \u2022 Exposure to Independently deployed Web Based Applications\\Microservices\\SaaS suppor\u2026",
+        "salary_min": 135200,
+        "company": {
+          "display_name": "The Computer Merchant, Ltd",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:35:19Z",
+        "id": "5973412551",
+        "location": {
+          "display_name": "Burlington, Middlesex County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Massachusetts",
+            "Middlesex County",
+            "Burlington"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "title": "Business Analyst",
+        "salary_is_predicted": "0",
+        "longitude": -71.201131
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMjU1NCIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.AkRvc0nXNqI7fja5-fDcDa1p1EQnl_Gffs41McLC6Sg",
+        "redirect_url": "https://www.adzuna.com/details/5973412554?utm_medium=api&utm_source=d30dc240",
+        "description": "Genesis10 is currently seeking a Senior Programmer/Analyst (GCP) for a contract to hire position with a Regional Financial Institution located in Columbus, OH or Minneapolis, MN. Compensation: $55.00 - $68.00 per hour, W2, based on qualifications Position Overview: We are seeking a Senior Programmer/Analyst with GCP experience to support the development and ongoing enhancement of the Enterprise Payments platform. This role is a senior technical contributor responsible for the analysis, design, \u2026",
+        "contract_time": "full_time",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Genesis10"
+        },
+        "salary_min": 114400,
+        "created": "2026-11-20T21:35:19Z",
+        "id": "5973412554",
+        "location": {
+          "display_name": "Bexley, Franklin County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Ohio",
+            "Franklin County",
+            "Bexley"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 141440,
+        "latitude": 40.003601,
+        "contract_type": "contract",
+        "longitude": -82.931224,
+        "salary_is_predicted": "0",
+        "title": "Enterprise Payments IS Programmer/Analyst SR (GCP) - Hybrid",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Burlington, Middlesex County",
+          "area": [
+            "US",
+            "Massachusetts",
+            "Middlesex County",
+            "Burlington"
+          ]
+        },
+        "id": "5973412514",
+        "salary_is_predicted": "0",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "title": "Business Analyst",
+        "longitude": -71.201131,
+        "latitude": 42.50848,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT2xYSW4xZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDEyNTE0In0.M6ZqfNLmiK9ogqRY0M5J210RXNhRiKpPSBT7pdZhcy4",
+        "salary_max": 145600,
+        "created": "2026-11-20T21:35:18Z",
+        "salary_min": 135200,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "The Computer Merchant, Ltd"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973412514?utm_medium=api&utm_source=d30dc240",
+        "description": "JOB TITLE: Business Analyst JOB LOCATION: Burlington, MA WAGE RANGE*: 65 - 70 / hour Must be W2 JOB NUMBER: 242291 JOB DESCRIPTION: \u2022 Strong understanding of agent loops (ReAct, plan-and-execute) and how models decide between calling a tool and answering directly, with hands-on exposure to frameworks such as LangGraph, LangChain, OpenAI Agents SDK, Claude Agent SDK, or PydanticAI \u2022 Working knowledge of multi-agent patterns (orchestrator/worker, router, supervisor) and handoffs, using LangGraph,\u2026"
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973412371?utm_medium=api&utm_source=d30dc240",
+        "description": "We are seeking an experienced Healthcare Business Analyst to support a public health data modernization project within SHARP. We are seeking local candidates in Austin, Texas, for a hybrid position. The program will accept only local candidates for this position. The Business Analyst will gather and document business, functional, reporting, data, security, and user-access requirements. The role will facilitate stakeholder workshops, document current and future processes, develop user stories an\u2026",
+        "created": "2026-11-20T21:35:15Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "eStaffLLC"
+        },
+        "salary_min": 75079.16,
+        "latitude": 30.272921,
+        "salary_max": 75079.16,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT2xYSW4xZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDEyMzcxIn0.nZtYx3lxVuvBLmOvgxWRomKzi46AyH1eWpwRFbcZnWs",
+        "title": "Healthcare Business Analyst",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_is_predicted": "1",
+        "longitude": -97.744386,
+        "id": "5973412371",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Austin, Travis County",
+          "area": [
+            "US",
+            "Texas",
+            "Travis County",
+            "Austin"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "title": "IT Test Engineer",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "id": "5973412406",
+        "location": {
+          "area": [
+            "US"
+          ],
+          "display_name": "US",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973412406?utm_medium=api&utm_source=d30dc240",
+        "description": "JOB TITLE: IT Test Engineer JOB LOCATION: Remote WAGE RANGE*: $40-45hr w2 or $45-50hr corp to corp JOB NUMBER: 2601681 JOB DESCRIPTION Gather requirements and scenarios from Development Team, Business Analyst and other stakeholders. Work closely with Project Management Team during design phase. Prepare detailed Test Scenario & Test case Perform hands-on functional and web UI testing Create and maintain test scripts, plans, and cases Conduct regression, post-release, and UAT testing Identify, do\u2026",
+        "salary_min": 83200,
+        "company": {
+          "display_name": "The Computer Merchant, Ltd",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:35:15Z",
+        "salary_max": 104000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMjQwNiIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.zBApIZFLE4pmhgcnUivomY36Fp2mTjksmjtyQ-0suL4"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Burlington, Middlesex County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Massachusetts",
+            "Middlesex County",
+            "Burlington"
+          ]
+        },
+        "id": "5973412354",
+        "created": "2026-11-20T21:35:14Z",
+        "company": {
+          "display_name": "Aditi Consulting",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 124800,
+        "description": "Payrate: $60.00 - $65.00/hr Required Skills Strong understanding of agent loops (React, plan-and-execute) and how models decide between calling a tool and answering directly, with hands-on exposure to frameworks such as Lang Graph, Lang Chain, OpenAI Agents SDK, Claude Agent SDK, or PydanticAI Working knowledge of multi-agent patterns (orchestrator/worker, router, supervisor) and handoffs, using Lang Graph, Crew AI, or Auto Gen Experience defining function-calling specs and typed tool contracts\u2026",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973412354?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMjM1NCIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.I75Jjfh8ct02U1d2Ep46UdjZusOpq2VvkW7ERISUZc0",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "longitude": -71.201131,
+        "title": "Business Analyst",
+        "salary_is_predicted": "0",
+        "latitude": 42.50848,
+        "salary_max": 135200
+      },
+      {
+        "longitude": -84.551929,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "title": "Business Analyst 5",
+        "salary_is_predicted": "1",
+        "contract_type": "permanent",
+        "latitude": 42.731418,
+        "salary_max": 71906.41,
+        "id": "5973412299",
+        "location": {
+          "area": [
+            "US",
+            "Michigan",
+            "Ingham County",
+            "Lansing"
+          ],
+          "display_name": "Lansing, Ingham County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Job Title:Senior Business Analyst \u2013 Azure DevOps & Agile Position Overview Support business transformation and technology delivery by translating business needs into actionable requirements, process documentation, user stories, and business validation activities. This role connects business stakeholders, Product Owners, project leadership, and technical delivery teams to ensure solutions align with operational needs and are successfully adopted by end users. The Senior Business Analyst will con\u2026",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973412299?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:35:13Z",
+        "company": {
+          "display_name": "HTC Global Services Inc",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 71906.41,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMjI5OSIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.UTa1ooGGh0aSy5E6_HzYCSPgRHfGPHSv3tkTFofWcEQ"
+      },
+      {
+        "id": "5973411834",
+        "location": {
+          "area": [
+            "US",
+            "Ohio",
+            "Greene County",
+            "Wpafb"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Wpafb, Greene County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT2xYSW4xZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDExODM0In0.9pznqMZaYXQWCTGgJqlPOb1-vkx1BR6QyIcPHjsYDcU",
+        "description": "Company Overview: Integrated Data Services (IDS) is a leading provider of custom software products and Government financial management services. IDS was founded in 1997 in El Segundo, CA, and since that time has seen tremendous growth and success. Currently IDS has offices supporting customers nationwide. By providing customers with fast, efficient and reliable information systems and support services, IDS has become a preferred provider of financial and programmatic systems, services, and solu\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973411834?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:35:06Z",
+        "salary_min": 90000,
+        "company": {
+          "display_name": "Integrated Data Services",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "longitude": -84.05911,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "title": "AFLCMC OZ - Business Data Analyst (Wright Patterson Air Force Base, OH)",
+        "latitude": 39.797074,
+        "salary_max": 130000,
+        "contract_type": "contract"
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973411498?utm_medium=api&utm_source=d30dc240",
+        "description": "Genesis10 is currently seeking a Data Warehouse Leader for a contract to hire position with a Regional Financial Institution located in Columbus, OH. This is a hybrid 3 month contract-to-hire opportunity. Compensation: $100.00 - 103.00 per hour, W2 Position Overview: Our client is looking for a Data Warehouse Leader in their Data Technology organization. In this role, you will lead a team of 12-15 dedicated to pushing the limits of continuous improvement and innovation using data warehousing as\u2026",
+        "contract_time": "full_time",
+        "salary_min": 208000,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Genesis10"
+        },
+        "created": "2026-11-20T21:35:03Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMTQ5OCIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.uvg8jTQkF0W8NPSR5iqR_nWA3FtIuylNYybZnCxpLg0",
+        "id": "5973411498",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Bexley, Franklin County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Ohio",
+            "Franklin County",
+            "Bexley"
+          ]
+        },
+        "contract_type": "contract",
+        "salary_max": 214240,
+        "latitude": 40.003601,
+        "title": "Data Warehouse Leader - Hybrid",
+        "longitude": -82.931224,
+        "salary_is_predicted": "0",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "location": {
+          "area": [
+            "US",
+            "Texas",
+            "Dallas",
+            "Buckingham"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Buckingham, Dallas"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973411408",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMTQwOCIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.hm-Tn9p9xBiT4PxykGgKkWGUMjr0z_gl2Sr2cJt0lr8",
+        "created": "2026-11-20T21:35:02Z",
+        "salary_min": 114400,
+        "company": {
+          "display_name": "Genesis10",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Genesis10 is currently seeking a Senior Financial/ Business Reporting Analyst - Hybrid for a 3 month contract to hire position with a Regional Financial Institution located in Dallas, TX or Columbus, OH. Compensation: $55.00 - $57.00 per hour, W2, based on qualifications Position Overview: We are seeking an experienced Senior Business Reporting Analyst to join our Business Management Office (BMO) within the Office of the CIO. The BMO currently supports certain verticals within Technology, but o\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973411408?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "longitude": -96.770702,
+        "title": "Financial Business Reporting Analyst - Hybrid",
+        "salary_is_predicted": "0",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "latitude": 32.916625,
+        "salary_max": 118560,
+        "contract_type": "contract"
+      },
+      {
+        "description": "Genesis10 is currently seeking a Technical Business Analyst for a hybrid position with a Major Financial Institution located in Charlotte, NC. This is a 12 month contract opportunity. As part of a major digital transformation, this role will support the implementation of strategic Payments and Deposits technology platforms, enterprise integrations, and cloud-based solutions. The individual will serve as a key liaison between business stakeholders, technology teams, vendors, and project leadersh\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973411328?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:35:01Z",
+        "salary_min": 111584.09,
+        "company": {
+          "display_name": "Genesis10",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMTMyOCIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.yeUn1v4RCcD0JAEhcZ7Zepy2YH9M7IABoKr0t6jUv6g",
+        "id": "5973411328",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "North Carolina",
+            "Mecklenburg County",
+            "Charlotte"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Charlotte, Mecklenburg County"
+        },
+        "contract_type": "contract",
+        "latitude": 35.227415,
+        "salary_max": 111584.09,
+        "title": "Technical Business Analyst - Hybrid",
+        "salary_is_predicted": "1",
+        "longitude": -80.84523,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        }
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMDYyOSIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.Ez8eIImGdNJU9V37eQpO4zbBufMKXxpv0IdNphx9_5w",
+        "created": "2026-11-20T21:34:55Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Genesis10"
+        },
+        "salary_min": 103734.7,
+        "description": "Genesis10 is currently seeking a Business Analyst / Test Coordinator for a hybrid contract position with a Global Financial Institution located in Charlotte, NC. This is a 12 month contract opportunity. This role supports a large-scale ACH Back-Office platform implementation as part of a major digital transformation initiative. The successful candidate will act as a key liaison between business, operations, and technology teams, responsible for the full lifecycle of requirements gathering, busi\u2026",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973410629?utm_medium=api&utm_source=d30dc240",
+        "location": {
+          "area": [
+            "US",
+            "North Carolina",
+            "Mecklenburg County",
+            "Charlotte"
+          ],
+          "display_name": "Charlotte, Mecklenburg County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973410629",
+        "latitude": 35.227415,
+        "salary_max": 103734.7,
+        "contract_type": "contract",
+        "longitude": -80.84523,
+        "title": "Business Analyst / Test Coordinator - Hybrid",
+        "salary_is_predicted": "1",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        }
+      },
+      {
+        "longitude": -74.044957,
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_is_predicted": "1",
+        "title": "GRC Business Analyst - Hybrid",
+        "salary_max": 139796.27,
+        "latitude": 40.721167,
+        "contract_type": "contract",
+        "id": "5973410460",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Jersey City, Hudson County",
+          "area": [
+            "US",
+            "New Jersey",
+            "Hudson County",
+            "Jersey City"
+          ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMDQ2MCIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.8Pgu_AsW3flLgTIWuA0oaYfKLphinC2Qki1vz57qyvs",
+        "redirect_url": "https://www.adzuna.com/details/5973410460?utm_medium=api&utm_source=d30dc240",
+        "description": "Genesis10 is currently seeking a Business Analyst - Hybrid for a 6 month contract position with a Major Financial Institution located in Jersey City, NJ. Serves as a liaison between business stakeholders and technical teams, analyzing business processes, gathering requirements, and recommending solutions to support strategic objectives and operational improvements. Responsibilities: Gather and document business requirements through stakeholder interviews, workshops, and analysis Analyze current\u2026",
+        "contract_time": "full_time",
+        "salary_min": 139796.27,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Genesis10"
+        },
+        "created": "2026-11-20T21:34:53Z"
+      },
+      {
+        "id": "5973410420",
+        "location": {
+          "display_name": "Clive, Polk County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Iowa",
+            "Polk County",
+            "Clive"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT2xYSW4xZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDEwNDIwIn0.DMg_k85QlHzCzZiUrJZPklAu4okhEXXReMU1Ya4vPJc",
+        "contract_time": "full_time",
+        "description": "Life Business Configuration Analyst Are you eager to join a diverse team committed to driving meaningful change? Do you excel at multi-tasking, adapting, and prioritizing in a fast-paced environment? If you're a strong communicator who works well independently, this Life Business Configuration Analyst role could be your next great opportunity! Who We Are: At Farm Bureau Financial Services, we make insurance simple so our client/members can feel confident knowing their family, home, cars and oth\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973410420?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:34:52Z",
+        "salary_min": 75696.23,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Farm Bureau Financial Services"
+        },
+        "title": "Life Business Analyst II",
+        "longitude": -93.788926,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "salary_is_predicted": "1",
+        "latitude": 41.57978,
+        "salary_max": 75696.23
+      },
+      {
+        "latitude": 42.704602,
+        "salary_max": 58389.63,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "longitude": -84.522934,
+        "title": "Business Analyst (Azure DevOps) - Lansing, MI",
+        "salary_is_predicted": "1",
+        "created": "2026-11-20T21:34:50Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Digital Technology Solutions"
+        },
+        "salary_min": 58389.63,
+        "description": "DTS is looking for experienced Business Analyst (Azure DevOps) for our client project in Lansing, MI Job Description Required Skills: -8 years of experience gathering requirements from user -6 years of experience designing technical and business requirement documentation -4 years of experience with Agile methodology / SCRUM processes and ceremonies -3 years of experience maintaining and organizing Epics, Features, User Stories, and Tasks using Azure DevOps backlog management tools (Kanban board\u2026",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973410350?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMDM1MCIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.CkiyTKRylnJjrFQCBZcDUc_NLcX4OqKZjZZh4kXAsN0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Michigan",
+            "Ingham County",
+            "Lansing"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Lansing, Ingham County"
+        },
+        "id": "5973410350"
+      },
+      {
+        "latitude": 40.571755,
+        "salary_max": 109567.25,
+        "title": "Business Analyst",
+        "salary_is_predicted": "1",
+        "longitude": -74.317366,
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "description": "Business Analyst (1 Openings) Date: Start Date: 10/01/2025 Job Description: Perform the functional analysis, define project scope, end deliverables and project plan for medium to complex digital transformation programs in Insurance and Fintech domains. Gather and document business and functional requirements (Elicit, define & refine) for enterprise platforms such as Guidewire PolicyCenter, Salesforce, and CGI Collections360. Collaborate with stakeholders, SMEs, and architects to define data mod\u2026",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973410012?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:34:46Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Tanisha Systems"
+        },
+        "salary_min": 109567.25,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMDAxMiIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.g6eTPL_lck8YWYX64deiZ6TETtWKD5mBsZbS3tcy6js",
+        "id": "5973410012",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Iselin, Middlesex County",
+          "area": [
+            "US",
+            "New Jersey",
+            "Middlesex County",
+            "Iselin"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "salary_max": 87577.34,
+        "latitude": 42.704602,
+        "longitude": -84.522934,
+        "title": "Data Warehouse Architect - Lansing, MI",
+        "salary_is_predicted": "1",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "company": {
+          "display_name": "Digital Technology Solutions",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 87577.34,
+        "created": "2026-11-20T21:34:45Z",
+        "contract_time": "full_time",
+        "description": "DTS is looking for Data Warehouse Architect for a direct client position in Lansing, MI Job Description: Required Skills: 1. Minimum 4 years of hand-on experience is required in hydrating the enterprise Data Lake on a Cloud Service Provider (AWS, Azure, or Google) from relational, semi-structured and unstructured data sources by building Extract and Load Data Pipelines. 2. Minimum of 4 years hands-on experience is required in Transforming the datasets in a Data Lake on a Cloud Service Provider \u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973409948?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwOTk0OCIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.xAQGoRoQPijxv_60YSdsGg-ws8P3HUJB3MNm9lBRpcA",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Lansing, Ingham County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Michigan",
+            "Ingham County",
+            "Lansing"
+          ]
+        },
+        "id": "5973409948"
+      },
+      {
+        "location": {
+          "area": [
+            "US",
+            "New Jersey",
+            "Somerset County",
+            "Warren"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Warren, Somerset County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973409157",
+        "longitude": -74.509387,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "title": "AI Data Analyst",
+        "salary_is_predicted": "1",
+        "latitude": 40.631435,
+        "salary_max": 76435.73,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwOTE1NyIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.kGdrnBowuiDcM9uIBh5ikua10fUk-l3Sfb9MGb3x2tM",
+        "created": "2026-11-20T21:34:35Z",
+        "company": {
+          "display_name": "Aquestive Therapeutics Inc.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 76435.73,
+        "description": "Job Summary: The AI Data Analyst transforms business questions and complex data into trusted analyses, dashboards, predictive insights, and responsible AI-enabled solutions. This role combines analytics, reporting, visualization, and emerging AI technologies to improve operational efficiency and business performance. The ideal candidate is a recent Master\u2019s graduate or early-career professional who is passionate about data, technology, and solving business challenges in a growing biopharmaceuti\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973409157?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "latitude": 38.255693,
+        "salary_max": 42138.25,
+        "contract_type": "contract",
+        "longitude": -85.751283,
+        "salary_is_predicted": "1",
+        "title": "Business Analyst 1527",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwODcyNCIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.1RVn5LPD7hos8eef2nH2eEDuf2loS3vo-DbzLZTUWo0",
+        "description": "TCI has and immediate need for a Business Analyst in Louisville, KY.This is not a C2C opportunity. Work is on-site. SUMMARY The Business/Tax Analyst is responsible for preparing various indirect tax returns, assisting with and supporting the overall tax compliance function of the organization and special projects as assigned. This role will report to the Indirect Tax Manager. Essential Responsibilities Prepares, files, and pays sales & use, gross receipts, and provider tax returns via check or \u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973408724?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:34:26Z",
+        "company": {
+          "display_name": "Technology Consulting Inc",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 42138.25,
+        "id": "5973408724",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Louisville, Jefferson County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Kentucky",
+            "Jefferson County",
+            "Louisville"
+          ]
+        }
+      },
+      {
+        "description": "Payrate: $42.00 - $42.76/hr Responsibilities: Monitor and analyze key business metrics such as revenue, profit, and market share to support management decision-making Support forecasting and planning processes by providing data-driven insights and analysis Prepare periodic (monthly/quarterly/annual) performance reports summarizing financial and business results Analyze trends and variances in revenue, profit, and market share across business units and time periods Prepare presentation materials\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973408720?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:34:26Z",
+        "salary_min": 87360,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Aditi Consulting"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwODcyMCIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.aw_N4IcKUd-8E20zJ8P1eXTQv5oqo1PDY0fiQK2jneA",
+        "id": "5973408720",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Plano, Collin County",
+          "area": [
+            "US",
+            "Texas",
+            "Collin County",
+            "Plano"
+          ]
+        },
+        "latitude": 33.056019,
+        "salary_max": 88940,
+        "title": "Business Analyst",
+        "longitude": -96.737561,
+        "salary_is_predicted": "0",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs"
+        }
+      },
+      {
+        "title": "Senior Business Analyst",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_is_predicted": "1",
+        "longitude": -75.940099,
+        "id": "5973408655",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Greenfield Manor, Berks County",
+          "area": [
+            "US",
+            "Pennsylvania",
+            "Berks County",
+            "Greenfield Manor"
+          ]
+        },
+        "description": "Position Title: Senior Business Analyst Description: Position Summary: This role partners with sales and operations leaders to deliver pricing insights that support company objectives. Key responsibilities include analyzing pricing performance, developing recommendations that support revenue and profit goals, and translating findings into clear, actionable guidance for business leaders. Insights will be shared with field leadership through collaborative discussions, persuasive presentations, an\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973408655?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:34:25Z",
+        "salary_min": 140607.86,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Penske Truck Rental"
+        },
+        "latitude": 40.348325,
+        "salary_max": 140607.86,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT2xYSW4xZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDA4NjU1In0.NGnw14RK-JuNHUQ-A-pn68c6plnJQ7jB5rPXPtAQ3n0"
+      },
+      {
+        "salary_is_predicted": "0",
+        "title": "Req:: Sr. AI Consultant with AI adoption _ Plano, TX (Hybrid)",
+        "longitude": -96.733343,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "contract_type": "permanent",
+        "salary_max": 75,
+        "latitude": 33.060381,
+        "id": "5973408570",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Texas",
+            "Collin County",
+            "Plano"
+          ],
+          "display_name": "Plano, Collin County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "description": "We are seeking a highly motivated and experienced AI Consultant with a proven background in AI adoption to join our AI Center of Excellence (AI COE). This position is ideal for a senior, hands-on candidate who advises customers on how to apply AI to their business, turns that advice into working results, and reports to the AI COE Lead. The role supports Client business domains, primarily in an advisory capacity, across Security (enterprise security and cybersecurity), Manufacturing, Infrastruct\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973408570?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "display_name": "iFlow Inc",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 70,
+        "created": "2026-11-20T21:34:24Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwODU3MCIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.eMoFDW2lNdvBdMUY13g4w9JUviYwY_sjL02rB0GRhQw"
+      },
+      {
+        "salary_max": 125521.76,
+        "latitude": 33.97008,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "salary_is_predicted": "1",
+        "longitude": -84.23604,
+        "title": "Senior Data Engineer",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwODI1MyIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.wAdNC1bcYXZ5IXX_rgXJW67yklPkq_ZPKYA2OtrlYcA",
+        "salary_min": 125521.76,
+        "company": {
+          "display_name": "Capstone Logistics LLC",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:34:20Z",
+        "description": "Senior Data Engineer Sponsorship is not provided No Third Party Resumes Onsite in Peachtree Corners, GA - Hybrid Salary - Competitive Position Summary We are seeking an experienced, highly motivated Senior Data Engineer to help design, develop, and optimize our enterprise data infrastructure. This role requires a strong technical background in data engineering, cloud-based technologies, and modern data architecture, with a particular focus on Microsoft Azure, Azure Databricks, Azure Data Factor\u2026",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973408253?utm_medium=api&utm_source=d30dc240",
+        "location": {
+          "area": [
+            "US",
+            "Georgia",
+            "Gwinnett County",
+            "Parkway"
+          ],
+          "display_name": "Parkway, Gwinnett County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973408253"
+      },
+      {
+        "location": {
+          "display_name": "Lansing, Ingham County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Michigan",
+            "Ingham County",
+            "Lansing"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973407440",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwNzQ0MCIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.ZKY-iR0LxyzDEF0qs5RhLgEWU4WRek9T4KaTLEqnJX4",
+        "salary_min": 114543.54,
+        "company": {
+          "display_name": "Digital Technology Solutions",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:34:08Z",
+        "redirect_url": "https://www.adzuna.com/details/5973407440?utm_medium=api&utm_source=d30dc240",
+        "description": "DTS is looking for Salesforce Architect for a long term contract with our direct client Position in Lansing, MI Top Skills & Years of Experience: 5 years of experience gathering and analyzing business and technical requirements in collaboration with stakeholders Experience designing and implementing CI/CD pipelines, including pipeline-as-code, branching strategies, automated code reviews, and testing aligned with organizational goals Strong ability to communicate technical concepts clearly and \u2026",
+        "contract_time": "full_time",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -84.522934,
+        "salary_is_predicted": "1",
+        "title": "Salesforce Architect - Lansing, MI",
+        "salary_max": 114543.54,
+        "latitude": 42.704602,
+        "contract_type": "contract"
+      },
+      {
+        "location": {
+          "area": [
+            "US",
+            "Pennsylvania",
+            "Montgomery County",
+            "Center Square"
+          ],
+          "display_name": "Center Square, Montgomery County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973406678",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "title": "Business Analyst - Guidewire ClaimCenter - Property & Casualty (P&C) Insurance",
+        "longitude": -75.2796,
+        "salary_is_predicted": "0",
+        "latitude": 40.15866,
+        "salary_max": 156000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwNjY3OCIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.qJYYC3gBuPd2tYRrZhJIL4yUE4Xy_Fw6ZgP3s2xhilo",
+        "created": "2026-11-20T21:33:54Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Beta-Search, Inc"
+        },
+        "salary_min": 135200,
+        "description": "Position: Senior Business Analyst \u2013 Guidewire ClaimCenter Experience: 7 Years Domain: Property & Casualty (P&C) Insurance Certification: Guidewire ClaimCenter Certification \u2013 Mandatory Job Summary We are looking for an experienced Business Analyst with 7 years of experience in the P&C Insurance domain and strong functional expertise in Guidewire ClaimCenter. The ideal candidate must be Guidewire ClaimCenter certified, with a good understanding of end-to-end claims management processes and hands\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973406678?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "id": "5973406547",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "California",
+            "Santa Clara County",
+            "San Jose"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "San Jose, Santa Clara County"
+        },
+        "contract_time": "full_time",
+        "description": "Career Switchers: for People Moving from Non-Tech TO Tech Domain Knowledge Is an Asset Until You Cannot Query It Teachers, finance ops, marketing coordinators, researchers, and business analysts often have the judgment companies want and none of the stack they screen for. You cannot get a data analyst interview because your resume still reads like your last industry, not like SQL, Tableau, and a project that answers a business question. SynergisticIT Data Science JOPP is a fit for career change\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973406547?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:33:51Z",
+        "company": {
+          "display_name": "SynergisticIT",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 82000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiT2xYSW4xZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDA2NTQ3In0.9tI73-MAtKdmO5NnGvFoH_H8VcECFVqqPFpnfwZopKU",
+        "title": "Entry Level Java Developer / AWS Cloud Engineer (Remote)",
+        "longitude": -121.856157,
+        "salary_is_predicted": "0",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "latitude": 37.374431,
+        "salary_max": 136000
+      },
+      {
+        "id": "5973406470",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Wisconsin",
+            "Milwaukee County",
+            "Milwaukee"
+          ],
+          "display_name": "Milwaukee, Milwaukee County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwNjQ3MCIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.M5k03QaaLJuC3SrD4thF9DKk_3V1W_l4KYUm_rHn99s",
+        "redirect_url": "https://www.adzuna.com/details/5973406470?utm_medium=api&utm_source=d30dc240",
+        "description": "Genesis10 is currently seeking a Business Analyst - Hybrid position with a Major Financial Services Company located in Milwaukee, WI. This is a 12 month contract opportunity. Compensation: $41.00 - $51.00 per hour, W2, based on qualifications Position Overview: The Business Analyst works on a cross-functional team to develop deep knowledge of a specific business area and define how technology can drive business results. Using Agile methodologies, this role connects business needs with technolog\u2026",
+        "contract_time": "full_time",
+        "company": {
+          "display_name": "Genesis10",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 85280,
+        "created": "2026-11-20T21:33:49Z",
+        "title": "Business Analyst - Hybrid",
+        "salary_is_predicted": "0",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -87.898317,
+        "salary_max": 106080,
+        "latitude": 43.046598,
+        "contract_type": "contract"
+      },
+      {
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "longitude": -74.489971,
+        "title": "Business Analyst \u2013 P&C Insurance \u2013 Duck Creek Policy",
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Morristown, Morris County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "New Jersey",
+            "Morris County",
+            "Morristown"
+          ]
+        },
+        "id": "5973406188",
+        "salary_min": 135200,
+        "company": {
+          "display_name": "Beta-Search, Inc",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:33:44Z",
+        "redirect_url": "https://www.adzuna.com/details/5973406188?utm_medium=api&utm_source=d30dc240",
+        "description": "Position: Business Analyst Domain: Property & Casualty (P&C) Insurance Experience: Relevant experience in Business Analysis with strong P&C Insurance domain knowledge Job Summary We are looking for a Business Analyst with good experience in the Property & Casualty (P&C) Insurance domain, particularly on the Policy Administration side. The ideal candidate should have a sound understanding of insurance policy processes and hands-on exposure to Duck Creek, preferably with experience working on Duc\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwNjE4OCIsInMiOiJPbFhJbjFmbDhSR3daNmdHUnhfdG5BIn0.iKPzvo5ZyUnH2GIrgyQrXlT3F_4cCD_1nI6mWaw56CQ",
+        "salary_max": 156000,
+        "latitude": 40.795433
+      }
+    ],
+    "count": 22972,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "mean": 112783.03
+  }
+}

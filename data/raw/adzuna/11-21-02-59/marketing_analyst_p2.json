@@ -1,0 +1,1667 @@
+{
+  "search_term": "marketing analyst",
+  "fetched_at": "11-21-02-59",
+  "response": {
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "mean": 133407.69,
+    "count": 1883,
+    "results": [
+      {
+        "salary_max": 112929.99,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjM2NDM1NyIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.n70COf2DXUK9gYTiDRNy-SF1nWXwJOIJphYtPDdB34U",
+        "latitude": 40.039498,
+        "salary_min": 112929.99,
+        "company": {
+          "display_name": "Crown Equipment Corporation",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-19T22:56:16Z",
+        "redirect_url": "https://www.adzuna.com/details/5972364357?utm_medium=api&utm_source=d30dc240",
+        "description": "Company Description: Crown Equipment Corporation is a leading innovator in world-class forklift and material handling equipment and technology. As one of the world\u2019s largest lift truck manufacturers, we are committed to providing the customer with the safest, most efficient and ergonomic lift truck possible to lower their total cost of ownership. Job Posting External COMPANY: Crown Equipment Corporation LOCATION: 1050 South Dorset Road, Troy, OH 45373 TITLE: Software Developer 3 AEM DUTIES: Del\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Ohio",
+            "Miami County",
+            "Troy"
+          ],
+          "display_name": "Troy, Miami County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5972364357",
+        "title": "Software Developer 3 AEM",
+        "salary_is_predicted": "1",
+        "longitude": -84.203277,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        }
+      },
+      {
+        "id": "5972342216",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Lenox Square Finance, Fulton County",
+          "area": [
+            "US",
+            "Georgia",
+            "Fulton County",
+            "Lenox Square Finance"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "1",
+        "longitude": -84.39,
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Marketing Analyst",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakpjeG5WZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyMzQyMjE2In0.tyjrgixpfQAq_96PaDs1fIHJ8cIF3oXpi6pv3Yfv5lg",
+        "salary_max": 69163.06,
+        "latitude": 33.85,
+        "redirect_url": "https://www.adzuna.com/land/ad/5972342216?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=72A57D76DF7839A363E4926452915D92A26E4680",
+        "description": "About Us Visa is a world leader in payments technology, facilitating transactions between consumers, merchants, financial institutions and government entities across more than 200 countries and territories, dedicated to uplifting everyone, everywhere by being the best way to pay and be paid. At Visa, you'll have the opportunity to create impact at scale - tackling meaningful challenges, growing your skills and seeing your contributions impact lives around the world. Join Visa and do work that m\u2026",
+        "company": {
+          "display_name": "Visa",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 69163.06,
+        "created": "2026-11-19T22:32:04Z"
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5972184853?utm_medium=api&utm_source=d30dc240",
+        "description": "Company: Simon Quick Advisors Position: Digital Marketing Analyst Location: New York, NY (hybrid) Compensation: Starting at $70,000; salary and bonus based on industry standards and experience level. _______________________________________________________________________________ Company Description Simon Quick Advisors is an independent, employee-owned RIA that offers holistic financial planning solutions for affluent families, business owners and executives. We offer sophisticated strategies b\u2026",
+        "created": "2026-11-19T18:20:13Z",
+        "salary_min": 33807.83,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Simon Quick Advisors"
+        },
+        "salary_max": 33807.83,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakpjeG5WZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyMTg0ODUzIn0.cr0U1GYjGREbzEW_ry1weZM_LZURqfhqusF7plAYHDU",
+        "salary_is_predicted": "1",
+        "title": "Digital Marketing Analyst",
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5972184853",
+        "location": {
+          "area": [
+            "US",
+            "New York",
+            "New York City"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "New York City, New York"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Texas",
+            "Collin County",
+            "Plano"
+          ],
+          "display_name": "Plano, Collin County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5972093493",
+        "salary_is_predicted": "1",
+        "title": "Sr Marketing Analyst/Specialist",
+        "longitude": -96.69858,
+        "category": {
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "PR, Advertising & Marketing Jobs"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakpjeG5WZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyMDkzNDkzIn0.CDly8O1ABw51FSrY6nNaxHEFHHhpE2IVq_26EzRIxjE",
+        "salary_max": 59565.57,
+        "latitude": 33.0234,
+        "salary_min": 59565.57,
+        "company": {
+          "display_name": "Avacend, Inc.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-19T15:58:14Z",
+        "description": "Job Summary: We are currently seeking a Marketing Analyst for our integrated marketing team who will assist with managing B2B product and vertical marketing for the Display Division. This analyst will be responsible for launch assets, product launch tracking, campaign launch and tracking ROI across various categories and sales verticals. This candidate will successfully work cross-functionally with the digital and channel marketing team to unveil products during key selling opportunities. Role \u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972093493?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=0D7768FE25B2A57E67D413EEC7F56A10D3AFF877"
+      },
+      {
+        "salary_is_predicted": "0",
+        "title": "Registered Client Service Associate",
+        "longitude": -74.489971,
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "salary_max": 77000,
+        "latitude": 40.795433,
+        "location": {
+          "area": [
+            "US",
+            "New Jersey",
+            "Morris County",
+            "Morristown"
+          ],
+          "display_name": "Morristown, Morris County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5971831905",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTgzMTkwNSIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.qqKtJ-vfuMhjV9zID6Qg-kTpFGuw5RT3PB3N1cAOnTo",
+        "salary_min": 63000,
+        "company": {
+          "display_name": "Stifel",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-19T11:07:29Z",
+        "description": "Stifel strives for a culture that puts its clients and associates first: a culture where everyone belongs, everyone is welcome, and everyone contributes to the success of our clients, their careers, and the firm as a whole. Let\u2019s talk about how you can find your place here at Stifel, where success meets success . Under immediate supervision, Client Services Associate (Registered) assists one or more Financial Advisor(s) (FA(s)) with the opening and maintenance of client accounts and records, pe\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5971831905?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTc4OTk3NiIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.nPN23DsihwBoe07Zg8KbVh2yvGaJkAkX8YGHUQ6QQBs",
+        "company": {
+          "display_name": "Stifel",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 124303.94,
+        "created": "2026-11-19T10:28:22Z",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971789976?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=840E314BEF1D2916B756E085E129926EA4053DDE",
+        "description": "Stifel strives for a culture that puts its clients and associates first: a culture where everyone belongs, everyone is welcome, and everyone contributes to the success of our clients, their careers, and the firm as a whole. Let\u2019s talk about how you can find your place here at Stifel, where success meets success. What Youll Be Doing The Commercial Real Estate (CRE) Portfolio Manager supports the management and ongoing monitoring of a portfolio of commercial real estate loans to ensure strong cre\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Schiller Park, Cook County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Illinois",
+            "Cook County",
+            "Schiller Park"
+          ]
+        },
+        "id": "5971789976",
+        "salary_max": 124303.94,
+        "latitude": 41.9613,
+        "longitude": -87.8849,
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "1",
+        "title": "Commercial Real Estate Portfolio Manager"
+      },
+      {
+        "location": {
+          "area": [
+            "US",
+            "Missouri",
+            "Saint Louis County",
+            "Manchester"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Manchester, Saint Louis County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5971789915",
+        "salary_min": 99266.15,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Stifel"
+        },
+        "created": "2026-11-19T10:27:56Z",
+        "description": "Stifel strives for a culture that puts its clients and associates first: a culture where everyone belongs, everyone is welcome, and everyone contributes to the success of our clients, their careers, and the firm as a whole. Let\u2019s talk about how you can find your place here at Stifel, where success meets success. What Youll Be Doing The IT Auditor, under supervision of IT Seniors and Directors, performs audits for Stifel locations and auditable entities (domestic and international) to ensure the\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971789915?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=8CADE81C211AD6918D9FD1DC427BF4F704D7904A",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTc4OTkxNSIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.opTIGvyxfjdTP_tFRSh85WFYG2UABEi5e0UZXPoi8Qs",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "title": "IT Internal Auditor I",
+        "longitude": -90.2688,
+        "salary_is_predicted": "1",
+        "salary_max": 99266.15,
+        "latitude": 38.6336
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "American Heritage Credit Union"
+        },
+        "salary_min": 11232,
+        "created": "2026-11-19T10:06:20Z",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5971787629?utm_medium=api&utm_source=d30dc240",
+        "description": "American Heritage Credit Union, a $5.4 billion credit union, has an excellent opportunity available for a Marketing Insights Analyst! This position is responsible for multiple analytic platforms to determine, analyze, and report on effectiveness of marketing programs, promotions, and product/service development within the company. Serve as subject matter expert on technical infrastructure that supports all marketing tools, technology, processes, measurement and governance, including marketing c\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakpjeG5WZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcxNzg3NjI5In0.g9THw7MPiw_PjjWk7atM6jDCV0bNsR26SuyTYrQ4OWM",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Pennsylvania",
+            "Philadelphia County",
+            "Rhawnhurst"
+          ],
+          "display_name": "Rhawnhurst, Philadelphia County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5971787629",
+        "salary_max": 11232,
+        "latitude": 40.091804,
+        "title": "Marketing Insights Analyst",
+        "longitude": -75.042572,
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0"
+      },
+      {
+        "location": {
+          "area": [
+            "US",
+            "California",
+            "San Francisco"
+          ],
+          "display_name": "San Francisco, California",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5971786198",
+        "created": "2026-11-19T10:01:14Z",
+        "company": {
+          "display_name": "Braze",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 96300,
+        "redirect_url": "https://www.adzuna.com/details/5971786198?utm_medium=api&utm_source=d30dc240",
+        "description": "At Braze, we have found our people. We\u2019re a genuinely approachable, exceptionally kind, and intensely passionate crew. We seek to ignite that passion by setting high standards, championing teamwork, and creating work-life harmony as we collectively navigate rapid growth on a global scale while striving for greater equity and opportunity \u2013 inside and outside our organization. To flourish here, you must be prepared to set a high bar for yourself and those around you. There is always a way to cont\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakpjeG5WZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcxNzg2MTk4In0.Xn7gifL9bvkVTdFta1HyWyX5ua1i8McpRDHrmWoEJq8",
+        "title": "Senior Global Compensation Consultant",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "hr-jobs",
+          "label": "HR & Recruitment Jobs"
+        },
+        "salary_is_predicted": "0",
+        "longitude": -122.466538,
+        "contract_type": "contract",
+        "latitude": 37.798085,
+        "salary_max": 130000
+      },
+      {
+        "location": {
+          "display_name": "Pleasant Prairie, Kenosha County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Wisconsin",
+            "Kenosha County",
+            "Pleasant Prairie"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5971779243",
+        "created": "2026-11-19T09:41:47Z",
+        "salary_min": 71940.02,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Uline"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5971779243?utm_medium=api&utm_source=d30dc240",
+        "description": "Marketing Analyst Corporate Headquarters 12575 Uline Drive, Pleasant Prairie, WI 53158 Drive marketing decisions with data. As a Marketing Analyst, you will analyze customer behavior, evaluate campaign performance and uncover opportunities to improve how Uline reaches customers and invests in marketing. Apply your analytical and problem-solving skills to develop recommendations that influence marketing strategy for our extensive selection of shipping, industrial and packaging products. Careers \u2026",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakpjeG5WZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcxNzc5MjQzIn0.8jnVM9LiLzgH--L9Jl-RjjluLOZLimn6W0wKlTERWKo",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "pr-advertising-marketing-jobs",
+          "label": "PR, Advertising & Marketing Jobs"
+        },
+        "salary_is_predicted": "1",
+        "title": "Marketing Analyst",
+        "longitude": -87.886264,
+        "latitude": 42.53005,
+        "salary_max": 71940.02
+      },
+      {
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "pr-advertising-marketing-jobs"
+        },
+        "salary_is_predicted": "1",
+        "longitude": -73.978504,
+        "title": "Marketing Data Analyst, Global Partnerships",
+        "id": "5971696834",
+        "location": {
+          "area": [
+            "US",
+            "New York",
+            "New York City",
+            "Manhattan",
+            "Grand Central"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Grand Central, Manhattan"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Marketing Data Analyst, Global Partnerships Share Marketing Data Analyst, Global Partnerships _corporate_fare_ Google _place_ Mountain View, CA, USA; New York, NY, USA; 3 more; 2 more Early Experience completing work as directed, and collaborating with teammates; developing knowledge of relevant concepts and processes. Share Marketing Data Analyst, Global Partnerships _info_outline_ XApplicants in San Francisco: Qualified applications with arrest or conviction records will be considered for emp\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971696834?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=2117F1C3599EC6B4CBAA1E9B33B68CC73F3C60D8",
+        "salary_min": 179211,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Google"
+        },
+        "created": "2026-11-19T08:28:27Z",
+        "salary_max": 179211,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakpjeG5WZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcxNjk2ODM0In0.xvI_jjlFu8iKkuHCXNIUWJwG5S8RpO-hQYvq_7LhfqU",
+        "latitude": 40.755381
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTY4OTc3NSIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.TQtUoQ4w-_q1BAGPyxZzk8N1wUh5mJKTnL3L7Q-AsTQ",
+        "salary_max": 257528.38,
+        "latitude": 39.103829,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Burns & McDonnell"
+        },
+        "salary_min": 257528.38,
+        "created": "2026-11-19T08:24:58Z",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971689775?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=1925BD88CE14C2685401A05E571DDBA174F41A37",
+        "description": "Description The Senior Economic Analyst is responsible for delivering forward-looking economic intelligence that drives strategy and decision-making across Burns & McDonnell. Sitting within the Market Insights team in Corporate Marketing, this role connects global, regional, and local market conditions and sector-specific trends to the decisions made by business development and project management, marketing, finance, procurement, and estimating teams. This position monitors and analyzes economi\u2026",
+        "location": {
+          "area": [
+            "US",
+            "Missouri",
+            "Jackson County",
+            "Kansas City"
+          ],
+          "display_name": "Kansas City, Jackson County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5971689775",
+        "salary_is_predicted": "1",
+        "category": {
+          "label": "Consultancy Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "consultancy-jobs"
+        },
+        "longitude": -94.572672,
+        "title": "Senior Economic Analyst - Corporate Marketing - Market Insights (Kansas City)"
+      },
+      {
+        "id": "5971687762",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Williamsville, Erie County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "New York",
+            "Erie County",
+            "Williamsville"
+          ]
+        },
+        "longitude": -78.735087,
+        "salary_is_predicted": "1",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs"
+        },
+        "title": "Global Operate Advisor Relationships (TPA) Manager",
+        "salary_max": 166192.92,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTY4Nzc2MiIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.TOQtqBKo69M3u9faF1vA7E76DnVo9mwK2te6hLWkwQw",
+        "latitude": 42.978051,
+        "redirect_url": "https://www.adzuna.com/land/ad/5971687762?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=3A18346A4A151BC08775629D41EDB7F58EC53E78",
+        "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do Global Operate is seeking a highly motivated and creative External Advisor Relations Manager to support its strategic growth agenda. Operate is Deloitte's next-generation managed services capability, spanning all Deloitte businesses. Working with the Global Anal\u2026",
+        "salary_min": 166192.92,
+        "company": {
+          "display_name": "Deloitte",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-19T08:24:09Z"
+      },
+      {
+        "id": "5971686124",
+        "location": {
+          "display_name": "Cary, Wake County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "North Carolina",
+            "Wake County",
+            "Cary"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTY4NjEyNCIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.FzUFs6B9Ph0P0dKCmHWpbq9_aa2s05CmjqmgeJz7YLA",
+        "redirect_url": "https://www.adzuna.com/details/5971686124?utm_medium=api&utm_source=d30dc240",
+        "description": "Career Area: Technology, Digital and Data Job Description: Your Work Shapes the World at Caterpillar Inc. When you join Caterpillar, you're joining a global team who cares not just about the work we do \u2013 but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here \u2013 we make it happen, with our customers, where we work and live. Together, we are building a be\u2026",
+        "contract_time": "full_time",
+        "salary_min": 159120,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Caterpillar"
+        },
+        "created": "2026-11-19T08:23:17Z",
+        "salary_is_predicted": "0",
+        "title": "Senior Manager, Digital Customer Experience",
+        "category": {
+          "label": "Customer Services Jobs",
+          "tag": "customer-services-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -78.781622,
+        "salary_max": 258570,
+        "latitude": 35.769804
+      },
+      {
+        "location": {
+          "area": [
+            "US",
+            "New York",
+            "New York City",
+            "Manhattan",
+            "Grand Central"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Grand Central, Manhattan"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5971680863",
+        "title": "Cards Acquisition & Growth Lead Analyst, Vice President",
+        "salary_is_predicted": "1",
+        "longitude": -73.978504,
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "latitude": 40.755381,
+        "salary_max": 165348.7,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakpjeG5WZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcxNjgwODYzIn0.F4HNKofhZIFRbSDwp1vtYRsHwv1mXZK2x5wE8-PHMa8",
+        "created": "2026-11-19T08:21:33Z",
+        "salary_min": 165348.7,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Citigroup"
+        },
+        "redirect_url": "https://www.adzuna.com/land/ad/5971680863?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=C2A03D6FFAD2252AC08BA39FE5728EA780AAAA0D",
+        "description": "The Cards Acquisition & Growth Lead Analyst drives sustainable customer acquisition and portfolio growth for the Value Card portfolio through the application of deep credit card industry, product, and risk-adjusted return expertise. This role orchestrates multi-channel acquisition strategies across Digital and Direct Mail, designing robust A/B testing agendas, evaluating campaign profitability, and partnering with Analytics to target high-NPV customer segments. The Lead Analyst collaborates clo\u2026"
+      },
+      {
+        "latitude": 39.747885,
+        "salary_max": 176019.5,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakpjeG5WZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcxNjcyMjAxIn0.qao7rqJcihuScYTVjqDMuEgbjOl6U4X-A5tVbJJfwTc",
+        "created": "2026-11-19T08:18:08Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deloitte"
+        },
+        "salary_min": 176019.5,
+        "redirect_url": "https://www.adzuna.com/land/ad/5971672201?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=8DEF713C6083EEAB5B427DF4038E3B3C130DD048",
+        "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do Global Operate is seeking a highly motivated and creative External Advisor Relations Manager to support its strategic growth agenda. Operate is Deloitte's next-generation managed services capability, spanning all Deloitte businesses. Working with the Global Anal\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Oakwood, Montgomery County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Ohio",
+            "Montgomery County",
+            "Oakwood"
+          ]
+        },
+        "id": "5971672201",
+        "salary_is_predicted": "1",
+        "longitude": -84.159357,
+        "title": "Global Operate Advisor Relationships (TPA) Manager",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs"
+        }
+      },
+      {
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "salary_is_predicted": "1",
+        "longitude": -84.49548,
+        "title": "Global Operate Advisor Relationships (TPA) Manager",
+        "location": {
+          "display_name": "Saint Bernard, Hamilton County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Ohio",
+            "Hamilton County",
+            "Saint Bernard"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5971672196",
+        "created": "2026-11-19T08:18:08Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deloitte"
+        },
+        "salary_min": 188831.64,
+        "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do Global Operate is seeking a highly motivated and creative External Advisor Relations Manager to support its strategic growth agenda. Operate is Deloitte's next-generation managed services capability, spanning all Deloitte businesses. Working with the Global Anal\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971672196?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=9CAC80F4FBE442AD77CB3485C7248FDC05CEB635",
+        "latitude": 39.1665,
+        "salary_max": 188831.64,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakpjeG5WZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcxNjcyMTk2In0.s1v5LtjTOqG30BXVKZo7kU_HKO_GCRcgc2eXXRbE06Y"
+      },
+      {
+        "longitude": -81.66832,
+        "salary_is_predicted": "1",
+        "title": "Global Operate Advisor Relationships (TPA) Manager",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs"
+        },
+        "id": "5971672197",
+        "location": {
+          "area": [
+            "US",
+            "Ohio",
+            "Cuyahoga County",
+            "Newburgh Heights"
+          ],
+          "display_name": "Newburgh Heights, Cuyahoga County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do Global Operate is seeking a highly motivated and creative External Advisor Relations Manager to support its strategic growth agenda. Operate is Deloitte's next-generation managed services capability, spanning all Deloitte businesses. Working with the Global Anal\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971672197?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=8F0F7AACBD5B97700D62561CAF3F9671C990EDA5",
+        "created": "2026-11-19T08:18:08Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deloitte"
+        },
+        "salary_min": 206403.42,
+        "latitude": 41.49307,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTY3MjE5NyIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.y2X3Cje9NTWLAZAO193VtgholzGoprfekgdUe3K-73o",
+        "salary_max": 206403.42
+      },
+      {
+        "title": "SAS Marketing Campaign Analyst",
+        "salary_is_predicted": "0",
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "pr-advertising-marketing-jobs"
+        },
+        "longitude": -84.390145,
+        "salary_max": 141440,
+        "latitude": 33.753601,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Georgia",
+            "Fulton County",
+            "Atlanta"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Atlanta, Fulton County"
+        },
+        "id": "5971668665",
+        "company": {
+          "display_name": "BC Forward",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 137280,
+        "created": "2026-11-19T08:17:16Z",
+        "redirect_url": "https://www.adzuna.com/details/5971668665?utm_medium=api&utm_source=d30dc240",
+        "description": "Job Title: SAS Marketing Campaign Analyst Location: Hybrid, 3 days in office / 2 days WFH. Preferred hub: Minneapolis, MN. Also considering: Chicago, IL; Charlotte, NC; Atlanta, GA; Los Angeles, CA. Duration: Contract - 1 year Pay Range: $66 to $68/hr (W2) Job ID: 412340 Work Schedule: Monday to Friday, standard bank hours. Parking depends on location. About BCforward BCforward is a leading global IT consulting and workforce solutions firm providing services and support to Fortune 500 and gover\u2026",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTY2ODY2NSIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.YV5wHuS4N-HuySEfLo7x65SQ_XrOH450aDtzLuHFnl8"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTY1ODc0NCIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.cUv5tOhmHTX7eq0LG9caKgJusqQ6CmQqYn1FSe0z4dg",
+        "salary_max": 162666.5,
+        "latitude": 38.662802,
+        "company": {
+          "display_name": "Deloitte",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 162666.5,
+        "created": "2026-11-19T08:15:32Z",
+        "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do Global Operate is seeking a highly motivated and creative External Advisor Relations Manager to support its strategic growth agenda. Operate is Deloitte's next-generation managed services capability, spanning all Deloitte businesses. Working with the Global Anal\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971658744?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=929DC8A1F8EC1F88429610456301972D02A5B0F3",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Wellston, Saint Louis County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Missouri",
+            "Saint Louis County",
+            "Wellston"
+          ]
+        },
+        "id": "5971658744",
+        "title": "Global Operate Advisor Relationships (TPA) Manager",
+        "salary_is_predicted": "1",
+        "longitude": -90.282481,
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        }
+      },
+      {
+        "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do Global Operate is seeking a highly motivated and creative External Advisor Relations Manager to support its strategic growth agenda. Operate is Deloitte's next-generation managed services capability, spanning all Deloitte businesses. Working with the Global Anal\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971658726?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=5F3C29B03C30B33D1929FD900DEA3E2EC188352B",
+        "created": "2026-11-19T08:15:32Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deloitte"
+        },
+        "salary_min": 235821.08,
+        "latitude": 39.103829,
+        "salary_max": 235821.08,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTY1ODcyNiIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.QXfrfG55VZfXghTj2zT_ya3DZaFlC7ZmibnOcJvXpI4",
+        "salary_is_predicted": "1",
+        "longitude": -94.572672,
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "title": "Global Operate Advisor Relationships (TPA) Manager",
+        "id": "5971658726",
+        "location": {
+          "area": [
+            "US",
+            "Missouri",
+            "Jackson County",
+            "Kansas City"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Kansas City, Jackson County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTY1NDE0NiIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.lzrJ7JUEj3Pr_n0hPn4shCKR1C8-iL-Tz9d7LOz7rsU",
+        "salary_max": 193258.4,
+        "latitude": 39.7878,
+        "redirect_url": "https://www.adzuna.com/land/ad/5971654146?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=CC1F2F03AF1CE60ECB69B0B748ACE78114866E95",
+        "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do Global Operate is seeking a highly motivated and creative External Advisor Relations Manager to support its strategic growth agenda. Operate is Deloitte's next-generation managed services capability, spanning all Deloitte businesses. Working with the Global Anal\u2026",
+        "salary_min": 193258.4,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deloitte"
+        },
+        "created": "2026-11-19T08:14:54Z",
+        "id": "5971654146",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Uptown, Marion County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Indiana",
+            "Marion County",
+            "Uptown"
+          ]
+        },
+        "salary_is_predicted": "1",
+        "longitude": -86.1587,
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "title": "Global Operate Advisor Relationships (TPA) Manager"
+      },
+      {
+        "latitude": 42.931727,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTY1MzM3NiIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.3saw3B3BzSTfWbFtDeOC9AKH1TvllkSG4XknV3IP3LQ",
+        "salary_max": 200065.66,
+        "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do Global Operate is seeking a highly motivated and creative External Advisor Relations Manager to support its strategic growth agenda. Operate is Deloitte's next-generation managed services capability, spanning all Deloitte businesses. Working with the Global Anal\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971653376?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=BB8FE24CD02B2F2D1F48A329FBA2B05A9BF91040",
+        "created": "2026-11-19T08:14:49Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deloitte"
+        },
+        "salary_min": 200065.66,
+        "id": "5971653376",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Grand Rapids, Kent County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Michigan",
+            "Kent County",
+            "Grand Rapids"
+          ]
+        },
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "1",
+        "longitude": -85.65452,
+        "title": "Global Operate Advisor Relationships (TPA) Manager"
+      },
+      {
+        "salary_is_predicted": "1",
+        "longitude": -86.78903,
+        "title": "Global Operate Advisor Relationships (TPA) Manager",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs"
+        },
+        "location": {
+          "area": [
+            "US",
+            "Tennessee",
+            "Davidson County",
+            "Nashville"
+          ],
+          "display_name": "Nashville, Davidson County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5971652440",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deloitte"
+        },
+        "salary_min": 163124.16,
+        "created": "2026-11-19T08:14:33Z",
+        "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do Global Operate is seeking a highly motivated and creative External Advisor Relations Manager to support its strategic growth agenda. Operate is Deloitte's next-generation managed services capability, spanning all Deloitte businesses. Working with the Global Anal\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971652440?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=06C446F64F6F34B630D3F742535CE8B484FF7F33",
+        "salary_max": 163124.16,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTY1MjQ0MCIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.3G1_wAmH0ApSEdhG6iNv6zEWayDN2YPXCPnnKSyMf1M",
+        "latitude": 36.14946
+      },
+      {
+        "latitude": 36.185416,
+        "salary_max": 196565.55,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakpjeG5WZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcxNjUyNDQyIn0.Pq3ArzwEPwzWDnguRZYra9nNJRNZdstxP3s5mWkdvT4",
+        "created": "2026-11-19T08:14:33Z",
+        "salary_min": 196565.55,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deloitte"
+        },
+        "redirect_url": "https://www.adzuna.com/land/ad/5971652442?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=7AB9EF2DCA65719402EA4E05CFDDE359F64310B6",
+        "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do Global Operate is seeking a highly motivated and creative External Advisor Relations Manager to support its strategic growth agenda. Operate is Deloitte's next-generation managed services capability, spanning all Deloitte businesses. Working with the Global Anal\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Hermitage, Davidson County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Tennessee",
+            "Davidson County",
+            "Hermitage"
+          ]
+        },
+        "id": "5971652442",
+        "longitude": -86.600435,
+        "salary_is_predicted": "1",
+        "title": "Global Operate Advisor Relationships (TPA) Manager",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        }
+      },
+      {
+        "latitude": 39.954722,
+        "salary_max": 129104.73,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakpjeG5WZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcxNjUxMzI2In0.JlxpZ28qDniJjFx4cxd4ecordBJMVl-pwHcpUdtraQo",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971651326?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=9F1F13859F633225D9FE052CCCB6C46F52C0DC45",
+        "description": "Act as key contributor within the Enterprise Insights function, partnering broadly across the organization to deliver advanced customer led analytics, strategic performance insights, and forward-looking recommendations that shape enterprise -wide strategies. Independently lead complex analytical initiatives, establish performance frameworks, influence strategic decision making, and identify growth opportunities that support both short- and long-term business objectives. Lead complex analyses of\u2026",
+        "created": "2026-11-19T08:14:15Z",
+        "salary_min": 129104.73,
+        "company": {
+          "display_name": "Bath & Body Works",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5971651326",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Ohio",
+            "Franklin County",
+            "Reynoldsburg"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Reynoldsburg, Franklin County"
+        },
+        "category": {
+          "label": "Healthcare & Nursing Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "healthcare-nursing-jobs"
+        },
+        "salary_is_predicted": "1",
+        "longitude": -82.812222,
+        "title": "Sr Analyst, Marketing Enterprise Insights"
+      },
+      {
+        "latitude": 35.7695,
+        "salary_max": 111424.8,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakpjeG5WZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcxNjUxMjk4In0.tsw-AQ693yLjEsbGMVRGWOjJHMRmzh_OWnrDQ1oWMNA",
+        "description": "Cary, North Carolina Full time R0000405381 Career Area: Technology, Digital and Data Job Description: Your Work Shapes the World at Caterpillar Inc. When you join Caterpillar, you're joining a global team who cares not just about the work we do - but also about each other. We are the makers, problem solvers, and future world builders who are creating stronger, more sustainable communities. We don't just talk about progress and innovation here - we make it happen, with our customers, where we wo\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971651298?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=78E02EFE6D102CFBC418A278E98238A8B5F91EEB",
+        "created": "2026-11-19T08:14:14Z",
+        "salary_min": 111424.8,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Caterpillar, Inc."
+        },
+        "id": "5971651298",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Cary, Wake County",
+          "area": [
+            "US",
+            "North Carolina",
+            "Wake County",
+            "Cary"
+          ]
+        },
+        "salary_is_predicted": "1",
+        "title": "Senior Manager, Digital Customer Experience",
+        "longitude": -78.7966,
+        "category": {
+          "tag": "sales-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Sales Jobs"
+        }
+      },
+      {
+        "id": "5971651250",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Florida",
+            "Hillsborough County",
+            "Tampa"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Tampa, Hillsborough County"
+        },
+        "salary_is_predicted": "1",
+        "title": "Global Operate Advisor Relationships (TPA) Manager",
+        "longitude": -82.468438,
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTY1MTI1MCIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.BcTNW_NnZfYzmuJoROekeh-E2QAFQiqGjgNAsU-hvpU",
+        "salary_max": 176691.06,
+        "latitude": 27.984068,
+        "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do Global Operate is seeking a highly motivated and creative External Advisor Relations Manager to support its strategic growth agenda. Operate is Deloitte's next-generation managed services capability, spanning all Deloitte businesses. Working with the Global Anal\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5971651250?utm_medium=api&utm_source=d30dc240",
+        "salary_min": 176691.06,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deloitte"
+        },
+        "created": "2026-11-19T08:14:13Z"
+      },
+      {
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "salary_is_predicted": "1",
+        "longitude": -84.25856,
+        "title": "Global Operate Advisor Relationships (TPA) Manager",
+        "id": "5971651241",
+        "location": {
+          "area": [
+            "US",
+            "Florida",
+            "Leon County",
+            "Tallahassee"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Tallahassee, Leon County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do Global Operate is seeking a highly motivated and creative External Advisor Relations Manager to support its strategic growth agenda. Operate is Deloitte's next-generation managed services capability, spanning all Deloitte businesses. Working with the Global Anal\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5971651241?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-19T08:14:13Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deloitte"
+        },
+        "salary_min": 156643.1,
+        "latitude": 30.42909,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTY1MTI0MSIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.196LjzD_MX1VgjBi1Rpo64oBMWQRmMWJi0Nuje9JEAE",
+        "salary_max": 156643.1
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5971651239?utm_medium=api&utm_source=d30dc240",
+        "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do Global Operate is seeking a highly motivated and creative External Advisor Relations Manager to support its strategic growth agenda. Operate is Deloitte's next-generation managed services capability, spanning all Deloitte businesses. Working with the Global Anal\u2026",
+        "created": "2026-11-19T08:14:13Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deloitte"
+        },
+        "salary_min": 162771.7,
+        "latitude": 30.29198,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakpjeG5WZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcxNjUxMjM5In0.ptMr0qz13NTCSmu6QwAxkHDj2cAU6AcV1VIAl1qonIw",
+        "salary_max": 162771.7,
+        "longitude": -81.63493,
+        "salary_is_predicted": "1",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "title": "Global Operate Advisor Relationships (TPA) Manager",
+        "id": "5971651239",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Florida",
+            "Duval County",
+            "Jacksonville"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Jacksonville, Duval County"
+        }
+      },
+      {
+        "location": {
+          "area": [
+            "US",
+            "Arizona",
+            "Maricopa County",
+            "Guadalupe"
+          ],
+          "display_name": "Guadalupe, Maricopa County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5971645325",
+        "title": "Global Operate Advisor Relationships (TPA) Manager",
+        "salary_is_predicted": "1",
+        "longitude": -111.926508,
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakpjeG5WZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcxNjQ1MzI1In0.k-EejKItCf_-Tegllw0Dj_8IlR-UC0_tdjLlzVLmpz8",
+        "salary_max": 242822.83,
+        "latitude": 33.392384,
+        "salary_min": 242822.83,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deloitte"
+        },
+        "created": "2026-11-19T08:12:32Z",
+        "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do Global Operate is seeking a highly motivated and creative External Advisor Relations Manager to support its strategic growth agenda. Operate is Deloitte's next-generation managed services capability, spanning all Deloitte businesses. Working with the Global Anal\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971645325?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=70CE991875EB3FA40AE2A5E58F822E128B651342"
+      },
+      {
+        "id": "5971644309",
+        "location": {
+          "area": [
+            "US",
+            "Missouri",
+            "Saint Louis County",
+            "Wellston"
+          ],
+          "display_name": "Wellston, Saint Louis County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "pr-advertising-marketing-jobs",
+          "label": "PR, Advertising & Marketing Jobs"
+        },
+        "salary_is_predicted": "1",
+        "longitude": -90.282481,
+        "title": "Microsoft Solutions Marketing Manager",
+        "salary_max": 274345.2,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakpjeG5WZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcxNjQ0MzA5In0.lMcJku-IAdg9Dc6BXzVCh6DxhxIgC76hVJ5X6z9gopo",
+        "latitude": 38.662802,
+        "redirect_url": "https://www.adzuna.com/land/ad/5971644309?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=11CF6BDF98281A6E7F253BA8E8A7FBBE360641A9",
+        "description": "What is Accenture & Avanade Microsoft Solutions Marketing? Microsoft Solutions Marketing is on a mission to help our clients do what matters and use the power of the Microsoft platform to fuel frontier transformation powered by agentic AI. Solutions Marketing plays a pivotal role in our success, serving as the bridge between Accenture Microsoft Business Group (AMBG) and Avanade services and our clients. We are the driving force bringing our solutions to life through compelling messages that har\u2026",
+        "salary_min": 274345.2,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Accenture"
+        },
+        "created": "2026-11-19T08:12:12Z"
+      },
+      {
+        "title": "Global Operate Advisor Relationships (TPA) Manager",
+        "salary_is_predicted": "1",
+        "longitude": -95.94662,
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Oklahoma",
+            "Tulsa County",
+            "Williams"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Williams, Tulsa County"
+        },
+        "id": "5971643997",
+        "created": "2026-11-19T08:12:08Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deloitte"
+        },
+        "salary_min": 151309.4,
+        "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do Global Operate is seeking a highly motivated and creative External Advisor Relations Manager to support its strategic growth agenda. Operate is Deloitte's next-generation managed services capability, spanning all Deloitte businesses. Working with the Global Anal\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971643997?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=781B7B500263B9571C9980B35A1D9FC94646C9A9",
+        "latitude": 36.12652,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTY0Mzk5NyIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.xsIveyzPm_eAMI2gcvDVDkjy47kDIoCH_fCYpl2XMsM",
+        "salary_max": 151309.4
+      },
+      {
+        "description": "What is Accenture & Avanade Microsoft Solutions Marketing? Microsoft Solutions Marketing is on a mission to help our clients do what matters and use the power of the Microsoft platform to fuel frontier transformation powered by agentic AI. Solutions Marketing plays a pivotal role in our success, serving as the bridge between Accenture Microsoft Business Group (AMBG) and Avanade services and our clients. We are the driving force bringing our solutions to life through compelling messages that har\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971643343?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=020D721C38888BEE399B63A2BBEABCA6190BE8E8",
+        "created": "2026-11-19T08:12:04Z",
+        "company": {
+          "display_name": "Accenture",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 290360.2,
+        "latitude": 44.9745,
+        "salary_max": 290360.2,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakpjeG5WZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcxNjQzMzQzIn0.fNM2HwvLSF-rUh_UCJ7d6kFYemHtFaVdYhtnbmZCT3s",
+        "longitude": -93.3059,
+        "salary_is_predicted": "1",
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "pr-advertising-marketing-jobs"
+        },
+        "title": "Microsoft Solutions Marketing Manager",
+        "id": "5971643343",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Minneapolis, Hennepin County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Minnesota",
+            "Hennepin County",
+            "Minneapolis"
+          ]
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Washington, D.C., US",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Washington, D.C."
+          ]
+        },
+        "id": "5971642238",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "engineering-jobs",
+          "label": "Engineering Jobs"
+        },
+        "salary_is_predicted": "1",
+        "longitude": -77.02717,
+        "title": "Communications Analyst",
+        "latitude": 38.89969,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTY0MjIzOCIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.q3yhxttbBHEQq7LP12gOQjflzSM_8XtgGBegHugv8EI",
+        "salary_max": 75316.54,
+        "created": "2026-11-19T08:11:55Z",
+        "salary_min": 75316.54,
+        "company": {
+          "display_name": "SAIC",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Description The Vanguard 2.2.1 contract currently has an opening for a Communications Analyst to support the Department of State (DoS) Bureau of Diplomatic Technology Data Analysis & Assessment (DAA). SAIC is seeking a highly qualified Communications Analyst to support various marketing initiatives and projects within DT; brand awareness, internal knowledge management, user engagement, and so on. The preferred candidate will have familiarity with data visualization tools. This is a hybrid role \u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971642238?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=26E65BDD87D7A69E7901B16FDB22BFCEB35F9022"
+      },
+      {
+        "created": "2026-11-19T08:11:49Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deloitte"
+        },
+        "salary_min": 158007.38,
+        "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do Global Operate is seeking a highly motivated and creative External Advisor Relations Manager to support its strategic growth agenda. Operate is Deloitte's next-generation managed services capability, spanning all Deloitte businesses. Working with the Global Anal\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971641460?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=CBCECE485C4D5F230EFD70BFB3769ECC8B159E2C",
+        "latitude": 29.96388,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakpjeG5WZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcxNjQxNDYwIn0.6LZi4VQtFKa1aOb8IA_xYYbMYYhf3llhoRgGcPPyTcs",
+        "salary_max": 158007.38,
+        "salary_is_predicted": "1",
+        "longitude": -90.0654,
+        "title": "Global Operate Advisor Relationships (TPA) Manager",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Louisiana",
+            "Orleans Parish",
+            "Custom House"
+          ],
+          "display_name": "Custom House, Orleans Parish",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5971641460"
+      },
+      {
+        "longitude": -71.065917,
+        "salary_is_predicted": "1",
+        "title": "Microsoft Solutions Marketing Manager",
+        "category": {
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "PR, Advertising & Marketing Jobs"
+        },
+        "location": {
+          "display_name": "Boston, Suffolk County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Massachusetts",
+            "Suffolk County",
+            "Boston"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5971639176",
+        "salary_min": 250493.11,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Accenture"
+        },
+        "created": "2026-11-19T08:11:34Z",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971639176?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=51640BE94438ECCCCA61FA62C4EC1D5A1B864053",
+        "description": "What is Accenture & Avanade Microsoft Solutions Marketing? Microsoft Solutions Marketing is on a mission to help our clients do what matters and use the power of the Microsoft platform to fuel frontier transformation powered by agentic AI. Solutions Marketing plays a pivotal role in our success, serving as the bridge between Accenture Microsoft Business Group (AMBG) and Avanade services and our clients. We are the driving force bringing our solutions to life through compelling messages that har\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTYzOTE3NiIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.XJxnIR3Ky5eL8vO7TddIgvBIwN5ppT3676WJrFeQcqU",
+        "salary_max": 250493.11,
+        "latitude": 42.356644
+      },
+      {
+        "salary_max": 348109.72,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTYzNzg1MSIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.6X3dsbUkwv_nr5bOe95L-W3SdEvvr6-O9cthOz5xjS0",
+        "latitude": 41.49307,
+        "salary_min": 348109.72,
+        "company": {
+          "display_name": "Accenture",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-19T08:11:28Z",
+        "description": "What is Accenture & Avanade Microsoft Solutions Marketing? Microsoft Solutions Marketing is on a mission to help our clients do what matters and use the power of the Microsoft platform to fuel frontier transformation powered by agentic AI. Solutions Marketing plays a pivotal role in our success, serving as the bridge between Accenture Microsoft Business Group (AMBG) and Avanade services and our clients. We are the driving force bringing our solutions to life through compelling messages that har\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971637851?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=6C4016857E449CAF2F53AEB76C3AAE507EBD4E0F",
+        "location": {
+          "area": [
+            "US",
+            "Ohio",
+            "Cuyahoga County",
+            "Newburgh Heights"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Newburgh Heights, Cuyahoga County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5971637851",
+        "title": "Microsoft Solutions Marketing Manager",
+        "salary_is_predicted": "1",
+        "longitude": -81.66832,
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "pr-advertising-marketing-jobs"
+        }
+      },
+      {
+        "latitude": 39.1665,
+        "salary_max": 318474,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTYzNzkwMSIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.4KqZkzP090VOQ063OtDx29g9u1-zU8FQZBKaW0trK5k",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971637901?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=669A885C0E66D63EDF9143D0A1235FB6D6B2889F",
+        "description": "What is Accenture & Avanade Microsoft Solutions Marketing? Microsoft Solutions Marketing is on a mission to help our clients do what matters and use the power of the Microsoft platform to fuel frontier transformation powered by agentic AI. Solutions Marketing plays a pivotal role in our success, serving as the bridge between Accenture Microsoft Business Group (AMBG) and Avanade services and our clients. We are the driving force bringing our solutions to life through compelling messages that har\u2026",
+        "created": "2026-11-19T08:11:28Z",
+        "company": {
+          "display_name": "Accenture",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 318474,
+        "id": "5971637901",
+        "location": {
+          "area": [
+            "US",
+            "Ohio",
+            "Hamilton County",
+            "Saint Bernard"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Saint Bernard, Hamilton County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "1",
+        "longitude": -84.49548,
+        "title": "Microsoft Solutions Marketing Manager"
+      },
+      {
+        "salary_max": 328435.88,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTYzNzg0OSIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.fIwUy0SkZVcReF79VZwMB-SkE1AfvjQS4ueNXn8vSzo",
+        "latitude": 39.991073,
+        "salary_min": 328435.88,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Accenture"
+        },
+        "created": "2026-11-19T08:11:28Z",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971637849?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=6F8404353048502FEEE52B2CC4E89641A06F0554",
+        "description": "What is Accenture & Avanade Microsoft Solutions Marketing? Microsoft Solutions Marketing is on a mission to help our clients do what matters and use the power of the Microsoft platform to fuel frontier transformation powered by agentic AI. Solutions Marketing plays a pivotal role in our success, serving as the bridge between Accenture Microsoft Business Group (AMBG) and Avanade services and our clients. We are the driving force bringing our solutions to life through compelling messages that har\u2026",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Grandview Heights, Franklin County",
+          "area": [
+            "US",
+            "Ohio",
+            "Franklin County",
+            "Grandview Heights"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5971637849",
+        "longitude": -83.000202,
+        "salary_is_predicted": "1",
+        "category": {
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "PR, Advertising & Marketing Jobs"
+        },
+        "title": "Microsoft Solutions Marketing Manager"
+      },
+      {
+        "salary_min": 292693.88,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Accenture"
+        },
+        "created": "2026-11-19T08:11:19Z",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971636155?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=8F63155F38264F53A3DDBB31D44170C9DAAE90B0",
+        "description": "What is Accenture & Avanade Microsoft Solutions Marketing? Microsoft Solutions Marketing is on a mission to help our clients do what matters and use the power of the Microsoft platform to fuel frontier transformation powered by agentic AI. Solutions Marketing plays a pivotal role in our success, serving as the bridge between Accenture Microsoft Business Group (AMBG) and Avanade services and our clients. We are the driving force bringing our solutions to life through compelling messages that har\u2026",
+        "salary_max": 292693.88,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTYzNjE1NSIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.a1Dk7qKLfpGpzoV6AuVVy9MZRAl3JKEjuMwZ74If2w0",
+        "latitude": 42.34973,
+        "salary_is_predicted": "1",
+        "title": "Microsoft Solutions Marketing Manager",
+        "longitude": -83.090226,
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Detroit, Wayne County",
+          "area": [
+            "US",
+            "Michigan",
+            "Wayne County",
+            "Detroit"
+          ]
+        },
+        "id": "5971636155"
+      },
+      {
+        "longitude": -85.68453,
+        "salary_is_predicted": "1",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "title": "Global Operate Advisor Relationships (TPA) Manager",
+        "id": "5971636061",
+        "location": {
+          "area": [
+            "US",
+            "Kentucky",
+            "Jefferson County",
+            "Strathmoor Manor"
+          ],
+          "display_name": "Strathmoor Manor, Jefferson County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971636061?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=D68C9DAA89B26E9CA5589A85A3A6D3EC8D0BA986",
+        "description": "Deloitte Global is the engine of the Deloitte network. Our professionals reach across disciplines and borders to develop and lead global initiatives. We deliver strategic programs and services that unite our organization. Work you'll do Global Operate is seeking a highly motivated and creative External Advisor Relations Manager to support its strategic growth agenda. Operate is Deloitte's next-generation managed services capability, spanning all Deloitte businesses. Working with the Global Anal\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deloitte"
+        },
+        "salary_min": 156080.17,
+        "created": "2026-11-19T08:11:18Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTYzNjA2MSIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.f74UFgZAAW1rzCSevx0h9KSj_15XVKfAOf532gpZaNE",
+        "salary_max": 156080.17,
+        "latitude": 38.22485
+      },
+      {
+        "salary_is_predicted": "1",
+        "longitude": -87.67165,
+        "title": "Microsoft Solutions Marketing Manager",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "pr-advertising-marketing-jobs",
+          "label": "PR, Advertising & Marketing Jobs"
+        },
+        "location": {
+          "area": [
+            "US",
+            "Illinois",
+            "Cook County",
+            "Chicago",
+            "Illinois Medical District"
+          ],
+          "display_name": "Illinois Medical District, Chicago",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5971635398",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Accenture"
+        },
+        "salary_min": 273230.28,
+        "created": "2026-11-19T08:11:15Z",
+        "description": "What is Accenture & Avanade Microsoft Solutions Marketing? Microsoft Solutions Marketing is on a mission to help our clients do what matters and use the power of the Microsoft platform to fuel frontier transformation powered by agentic AI. Solutions Marketing plays a pivotal role in our success, serving as the bridge between Accenture Microsoft Business Group (AMBG) and Avanade services and our clients. We are the driving force bringing our solutions to life through compelling messages that har\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5971635398?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTYzNTM5OCIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.J-2k4fAD3UnXiChffaGUrrgAgqzDqJ17E7XfD8tPZbM",
+        "salary_max": 273230.28,
+        "latitude": 41.86905
+      },
+      {
+        "salary_max": 260510.38,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakpjeG5WZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcxNjM1NDMzIn0.E9W8McDkm3K5MOy0mpXAVuIV0KOrxW9e9POwlYlrcVk",
+        "latitude": 35.21514,
+        "redirect_url": "https://www.adzuna.com/land/ad/5971635433?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=5EA32F9F296FD537EC975AFB2A20C009CC684B80",
+        "description": "What is Accenture & Avanade Microsoft Solutions Marketing? Microsoft Solutions Marketing is on a mission to help our clients do what matters and use the power of the Microsoft platform to fuel frontier transformation powered by agentic AI. Solutions Marketing plays a pivotal role in our success, serving as the bridge between Accenture Microsoft Business Group (AMBG) and Avanade services and our clients. We are the driving force bringing our solutions to life through compelling messages that har\u2026",
+        "company": {
+          "display_name": "Accenture",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 260510.38,
+        "created": "2026-11-19T08:11:15Z",
+        "id": "5971635433",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Charlotte, Mecklenburg County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "North Carolina",
+            "Mecklenburg County",
+            "Charlotte"
+          ]
+        },
+        "salary_is_predicted": "1",
+        "title": "Microsoft Solutions Marketing Manager",
+        "longitude": -80.82779,
+        "category": {
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "PR, Advertising & Marketing Jobs"
+        }
+      },
+      {
+        "company": {
+          "display_name": "Accenture",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 297003.03,
+        "created": "2026-11-19T08:11:14Z",
+        "description": "What is Accenture & Avanade Microsoft Solutions Marketing? Microsoft Solutions Marketing is on a mission to help our clients do what matters and use the power of the Microsoft platform to fuel frontier transformation powered by agentic AI. Solutions Marketing plays a pivotal role in our success, serving as the bridge between Accenture Microsoft Business Group (AMBG) and Avanade services and our clients. We are the driving force bringing our solutions to life through compelling messages that har\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971635160?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=767F1E0B735E94FDEA0B1787D15E22BD573EB366",
+        "salary_max": 297003.03,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTYzNTE2MCIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.Hic05urRAovKfb9RPUk1xZlbT_XzjbQwExhOwdgFky0",
+        "latitude": 35.807915,
+        "salary_is_predicted": "1",
+        "category": {
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "PR, Advertising & Marketing Jobs"
+        },
+        "longitude": -78.646597,
+        "title": "Microsoft Solutions Marketing Manager",
+        "location": {
+          "area": [
+            "US",
+            "North Carolina",
+            "Wake County",
+            "Five Points"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Five Points, Wake County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5971635160"
+      },
+      {
+        "salary_is_predicted": "1",
+        "longitude": -122.80133,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "pr-advertising-marketing-jobs",
+          "label": "PR, Advertising & Marketing Jobs"
+        },
+        "title": "Microsoft Solutions Marketing Manager",
+        "id": "5971634417",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "West Slope, Washington County",
+          "area": [
+            "US",
+            "Oregon",
+            "Washington County",
+            "West Slope"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "What is Accenture & Avanade Microsoft Solutions Marketing? Microsoft Solutions Marketing is on a mission to help our clients do what matters and use the power of the Microsoft platform to fuel frontier transformation powered by agentic AI. Solutions Marketing plays a pivotal role in our success, serving as the bridge between Accenture Microsoft Business Group (AMBG) and Avanade services and our clients. We are the driving force bringing our solutions to life through compelling messages that har\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971634417?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=FF02DD5F624B0F4B4EB18F5126B849857C50E6D1",
+        "salary_min": 270240.78,
+        "company": {
+          "display_name": "Accenture",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-19T08:11:11Z",
+        "salary_max": 270240.78,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakpjeG5WZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcxNjM0NDE3In0.X1MO-7Xwsal393x5oUezkz2JVTCnWhYO87s0weZoWx0",
+        "latitude": 45.49259
+      },
+      {
+        "location": {
+          "area": [
+            "US",
+            "Oklahoma",
+            "Oklahoma County",
+            "Oklahoma City"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Oklahoma City, Oklahoma County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5971631540",
+        "salary_is_predicted": "1",
+        "longitude": -97.524283,
+        "category": {
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "PR, Advertising & Marketing Jobs"
+        },
+        "title": "Microsoft Solutions Marketing Manager",
+        "latitude": 35.432646,
+        "salary_max": 261471.88,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakpjeG5WZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcxNjMxNTQwIn0.0J6zZoJLTUC5ZfrJWWN2z5cNvI8J34W4JvCHBWkGp3Y",
+        "created": "2026-11-19T08:10:54Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Accenture"
+        },
+        "salary_min": 261471.88,
+        "description": "What is Accenture & Avanade Microsoft Solutions Marketing? Microsoft Solutions Marketing is on a mission to help our clients do what matters and use the power of the Microsoft platform to fuel frontier transformation powered by agentic AI. Solutions Marketing plays a pivotal role in our success, serving as the bridge between Accenture Microsoft Business Group (AMBG) and Avanade services and our clients. We are the driving force bringing our solutions to life through compelling messages that har\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971631540?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=33F028C560E0E649E838A12B101537DD81532AE8"
+      },
+      {
+        "location": {
+          "area": [
+            "US",
+            "New York",
+            "New York City",
+            "Manhattan",
+            "Grand Central"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Grand Central, Manhattan"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5971631382",
+        "longitude": -73.978504,
+        "salary_is_predicted": "1",
+        "title": "Senior Analyst, Affiliate Marketing",
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "latitude": 40.755381,
+        "salary_max": 113999.3,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTYzMTM4MiIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.rtbJ-2VAV2q7l9L_BfadPxrDKv3XVZz1PqBE_rcCtIQ",
+        "created": "2026-11-19T08:10:53Z",
+        "salary_min": 113999.3,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "American Express"
+        },
+        "description": "Senior Analyst, Affiliate Marketing New York, NY, United States(Hybrid) Job Description The U.S. Consumer Services Team is responsible for our suite of consumer products, services, and experiences in the U.S., including our premium, cobrand, cash back, and lending portfolios, Membership Rewards, Global Travel & Lifestyle Services, the Centurion Lounge network, our Global Dining and Resy businesses, U.S. Consumer Banking, and best-in-class marketing programs across customer, prospect, and partne\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971631382?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=EDD9580472F8394B6A17B6EC850117AB65A26486"
+      },
+      {
+        "description": "What is Accenture & Avanade Microsoft Solutions Marketing? Microsoft Solutions Marketing is on a mission to help our clients do what matters and use the power of the Microsoft platform to fuel frontier transformation powered by agentic AI. Solutions Marketing plays a pivotal role in our success, serving as the bridge between Accenture Microsoft Business Group (AMBG) and Avanade services and our clients. We are the driving force bringing our solutions to life through compelling messages that har\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5971630544?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=A1D8B4C9CE2E6D70E92210A010B2934B3027BDD3",
+        "company": {
+          "display_name": "Accenture",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 373725.16,
+        "created": "2026-11-19T08:10:44Z",
+        "salary_max": 373725.16,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiakpjeG5WZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcxNjMwNTQ0In0.b764oFwl2CGIIfcHA-F5e9jr-l_7wGY0EF1dJWWBaWw",
+        "latitude": 33.795821,
+        "longitude": -84.38763,
+        "salary_is_predicted": "1",
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Microsoft Solutions Marketing Manager",
+        "id": "5971630544",
+        "location": {
+          "area": [
+            "US",
+            "Georgia",
+            "Fulton County",
+            "Atlanta"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Atlanta, Fulton County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "salary_is_predicted": "1",
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -122.114799,
+        "title": "Microsoft Solutions Marketing Manager",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Redmond, King County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Washington",
+            "King County",
+            "Redmond"
+          ]
+        },
+        "id": "5971630489",
+        "created": "2026-11-19T08:10:43Z",
+        "company": {
+          "display_name": "Accenture",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 286258.22,
+        "redirect_url": "https://www.adzuna.com/land/ad/5971630489?se=jJcxnVfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=12A7DECBAF44CA0FAD2CEE9C0D60E6BBCD24F734",
+        "description": "What is Accenture & Avanade Microsoft Solutions Marketing? Microsoft Solutions Marketing is on a mission to help our clients do what matters and use the power of the Microsoft platform to fuel frontier transformation powered by agentic AI. Solutions Marketing plays a pivotal role in our success, serving as the bridge between Accenture Microsoft Business Group (AMBG) and Avanade services and our clients. We are the driving force bringing our solutions to life through compelling messages that har\u2026",
+        "latitude": 47.6742,
+        "salary_max": 286258.22,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MTYzMDQ4OSIsInMiOiJqSmN4blZmbDhSR3daNmdHUnhfdG5BIn0.4oue-C1u2aygYGFxbiQFX4qEkSgx3qiDxcinVndR5HI"
+      }
+    ]
+  }
+}

@@ -1,0 +1,1714 @@
+{
+  "search_term": "financial analyst",
+  "fetched_at": "11-21-02-59",
+  "response": {
+    "results": [
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 49920,
+        "location": {
+          "display_name": "Phoenix, Maricopa County",
+          "area": [
+            "US",
+            "Arizona",
+            "Maricopa County",
+            "Phoenix"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": -112.07,
+        "latitude": 33.45,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczNDE1MzI2In0.yqjDb1Fegxc1_cnH4yRGJSwBDaA74z6lFvVcEIZBkMI",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "id": "5973415326",
+        "salary_max": 52000,
+        "title": "Financial Crimes Analyst",
+        "salary_is_predicted": "0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Collabera"
+        },
+        "description": "Title: Financial Crimes Analyst (Entry-Level) Duration: 6 Month (Opportunity for conversion and extension) Location: Phoenix, AZ (Onsite 3 days/week) Pay Rate: $23 - $25 Role Overview: We are seeking entry-level analysts to support sanctions screening, politically exposed persons (PEP) reviews, and financial crimes investigations. This is an excellent opportunity for candidates looking to break into Financial Crimes, AML, Compliance, Investigations, or Risk. The role serves as a strong career s\u2026",
+        "created": "2026-11-20T21:36:11Z",
+        "redirect_url": "https://www.adzuna.com/details/5973415326?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "id": "5973414790",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "salary_is_predicted": "0",
+        "title": "Entry Level Financial Crimes Analyst",
+        "created": "2026-11-20T21:35:58Z",
+        "description": "Job Details: Title: Entry Level Financial Crimes Analyst Location: Scottsdale, AZ 85253 Duration: 06 months of contract | Onsite Pay Range: $25/Hr. to $26/Hr. Benefits: The Company offers the following benefits for this position, subject to applicable eligibility requirements: medical insurance, dental insurance, vision insurance, 401(k) retirement plan, life insurance, long-term disability insurance, short-term disability insurance, paid parking/public transportation, (paid time , paid sick an\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Collabera"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973414790?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 52000,
+        "contract_type": "contract",
+        "longitude": -111.898592,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczNDE0NzkwIn0.FNyC28_o7VHF2HxKU1t2hYcq7o2hg0kVDT0uLLKqyFk",
+        "latitude": 33.524364,
+        "salary_max": 54080,
+        "location": {
+          "display_name": "Scottsdale, Maricopa County",
+          "area": [
+            "US",
+            "Arizona",
+            "Maricopa County",
+            "Scottsdale"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        }
+      },
+      {
+        "salary_is_predicted": "0",
+        "title": "Financial Reporting Analyst",
+        "created": "2026-11-20T21:35:53Z",
+        "description": "We are seeking a detail-oriented Financial Analyst to support financial reporting, month-end closing activities, account reconciliations, and variance analysis. The ideal candidate will have 2\u20134 years of finance or accounting experience, strong Excel skills, and the ability to analyze financial data and prepare reports for finance and operational leadership.",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Compunnel"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczNDE0NTgxIn0._A8OH1IPVDX0AJ5YxC7BMqhQN-L9PKA2nuMy9TQv5AU",
+        "latitude": 45.09498,
+        "id": "5973414581",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs"
+        },
+        "salary_max": 66560,
+        "redirect_url": "https://www.adzuna.com/details/5973414581?utm_medium=api&utm_source=d30dc240",
+        "salary_min": 62400,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Spring Lake Park, Anoka County",
+          "area": [
+            "US",
+            "Minnesota",
+            "Anoka County",
+            "Spring Lake Park"
+          ]
+        },
+        "longitude": -93.25716
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 140000,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "New York",
+            "New York City"
+          ],
+          "display_name": "New York City, New York"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNDQ0NyIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.t4I_INJ_mSHwx5B1BsC8oUzUFcBwumT04DAHXeGyGss",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "id": "5973414447",
+        "salary_max": 160000,
+        "contract_time": "full_time",
+        "title": "Financial Analyst",
+        "salary_is_predicted": "0",
+        "company": {
+          "display_name": "Softtek",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:35:49Z",
+        "description": "Technical Profile Requested The client is looking for a highly specialized ION Trading Platform expert within the electronic trading and capital markets domain. Ideal Candidate Profile Senior ION Trading Support / ION MarketView Specialist This is not a pure software development role. The ideal candidate is a senior technical-functional consultant or production support specialist with strong exposure to Front Office trading environments. Mandatory Technical Skills Extensive experience with the \u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973414447?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "longitude": -79.756811,
+        "salary_min": 83200,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973414413?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "0",
+        "title": "Benefits Systems Analyst \u2013 HRIS / SuccessFactors",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Advanced Personnel Resources, Inc."
+        },
+        "description": "Advanced Personnel Resources is currently recruiting for an experienced Benefits Systems Analyst (HRIS) for one of our premier clients. Please note: This is not a general Business Analyst, Data Analyst, Financial Analyst, or IT Analyst position. Candidates must have professional experience supporting HRIS, Benefits Administration, Payroll, Compensation, or related HR systems. What We\u2019re Looking For The ideal candidate brings 5 years of hands-on HR systems experience and understands how Benefits\u2026",
+        "created": "2026-11-20T21:35:48Z",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "id": "5973414413",
+        "location": {
+          "area": [
+            "US",
+            "North Carolina",
+            "Guilford County",
+            "Greensboro"
+          ],
+          "display_name": "Greensboro, Guilford County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "latitude": 36.067604,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczNDE0NDEzIn0.R4hUzYWG3WWleVbkpfjmgyIeY6wR6xGHchlMWJ6cBV8",
+        "contract_time": "full_time",
+        "salary_max": 93600
+      },
+      {
+        "longitude": -93.788926,
+        "salary_min": 123672.63,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973414255?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "1",
+        "title": "Business Solutions Delivery Manager",
+        "description": "Business Solutions Delivery Manager Are you a people leader who enjoys bringing business and technology teams together to deliver reliable solutions? Do you have experience leading configuration management, quality assurance, system testing, or user acceptance testing activities? Are you passionate about developing employees, improving processes, and using automation and AI to create greater efficiency and business value? If so, this Business Solutions Manager opportunity could be a great fit f\u2026",
+        "company": {
+          "display_name": "Farm Bureau Financial Services",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:35:45Z",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973414255",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Iowa",
+            "Polk County",
+            "Clive"
+          ],
+          "display_name": "Clive, Polk County"
+        },
+        "latitude": 41.57978,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNDI1NSIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.eLSA1jjTR05W09TA9ZJ_YWlMinwVa-kAqF4u-eyFX6g",
+        "salary_max": 123672.63,
+        "contract_time": "full_time"
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973412942?utm_medium=api&utm_source=d30dc240",
+        "description": "Job Title: Financial Reporting Analyst Location: Boston, MA Duration: Contract - 2 months Pay Range: $53/hr - $57/hr (W2) About BCforward BCforward is a leading global IT consulting and workforce solutions firm providing services and support to Fortune 500 and government clients. Founded in 1998, BCforward has grown with our customers needs into a full-service business solutions provider. With delivery centers and offices across North America and India, we take pride in building long-term relat\u2026",
+        "created": "2026-11-20T21:35:26Z",
+        "company": {
+          "display_name": "BC Forward",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Financial Reporting Analyst Advanced (>6 years)",
+        "salary_is_predicted": "0",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_max": 124800,
+        "id": "5973412942",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczNDEyOTQyIn0.Y6YouGTBjYrHnkjOK18de6DVSBRuhdNwJfDLmHSsMrQ",
+        "latitude": 42.354856,
+        "longitude": -71.066119,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Massachusetts",
+            "Suffolk County",
+            "Boston"
+          ],
+          "display_name": "Boston, Suffolk County"
+        },
+        "salary_min": 114400,
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 59918.98,
+        "longitude": -80.743933,
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973411861",
+        "title": "On- Site Financial Analyst",
+        "salary_is_predicted": "1",
+        "company": {
+          "display_name": "Hendrick Automotive Group Corporate",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Hendrick Automotive Group Location: 6000 Monroe Rd, Charlotte, North Carolina 28212 Are you detail-oriented, organized, and interested in growing your career in finance and accounting? Hendrick Automotive Group is looking for a motivated, proactive Onsite Financial Analyst to join our team! In this role, you\u2019ll contribute the financial operations, treasury, and administrative functions of the organization, working closely with accounting, executive leadership, and department managers We\u2019re look\u2026",
+        "created": "2026-11-20T21:35:07Z",
+        "redirect_url": "https://www.adzuna.com/details/5973411861?utm_medium=api&utm_source=d30dc240",
+        "location": {
+          "display_name": "Matthews, Mecklenburg County",
+          "area": [
+            "US",
+            "North Carolina",
+            "Mecklenburg County",
+            "Matthews"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "latitude": 35.190729,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczNDExODYxIn0.O4OlJlcyibgfghUlUg6YmEIhEuTsG0eutHIKOUNiCVU",
+        "contract_time": "full_time",
+        "salary_max": 59918.98
+      },
+      {
+        "contract_type": "contract",
+        "longitude": -96.770702,
+        "salary_min": 114400,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973411408?utm_medium=api&utm_source=d30dc240",
+        "title": "Financial Business Reporting Analyst - Hybrid",
+        "salary_is_predicted": "0",
+        "created": "2026-11-20T21:35:02Z",
+        "description": "Genesis10 is currently seeking a Senior Financial/ Business Reporting Analyst - Hybrid for a 3 month contract to hire position with a Regional Financial Institution located in Dallas, TX or Columbus, OH. Compensation: $55.00 - $57.00 per hour, W2, based on qualifications Position Overview: We are seeking an experienced Senior Business Reporting Analyst to join our Business Management Office (BMO) within the Office of the CIO. The BMO currently supports certain verticals within Technology, but o\u2026",
+        "company": {
+          "display_name": "Genesis10",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "id": "5973411408",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas",
+            "Dallas",
+            "Buckingham"
+          ],
+          "display_name": "Buckingham, Dallas"
+        },
+        "latitude": 32.916625,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMTQwOCIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.t1mD5rjcT2XkUCBw0QsImpFrWwxw6DJS7CtzWor5fIM",
+        "contract_time": "full_time",
+        "salary_max": 118560
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Compunnel Inc"
+        },
+        "description": "Job Summary Seeking a Financial Analyst to analyze financial data, prepare reports, perform variance analysis, and support month-end closing activities.",
+        "created": "2026-11-20T21:34:50Z",
+        "salary_is_predicted": "0",
+        "title": "Financial Analyst",
+        "id": "5973410334",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_max": 66560,
+        "latitude": 45.09498,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMDMzNCIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.WMj75VUZ2nXG31VwMVOjv2d7v_tp1sfcOI2t72WLNy4",
+        "redirect_url": "https://www.adzuna.com/details/5973410334?utm_medium=api&utm_source=d30dc240",
+        "salary_min": 54080,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Spring Lake Park, Anoka County",
+          "area": [
+            "US",
+            "Minnesota",
+            "Anoka County",
+            "Spring Lake Park"
+          ]
+        },
+        "longitude": -93.25716
+      },
+      {
+        "latitude": 40.74816,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczNDA5Mzc2In0.cK4IRpdcY4AOwjIuE6wuftTEKYgoUaZdtdfh-5z4aDU",
+        "salary_max": 275000,
+        "contract_time": "full_time",
+        "location": {
+          "area": [
+            "US",
+            "New York",
+            "New York City",
+            "Queens",
+            "Astoria"
+          ],
+          "display_name": "Astoria, Queens",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973409376?utm_medium=api&utm_source=d30dc240",
+        "id": "5973409376",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "title": "VP Investment Management",
+        "description": "Why join this team Oversee and ensure the effective management of the investment department\u2019s credit research, portfolio analysis and operations functions, including the optimal use of all systems and resources. Partner with the Chief Investment Officer in the management of UNFCU\u2019s fixed income and equity investment security assets, including asset class and sector level research, with potential growth into additional portfolio management and trading responsibilities. - This position is hybrid.\u2026",
+        "company": {
+          "display_name": "United Nations Federal Credit Union",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:34:38Z",
+        "longitude": -73.93254,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 275000
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 145600,
+        "longitude": -118.1489,
+        "contract_type": "contract",
+        "category": {
+          "label": "Consultancy Jobs",
+          "tag": "consultancy-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973409390",
+        "created": "2026-11-20T21:34:38Z",
+        "description": "Job Title: Project Coordinator IV Location: Monterey Park, CA Duration: 12 Months Job Description: The Project Coordinator IV \u2013 Sustainability provides project coordination, cost management, and financial controls support to the Sustainability Team throughout the planning, scoping, design, procurement, construction, commissioning, and closeout of sustainability and energy-related capital improvement projects. Working under the direction of the Sustainability Team Lead, this position supports th\u2026",
+        "company": {
+          "display_name": "Kaygen Inc.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Project Coordinator IV (Sustainability)",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.com/details/5973409390?utm_medium=api&utm_source=d30dc240",
+        "location": {
+          "display_name": "Monterey Park, Los Angeles County",
+          "area": [
+            "US",
+            "California",
+            "Los Angeles County",
+            "Monterey Park"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "salary_max": 176800,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczNDA5MzkwIn0.EJVuCjrhPwbHVW9Ij1YEccIY-Y7mv59mq7XL4eG35Lk",
+        "latitude": 34.0502
+      },
+      {
+        "contract_time": "full_time",
+        "salary_max": 118393,
+        "latitude": 39.599898,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczNDA4ODg3In0.rWSLJFAVlGy7S9G9ONKYtx0bsdXIfvv38JUJVfEUZ2M",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Littleton, Arapahoe County",
+          "area": [
+            "US",
+            "Colorado",
+            "Arapahoe County",
+            "Littleton"
+          ]
+        },
+        "description": "Payrate: $56.00 - $56.92/hr. Summary: The main functions of a financial analyst are to gather and analyze financial information. They typically conduct quantitative analyses of information affecting investment programs of public or private institutions. A typical financial analyst is responsible for analyzing and communicating financial information for clients. Responsibilities Assemble spreadsheets and draw charts and graphs used to illustrate technical reports. Analyze financial information t\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Aditi Consulting"
+        },
+        "created": "2026-11-20T21:34:31Z",
+        "salary_is_predicted": "0",
+        "title": "Financial Analyst",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973408887",
+        "redirect_url": "https://www.adzuna.com/details/5973408887?utm_medium=api&utm_source=d30dc240",
+        "salary_min": 116480,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -105.007314
+      },
+      {
+        "salary_min": 120640,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -121.885273,
+        "description": "Payrate: $58.00 - $60.00/hr Summary: We are seeking a Sr. Analyst of Global Income Tax Reporting to join its Global Income Tax Reporting Team. This position, reporting to the Sr. Director of Global Income Tax Reporting, will work collaboratively with other members of the team, as well broader tax department, Controllership, and FP&A teams, to prepare and review the company's global quarterly and annual income tax provision calculations and related disclosures, complete effective tax rate foreca\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Aditi Consulting"
+        },
+        "created": "2026-11-20T21:34:26Z",
+        "salary_is_predicted": "0",
+        "title": "Senior Financial Analyst",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs"
+        },
+        "id": "5973408717",
+        "redirect_url": "https://www.adzuna.com/details/5973408717?utm_medium=api&utm_source=d30dc240",
+        "location": {
+          "area": [
+            "US",
+            "California",
+            "Santa Clara County",
+            "San Jose"
+          ],
+          "display_name": "San Jose, Santa Clara County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "salary_max": 124800,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczNDA4NzE3In0.ehot5lQoujxsYFEr42goBhNKmdZU7tHzSTYzVrtB4z4",
+        "latitude": 37.385641
+      },
+      {
+        "salary_min": 76726.91,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -75.940099,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Pennsylvania",
+            "Berks County",
+            "Greenfield Manor"
+          ],
+          "display_name": "Greenfield Manor, Berks County"
+        },
+        "salary_is_predicted": "1",
+        "title": "Financial Analyst",
+        "company": {
+          "display_name": "Penske Truck Rental",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Position Title: Financial Analyst Description: Position Summary: A Penske Financial Analyst provides analysis and metrics for Finance core processes and be responsible for knowledge of all systems. Position will provide critical accounting and analytical support for various processes as well as provide additional support to other functional areas. Associate will provide accounting and analytical support to various functions and act as a liaison with other functional areas to achieve results. Ma\u2026",
+        "created": "2026-11-20T21:34:19Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwODEyOSIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.0wGrIHQDGzd8G0RA5896W7rvqcPuIDOxKiAQ1omDijE",
+        "latitude": 40.348325,
+        "id": "5973408129",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "salary_max": 76726.91,
+        "redirect_url": "https://www.adzuna.com/details/5973408129?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "contract_type": "permanent",
+        "longitude": -77.3421,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 114201.16,
+        "redirect_url": "https://www.adzuna.com/details/5973408013?utm_medium=api&utm_source=d30dc240",
+        "id": "5973408013",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs"
+        },
+        "title": "Senior Accountant & Financial Analyst",
+        "salary_is_predicted": "1",
+        "created": "2026-11-20T21:34:17Z",
+        "description": "Support the Accounting team's month-end, quarter-end and year-end close and audits, including the accounting and reporting for AltruPet LLC, StarKist's new pet food subsidiary. Support the Finance (FP&A) team with financial analysis, budgeting and forecasting. Time is shared between Accounting and Finance based on their different peak periods. Support and review StarKist\u2019s accounting payables following three-way matching control process.",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "StarKist Co."
+        },
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Virginia",
+            "Fairfax County",
+            "Reston"
+          ],
+          "display_name": "Reston, Fairfax County"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwODAxMyIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.aSSRt1-WPmCnxV-04ENPe9T0NaBQclBL-t6uO9dxH0c",
+        "latitude": 38.95669,
+        "contract_time": "full_time",
+        "salary_max": 114201.16
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwNzAwMiIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.R3rnRswyep_YJMvMVnSqsgF0UsiwofhouHm66Rcy5g8",
+        "latitude": 42.257539,
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973407002",
+        "salary_max": 68640,
+        "salary_is_predicted": "0",
+        "title": "PBO Analyst",
+        "description": "Stefanini Group is hiring! Stefanini is looking for a PBO Analyst, Allen Park, MI (Onsite) For quick apply, please reach out Saurabh Kapoor at 248-582-6559/saurabh.kapoor@stefanini.com We are seeking PBO Analyst supports monthly financial reporting for engineering business activities within New Model Programs, preparing variance analysis and physicals-based financial and operational reporting for key stakeholders. The role partners across the business support financial decision-making and busin\u2026",
+        "company": {
+          "display_name": "Stefanini",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:34:00Z",
+        "redirect_url": "https://www.adzuna.com/details/5973407002?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 58240,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Allen Park, Wayne County",
+          "area": [
+            "US",
+            "Michigan",
+            "Wayne County",
+            "Allen Park"
+          ]
+        },
+        "longitude": -83.211038
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973405317?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "display_name": "HTC Global Services Inc",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "P&C Insurance Data Analyst / Financial Analysis SME Position Overview Work at the intersection of Property & Casualty (P&C) insurance, financial analysis, and data-driven process improvement. This role is suited to an experienced professional who understands insurance finance, can independently analyze financial data, and can clearly communicate financial differences and insights. The position combines hands-on financial analysis and reporting with opportunities to identify process improvements\u2026",
+        "created": "2026-11-20T21:33:17Z",
+        "salary_is_predicted": "1",
+        "title": "Sr. Data Analyst - P&C Insurance",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "salary_max": 57122.39,
+        "id": "5973405317",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczNDA1MzE3In0.sYscGbBs_I-rX8l6B5gYwE4XKD1aMtu0262MR-AfSjc",
+        "location": {
+          "area": [
+            "US"
+          ],
+          "display_name": "US",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_type": "permanent",
+        "salary_min": 57122.39,
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "location": {
+          "display_name": "Minneapolis, Hennepin County",
+          "area": [
+            "US",
+            "Minnesota",
+            "Hennepin County",
+            "Minneapolis"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "latitude": 44.9765,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwNTI3OCIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.4JAi24xTUz7Nx_SJwAWq0ht6A0xhDWnTFmsljeXNyXY",
+        "salary_max": 101920,
+        "contract_time": "full_time",
+        "contract_type": "contract",
+        "longitude": -93.2715,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 97760,
+        "redirect_url": "https://www.adzuna.com/details/5973405278?utm_medium=api&utm_source=d30dc240",
+        "id": "5973405278",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "title": "Digital Analyst - Onsite",
+        "salary_is_predicted": "0",
+        "description": "Genesis10 is currently seeking a Digital Analyst with a Major Financial Services Firm located in Minneapolis, MN. This is a 12 month contract requiring 4 days onsite per week, 1 day may be worked remotely. Compensation: $47.00 - $49.00 per hour, W2, based on qualifications Position Overview: This person will play a key role within Enterprise Data, Analytics, & Insights (EDAI) to drive tangible business results by providing actionable insights and recommendations through the analysis of digital \u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Genesis10"
+        },
+        "created": "2026-11-20T21:33:15Z"
+      },
+      {
+        "salary_min": 102775.3,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Pennsylvania",
+            "Berks County",
+            "Greenfield Manor"
+          ],
+          "display_name": "Greenfield Manor, Berks County"
+        },
+        "longitude": -75.940099,
+        "title": "Senior Analyst - Product Pricing",
+        "salary_is_predicted": "1",
+        "created": "2026-11-20T21:33:03Z",
+        "description": "Position Title: Senior Analyst - Product Pricing Description: Position Summary: This position is a multipurpose task position. To support the attainment of new business plan while achieving or exceeding our financial goals. To complete the Pricing assignments and workflow in the department. To provide experienced based analysis to Penske Logistics Senior Leadership, Penske Solution team members, and Penske Logistics field operations. Recommendations include identification of pricing risks, expl\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Penske Truck Rental"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczNDA0ODIzIn0.TAkGSGIES-7FeZwxmNK77M_9DXe0ycwWY-bM_PurypM",
+        "latitude": 40.348325,
+        "id": "5973404823",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Logistics & Warehouse Jobs",
+          "tag": "logistics-warehouse-jobs"
+        },
+        "salary_max": 102775.3,
+        "redirect_url": "https://www.adzuna.com/details/5973404823?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "other-general-jobs",
+          "label": "Other/General Jobs"
+        },
+        "id": "5973404827",
+        "description": "Venteon is currently seeking a Project Controller to fill an opening with a company located in Dallas-Fort Worth, TX. ABOUT THE OPPORTUNITY \u2022 Join a leading construction services platform with a focus on advanced, multi-trade project execution and ongoing service maintenance. \u2022 Work closely with divisional leadership and project managers to ensure the accuracy, integrity, and reporting of divisional financial performance. \u2022 Support strategic decision-making and operational success through finan\u2026",
+        "company": {
+          "display_name": "Venteon Holdings LLC",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:33:03Z",
+        "salary_is_predicted": "0",
+        "title": "Senior Financial Analyst",
+        "redirect_url": "https://www.adzuna.com/details/5973404827?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 90000,
+        "longitude": -97.223001,
+        "contract_time": "full_time",
+        "salary_max": 110000,
+        "latitude": 32.840712,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwNDgyNyIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.LguWH2EZZEkkobPK4nx62M0kCoYE9Jf5lNPOPkhIVVg",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas",
+            "Tarrant County",
+            "Richland Hills"
+          ],
+          "display_name": "Richland Hills, Tarrant County"
+        }
+      },
+      {
+        "salary_max": 66560,
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczNDA0NjYwIn0.SLhuNPT_Dj3tPeMPNfOy8o6OCInW1QFX2qYmfMSNs5o",
+        "latitude": 33.436666,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Tempe, Maricopa County",
+          "area": [
+            "US",
+            "Arizona",
+            "Maricopa County",
+            "Tempe"
+          ]
+        },
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973404660",
+        "description": "Job Title: Financial Analyst Intermediate Location: Tempe, Arizona Duration: Contract to hire, 6 months Pay Range: $30.00/hr $33.00/hr (W2) Job ID: 409510 About BCforward BCforward is a leading global IT consulting and workforce solutions firm providing services and support to Fortune 500 and government clients. Founded in 1998, BCforward has grown with our customers needs into a full-service business solutions provider. With delivery centers and offices across North America and India, we take \u2026",
+        "created": "2026-11-20T21:32:59Z",
+        "company": {
+          "display_name": "BC Forward",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "title": "Financial Analyst Intermediate (3-6 years)",
+        "redirect_url": "https://www.adzuna.com/details/5973404660?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 64480,
+        "longitude": -111.940325
+      },
+      {
+        "contract_type": "permanent",
+        "longitude": -76.383214,
+        "salary_min": 109058,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973403845?utm_medium=api&utm_source=d30dc240",
+        "title": "Microsoft Dynamics Financial Functional Analyst",
+        "salary_is_predicted": "0",
+        "description": "Hampton Roads Transit is looking for dynamic, customer service oriented, and energetic people to become part of a committed team providing excellent and effective public transportation to the Hampton Roads region. We offer unmatched benefits and competitive wages in a stimulating and rewarding environment. Salary Range: $109,058 - $141,775 Hampton Roads Transit is not considering applicants for this position that require any type of immigration sponsorship (additional work authorization or perm\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Hampton Roads Transit"
+        },
+        "created": "2026-11-20T21:32:43Z",
+        "id": "5973403845",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "location": {
+          "display_name": "Hampton Roads, Hampton City",
+          "area": [
+            "US",
+            "Virginia",
+            "Hampton City",
+            "Hampton Roads"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczNDAzODQ1In0.zD97xYTMck6RowbBkbdbuFwL05BBthMXlV4oygjC_Hc",
+        "latitude": 37.007436,
+        "contract_time": "full_time",
+        "salary_max": 141775
+      },
+      {
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973403759",
+        "description": "Prestige Engineering is seeking a motivated, detail-oriented Jr. Staff Accountant / Financial Analyst to support our growing finance department. This position will assist with daily accounting operations, account reconciliations, financial reporting, and month-end and year-end closing activities. The ideal candidate is organized, dependable, analytical, and capable of working independently while managing multiple responsibilities in a fast-paced, deadline-driven environment. This individual sho\u2026",
+        "company": {
+          "display_name": "Prestige Engineering",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:32:41Z",
+        "title": "Jr. Staff Accountant/Financial Analyst",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.com/details/5973403759?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 60000,
+        "longitude": -82.900243,
+        "contract_type": "permanent",
+        "contract_time": "full_time",
+        "salary_max": 75000,
+        "latitude": 42.584691,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczNDAzNzU5In0.nwG7-W9xCDYXqTgV4QNmiTUZJoRd232AA3CIhVzTPzQ",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Michigan",
+            "Macomb County",
+            "Mount Clemens"
+          ],
+          "display_name": "Mount Clemens, Macomb County"
+        }
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczNDAzNTY5In0.aW7fTcwhmd6KhC1bF7CQMZ1UHHpzSEQE-pv4zGnoM0o",
+        "id": "5973403569",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_max": 80000,
+        "contract_time": "full_time",
+        "salary_is_predicted": "0",
+        "title": "FP&A Analyst",
+        "description": "FP&A Specialist - Washington, DC Beacon Hill is seeking a FP&A Analyst to support financial planning, forecasting, reporting, and analysis for a growing organization. This role will work closely with finance and operational teams to provide visibility into financial performance and help support business decisions. Key Responsibilities: Assist with annual budgeting, forecasting, and long-range planning Prepare monthly financial reporting and variance analysis Analyze actual results against budge\u2026",
+        "created": "2026-11-20T21:32:38Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Beacon Hill Staffing Group, LLC"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973403569?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 70000,
+        "contract_type": "permanent",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Washington, D.C.",
+            "Washington"
+          ],
+          "display_name": "Washington, Washington, D.C."
+        }
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973402385?utm_medium=api&utm_source=d30dc240",
+        "title": "Treasury Analyst/ Financial data",
+        "salary_is_predicted": "0",
+        "description": "Greetings from BizTech Fusion! We are seeking for a Treasury Analyst who will play a key role in managing cash flow, investments, and financial reporting. This position involves a variety of analytical, reporting, and administrative duties to ensure effective cash management and financial operations. The Treasury Analyst will support senior leadership with critical financial data, manage treasury-related databases, and contribute to the development and maintenance of financial policies and proc\u2026",
+        "created": "2026-11-20T21:32:09Z",
+        "company": {
+          "display_name": "BizTech Fusion LLC",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "latitude": 38.87532,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwMjM4NSIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.Q8yVaLr-jc4wBbPT_2SHikQxTxCXFAf2XJznn0JAl1s",
+        "salary_max": 76960,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "id": "5973402385",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Virginia",
+            "Arlington County",
+            "Crystal"
+          ],
+          "display_name": "Crystal, Arlington County"
+        },
+        "longitude": -77.02188,
+        "salary_min": 62400,
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "longitude": -75.940099,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Greenfield Manor, Berks County",
+          "area": [
+            "US",
+            "Pennsylvania",
+            "Berks County",
+            "Greenfield Manor"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 113539.05,
+        "redirect_url": "https://www.adzuna.com/details/5973402328?utm_medium=api&utm_source=d30dc240",
+        "latitude": 40.348325,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwMjMyOCIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.4xtqVDROCLX3LlCZsqw9eE3b8gVSEGXJSWzZIvp8dMM",
+        "id": "5973402328",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_max": 113539.05,
+        "title": "Senior Financial Analyst-Operating Tax",
+        "salary_is_predicted": "1",
+        "created": "2026-11-20T21:32:08Z",
+        "description": "Position Title: Senior Financial Analyst-Operating Tax Description: Position Summary: The Senior Financial Analyst supports the Fleet Services Operating Tax Team by providing analytical reporting of data and research supporting Penske and affiliates operating tax responsibilities in areas such as sales, use, property, excise, value added, fuel & mileage, and heavy vehicle use taxes across U.S. and Canadian operations. The position requires strong analytical skills, attention to detail, and the \u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Penske Truck Rental"
+        }
+      },
+      {
+        "description": "Pay Range: $26.00hr - $31.00hr Job Overview: The candidate will collaborate with the principal investigator to prepare the administrative components of proposals in compliance with sponsored and non-sponsored research guidelines. The role involves managing and communicating the submission process for both paper and electronic formats to ensure all documents are complete and compliant. The successful candidate will develop, prepare, and finalize project budgets, including providing detailed budg\u2026",
+        "created": "2026-11-20T21:32:01Z",
+        "company": {
+          "display_name": "CYNET SYSTEMS",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Research Financial Analyst",
+        "salary_is_predicted": "0",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "id": "5973401846",
+        "redirect_url": "https://www.adzuna.com/details/5973401846?utm_medium=api&utm_source=d30dc240",
+        "salary_min": 54080,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -117.20095,
+        "contract_time": "part_time",
+        "salary_max": 64480,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwMTg0NiIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.y-r1b1IW4q74qEqendgYVxU8COdfHZcorM3vLEhAZcI",
+        "latitude": 32.894406,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "California",
+            "San Diego County",
+            "La Jolla"
+          ],
+          "display_name": "La Jolla, San Diego County"
+        }
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwMTgyNiIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.av8JVBAzC5fcDwV8qBqpUB6UylkyUJXf1zfHOIBXNgE",
+        "latitude": 45.09498,
+        "salary_max": 66560,
+        "contract_time": "part_time",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Minnesota",
+            "Anoka County",
+            "Spring Lake Park"
+          ],
+          "display_name": "Spring Lake Park, Anoka County"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973401826?utm_medium=api&utm_source=d30dc240",
+        "id": "5973401826",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "title": "Financial Analyst II",
+        "created": "2026-11-20T21:32:01Z",
+        "description": "Pay Range: $27.06hr - $32.06hr Job Overview: The Financial Analyst II will gather and analyze financial information, typically conducting quantitative analyses of information affecting investment programs. Responsibilities include analyzing and communicating financial information for internal leadership and partners. Education/Experience: Bachelor's degree in accounting or related financial discipline required. An advanced degree in a financial discipline is preferred. 2-4 years of financial an\u2026",
+        "company": {
+          "display_name": "CYNET SYSTEMS",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "longitude": -93.25716,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 56160
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Tuckahoe, Henrico County",
+          "area": [
+            "US",
+            "Virginia",
+            "Henrico County",
+            "Tuckahoe"
+          ]
+        },
+        "contract_time": "full_time",
+        "salary_max": 76916.59,
+        "latitude": 37.57758,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM2NDg3NyIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.mbgNK9YT556apxrS-r0hrOOX98rP3ILlncfLmgJdH54",
+        "longitude": -77.5347,
+        "contract_type": "permanent",
+        "salary_min": 76916.59,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973364877?utm_medium=api&utm_source=d30dc240",
+        "description": "Are you ready to help shape the quality, clarity, and integrity of financial reporting for a leading organization? Within this position, you will apply technical accounting expertise, support critical SEC reporting activities, and help shape key business decisions! You'll collaborate with various departments, prepare detailed accounting analyses, and help ensure financial reporting remains accurate, compliant, and aligned with accounting and regulatory requirements.We are seeking a Senior Finan\u2026",
+        "created": "2026-11-20T20:12:09Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Altria Client Services LLC"
+        },
+        "title": "Job Title:",
+        "salary_is_predicted": "1",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs"
+        },
+        "id": "5973364877"
+      },
+      {
+        "latitude": 40.750133,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczMzY0NzQ2In0.WHHCLYsApcC2UHkC-oWUVh7fwprxx55C9kissVmdcdE",
+        "salary_max": 168837.12,
+        "contract_time": "full_time",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Chelsea and Clinton, Manhattan",
+          "area": [
+            "US",
+            "New York",
+            "New York City",
+            "Manhattan",
+            "Chelsea and Clinton"
+          ]
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973364746?utm_medium=api&utm_source=d30dc240",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973364746",
+        "salary_is_predicted": "1",
+        "title": "Investment Banking - Financial Institutions Group, Banks - Analyst",
+        "description": "Job Summary As an Analyst in the Financial Institutions Group (FIG) team in the Investment Banking Division, you will be a key player in the execution of the firm's business. You will work with expert professionals at the heart of a leading global investment bank. Senior bankers will get to know you - both as a person and as a valued member of a winning team. You will experience training, hands-on learning opportunities, continuous mentoring and feedback, and numerous development opportunities.\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "JPMorgan Chase Bank, N.A."
+        },
+        "created": "2026-11-20T20:12:07Z",
+        "contract_type": "permanent",
+        "longitude": -73.997006,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 168837.12
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM2NDIzNyIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.85pwUt5GpCXnJja1tBEAcZiDakF8kIOZ6v9bhJ4nw6g",
+        "latitude": 33.405266,
+        "salary_max": 159045.23,
+        "contract_time": "full_time",
+        "location": {
+          "display_name": "Tempe, Maricopa County",
+          "area": [
+            "US",
+            "Arizona",
+            "Maricopa County",
+            "Tempe"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973364237",
+        "title": "Mergers & Acquisitions Finance and Operations Manager",
+        "salary_is_predicted": "1",
+        "created": "2026-11-20T20:12:02Z",
+        "description": "Our Deloitte Strategy & Transactions team helps guide clients through their most critical moments and transformational initiatives. We offer comprehensive end-to-end support and advisory services, covering areas such as valuation modeling, cost optimization, restructuring, business design and transformation, infrastructure and real estate, mergers and acquisitions (M&A), and sustainability. The team works closely with clients at every stage of their journey, helping them navigate challenges, av\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deloitte"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973364237?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 159045.23,
+        "contract_type": "permanent",
+        "longitude": -111.92545
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 108758.35,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "New York",
+            "New York City",
+            "Manhattan",
+            "Grand Central"
+          ],
+          "display_name": "Grand Central, Manhattan"
+        },
+        "longitude": -73.97528,
+        "salary_max": 108758.35,
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973362695",
+        "latitude": 40.75284,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM2MjY5NSIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.AlmUbYsxp9ckraOTotPs66AbOz15Le3v4OXG5DHIejc",
+        "description": "Job Tittle: Business & Data Analyst Location: NYC Hybrid Duration: Long Term Contract 8\u201312 years of experience as a Business Analyst in Banking or Financial Services. Strong understanding of BCBS 239 and regulatory reporting. Experience with Data Lineage, Data Governance, and Data Mapping. Knowledge of Risk Data Aggregation and data quality concepts. Strong business requirement gathering and documentation skills. Experience working with business, technology, risk, and compliance stakeholders. K\u2026",
+        "created": "2026-11-20T20:11:47Z",
+        "company": {
+          "display_name": "Momento USA LLC",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "1",
+        "title": "Business Analyst",
+        "redirect_url": "https://www.adzuna.com/land/ad/5973362695?se=4NuglVfl8RGUPaFcE3-wxg&utm_medium=api&utm_source=d30dc240&v=F12F28F7356C9DC1673A4914EA972E64B5EE9BBF"
+      },
+      {
+        "salary_min": 136476.39,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -121.9221,
+        "location": {
+          "display_name": "Campbell, Santa Clara County",
+          "area": [
+            "US",
+            "California",
+            "Santa Clara County",
+            "Campbell"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "description": "Role Overview We are urgently seeking an experienced Sage Financial Analyst with strong hands-on expertise in Fixed Assets for our direct client in the semiconductor industry . This is an immediate, 100% onsite contract-to-hire opportunity in San Jose, CA. The ideal candidate will manage fixed asset accounting, depreciation schedules, asset lifecycle tracking, and financial reporting within the Sage ERP environment. Key Responsibilities Fixed Assets Management: Manage end-to-end fixed asset acc\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Info Way Solutions"
+        },
+        "created": "2026-11-20T20:11:38Z",
+        "salary_is_predicted": "1",
+        "title": "Sage Financial Analyst (Fixed Assets)",
+        "salary_max": 136476.39,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs"
+        },
+        "id": "5973361918",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM2MTkxOCIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.ee1Vm2zNK1QkvU9Fudv4cpBib6c3eBixSck7lYmjfqE",
+        "latitude": 37.3063,
+        "redirect_url": "https://www.adzuna.com/land/ad/5973361918?se=4NuglVfl8RGUPaFcE3-wxg&utm_medium=api&utm_source=d30dc240&v=BA047C3912E1179D7AFBE57BF98EEB4AC834676A"
+      },
+      {
+        "location": {
+          "display_name": "Cloverdale, Shelby County",
+          "area": [
+            "US",
+            "Tennessee",
+            "Shelby County",
+            "Cloverdale"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM2MTM3NyIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.7k0iOEO-iRQvtCqL9xAlrZRy4MWdRNORUhPbGUugEd4",
+        "latitude": 35.07032,
+        "salary_max": 87470.17,
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 87470.17,
+        "contract_type": "permanent",
+        "longitude": -89.95656,
+        "id": "5973361377",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Senior Financial Systems Analyst",
+        "salary_is_predicted": "1",
+        "description": "Job Description As a Senior Financial Systems Analyst, you will be responsible for developing and maintaining the architecture of reporting systems in ERP and Workday Adaptive Planning, overseeing daily, weekly, periodic, and quarterly report processing. Additionally, you will support configuration, report development, create business processes, troubleshoot technical issues, and work closely with Finance to improve processes and leverage technological capabilities to maximize system efficienci\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Autozone"
+        },
+        "created": "2026-11-20T20:11:24Z",
+        "redirect_url": "https://www.adzuna.com/details/5973361377?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "salary_min": 173501.9,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -75.71076,
+        "contract_type": "permanent",
+        "created": "2026-11-20T20:11:21Z",
+        "description": "Step into a dynamic role here at JPMorgan Chase and be a part of the Firmwide Financial Controllers group, a global organization accountable for the integrity of the books and records of the Firm and accounting standard and business process change management events. The organization closely examines the general ledger, operating systems and controls across all businesses to ensure the firm's financial information is accurately depicted for reporting and regulation purposes. As a Financial Repor\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "JPMorgan Chase Bank, N.A."
+        },
+        "title": "Corporate & Investment Bank Asset Class Controller - External Reporting Analyst",
+        "salary_is_predicted": "1",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973360972",
+        "redirect_url": "https://www.adzuna.com/details/5973360972?utm_medium=api&utm_source=d30dc240",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Glasgow, New Castle County",
+          "area": [
+            "US",
+            "Delaware",
+            "New Castle County",
+            "Glasgow"
+          ]
+        },
+        "salary_max": 173501.9,
+        "contract_time": "full_time",
+        "latitude": 39.6192,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczMzYwOTcyIn0.3-kiJEviRq5Vf2hPiPhbJbzSbNuE0ETNbTjwFs72_Vg"
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973360872?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "display_name": "JPMorgan Chase Bank, N.A.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "As a Financials Analyst on the Value team, you will be responsible for contributing to the investment process by researching large cap companies in the Financials sector with the objective of producing actionable investment recommendations. Job responsibilities: Develop analytical and valuation framework for covered stocks and for ensuring the quality and consistency of the investment team's research process. Perform independent fundamental analysis of a company's business by examining SEC fili\u2026",
+        "created": "2026-11-20T20:11:20Z",
+        "title": "Asset Management - Large Cap Value Fund Research Analyst (Financials Sector) - Vice President",
+        "salary_is_predicted": "1",
+        "id": "5973360872",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -73.997006,
+        "contract_type": "permanent",
+        "salary_min": 289529,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "salary_max": 289529,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczMzYwODcyIn0.v4bqXeOU8QL8LbNexXynUOUNBZdpPS_ECxtImNTfIdc",
+        "latitude": 40.750133,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Chelsea and Clinton, Manhattan",
+          "area": [
+            "US",
+            "New York",
+            "New York City",
+            "Manhattan",
+            "Chelsea and Clinton"
+          ]
+        }
+      },
+      {
+        "contract_time": "full_time",
+        "salary_max": 107458.69,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczMzYwODU5In0.1bAguHkM27tkkJ837ch1DChndfM5BO3rianPZ6LFUXA",
+        "latitude": 40.751806,
+        "location": {
+          "area": [
+            "US",
+            "New Jersey",
+            "Hudson County",
+            "Summit Avenue"
+          ],
+          "display_name": "Summit Avenue, Hudson County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973360859?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T20:11:20Z",
+        "description": "Join a collaborative Finance team supporting the technology platforms that underpin JPMorgan Chase. In this early-career role, you'll build financial and analytical skills while contributing to planning, reporting, and business management for Core Foundational Platforms (CFP) and Cloud Foundational Services (CFS). You will work closely with senior leaders and cross-functional partners to deliver key projects, provide business insights, and support business priorities. This is an opportunity to \u2026",
+        "company": {
+          "display_name": "JPMorgan Chase Bank, N.A.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Global Technology, Finance & Business Management, Analyst",
+        "salary_is_predicted": "1",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973360859",
+        "longitude": -74.053943,
+        "contract_type": "permanent",
+        "salary_min": 107458.69,
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973360749?utm_medium=api&utm_source=d30dc240",
+        "id": "5973360749",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "description": "Primary Function The Sales Administrator/ Financial Analyst provides administrative, billing, and accounting support for equipment sales and rental operations across PEPG, PCAS, and PTRK. The role will coordinate sales invoicing, equipment costing, account reconciliations, and customer documentation to support accurate financial processing and operational efficiency. Essential Duties Sales Billing & Equipment Administration Process and invoice equipment sales orders for PEPG, PCAS, and PTRK Rev\u2026",
+        "created": "2026-11-20T20:11:19Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Gregory Poole Equipment Company"
+        },
+        "salary_is_predicted": "1",
+        "title": "Sales Administrator / Financial Analyst I",
+        "longitude": -78.594385,
+        "contract_type": "permanent",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 74083.41,
+        "contract_time": "full_time",
+        "salary_max": 74083.41,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM2MDc0OSIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.28uaxiS3dxnSr2r-XXynwh7dGnT3g5sGTlsQV1fYiQo",
+        "latitude": 35.664395,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Garner, Wake County",
+          "area": [
+            "US",
+            "North Carolina",
+            "Wake County",
+            "Garner"
+          ]
+        }
+      },
+      {
+        "salary_is_predicted": "1",
+        "title": "Senior Financial Analyst, Data Center Systems",
+        "description": "Schneider Electric has a hybrid opportunity for a Senior Financial Analyst in the following hub locations: Nashville, TN; Foxboro, MA; Boston, MA; Dallas, TX. In this role you will partner and influence the commercial organization, driving performance, and upholding internal controls and compliance standards. This is an exciting and unique opportunity to support business growth as Schneider Electric builds on its leading market position providing critical infrastructure to the future of data ce\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Schneider Electric"
+        },
+        "created": "2026-11-20T20:11:12Z",
+        "id": "5973360441",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973360441?utm_medium=api&utm_source=d30dc240",
+        "salary_min": 135983.73,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_type": "permanent",
+        "longitude": -86.777425,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM2MDQ0MSIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.vsYpD6V9JnW-3nQasNHHjpTQOqpc3rZ8oVRLHlHO_BY",
+        "latitude": 36.164613,
+        "salary_max": 135983.73,
+        "contract_time": "full_time",
+        "location": {
+          "display_name": "Nashville, Davidson County",
+          "area": [
+            "US",
+            "Tennessee",
+            "Davidson County",
+            "Nashville"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        }
+      },
+      {
+        "description": "Schneider Electric has a hybrid opportunity for a Senior Financial Analyst in the following hub locations: Nashville, TN; Foxboro, MA; Boston, MA; Dallas, TX. In this role you will partner and influence the commercial organization, driving performance, and upholding internal controls and compliance standards. This is an exciting and unique opportunity to support business growth as Schneider Electric builds on its leading market position providing critical infrastructure to the future of data ce\u2026",
+        "company": {
+          "display_name": "Schneider Electric",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T20:11:12Z",
+        "salary_is_predicted": "1",
+        "title": "Senior Financial Analyst, Data Center Systems",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs"
+        },
+        "id": "5973360453",
+        "redirect_url": "https://www.adzuna.com/details/5973360453?utm_medium=api&utm_source=d30dc240",
+        "salary_min": 94627.43,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -71.242132,
+        "contract_type": "permanent",
+        "salary_max": 94627.43,
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczMzYwNDUzIn0.t9M1rfcEhNz3wJJOTlKMIfS9Lh_8DRmNZ5cz-8tktN0",
+        "latitude": 42.064882,
+        "location": {
+          "area": [
+            "US",
+            "Massachusetts",
+            "Norfolk County",
+            "Foxboro"
+          ],
+          "display_name": "Foxboro, Norfolk County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        }
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973360440?utm_medium=api&utm_source=d30dc240",
+        "description": "Schneider Electric has a hybrid opportunity for a Senior Financial Analyst in the following hub locations: Nashville, TN; Foxboro, MA; Boston, MA; Dallas, TX. In this role you will partner and influence the commercial organization, driving performance, and upholding internal controls and compliance standards. This is an exciting and unique opportunity to support business growth as Schneider Electric builds on its leading market position providing critical infrastructure to the future of data ce\u2026",
+        "created": "2026-11-20T20:11:12Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Schneider Electric"
+        },
+        "title": "Senior Financial Analyst, Data Center Systems",
+        "salary_is_predicted": "1",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "id": "5973360440",
+        "longitude": -96.798344,
+        "contract_type": "permanent",
+        "salary_min": 106026.82,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 106026.82,
+        "contract_time": "full_time",
+        "latitude": 32.786999,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM2MDQ0MCIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.qFjKELJEkJFE7R0ghTbzz0p6zGGiF_GPLfLDPo0t7HQ",
+        "location": {
+          "area": [
+            "US",
+            "Texas",
+            "Dallas",
+            "Highland Park"
+          ],
+          "display_name": "Highland Park, Dallas",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        }
+      },
+      {
+        "description": "Turn data into discoveries that change lives. Join our oncology research team as a Research Business Analyst and play a critical role in advancing cancer care through data-driven insights, operational excellence, and clinical research support. If you're passionate about analytics, process improvement, and making a meaningful impact on patients' lives, this is your opportunity to help shape the future of cancer treatment while collaborating with physicians, researchers, and industry partners in \u2026",
+        "created": "2026-11-20T20:11:12Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Highlands Oncology Group PA"
+        },
+        "salary_is_predicted": "1",
+        "title": "Research Business Analyst",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "healthcare-nursing-jobs",
+          "label": "Healthcare & Nursing Jobs"
+        },
+        "id": "5973360375",
+        "redirect_url": "https://www.adzuna.com/details/5973360375?utm_medium=api&utm_source=d30dc240",
+        "salary_min": 78782.52,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -94.182018,
+        "contract_type": "permanent",
+        "salary_max": 78782.52,
+        "contract_time": "full_time",
+        "latitude": 36.183959,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczMzYwMzc1In0.vpDkz3GKafmwv1piLr4c1EcZAX5JUJHImdaBIZIsw9A",
+        "location": {
+          "area": [
+            "US",
+            "Arkansas",
+            "Washington County",
+            "Tontitown"
+          ],
+          "display_name": "Tontitown, Washington County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        }
+      },
+      {
+        "contract_time": "full_time",
+        "salary_max": 104287.3,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczMzYwNDQ3In0.oy5ESLrEwMdhew8fEE0_Yct7x7PqA00Jhs36MLFLknI",
+        "latitude": 42.3575,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Boston, Suffolk County",
+          "area": [
+            "US",
+            "Massachusetts",
+            "Suffolk County",
+            "Boston"
+          ]
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "id": "5973360447",
+        "description": "Schneider Electric has a hybrid opportunity for a Senior Financial Analyst in the following hub locations: Nashville, TN; Foxboro, MA; Boston, MA; Dallas, TX. In this role you will partner and influence the commercial organization, driving performance, and upholding internal controls and compliance standards. This is an exciting and unique opportunity to support business growth as Schneider Electric builds on its leading market position providing critical infrastructure to the future of data ce\u2026",
+        "created": "2026-11-20T20:11:12Z",
+        "company": {
+          "display_name": "Schneider Electric",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "1",
+        "title": "Senior Financial Analyst, Data Center Systems",
+        "redirect_url": "https://www.adzuna.com/details/5973360447?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 104287.3,
+        "longitude": -71.0691,
+        "contract_type": "permanent"
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973360173?utm_medium=api&utm_source=d30dc240",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973360173",
+        "title": "Sr Financial Analyst, Field",
+        "salary_is_predicted": "1",
+        "created": "2026-11-20T20:11:10Z",
+        "description": "What You'll Do You will support financial planning and analysis for warehouse operations by managing the forecasting, annual budgeting, and month-end close processes. You will analyze financial and non-financial data, prepare management reports and presentations, and contribute to integration efforts for newly acquired locations. Minimal travel may be required, up to 10%. Essential Functions Assist with forecasting and annual operating budget preparation for facilities within the region, unders\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Americold Logistics, LLC."
+        },
+        "contract_type": "permanent",
+        "longitude": -75.652343,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 80654.34,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczMzYwMTczIn0.trSOp5EWmZKomKefK7issJd9vxhqhglYgDG3QMeusT8",
+        "latitude": 40.59456,
+        "contract_time": "full_time",
+        "salary_max": 80654.34,
+        "location": {
+          "display_name": "Fogelsville, Lehigh County",
+          "area": [
+            "US",
+            "Pennsylvania",
+            "Lehigh County",
+            "Fogelsville"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        }
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Indiana",
+            "St. Joseph County",
+            "Mishawaka"
+          ],
+          "display_name": "Mishawaka, St. Joseph County"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM1OTUwMiIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.e_mmEX7NSNk3Pv41UWfJr8l2EAjwLBKgYBESW5Ytkew",
+        "latitude": 41.650239,
+        "contract_time": "full_time",
+        "salary_max": 122672,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 89220,
+        "contract_type": "permanent",
+        "longitude": -86.157025,
+        "id": "5973359502",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs"
+        },
+        "salary_is_predicted": "0",
+        "title": "Finance Analyst",
+        "created": "2026-11-20T20:11:01Z",
+        "description": "Join us in pioneering breakthroughs in healthcare. For everyone. Everywhere. Sustainably. Our inspiring and caring environment forms a global community that celebrates diversity and individuality. We encourage you to step beyond your comfort zone, offering resources and flexibility to foster your professional and personal growth, all while valuing your unique contributions. This is a role well suited to an ambitious professional, looking for the next step in their career. As a Financial Analyst\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Siemens Healthineers"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973359502?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973359452?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "1",
+        "title": "Healthcare Operations Manager",
+        "description": "Our Deloitte Strategy & Transactions team helps guide clients through their most critical moments and transformational initiatives. From strategy to execution, this team delivers integrated, end-to-end support and advisory services covering valuation modeling, cost optimization, restructuring, government operations modernization, business design and transformation, infrastructure and real estate, mergers and acquisitions (M&A), and sustainability. Work alongside clients every step of the way, h\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deloitte"
+        },
+        "created": "2026-11-20T20:11:00Z",
+        "id": "5973359452",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs"
+        },
+        "contract_type": "permanent",
+        "longitude": -71.0691,
+        "salary_min": 120484.91,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczMzU5NDUyIn0.otgbkuellR0NeWLw-0gi7gboXeahbzhuSoQD39Ul8BY",
+        "latitude": 42.3575,
+        "contract_time": "full_time",
+        "salary_max": 120484.91,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Boston, Suffolk County",
+          "area": [
+            "US",
+            "Massachusetts",
+            "Suffolk County",
+            "Boston"
+          ]
+        }
+      },
+      {
+        "salary_is_predicted": "1",
+        "title": "Decision Support Analyst",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Valley Medical Center & Clinics"
+        },
+        "description": "Job Description The Decision Support Analyst supports organizational decision-making by collecting, validating, analyzing, and interpreting healthcare, finance, cost accounting, and operational data. This role partners with senior analysts, Finance, operational leaders, Information Technology to develop reports, conduct analyses, maintain data systems, develop pro-forma income statements, and support cost accounting methodologies that inform hospital operations, patient care, service line perfo\u2026",
+        "created": "2026-11-20T19:43:51Z",
+        "latitude": 47.462337,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiNE51Z2xWZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczMzM0MTk4In0.gfeJnQYy-VrdTYhQUiog4yLn4a-kz64x7en-9qISDxg",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973334198",
+        "salary_max": 63360.79,
+        "redirect_url": "https://www.adzuna.com/details/5973334198?utm_medium=api&utm_source=d30dc240",
+        "salary_min": 63360.79,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Renton, King County",
+          "area": [
+            "US",
+            "Washington",
+            "King County",
+            "Renton"
+          ]
+        },
+        "longitude": -122.205506
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 67113.82,
+        "location": {
+          "display_name": "Plano, Collin County",
+          "area": [
+            "US",
+            "Texas",
+            "Collin County",
+            "Plano"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": -96.733343,
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973333955",
+        "salary_max": 67113.82,
+        "latitude": 33.060381,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzMzMzk1NSIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.rw4fYC0OmijYtg8xhEa6lL8dCjChS9sOa0Yv4Nkt7IM",
+        "created": "2026-11-20T19:43:50Z",
+        "description": "Job Description \u25a0 Position Overview We are seeking a Financial Operations Analyst to manage contract administration, billing operations, accounts receivable analysis, and financial reporting. This role works closely with contract support, service teams, headquarters, and IT Finance to maintain accurate financial records, investigate discrepancies, assess collection risks, and improve operational processes. The ideal candidate can interpret financial data and provide actionable recommendations t\u2026",
+        "company": {
+          "display_name": "SBT Global, Inc.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Financial Operations Analyst(Korean Bilingual)",
+        "salary_is_predicted": "1",
+        "redirect_url": "https://www.adzuna.com/details/5973333955?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 66468.64,
+        "longitude": -96.733343,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas",
+            "Collin County",
+            "Plano"
+          ],
+          "display_name": "Plano, Collin County"
+        },
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_max": 66468.64,
+        "id": "5973333963",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzMzMzk2MyIsInMiOiI0TnVnbFZmbDhSR1VQYUZjRTMtd3hnIn0.TqzHD5ZkxrUlJbnUCEGBxpNPnmBf_7m3LpcTjOwkKPI",
+        "latitude": 33.060381,
+        "created": "2026-11-20T19:43:50Z",
+        "description": "Job Description 1. Contract & Business Operations Management (SAP/SFDC) Manage and oversee contract creation, modification, and maintenance in SAP. Review contract documentation and supporting financial information to ensure accuracy and compliance with internal business requirements. Evaluate contract-related discrepancies and coordinate with relevant teams to determine appropriate resolutions. Coordinate with contract support and service teams to improve business record accuracy and system pr\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Woongjin, Inc"
+        },
+        "salary_is_predicted": "1",
+        "title": "Financial Operations Analyst -Bilingual (Korean/ English)",
+        "redirect_url": "https://www.adzuna.com/details/5973333963?utm_medium=api&utm_source=d30dc240"
+      }
+    ],
+    "mean": 108039.97,
+    "count": 10212,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults"
+  }
+}

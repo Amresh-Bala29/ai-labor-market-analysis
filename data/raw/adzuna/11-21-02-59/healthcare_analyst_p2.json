@@ -1,0 +1,1632 @@
+{
+  "search_term": "healthcare analyst",
+  "fetched_at": "11-21-02-59",
+  "response": {
+    "results": [
+      {
+        "id": "5972891543",
+        "location": {
+          "area": [
+            "US",
+            "Arizona",
+            "Maricopa County",
+            "Phoenix"
+          ],
+          "display_name": "Phoenix, Maricopa County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "1",
+        "longitude": -112.08293,
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "latitude": 33.50977,
+        "salary_max": 82447.87,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyODkxNTQzIn0.7KP0LAgrt1gVS4VQLltM6M9tjEnpRaU3mGwb2lLjfjs",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972891543?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=741640394BD63086A4456BE91E498F48BC8ECF07",
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026",
+        "created": "2026-11-20T08:11:07Z",
+        "company": {
+          "display_name": "Cognizant",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 82447.87
+      },
+      {
+        "salary_max": 89171.89,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3Mjg5MTIxOCIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.Ar5LLNG77s55aSqeaK-EP97pfWS-DGFq0_gE5iS9P6U",
+        "latitude": 40.72693,
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972891218?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=315BD10DA6DDBDF7C62CED7C7ECF68F93137AD5B",
+        "company": {
+          "display_name": "Cognizant",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 89171.89,
+        "created": "2026-11-20T08:11:03Z",
+        "id": "5972891218",
+        "location": {
+          "area": [
+            "US",
+            "Utah",
+            "Utah County",
+            "Bonnie"
+          ],
+          "display_name": "Bonnie, Utah County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "1",
+        "longitude": -111.88763,
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "salary_is_predicted": "1",
+        "longitude": -123.02826,
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "id": "5972890721",
+        "location": {
+          "area": [
+            "US",
+            "Oregon",
+            "Marion County",
+            "Salem"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Salem, Marion County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972890721?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=BB4070F9D83504551FB620D66E4A871F38D56EFE",
+        "created": "2026-11-20T08:10:56Z",
+        "company": {
+          "display_name": "Cognizant",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 82847.09,
+        "latitude": 44.94379,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3Mjg5MDcyMSIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.5F9myo4lE8zV_vJlBcOJG-lNePT-61PYBDx7ym3Wyxk",
+        "salary_max": 82847.09
+      },
+      {
+        "latitude": 38.89969,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3Mjg4ODU0MCIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.STS4boD9woxkdhLOB0YIX0gRO1Vpe90kXtDtZdRNQmo",
+        "salary_max": 88286.45,
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972888540?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=894D27B3A77E5A6A7EEE37AC6EC080ED5DD3485B",
+        "created": "2026-11-20T08:10:19Z",
+        "salary_min": 88286.45,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Cognizant"
+        },
+        "id": "5972888540",
+        "location": {
+          "display_name": "Washington, D.C., US",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Washington, D.C."
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -77.02717,
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)",
+        "salary_is_predicted": "1",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        }
+      },
+      {
+        "created": "2026-11-20T08:10:15Z",
+        "salary_min": 89329.1,
+        "company": {
+          "display_name": "Cognizant",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972888382?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=B5F7C8896418A956616952FAD6A41CC7F0862A9E",
+        "latitude": 38.35162,
+        "salary_max": 89329.1,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyODg4MzgyIn0.yJsIQoF0hUsZ3j_ChDjZrbb4SrLKvS4UZXSL1_zXE4g",
+        "longitude": -81.63006,
+        "salary_is_predicted": "1",
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "West Virginia",
+            "Kanawha County",
+            "Charleston"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Charleston, Kanawha County"
+        },
+        "id": "5972888382"
+      },
+      {
+        "id": "5972888139",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Des Moines, Polk County",
+          "area": [
+            "US",
+            "Iowa",
+            "Polk County",
+            "Des Moines"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -93.63911,
+        "salary_is_predicted": "1",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)",
+        "latitude": 41.58345,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyODg4MTM5In0.miq4XCQiOknY4yC7RUCzM7sSdMPuS9L_-zipoaGCpTc",
+        "salary_max": 84101.76,
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972888139?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=F0BBB20BA38F5717F853D98171880B15A639063C",
+        "created": "2026-11-20T08:10:09Z",
+        "salary_min": 84101.76,
+        "company": {
+          "display_name": "Cognizant",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "id": "5972887281",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Alabama",
+            "Montgomery County",
+            "Chisolm"
+          ],
+          "display_name": "Chisolm, Montgomery County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": -86.278545,
+        "salary_is_predicted": "1",
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_max": 77129.31,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3Mjg4NzI4MSIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.zblCD-QHujWguQYd-Ubk_KQx9YMk51VPXkBDCQb-GCM",
+        "latitude": 32.378649,
+        "redirect_url": "https://www.adzuna.com/land/ad/5972887281?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=66425D87473D4DAEF1B8CD7F23D6F6B82EE3A83A",
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026",
+        "company": {
+          "display_name": "Cognizant",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 77129.31,
+        "created": "2026-11-20T08:09:57Z"
+      },
+      {
+        "id": "5972886589",
+        "location": {
+          "area": [
+            "US",
+            "Idaho",
+            "Ada County",
+            "Boise"
+          ],
+          "display_name": "Boise, Ada County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -116.21582,
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)",
+        "salary_is_predicted": "1",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "latitude": 43.61421,
+        "salary_max": 85530.18,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3Mjg4NjU4OSIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.RtvOjtJBiOjN3W3tqBL8TxQPk-TL5oRux4A_jh7vy5A",
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972886589?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=E09954A6385B3CF75B019E2985C02AC50212E47F",
+        "created": "2026-11-20T08:09:45Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Cognizant"
+        },
+        "salary_min": 85530.18
+      },
+      {
+        "id": "5972886529",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Connecticut",
+            "Hartford County",
+            "Talcott Village"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Talcott Village, Hartford County"
+        },
+        "longitude": -72.683866,
+        "salary_is_predicted": "1",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3Mjg4NjUyOSIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.h-cshhsBx1LfXG1MPCmIWrS6EoIgZLz9-bboswIhfrI",
+        "salary_max": 93656.55,
+        "latitude": 41.7657,
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972886529?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=0A973C7171DFE526B2A792D7DAAC99D592200748",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Cognizant"
+        },
+        "salary_min": 93656.55,
+        "created": "2026-11-20T08:09:43Z"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Arkansas",
+            "Pulaski County",
+            "Cammack Village"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Cammack Village, Pulaski County"
+        },
+        "id": "5972886504",
+        "salary_is_predicted": "1",
+        "longitude": -92.344809,
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)",
+        "latitude": 34.752418,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyODg2NTA0In0.OO79j24xwWZbc4A5Fx8OdZEkzhY82NmIAziPBdNVIwM",
+        "salary_max": 130176.27,
+        "created": "2026-11-20T08:09:42Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Cognizant"
+        },
+        "salary_min": 130176.27,
+        "redirect_url": "https://www.adzuna.com/land/ad/5972886504?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=6185D411DCD5CA7C6F99C7D4262B73752D5456E3",
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026"
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/land/ad/5972886086?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=12C8EB27E963665634C939143A2AF2EDBE3815B0",
+        "description": "The External Inbound Data team helps bring healthcare and clinical data into Cigna Group systems. This data supports wellness programs, products, analytics, reporting, and other business initiatives. The Senior Data Exchange Analyst (Systems Analysis Advisor) will manage and support inbound data feeds from clients and vendors. This role combines healthcare data knowledge, technical skills, project coordination, and problem-solving. You will work with internal teams, clients, vendors, and techno\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "The Cigna Group"
+        },
+        "salary_min": 90254.26,
+        "created": "2026-11-20T08:09:38Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyODg2MDg2In0.qua87esQonjU9qj33ImrJSpC39qniXlFgzR5O4oo4l4",
+        "salary_max": 90254.26,
+        "latitude": 41.831948,
+        "salary_is_predicted": "1",
+        "longitude": -72.72589,
+        "title": "Senior Data Exchange Analyst - Healthcare Data",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "id": "5972886086",
+        "location": {
+          "area": [
+            "US",
+            "Connecticut",
+            "Hartford County",
+            "Bloomfield"
+          ],
+          "display_name": "Bloomfield, Hartford County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "latitude": 40.28222,
+        "salary_max": 84312.96,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyODgxMzY1In0.CqmHz8JgZd4Vj3EQ6qa-bfgXOyHpsOuLuseBE29hOtA",
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5972881365?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T08:07:52Z",
+        "salary_min": 84312.96,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Cognizant"
+        },
+        "id": "5972881365",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Penbrook, Dauphin County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Pennsylvania",
+            "Dauphin County",
+            "Penbrook"
+          ]
+        },
+        "salary_is_predicted": "1",
+        "longitude": -76.84888,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)"
+      },
+      {
+        "location": {
+          "area": [
+            "US",
+            "Pennsylvania",
+            "Philadelphia County",
+            "William Penn Annex East"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "William Penn Annex East, Philadelphia County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5972880611",
+        "longitude": -75.14167,
+        "salary_is_predicted": "1",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "title": "Senior Data Exchange Analyst - Healthcare Data",
+        "latitude": 39.992629,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyODgwNjExIn0.MLcutSIcr0sLX3y0X6NWdTWeIGeksH91wO6-IT-kkqI",
+        "salary_max": 86000.98,
+        "created": "2026-11-20T08:07:44Z",
+        "salary_min": 86000.98,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "The Cigna Group"
+        },
+        "description": "The External Inbound Data team helps bring healthcare and clinical data into Cigna Group systems. This data supports wellness programs, products, analytics, reporting, and other business initiatives. The Senior Data Exchange Analyst (Systems Analysis Advisor) will manage and support inbound data feeds from clients and vendors. This role combines healthcare data knowledge, technical skills, project coordination, and problem-solving. You will work with internal teams, clients, vendors, and techno\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5972880611?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "latitude": 39.739167,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3Mjg3NjM2MCIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0._TsA7WMNgnkqUz3jV5isl2DbuCTFhDxI44-eDik3Dz8",
+        "salary_max": 102043.98,
+        "created": "2026-11-20T08:06:41Z",
+        "salary_min": 102043.98,
+        "company": {
+          "display_name": "Cognizant",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.com/land/ad/5972876360?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=04240562D0EB2E00476AF4E63DC178CF42BDA035",
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Colorado",
+            "Denver",
+            "Glendale"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Glendale, Denver"
+        },
+        "id": "5972876360",
+        "longitude": -104.984167,
+        "salary_is_predicted": "1",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "US"
+        },
+        "id": "5972871385",
+        "salary_is_predicted": "1",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Remote&Long term! Business Analyst(Healthcare) - Senior, 2 Yrs Contract",
+        "salary_max": 216529.16,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3Mjg3MTM4NSIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.ZNEpMt5b9eZS0bmaxwYFpBTMLDtxTwJIW5kE8QyHv2M",
+        "created": "2026-11-20T08:05:46Z",
+        "company": {
+          "display_name": "Dimensional Tech",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "contract_type": "contract",
+        "salary_min": 216529.16,
+        "redirect_url": "https://www.adzuna.com/land/ad/5972871385?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=7F4D01B5F43CEE7966238DFE9E83248404E5F92F",
+        "description": "\u2022 Location: Fredericton, New Brunswick \u2022 Duration: 2026-12-14 to 2028-12-13 (500 days) \u2022 Job Type: Mostly Remote, required oniste once a quarter; our company will cover the travel expense \u2022 Openings: 2 Requirements: \u2022 M1 Education: Bachelor\u2019s degree in Health Informatics, Health Information Management, or a related field (or equivalent combined education and senior EHR/CIS PIEM implementation experience). \u2022 M2 PIEM / Registration / ADT Experience: Minimum 12 years of progressive experience in p\u2026"
+      },
+      {
+        "salary_is_predicted": "1",
+        "title": "RIS Analyst / Healthcare Migration Engineer",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "location": {
+          "area": [
+            "US"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "US"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5972869333",
+        "created": "2026-11-20T08:02:45Z",
+        "salary_min": 103370.5,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "ADDSOURCE"
+        },
+        "redirect_url": "https://www.adzuna.com/land/ad/5972869333?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=74D5DC3DCED897FA952276CD1108F13BAAE7DC66",
+        "description": "RIS Analyst / Healthcare Migration Engineer responsible for leading healthcare data migration initiatives, analyzing legacy healthcare systems, developing data transformation solutions using SQL and C#, and supporting RIS implementations through direct stakeholder engagement and onsite deployment activities. Experience: - 10 Years Location: - Remote (CST/EST) - Candidates should be willing to travel to different locations as needed for implementation, deployment, training, and go-live support a\u2026",
+        "salary_max": 103370.5,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3Mjg2OTMzMyIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.Xb0NV7arPqqiXdKll3f3-5oRY6US-4C6U-_Pk_UwlIY"
+      },
+      {
+        "description": "Introduction A career in IBM Consulting is built on long-term client relationships and close collaboration worldwide. You'll work with leading companies across industries, helping them shape their hybrid cloud and AI journeys. With support from our strategic partners, robust IBM technology, and Red Hat, you'll have the tools to drive meaningful change and accelerate client impact. At IBM Consulting, curiosity fuels success. You'll be encouraged to challenge the norm, explore new ideas, and crea\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972863770?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=4BFBB570368A67724196E4FF381B0DE22257A725",
+        "created": "2026-11-20T07:53:50Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "IBM"
+        },
+        "salary_min": 113930.07,
+        "latitude": 37.773969,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyODYzNzcwIn0.RAoQaOBauXT5P4CvLg_Rqug-zhRh_GdvlsXsFwD7cZU",
+        "salary_max": 113930.07,
+        "longitude": -122.410448,
+        "salary_is_predicted": "1",
+        "title": "Data Engineer-Data Integration",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "id": "5972863770",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "SoMa, San Francisco",
+          "area": [
+            "US",
+            "California",
+            "San Francisco",
+            "SoMa"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "salary_is_predicted": "1",
+        "longitude": -121.46649,
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "location": {
+          "area": [
+            "US",
+            "California",
+            "Sacramento County",
+            "Sacramento"
+          ],
+          "display_name": "Sacramento, Sacramento County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5972859999",
+        "created": "2026-11-20T07:50:17Z",
+        "salary_min": 92235.67,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Cognizant"
+        },
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972859999?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=BC158E40C65463E0E4E3C8E26E12848202EB6BB7",
+        "latitude": 38.57562,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3Mjg1OTk5OSIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.sYmoRnUD2Q2nOEG43qZP1k-b45dhRqe5GB7G2g6FP7E",
+        "salary_max": 92235.67
+      },
+      {
+        "id": "5972849026",
+        "location": {
+          "display_name": "Capitol, Richmond",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Virginia",
+            "Richmond County",
+            "Richmond",
+            "Capitol"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -77.44342,
+        "salary_is_predicted": "1",
+        "title": "TroubleShooting Skills IT Team Compliance Analyst",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_max": 101439.31,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyODQ5MDI2In0.rzkCjraIxyAXxmDbRgZno7xgpQAI1cKAcD_JaKxpYtU",
+        "latitude": 37.54242,
+        "description": "TroubleShooting Skills IT Team Compliance Analyst (Jobs in Richmond, VA) Requirement id 159585 Job title Analyst Job location in Richmond, VA Skills required Healthcare IT, Strong Analytical And Conceptual Skills, Problem Solving Skills, TroubleShooting Skills IT Team Complianc Open Date 18-Nov-2026 Close Date Job type Contract Duration 7 Months Compensation DOE Status requirement  Job interview type  Email Recruiter:coolsoft Job Description Analyst: Healthcare IT, Strong Analytical And Concept\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5972849026?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "display_name": "COOLSOFT",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 101439.31,
+        "created": "2026-11-20T07:45:29Z"
+      },
+      {
+        "salary_max": 126200,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjgzNzg4NCIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.dt51ucnk1a54y2poSgHRcX8KkfChzH_tp9nq_WqqD2Y",
+        "salary_min": 70100,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Centene Management Company"
+        },
+        "created": "2026-11-20T07:03:44Z",
+        "redirect_url": "https://www.adzuna.com/details/5972837884?utm_medium=api&utm_source=d30dc240",
+        "description": "Position Purpose: The Senior Health Care Analyst provides analytic support for financial modeling, trend analysis, therapeutic class strategy, and initiative implementation and measurement. Develops custom reports and models used in identifying issues, trends, patterns and relationships to be applied in financial and operational decisions. Key Details: Must be authorized to work in the U.S. without the need for employment-based visa sponsorship now or in the future. Sponsorship and future spons\u2026",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "US",
+          "area": [
+            "US"
+          ]
+        },
+        "id": "5972837884",
+        "title": "Senior Health Care Analyst",
+        "salary_is_predicted": "0",
+        "category": {
+          "label": "Consultancy Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "consultancy-jobs"
+        }
+      },
+      {
+        "latitude": 45.140398,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3Mjc2MDA2MyIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.IWcuRCu6iSPh_4oWP_hILw8dUi0W5q87nXFbodY6Pt0",
+        "salary_max": 176023.36,
+        "description": "Job Description \\n ProKatchers is seeking a travel CT Technologist for a travel job in Salmon, Idaho. Job Description & Requirements\\n \\n Specialty: CT Technologist \\n Discipline: Allied Health Professional \\n Start Date: 12/14/2026 \\n Duration: 13 weeks \\n 40 hours per week \\n Shift: 10 hours, nights \\n Employment Type: Travel \\n \\n \\n \\n Qualifications: \\n Graduate of an accredited school of Radiologic Technology; \\n Must be ARRT certified or eligible upon hire. \\n Minimum of two (2) years\u2019 e\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972760063?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=439DE57AC1B2314CFFDA89087738E902C72E7417",
+        "created": "2026-11-20T06:09:46Z",
+        "salary_min": 176023.36,
+        "company": {
+          "display_name": "ProKatchers",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5972760063",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Salmon, Lemhi County",
+          "area": [
+            "US",
+            "Idaho",
+            "Lemhi County",
+            "Salmon"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -113.88805,
+        "salary_is_predicted": "1",
+        "title": "Travel CT Technologist",
+        "category": {
+          "label": "Trade & Construction Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "trade-construction-jobs"
+        }
+      },
+      {
+        "location": {
+          "display_name": "Dimondale, Eaton County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Michigan",
+            "Eaton County",
+            "Dimondale"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5972755348",
+        "longitude": -84.6228,
+        "title": "DHHS Business Analyst with Medicaid/Healthcare Experience",
+        "salary_is_predicted": "1",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_max": 35844.93,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyNzU1MzQ4In0.LVxLyNtyNj2T6hIjKpUmB-pQTbu18URJeqIibpz6wd0",
+        "latitude": 42.7039,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "CSZNet, Inc"
+        },
+        "salary_min": 35844.93,
+        "created": "2026-11-20T06:07:22Z",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972755348?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=9DE5F56BD6AA79A15226DCC35D85E45729178F8A",
+        "description": "Must be local in MI State, Business Analyst with Medicaid/Healthcare Exp Familiarity with Medicaid Enterprise Systems, MMIS platforms, major vendors, modernization efforts, and current market trends is critical to producing realistic comparisons. Familiar with industry standards (including Legacy, Core, and Emerging technologies), business process mapping, and reengineering. Prepares solution options, risk identification, and financial analyses such as cost/benefit, ROI, buy/build, etc. Writes \u2026"
+      },
+      {
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "title": "Industry Marketing Director, Healthcare",
+        "salary_is_predicted": "0",
+        "longitude": -78.892044,
+        "salary_max": 248600,
+        "latitude": 35.998121,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Durham, Durham County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "North Carolina",
+            "Durham County",
+            "Durham"
+          ]
+        },
+        "id": "5972704464",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Genesys"
+        },
+        "salary_min": 141400,
+        "created": "2026-11-20T04:33:37Z",
+        "description": "Be the one building AI-powered experiences where they matter most. At Genesys, we help organizations create better customer experiences through AI-powered experience orchestration. Our platform connects people, systems, data and AI to help organizations deliver more personalized service, improve operational efficiency and build stronger customer relationships. Help build, support and operate technology used by more than 8,000 organizations in over 100 countries \u2013 moving AI from possibility to p\u2026",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5972704464?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyNzA0NDY0In0.yOHJXAy7HX2q1WABf-tUkeXRipruBt0iPUsVnx2vcv0"
+      },
+      {
+        "salary_is_predicted": "0",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "title": "Sr. Healthcare Data Reporting Analyst",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "US"
+        },
+        "id": "5972684890",
+        "created": "2026-11-20T03:36:26Z",
+        "salary_min": 106250,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "GD Information Technology"
+        },
+        "description": "Type of Requisition: Regular Clearance Level Must Currently Possess: None Clearance Level Must Be Able to Obtain: None Public Trust/Other Required: NACI (T1) Job Family: Data Science and Data Engineering Job Qualifications: Skills: Data Reporting, Medicaid, Medicare Certifications: None Experience: 3  years of related experience US Citizenship Required: No Job Description: Deliver insights to help our clients turn data into action as a Sr. Healthcare Data Reporting Analyst at GDIT. Your work wi\u2026",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972684890?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=DB5A678CA9231455703DC809DC57DF6568FE88F4",
+        "salary_max": 143750,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjY4NDg5MCIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.Bcg78Htd0_BOhLhBi61E9VAOMk8rpdh80qt77UYtj9A"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Las Cruces, Do\u00f1a Ana County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "New Mexico",
+            "Do\u00f1a Ana County",
+            "Las Cruces"
+          ]
+        },
+        "id": "5972634430",
+        "created": "2026-11-20T02:30:25Z",
+        "salary_min": 62770.48,
+        "company": {
+          "display_name": "Three Crosses Regional Hospital",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "If you're looking for a place to call home, Three Crosses Regional Hospital is looking for you! We are seeking a Payroll & Accounting Analyst to join our team of professionals who are committed to excellence, teamwork, and delivering a patient-centered experience. We're proud to be recognized by our community and nationally for excellence in healthcare! Job Summary: The Payroll & Accounting Analyst is responsible for the accurate and timely processing, reconciliation, and administration of biwe\u2026",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5972634430?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjYzNDQzMCIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.MmiW5Yzqcg5ZTM9t9327_oOKO_pKtduARjbLjPSfTKU",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "title": "Payroll & Accounting Analyst",
+        "salary_is_predicted": "1",
+        "longitude": -106.758731,
+        "latitude": 32.301903,
+        "salary_max": 62770.48
+      },
+      {
+        "longitude": -72.58082,
+        "salary_is_predicted": "1",
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Montpelier, Washington County",
+          "area": [
+            "US",
+            "Vermont",
+            "Washington County",
+            "Montpelier"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5972571601",
+        "salary_min": 84871.87,
+        "company": {
+          "display_name": "Cognizant",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T01:45:25Z",
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972571601?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=D62ACC4289436B5DBC290E585FEC08C87BE3AD20",
+        "salary_max": 84871.87,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyNTcxNjAxIn0.xTW5eMWWNb6UrxdT4D7yQ1v5DrGOhBWeX9vWphWvJz0",
+        "latitude": 44.26173
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Centene Management Company"
+        },
+        "salary_min": 70100,
+        "created": "2026-11-20T01:19:42Z",
+        "redirect_url": "https://www.adzuna.com/details/5972560758?utm_medium=api&utm_source=d30dc240",
+        "description": "Position Purpose: Analyze integrated and extensive datasets to extract value, which directly impacts and influences business decisions. Work collaboratively with key business stakeholders to identify areas of value, develop solutions, and deliver insights to reduce overall cost of care for members and improve their clinical outcomes. Key Details : Must be authorized to work in the U.S. without the need for employment-based visa sponsorship now or in the future. Sponsorship and future sponsorshi\u2026",
+        "contract_time": "full_time",
+        "salary_max": 126200,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjU2MDc1OCIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.KrBV2hVJAEJjJiMd63QQ7houf1F3G54ZtrjXVr_6XHM",
+        "salary_is_predicted": "0",
+        "title": "Data Analyst III Healthcare Analytics",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US"
+          ],
+          "display_name": "US",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5972560758"
+      },
+      {
+        "salary_max": 92790,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjUwNzIxOSIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.nzVMr0ypsSlZYUojZi-DC_WN5PNC8tmJgxM76YyoadA",
+        "salary_min": 67155,
+        "company": {
+          "display_name": "University of Pennsylvania",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T01:05:13Z",
+        "description": "University Overview The University of Pennsylvania, the largest private employer in Philadelphia, is a world-renowned leader in education, research, and innovation. This historic, Ivy League school consistently ranks among the top 10 universities in the annual U.S. News & World Report survey. Penn has 12 highly-regarded schools that provide opportunities for undergraduate, graduate and continuing education, all influenced by Penn\u2019s distinctive interdisciplinary approach to scholarship and learn\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5972507219?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US"
+          ],
+          "display_name": "US",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5972507219",
+        "salary_is_predicted": "0",
+        "category": {
+          "label": "Scientific & QA Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "scientific-qa-jobs"
+        },
+        "title": "Practice Based Research Network (PBRN) Data Analyst"
+      },
+      {
+        "salary_max": 77667,
+        "latitude": 48.098848,
+        "category": {
+          "label": "Healthcare & Nursing Jobs",
+          "tag": "healthcare-nursing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -123.384463,
+        "salary_is_predicted": "0",
+        "title": "Quality Programs Manager",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyNDg0MTQ0In0.vwkIvSlwzzp3i5f8wRz_x0PuuNCrHuacqFEuWSNRNkY",
+        "salary_min": 68536,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "North Olympic Healthcare Network"
+        },
+        "created": "2026-11-20T00:24:39Z",
+        "contract_time": "full_time",
+        "description": "Description Job Title: Quality Programs Manager Department: Quality Reports To: Quality Director FLSA Status: Non-Exempt Summary The Quality Programs Manager coordinates and supports the implementation, monitoring, and continuous improvement of NOHN quality programs. This position partners with clinical and operational leaders to improve quality outcomes, regulatory compliance, accreditation readiness, value-based care performance, and quality reporting capabilities. The position serves as the \u2026",
+        "redirect_url": "https://www.adzuna.com/details/5972484144?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Washington",
+            "Clallam County",
+            "Mount Pleasant"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Mount Pleasant, Clallam County"
+        },
+        "id": "5972484144"
+      },
+      {
+        "latitude": 21.442979,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjQ4MjE4MyIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.h6BgoLNOFhmH8EQE6U81J9StIvArX7jy4frQl8rc7YQ",
+        "salary_max": 58240,
+        "description": "Job Description Job Description Description \\n Support provider operations by researching and resolving provider inquiries, managing case backlogs, and ensuring accurate case documentation in Salesforce. \\n Key Responsibilities: \\n \\n Review and research provider inquiries received through fax, email, mail, and other channels. \\n Create, update, and manage cases in Salesforce. \\n Analyze claims, reimbursement, coding, payment, and provider service issues. \\n Organize and prioritize backlog case\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972482183?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=402D8C96AE413EBB352540A3182269B703659231",
+        "created": "2026-11-20T00:22:31Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "TEKsystems"
+        },
+        "salary_min": 52000,
+        "id": "5972482183",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Honolulu, Hawaii",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Hawaii",
+            "Honolulu"
+          ]
+        },
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -157.97263,
+        "salary_is_predicted": "0",
+        "title": "Research And Servicing Provider Specialist"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Columbus, Franklin County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Ohio",
+            "Franklin County",
+            "Columbus"
+          ]
+        },
+        "id": "5972471385",
+        "salary_min": 78800,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "CoverMyMeds"
+        },
+        "created": "2026-11-20T00:07:54Z",
+        "description": "McKesson is an impact-driven, Fortune 10 company that touches virtually every aspect of healthcare. We are known for delivering insights, products, and services that make quality care more accessible and affordable. Here, we focus on the health, happiness, and well-being of you and those we serve \u2013 we care. What you do at McKesson matters. We foster a culture where you can grow, make an impact, and are empowered to bring new ideas. Together, we thrive as we shape the future of health for patien\u2026",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5972471385?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjQ3MTM4NSIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.hL_7o_Kq1wND53oYb1JQh_0uHydSkUAsMjDskxLPabo",
+        "longitude": -83.020025,
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs"
+        },
+        "salary_is_predicted": "0",
+        "title": "FP&A Analyst - Healthcare",
+        "salary_max": 131300,
+        "latitude": 40.103832
+      },
+      {
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972459958?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=2C1FBFC326E757D5721E8D3BB488684F9D2A658D",
+        "created": "2026-11-19T23:53:48Z",
+        "salary_min": 130566.3,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Cognizant"
+        },
+        "latitude": 44.382775,
+        "salary_max": 130566.3,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjQ1OTk1OCIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.GDtKLdOvolMEtT0Di7ANDEcl-N2SIkTamjp4Dss7_VI",
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)",
+        "longitude": -100.331046,
+        "salary_is_predicted": "1",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "id": "5972459958",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Pierre, Hughes County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "South Dakota",
+            "Hughes County",
+            "Pierre"
+          ]
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Wyoming, Kent County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Delaware",
+            "Kent County",
+            "Wyoming"
+          ]
+        },
+        "id": "5972459718",
+        "salary_is_predicted": "1",
+        "longitude": -75.566083,
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_max": 109268.61,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyNDU5NzE4In0.ZPB3xlcXHKUkznc3T3ZKc7wzgPhMQyGdMWT4XcAv86M",
+        "latitude": 39.165778,
+        "company": {
+          "display_name": "Cognizant",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 109268.61,
+        "created": "2026-11-19T23:53:44Z",
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972459718?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=4BDB1C51DA018D9DAD3868654DED984EC0474DE6"
+      },
+      {
+        "id": "5972459683",
+        "location": {
+          "area": [
+            "US",
+            "Rhode Island",
+            "Providence County",
+            "Providence"
+          ],
+          "display_name": "Providence, Providence County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "1",
+        "longitude": -71.419732,
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjQ1OTY4MyIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.gRkdd25xNpigQFJ6UbwacMm_tBDEXxH2Onp0cps5Oh4",
+        "salary_max": 89133.38,
+        "latitude": 41.82195,
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972459683?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=7AF57C52D2A0BDA67DD6F08378876EE2FD070644",
+        "salary_min": 89133.38,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Cognizant"
+        },
+        "created": "2026-11-19T23:53:42Z"
+      },
+      {
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972459583?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=E141789ACC2C937139F4CC9D95413D8F484047FD",
+        "company": {
+          "display_name": "Cognizant",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 83002.33,
+        "created": "2026-11-19T23:53:40Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjQ1OTU4MyIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.3NCoJsIUUZppfTuO6NSCpzQl7GJi42Vm7iiM6neeOuw",
+        "salary_max": 83002.33,
+        "latitude": 46.79472,
+        "longitude": -100.7568,
+        "salary_is_predicted": "1",
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "id": "5972459583",
+        "location": {
+          "area": [
+            "US",
+            "North Dakota",
+            "Burleigh County",
+            "Bismarck"
+          ],
+          "display_name": "Bismarck, Burleigh County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Douglas, Juneau",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Alaska",
+            "Juneau",
+            "Douglas"
+          ]
+        },
+        "id": "5972459384",
+        "longitude": -134.416387,
+        "salary_is_predicted": "1",
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "latitude": 58.299755,
+        "salary_max": 99726.07,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjQ1OTM4NCIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.pcGTXa6AQetR4kp6uERSQKJ72J52rsl3f11Tm7_10qY",
+        "created": "2026-11-19T23:53:36Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Cognizant"
+        },
+        "salary_min": 99726.07,
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5972459384?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "salary_is_predicted": "1",
+        "longitude": -104.80953,
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "id": "5972458861",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Archer, Laramie County",
+          "area": [
+            "US",
+            "Wyoming",
+            "Laramie County",
+            "Archer"
+          ]
+        },
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972458861?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=0E10CA455E477F14B77038D6CBDE49AA3B5A7D87",
+        "created": "2026-11-19T23:53:31Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Cognizant"
+        },
+        "salary_min": 100286.86,
+        "latitude": 41.187702,
+        "salary_max": 100286.86,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyNDU4ODYxIn0.v8ev4PCUbrZi09EAMlPRhZPOU5zw3iyT4L2XPrQjMcI"
+      },
+      {
+        "description": "Job Title: Healthcare FACETS Business Analyst / QA Engineer || Senior Healthcare FACETS Consultant (Membership, Claims & Configuration) Location: Durham, NC 27707 Work Arrangement: Hybrid Employment Type: Contract Duration: 7 Months Domain: Healthcare Pay Rate: $54.00/hr W2 | $65.00/hr C2C Application Deadline: Nov 30th 2026 SKILLS REQUIRED Primary (Must-Have): \u2022 TriZetto FACETS (Membership | Claims | Configuration) \u2022 Healthcare Payer Domain Expertise \u2022 Software Testing & Quality Assurance (QA)\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5972422650?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "display_name": "Pacer Group",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 59862.27,
+        "created": "2026-11-19T23:14:42Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyNDIyNjUwIn0.eeOXQBFNYZF2ChJ99b0Qbc9mKtP4sY8ZWkBLoSYAuSQ",
+        "salary_max": 59862.27,
+        "latitude": 35.998121,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "longitude": -78.892044,
+        "salary_is_predicted": "1",
+        "title": "Healthcare FACETS Business Analyst / QA Engineer || Senior Healthcare FACETS Consultant (Membership, Claims & Configuration)",
+        "id": "5972422650",
+        "location": {
+          "area": [
+            "US",
+            "North Carolina",
+            "Durham County",
+            "Durham"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Durham, Durham County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Durham, Durham County",
+          "area": [
+            "US",
+            "North Carolina",
+            "Durham County",
+            "Durham"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5972421065",
+        "title": "Business Analyst (Healthcare / Hybrid)",
+        "longitude": -78.892044,
+        "salary_is_predicted": "1",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyNDIxMDY1In0.g_J0SXVWxpQj4BifwKOdFFqV1r62iPt8LAgPQAoelP8",
+        "salary_max": 86343.67,
+        "latitude": 35.998121,
+        "salary_min": 86343.67,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Randstad USA"
+        },
+        "created": "2026-11-19T23:13:22Z",
+        "redirect_url": "https://www.adzuna.com/details/5972421065?utm_medium=api&utm_source=d30dc240",
+        "description": "Business Analyst (Healthcare / Hybrid) Location: Hybrid (Onsite every Tuesday  1 additional day per week) Schedule: Monday \u2013 Friday, 8:00 AM \u2013 5:00 PM (40 hours/week) Engagement Type: 6-Month Contract (Maternity Leave Coverage) Role Overview We are seeking a sharp, self-directed Business Analyst to hit the ground running on a 6-month contract supporting high-impact healthcare initiatives. In this fast-paced role, you will bridge the gap between business stakeholders and technical teams\u2014elicitin\u2026"
+      },
+      {
+        "id": "5972404495",
+        "location": {
+          "area": [
+            "US"
+          ],
+          "display_name": "US",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Data Analyst",
+        "salary_is_predicted": "1",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjQwNDQ5NSIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.3ajS_LscrYORVIx01YT1GqUjiKgChxcWQg3byk4ORS4",
+        "salary_max": 70344.74,
+        "description": "As a rapidly growing organization, Vitana Pediatric & Orthodontic Partners is looking for a Data Analyst to join our team. This is a great opportunity for an early-career data professional who wants hands-on experience building the data infrastructure and reporting capabilities that support a growing, multi-location healthcare organization. The Data Analyst will work closely with leadership to help organize, validate, and transform data from multiple practice management systems into reliable, a\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5972404495?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-19T23:10:28Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Vitana Pediatric & Orthodontic Partners"
+        },
+        "salary_min": 70344.74
+      },
+      {
+        "location": {
+          "area": [
+            "US",
+            "Illinois",
+            "DuPage County",
+            "Downers Grove"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Downers Grove, DuPage County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5972404517",
+        "longitude": -88.021633,
+        "title": "Service Desk Analyst - 260766",
+        "salary_is_predicted": "1",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_max": 35873.87,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyNDA0NTE3In0.ji5oLY0dDRheAT7XKguVknthXvXdph8mu-p2xVTUaEQ",
+        "latitude": 41.813291,
+        "salary_min": 35873.87,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Medix Technology"
+        },
+        "created": "2026-11-19T23:10:28Z",
+        "description": "Job Title: Entry-Level IT Service Desk Analyst \u2013 Healthcare Location: Downers Grove, IL 60515 (Hybrid) Employment Type: Contract-to-Hire (9 Months / 1,560 Hours) About the Role Looking to launch a real hands-on career in corporate IT without a four-year degree or prior help desk experience? Medix Technology is hiring 3\u20135 Entry-Level IT Service Desk Analysts for a premier healthcare organization in Downers Grove, IL . This is a true technical Service Desk role . Our client provides comprehensive\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5972404517?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "salary_min": 69763.24,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "TEKsystems"
+        },
+        "created": "2026-11-19T23:08:00Z",
+        "description": "Description Support provider operations by researching and resolving provider inquiries, managing case backlogs, and ensuring accurate case documentation in Salesforce. Key Responsibilities:  Review and research provider inquiries received through fax, email, mail, and other channels.  Create, update, and manage cases in Salesforce.  Analyze claims, reimbursement, coding, payment, and provider service issues.  Organize and prioritize backlog cases by issue type, complexity, and business impact.\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972390767?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=4A58265272BFCE38F7C21BD5E2DFF15EEB58ACA2",
+        "salary_max": 69763.24,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyMzkwNzY3In0.mC5d3Q3d2TkQP0BJbAyrsCXvOQA_AZ4biidZaMnRumU",
+        "latitude": 21.3072,
+        "salary_is_predicted": "1",
+        "longitude": -157.8465,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "title": "Research And Servicing Provider Specialist",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Wake Island, Honolulu",
+          "area": [
+            "US",
+            "Hawaii",
+            "Honolulu",
+            "Wake Island"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5972390767"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyMzgwOTYwIn0.A5BBzY8yvmGLmOPvij_n3IZnpyJMsl6Hdpv0UfgH9Xk",
+        "salary_max": 116337.02,
+        "latitude": 44.33616,
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972380960?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=42B1123B248BE2E185BCDA1E1630BAB048DAEAA5",
+        "company": {
+          "display_name": "Cognizant",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 116337.02,
+        "created": "2026-11-19T23:06:42Z",
+        "id": "5972380960",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Maine",
+            "Kennebec County",
+            "Augusta"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Augusta, Kennebec County"
+        },
+        "longitude": -69.7445,
+        "salary_is_predicted": "1",
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)",
+        "longitude": -157.8465,
+        "salary_is_predicted": "1",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "id": "5972381049",
+        "location": {
+          "area": [
+            "US",
+            "Hawaii",
+            "Honolulu",
+            "Wake Island"
+          ],
+          "display_name": "Wake Island, Honolulu",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972381049?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=96B9EC54AF0436DA8186D572100ADE1D18A45853",
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Cognizant"
+        },
+        "salary_min": 80136.05,
+        "created": "2026-11-19T23:06:42Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyMzgxMDQ5In0.CKOPO3ouMUoYzsb23EHgDtCTGRtdbwk5peiVp3nGyKQ",
+        "salary_max": 80136.05,
+        "latitude": 21.3072
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/land/ad/5972380887?se=SJ2Pr1fl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=3805D3148932D3C77634CC5965EACA982701E5DD",
+        "description": "Job Summary We are seeking a QNXT Test Analyst (Healthcare Medicaid Testing) with strong experience in healthcare payer systems and Medicaid business processes. The ideal candidate will possess hands-on expertise in QNXT testing, provider configuration, claims adjudication, benefits, enrollment, and encounter processing. This role is responsible for ensuring the quality, accuracy, and reliability of healthcare applications through comprehensive testing, defect management, and validation of comp\u2026",
+        "created": "2026-11-19T23:06:41Z",
+        "salary_min": 88401.79,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Cognizant"
+        },
+        "latitude": 46.60281,
+        "salary_max": 88401.79,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyMzgwODg3In0.QyFED_ibopTwrNnOSnD35Mf2ep6WkkCW74Q1KxYxjU8",
+        "longitude": -112.03544,
+        "title": "QNXT Test Analyst (Healthcare Medicaid Testing)",
+        "salary_is_predicted": "1",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "id": "5972380887",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Helena, Lewis and Clark County",
+          "area": [
+            "US",
+            "Montana",
+            "Lewis and Clark County",
+            "Helena"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "latitude": 42.655586,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjM2NjgwMyIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.nhy7GsYTvgja_MVzCwCWD_LxQEpJ23TXNb3JCw4Ir9M",
+        "salary_max": 199058.69,
+        "created": "2026-11-19T22:57:25Z",
+        "company": {
+          "display_name": "Greycell Labs",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 199058.69,
+        "redirect_url": "https://www.adzuna.com/details/5972366803?utm_medium=api&utm_source=d30dc240",
+        "description": "Job Title: ON-SITE - Healthcare System Analyst - HBITS-08-15116 Location: Albany, NY 12208 Duration: 30 Months Job Description: 84 Months coordinating IT initiatives within healthcare operations or clinical settings including leading at least 3-5 IT implementation projects from initiation through go-live and at least 2 data integration or system interface projects 84 Months Performing requirements gathering sessions or stakeholder workshops, coordinating technical resources (developers, archite\u2026",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Ny State Campus, Albany County",
+          "area": [
+            "US",
+            "New York",
+            "Albany County",
+            "Ny State Campus"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5972366803",
+        "title": "Healthcare System Analyst - HBITS-08-15116",
+        "longitude": -73.805937,
+        "salary_is_predicted": "1",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        }
+      },
+      {
+        "title": "Healthcare Business Analyst - 15 Yrs Exp",
+        "longitude": -73.765437,
+        "salary_is_predicted": "1",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "id": "5972365451",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "New York",
+            "Albany County",
+            "Albany"
+          ],
+          "display_name": "Albany, Albany County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5972365451?utm_medium=api&utm_source=d30dc240",
+        "description": "Job Title: Healthcare Business Analyst - 15 Yrs Exp Location: Albany, NY (Hybrid, 50% onsite) Duration: 30 months We are currently seeking candidates who meet the following qualifications: 15 years of experience eliciting, analyzing and documenting business and functional requirements (BRDs, functional specifications, use cases, process/workflow diagrams) for enterprise systems, including leading requirements sessions with business and technical teams 5 years of experience as a business analyst\u2026",
+        "salary_min": 76485.75,
+        "company": {
+          "display_name": "ACS Consultancy Services",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-19T22:56:41Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyMzY1NDUxIn0.D7uJ52V4iAsTTQYY2L1xFT8VeUhiQquoi7FUbGWkRrc",
+        "salary_max": 76485.75,
+        "latitude": 42.632246
+      },
+      {
+        "id": "5972364427",
+        "location": {
+          "display_name": "Ny State Campus, Albany County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "New York",
+            "Albany County",
+            "Ny State Campus"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Sr. Healthcare Systems Analyst",
+        "longitude": -73.805937,
+        "salary_is_predicted": "0",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "latitude": 42.655586,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjM2NDQyNyIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.t3efHNF_H9FQ4Gv9am75k6TS2edXPHexyGxBos8979U",
+        "salary_max": 133120,
+        "description": "Description This position will support design/build, validation and documention, outreach and communication with internal and external stakeholders, and aid the implimentation of business-partner systems. Duties Support business requirements activities by coordinating stakeholder meetings, documenting discussions, and tracking requirements through design and implementation. Assist with maintaining project documentation, including requirements, decisions, action items, risks, issues, and project\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5972364427?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-19T22:56:17Z",
+        "company": {
+          "display_name": "Sligo Software Solutions",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 133120
+      },
+      {
+        "salary_max": 81748.08,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiU0oyUHIxZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTcyMzA4ODY5In0.YaVL9hA7t3Y-bQRBkYZfxinDbw6gMnlrtQ77KqKIKSA",
+        "salary_min": 81748.08,
+        "company": {
+          "display_name": "Midwest Express Clinic",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-19T21:35:00Z",
+        "description": "About the Company Midwest Express Clinic is the provider of urgent and primary care centers for individuals in the Midwest, focused on an affordable approach to delivering urgent and primary care services. The Company\u2019s primary focus is to provide a quality, convenient, and affordable healthcare option, with a specific focus on a more personal approach to care. Location Requirement (Non-Negotiable) You must be based in the Chicago area or Western Indiana within our operating areas and able to w\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5972308869?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Illinois",
+            "Cook County",
+            "Chicago"
+          ],
+          "display_name": "Chicago, Cook County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5972308869",
+        "salary_is_predicted": "1",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "title": "Healthcare Data Analyst - Chicago"
+      },
+      {
+        "title": "EHR Security Analyst / Technical Support Analyst III (Temporary)",
+        "longitude": -77.445369,
+        "salary_is_predicted": "0",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "location": {
+          "display_name": "Chamberlayne, Henrico County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Virginia",
+            "Henrico County",
+            "Chamberlayne"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5972272318",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Networking Technologies + Support "
+        },
+        "salary_min": 62400,
+        "created": "2026-11-19T20:22:41Z",
+        "description": "Position Overview Networking Technologies  Support (NTS) is seeking an experienced EHR Security Analyst / Technical Support Analyst III to support the security, access management, and user provisioning requirements of an enterprise Electronic Health Record (EHR) environment. This position will also provide Tier 1 technical and functional support to EHR end users. The ideal candidate will have hands-on experience supporting Cerner Millennium and OHPAC security configurations, user access managem\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5972272318?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 66560,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjI3MjMxOCIsInMiOiJTSjJQcjFmbDhSR3daNmdHUnhfdG5BIn0.d0jeu0UgpAY6LIIRTmMAFw6mTosYw-x9KsopuvxWRzg",
+        "latitude": 37.604593
+      }
+    ],
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "mean": 104875.26,
+    "count": 1111
+  }
+}

@@ -1,0 +1,1643 @@
+{
+  "search_term": "marketing analyst",
+  "fetched_at": "11-21-02-59",
+  "response": {
+    "results": [
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973414486?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:35:50Z",
+        "description": "The Marketing Analyst/Coordinator will support the B2B integrated marketing team in managing product launches, marketing campaigns, and content development for the Display Solutions Division. The role involves tracking product launch activities, conducting competitive research, analyzing campaign performance and ROI, and collaborating with sales, digital marketing, and product marketing teams to ensure successful execution of marketing initiatives.",
+        "company": {
+          "display_name": "Telnet Inc",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Marketing Analyst/Coordinator 3",
+        "salary_is_predicted": "0",
+        "salary_max": 80000,
+        "id": "5973414486",
+        "category": {
+          "tag": "pr-advertising-marketing-jobs",
+          "label": "PR, Advertising & Marketing Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "latitude": 33.056019,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNDQ4NiIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.dgunXLHPzbRec_Mjf28C2jR_hIUAjoWVSN0O7CC4FtQ",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Plano, Collin County",
+          "area": [
+            "US",
+            "Texas",
+            "Collin County",
+            "Plano"
+          ]
+        },
+        "longitude": -96.737561,
+        "salary_min": 70000,
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "salary_is_predicted": "0",
+        "title": "Marketing CoordinatorB2B",
+        "created": "2026-11-20T21:35:44Z",
+        "description": "W2 job to a staffing company Top skills: -Project Management -Brand Marketing Experience -Excel, PowerPoint Schedule: Fully onsite KEY RESPONSIBILITES/REQUIREMENTS: Job Summary: We are currently seeking a Marketing Analyst for our integrated marketing team who will assist with managing B2B product and vertical marketing for the Display Division. This analyst will be responsible for launch assets, product launch tracking, campaign launch and tracking ROI across various categories and sales verti\u2026",
+        "company": {
+          "display_name": "Way Forward Consulting",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5973414221",
+        "category": {
+          "tag": "pr-advertising-marketing-jobs",
+          "label": "PR, Advertising & Marketing Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973414221?utm_medium=api&utm_source=d30dc240",
+        "salary_min": 91520,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -96.737561,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNDIyMSIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.sp_L4D688ZWP5zUSAl07j0Z51y75aRL3Rqaw2eWQx2A",
+        "latitude": 33.056019,
+        "contract_time": "full_time",
+        "salary_max": 95680,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas",
+            "Collin County",
+            "Plano"
+          ],
+          "display_name": "Plano, Collin County"
+        }
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczNDA5NDQ0In0.uZJoDHjUcVJMEfGev0ZRW7iv0raGEOVJchMbKurJ_HI",
+        "latitude": 43.12014,
+        "contract_time": "full_time",
+        "salary_max": 51000,
+        "location": {
+          "area": [
+            "US",
+            "New York",
+            "Monroe County",
+            "Gates"
+          ],
+          "display_name": "Gates, Monroe County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973409444?utm_medium=api&utm_source=d30dc240",
+        "id": "5973409444",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "pr-advertising-marketing-jobs",
+          "label": "PR, Advertising & Marketing Jobs"
+        },
+        "salary_is_predicted": "0",
+        "title": "Marketing Specialist",
+        "description": "Accurate Repair Center LLC seeks full-time Marketing Specialist in Rochester, NY. Research market trends, customer demand, and competitors; generate leads through online research, cold calls, and outreach; plan, implement, and evaluate marketing campaigns to promote services and retain customers; prepare marketing communications; monitor leads and marketing performance; and recommend improvements. Salary $51K/yr. Requires bachelor\u2019s degree in marketing, market research or a related business, co\u2026",
+        "created": "2026-11-20T21:34:39Z",
+        "company": {
+          "display_name": "Accurate Repair Center LLC",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "longitude": -77.73178,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 51000
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas",
+            "Collin County",
+            "Plano"
+          ],
+          "display_name": "Plano, Collin County"
+        },
+        "contract_time": "full_time",
+        "salary_max": 95014,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczNDA5MDAyIn0.b7IHzwfRuENeyN2a4tK73VDB9FFVYKIRQD28-WsWKXA",
+        "latitude": 33.056019,
+        "longitude": -96.737561,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 93600,
+        "redirect_url": "https://www.adzuna.com/details/5973409002?utm_medium=api&utm_source=d30dc240",
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973409002",
+        "description": "Payrate: $45.00 - $45.68/hr Summary: We are currently seeking a Marketing Analyst for our integrated marketing team who will assist with managing B2B product and vertical marketing for the Display Division. This analyst will be responsible for launch assets, product launch tracking, campaign launch and tracking ROI across various categories and sales verticals. This candidate will successfully work cross-functionally with the digital and channel marketing team to unveil products during key sell\u2026",
+        "created": "2026-11-20T21:34:33Z",
+        "company": {
+          "display_name": "Aditi Consulting",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Marketing Analyst",
+        "salary_is_predicted": "0"
+      },
+      {
+        "contract_time": "full_time",
+        "salary_max": 63960,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczNDA3MzE0In0.tYZOLOfQ0joiBl1f2OL96NA9Tme4SdDTpyTyZx_8-sI",
+        "latitude": 33.056019,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Plano, Collin County",
+          "area": [
+            "US",
+            "Texas",
+            "Collin County",
+            "Plano"
+          ]
+        },
+        "created": "2026-11-20T21:34:06Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Aditi Consulting"
+        },
+        "description": "Payrate: $30.00 - $30.75/hr Responsibilities: Work with cross-functional teams to drive timely reviews and feedback on all posts prior to going live Consolidate feedback from multiple stakeholders in a timely manner in coordination with Agency partner Organize and manage multiple sources of content and partner creative assets Ensure timely transfer of assets to Agency partner Help maintain the monthly posting calendar in coordination with Agency partner to ensure proper posting cadence Help mon\u2026",
+        "salary_is_predicted": "0",
+        "title": "Marketing Analyst Coordinator",
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973407314",
+        "redirect_url": "https://www.adzuna.com/details/5973407314?utm_medium=api&utm_source=d30dc240",
+        "salary_min": 62400,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -96.737561
+      },
+      {
+        "salary_max": 136000,
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwNjU0NyIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.4nR7PMZR7SdWnYRKqfb73y-PczpI7EYWpK3klpVYBHg",
+        "latitude": 37.374431,
+        "location": {
+          "area": [
+            "US",
+            "California",
+            "Santa Clara County",
+            "San Jose"
+          ],
+          "display_name": "San Jose, Santa Clara County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973406547?utm_medium=api&utm_source=d30dc240",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "id": "5973406547",
+        "description": "Career Switchers: for People Moving from Non-Tech TO Tech Domain Knowledge Is an Asset Until You Cannot Query It Teachers, finance ops, marketing coordinators, researchers, and business analysts often have the judgment companies want and none of the stack they screen for. You cannot get a data analyst interview because your resume still reads like your last industry, not like SQL, Tableau, and a project that answers a business question. SynergisticIT Data Science JOPP is a fit for career change\u2026",
+        "created": "2026-11-20T21:33:51Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "SynergisticIT"
+        },
+        "title": "Entry Level Java Developer / AWS Cloud Engineer (Remote)",
+        "salary_is_predicted": "0",
+        "longitude": -121.856157,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 82000
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973307093?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T18:34:25Z",
+        "description": "Location: San Francisco, CA | Work Arrangement: ONSITE Position Summary CuraeSoft is a mid-market SaaS company helping healthcare organizations optimize how they schedule, staff, and manage their workforce. We're looking for a curious, data-driven Marketing Analyst to join our growing marketing team. This role is ideal for someone who loves asking \"why\" behind the numbers and enjoys turning data into clear, actionable insights. You'll support our marketing efforts across the full funnel \u2014 from \u2026",
+        "company": {
+          "display_name": "CVHCare",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "1",
+        "title": "Marketing Analyst",
+        "id": "5973307093",
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -122.466538,
+        "contract_type": "contract",
+        "salary_min": 73411.26,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_max": 73411.26,
+        "latitude": 37.798085,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzMwNzA5MyIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.4bMaTErw0L2Gw69XfFWSC0pJuaBmrgWIMbjvaJB_ycg",
+        "location": {
+          "display_name": "San Francisco, California",
+          "area": [
+            "US",
+            "California",
+            "San Francisco"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        }
+      },
+      {
+        "contract_time": "full_time",
+        "salary_max": 133361.08,
+        "latitude": 37.798085,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczMjA1OTcxIn0.pOcSIeuALwBHfPss-cinnlCML41CH0a2sx3rGIx1NBA",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "San Francisco, California",
+          "area": [
+            "US",
+            "California",
+            "San Francisco"
+          ]
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973205971?utm_medium=api&utm_source=d30dc240",
+        "description": "About Factory Our mission is to create a world where software builds and improves itself. We build the platform for self-improving software development, helping the world's largest enterprise engineering teams turn their organizations into autonomous software factories. Customers including Nvidia, Blackstone, Royal Bank of Canada (RBC), Palo Alto Networks, Adobe, and T-Mobile run Factory to ship code, review PRs, run tests, and deploy continuously - getting smarter with every cycle. In 2026, we\u2026",
+        "created": "2026-11-20T14:14:57Z",
+        "company": {
+          "display_name": "The San Francisco AI Factory",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "1",
+        "title": "Customer Marketing",
+        "id": "5973205971",
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -122.466538,
+        "salary_min": 133361.08,
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "retail-jobs",
+          "label": "Retail Jobs"
+        },
+        "id": "5973142736",
+        "salary_max": 128238.03,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczMTQyNzM2In0.Oa9kxJy18us7BYCiWiCAdxaY64MC8M5VIHT-Xl6Xzho",
+        "latitude": 40.75284,
+        "created": "2026-11-20T12:18:27Z",
+        "description": "Title: Category Manager, Marketing & Sales Procurement Location: Shelton, CT / NYC/ St. Louis, MO \u2013 Hybrid Duration: 6  Months with possible extensions Position summary: Edgewell's North American Indirect Procurement team is looking for an experienced category manager to lead our sales and shopper marketing categories. The role manages about $100M in annual spend and works directly with Sales, Marketing, Customer Development, and Finance leaders. This is a hands-on role. We need someone who can\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Envision LLC."
+        },
+        "title": "Category Manager, Marketing & Sales Procurement",
+        "salary_is_predicted": "1",
+        "redirect_url": "https://www.adzuna.com/land/ad/5973142736?se=pE2smlfl8RGUPaFcE3-wxg&utm_medium=api&utm_source=d30dc240&v=C123E42CC974C42FC80F3AA169AA07E4676EF956",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 128238.03,
+        "longitude": -73.97528,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "New York",
+            "New York City",
+            "Manhattan",
+            "Grand Central"
+          ],
+          "display_name": "Grand Central, Manhattan"
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 126137.59,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Grand Central, Manhattan",
+          "area": [
+            "US",
+            "New York",
+            "New York City",
+            "Manhattan",
+            "Grand Central"
+          ]
+        },
+        "longitude": -73.97528,
+        "salary_max": 126137.59,
+        "id": "5973119619",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Retail Jobs",
+          "tag": "retail-jobs"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzExOTYxOSIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.bpgol610T5e19A6Kxz0mnB3Eqs34kxjcN-ZQhjsCDTU",
+        "latitude": 40.75284,
+        "company": {
+          "display_name": "Envision LLC.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T12:14:09Z",
+        "description": "Title: Category Manager, Marketing & Sales Procurement Location: Shelton, CT / NYC/ St. Louis, MO \u2013 Hybrid Duration: 6  Months with possible extensions Position summary: North American Indirect Procurement team is looking for an experienced category manager to lead our sales and shopper marketing categories. The role manages about $100M in annual spend and works directly with Sales, Marketing, Customer Development, and Finance leaders. This is a hands-on role. We need someone who can get up to \u2026",
+        "title": "Category Manager, Marketing & Sales Procurement",
+        "salary_is_predicted": "1",
+        "redirect_url": "https://www.adzuna.com/land/ad/5973119619?se=pE2smlfl8RGUPaFcE3-wxg&utm_medium=api&utm_source=d30dc240&v=7FACC684710FFCD723C6B283F1A12AB6583C9306"
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas",
+            "Bexar County",
+            "San Antonio"
+          ],
+          "display_name": "San Antonio, Bexar County"
+        },
+        "longitude": -98.518233,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 81134.73,
+        "redirect_url": "https://www.adzuna.com/details/5973101758?utm_medium=api&utm_source=d30dc240",
+        "id": "5973101758",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_max": 81134.73,
+        "latitude": 29.4697,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzEwMTc1OCIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.Kii9F_44EJVWl2Hhu6KwWOiqIBP4yAEUrDJAspC7ULo",
+        "created": "2026-11-20T11:57:29Z",
+        "description": "Findlay, Ohio Denver, Colorado San Antonio, Texas Full time 00025413 An exciting career awaits you At MPC, we're committed to being a great place to work - one that welcomes new ideas, encourages diverse perspectives, develops our people, and fosters a collaborative team environment. Position Summary The NGL Trading Analyst supports the Natural Gas Liquids (NGL) commercial team by providing commercial, market, and analytical insights across domestic trading lines of business. This role works cl\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Marathon Petroleum Corporation"
+        },
+        "salary_is_predicted": "1",
+        "title": "Trading Operations Analyst (NGL)"
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973095538?utm_medium=api&utm_source=d30dc240",
+        "description": "Senior Product Marketing Manager, Gemini for Knowledge Work Share Senior Product Marketing Manager, Gemini for Knowledge Work _corporate_fare_ Google _place_ Austin, TX, USA; New York, NY, USA; 4 more; 3 more Advanced Experience owning outcomes and decision making, solving ambiguous problems and influencing stakeholders; deep expertise in domain. Share Senior Product Marketing Manager, Gemini for Knowledge Work _info_outline_ XApplicants in San Francisco: Qualified applications with arrest or c\u2026",
+        "created": "2026-11-20T11:52:39Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Google"
+        },
+        "title": "Senior Product Marketing Manager, Gemini for Knowledge Work",
+        "salary_is_predicted": "1",
+        "id": "5973095538",
+        "category": {
+          "tag": "pr-advertising-marketing-jobs",
+          "label": "PR, Advertising & Marketing Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_max": 157682.22,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczMDk1NTM4In0.m2HFrBRiL9R_9OAIxoBcRJIbv9zGisl_Ftqq3muWVoc",
+        "latitude": 30.291229,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas",
+            "Travis County",
+            "Tarrytown"
+          ],
+          "display_name": "Tarrytown, Travis County"
+        },
+        "longitude": -97.764294,
+        "salary_min": 157682.22,
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973087272?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 104962.2,
+        "id": "5973087272",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Sales Jobs",
+          "tag": "sales-jobs"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzA4NzI3MiIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.ImgfcamlqlRopvDpGv8wD08xmckSJeiQarlG-pDfnOo",
+        "latitude": 30.291229,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "The Cigna Group"
+        },
+        "created": "2026-11-20T11:44:45Z",
+        "description": "Role Summary As part of the Network Product GTM team, this role will have primary responsibility for supporting the Alternative Network Go-to-Market (GTM) Strategy for Cigna Healthcare plans. They will work with the Director of Core Medical, Behavioral and SHS Insights and Network Product leaders to develop a strong, multi-year GTM strategy to expand growth with leaner (and traditionally smaller) buyer types (i.e. Select Segment). This role will need to be able to organize and communicate acros\u2026",
+        "salary_is_predicted": "1",
+        "title": "Alternative Networks GTM Analyst - Cigna Healthcare - Remote",
+        "longitude": -97.764294,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas",
+            "Travis County",
+            "Tarrytown"
+          ],
+          "display_name": "Tarrytown, Travis County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 104962.2
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973087258?utm_medium=api&utm_source=d30dc240",
+        "latitude": 30.14232,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzA4NzI1OCIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.iWOhpNvSZ6TwvmbmkUXsts6rSVZaNOO4R1HVdmO8DQ0",
+        "id": "5973087258",
+        "salary_max": 90126.53,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "salary_is_predicted": "1",
+        "title": "Marketing Accounting Settlement Analyst II",
+        "created": "2026-11-20T11:44:44Z",
+        "description": " Marketing Accounting Settlement Analyst II Date: Nov 19, 2026 Location: Spring, TX, US, 77389 Company: Expand Energy Our core values - Stewardship, Character, Collaborate, Learn, Disrupt - are the lens through which we evaluate every business decision\\. As a dynamic, growing company that offers extremely competitive compensation and benefits, our employees are our most valued assets and the foundation of Expand's performance among our E&P competitors\\. We seek applicants from all backgrounds t\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Expand Energy Corporation"
+        },
+        "longitude": -95.47218,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Oak Ridge North, Montgomery County",
+          "area": [
+            "US",
+            "Texas",
+            "Montgomery County",
+            "Oak Ridge North"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 90126.53
+      },
+      {
+        "location": {
+          "area": [
+            "US",
+            "Georgia",
+            "Fulton County",
+            "Sandy Plains"
+          ],
+          "display_name": "Sandy Plains, Fulton County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_max": 127878.86,
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczMDc4NDgwIn0._i9T_-W2ezNXrLfkfVTAP2vlElRhmanGIFp8R8xlTeU",
+        "latitude": 34.000743,
+        "longitude": -84.466529,
+        "contract_type": "contract",
+        "salary_min": 127878.86,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973078480?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T11:28:42Z",
+        "description": "Join us as we Rise to the Challenge At KCI, we\u2019re building an enduring community that provides unparalleled value to our employee-owners. We make our mark designing and delivering our world-class solutions, so we invest deeply in supporting and developing our team. We reward integrity and commitment, and when we do well, you do well. Our employee\u2019s have the freedom to innovate, unlimited growth, a voice that matters, a lifestyle that works, and skin in the game. Achievements are shared and cele\u2026",
+        "company": {
+          "display_name": "KCI Technologies",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "title": "Survey Practice Leader",
+        "salary_is_predicted": "1",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Consultancy Jobs",
+          "tag": "consultancy-jobs"
+        },
+        "id": "5973078480"
+      },
+      {
+        "contract_time": "full_time",
+        "salary_max": 75665.49,
+        "latitude": 41.515552,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczMDc4MjI3In0.Fhdnh0OKPZh7jALfB9DZFw0bGSXUCTh-p-bCfWEd-aQ",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Rhode Island",
+            "Newport County",
+            "Middletown"
+          ],
+          "display_name": "Middletown, Newport County"
+        },
+        "id": "5973078227",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs"
+        },
+        "created": "2026-11-20T11:26:56Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "BankNewport"
+        },
+        "description": "BankNewport celebrates being a community bank since 1819. Yes, that\u2019s 200 years, and still growing. Offering new and exciting career opportunities, BankNewport is committed to providing our employees the resource and guidance to develop careers that are challenging and rewarding. So, if you\u2019re looking for a great professional opportunity, know that BankNewport will empower and invest in you. Responsible for using data to provide actionable insights into BankNewport\u2019s marketing efforts, customer\u2026",
+        "title": "Business Intelligence Analyst-Marketing",
+        "salary_is_predicted": "1",
+        "redirect_url": "https://www.adzuna.com/details/5973078227?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 75665.49,
+        "longitude": -71.284926
+      },
+      {
+        "salary_min": 57500,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -77.04131,
+        "title": "Registered Client Service Associate",
+        "salary_is_predicted": "0",
+        "created": "2026-11-20T11:06:52Z",
+        "company": {
+          "display_name": "Stifel",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Stifel strives for a culture that puts its clients and associates first: a culture where everyone belongs, everyone is welcome, and everyone contributes to the success of our clients, their careers, and the firm as a whole. Let\u2019s talk about how you can find your place here at Stifel, where success meets success . Under immediate supervision, Client Services Associate (Registered) assists one or more Financial Advisor(s) (FA(s)) with the opening and maintenance of client accounts and records, pe\u2026",
+        "id": "5973074452",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973074452?utm_medium=api&utm_source=d30dc240",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Rosslyn, Arlington County",
+          "area": [
+            "US",
+            "Virginia",
+            "Arlington County",
+            "Rosslyn"
+          ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzA3NDQ1MiIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.ymu5N7l4RHR4hAJEscKryfenDvTtT4JMvgV-8-j27ys",
+        "latitude": 38.897795,
+        "salary_max": 70300,
+        "contract_time": "full_time"
+      },
+      {
+        "description": "The Business Process Integration Technical Systems Analyst II leads technical analysis and development for Business Process Modeling solutions. This position coordinates with business owners, business analysts, IT and vendor development teams to develop and facilitate the technical aspects of project delivery. This position is responsible for application development and will utilize third party tools to create new workflow applications. Work with multiple areas to identify, troubleshoot, resolv\u2026",
+        "created": "2026-11-20T11:06:51Z",
+        "company": {
+          "display_name": "Stifel",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "1",
+        "title": "Business Process Integration Technical Systems Analyst II",
+        "salary_max": 61298.52,
+        "id": "5973074451",
+        "contract_time": "full_time",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTczMDc0NDUxIn0.XluWHONhS6Rxl2_eCu7FNW75Ot4kdjE__i-IYs4Gwv4",
+        "redirect_url": "https://www.adzuna.com/details/5973074451?utm_medium=api&utm_source=d30dc240",
+        "salary_min": 61298.52,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US"
+          ],
+          "display_name": "US"
+        }
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzA3NDQ1MCIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.jwBuBm117Tj9sDrObuvDxu2dv4J2V0TBqJBHqqcifX8",
+        "contract_time": "full_time",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "salary_max": 69241.2,
+        "id": "5973074450",
+        "salary_is_predicted": "1",
+        "title": "Business Process Integration Business Analyst II",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Stifel"
+        },
+        "created": "2026-11-20T11:06:51Z",
+        "description": "The Business Process Integration Business Analyst II works in an agile environment to turn business needs into clear, testable work. This position analyzes business processes and data, writes user stories and acceptance criteria, helps maintain and prioritize the product backlog, and supports delivery through sprint testing, demonstrations and releases. The analyst acts as the liaison between business owners, technical analysts, QA, IT and application vendors. \u2022 Elicit requirements through stak\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973074450?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 69241.2,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US"
+          ],
+          "display_name": "US"
+        }
+      },
+      {
+        "location": {
+          "display_name": "US",
+          "area": [
+            "US"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_min": 107100,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5972978123?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "0",
+        "title": "Integrated Marketing Manager, Global Programs",
+        "description": "About the role The Integrated Marketing Manager, Global Programs turns GTM campaign strategy into targeted programs for priority industries, executive audiences, and enterprise accounts. You\u2019ll own a defined portfolio of vertical, executive, and threat intelligence programs that build credibility, engage buying committees, and generate pipeline. Working alongside Campaign Managers and regional teams, you\u2019ll lead program planning, execution, and measurement. You\u2019ll build repeatable programs that\u2026",
+        "created": "2026-11-20T08:59:04Z",
+        "company": {
+          "display_name": "Abnormal",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3Mjk3ODEyMyIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.2onZdEERy5suPZZPmdXjCoxR8QHYnE3DhMpzszvz7n4",
+        "id": "5972978123",
+        "contract_time": "full_time",
+        "salary_max": 154000,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "sales-jobs",
+          "label": "Sales Jobs"
+        }
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Georgia",
+            "Gwinnett County",
+            "Grayson"
+          ],
+          "display_name": "Grayson, Gwinnett County"
+        },
+        "longitude": -83.98072,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 112021.04,
+        "redirect_url": "https://www.adzuna.com/land/ad/5972956561?se=pE2smlfl8RGUPaFcE3-wxg&utm_medium=api&utm_source=d30dc240&v=DEB2E60EE64D740A3582C0FA069DD4935CED749E",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3Mjk1NjU2MSIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.hG6DfxJDpcHkUSmmTHqUF1q7SYnBX1Lf86ktYJWusA8",
+        "latitude": 33.94418,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs"
+        },
+        "id": "5972956561",
+        "salary_max": 112021.04,
+        "title": "Manager Growth Performance and Marketing Analytics",
+        "salary_is_predicted": "1",
+        "description": "At National Vision we believe everyone deserves to see their best to live their best. We help people by making quality eye care and eyewear more affordable and accessible. National Vision is one of the largest optical retail companies in the United States with over 1,200 stores. We operate four retail brands: America's Best Contacts & Eyeglasses, Eyeglass World, and Vista Optical inside select Fred Meyer stores and on select military bases. We offer an innovative culture where training is a pri\u2026",
+        "created": "2026-11-20T08:35:12Z",
+        "company": {
+          "display_name": "National Vision",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "longitude": -88.183633,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Warrenville, DuPage County",
+          "area": [
+            "US",
+            "Illinois",
+            "DuPage County",
+            "Warrenville"
+          ]
+        },
+        "salary_min": 79789.15,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5972950162?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "1",
+        "title": "Marketing Analyst",
+        "description": "Warrenville, Illinois Marketing Experienced Overview Discipline/Focus Marketing Overview Kimley-Horn is looking for a Marketing Coordinator to join our team in Warrenville, Illinois (IL.) office! This role is a fully onsite role located at 4201 Winfield Road, Warrenville, IL 60555. Responsibilities  Prepare/write proposals, qualifications, letters, reports, presentations, brochures, award submittals, and other communications  Facilitate, coordinate, and participate in kick-off meetings and prop\u2026",
+        "created": "2026-11-20T08:31:42Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Kimley-Horn"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3Mjk1MDE2MiIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.Yz7QQuEnQWrGzMrZQZPmcoAp5U3PLG49HTgWQQ_SeCc",
+        "latitude": 41.822551,
+        "salary_max": 79789.15,
+        "id": "5972950162",
+        "category": {
+          "tag": "pr-advertising-marketing-jobs",
+          "label": "PR, Advertising & Marketing Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US"
+          ],
+          "display_name": "US"
+        },
+        "salary_min": 67816.47,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5972931413?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T08:21:38Z",
+        "description": "Job Description Insight Global is seeking a Digital Marketing Data Analyst to support a global client's digital marketing and customer experience team. This individual will analyze website and marketing performance data, track user behavior, and build Power BI dashboards that help stakeholders understand digital engagement and make data-driven decisions. This role will work across Google Analytics, Sitecore, Salesforce, Microsoft Fabric, and Power BI, with a primary focus on metrics such as web\u2026",
+        "company": {
+          "display_name": "Insight Global",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "1",
+        "title": "Data Analyst",
+        "salary_max": 67816.47,
+        "id": "5972931413",
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTcyOTMxNDEzIn0.wioqtys1MOLX0F-BoSGb_F2GMwoR8f_ETZsP3QdiuMo"
+      },
+      {
+        "longitude": -73.978504,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Grand Central, Manhattan",
+          "area": [
+            "US",
+            "New York",
+            "New York City",
+            "Manhattan",
+            "Grand Central"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 91955.93,
+        "redirect_url": "https://www.adzuna.com/land/ad/5972886654?se=pE2smlfl8RGUPaFcE3-wxg&utm_medium=api&utm_source=d30dc240&v=D06B83D7111F584671D06FBA9A5C4FCA738B546F",
+        "latitude": 40.755381,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3Mjg4NjY1NCIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.VpBIYK59BEp6aXRAvOs1gRLWSC3zwEUGGVUbroQYFNQ",
+        "id": "5972886654",
+        "salary_max": 91955.93,
+        "category": {
+          "tag": "hr-jobs",
+          "label": "HR & Recruitment Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "2027 Early Talent Internship: Corporate Strategy & Planning",
+        "salary_is_predicted": "1",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "TIAA"
+        },
+        "created": "2026-11-20T08:09:47Z",
+        "description": "Office Flex New York, NY, USA Full time R261000129 Intern Throughout the intensive 10-week summer program, participants engage in a structured professional development curriculum featuring:  Comprehensive training modules  Executive speaker series  Educational workshops  Mentorship programs  Cohort-based learning experiences This position provides exposure to key business divisions including:  Actuarial Services, Asset Management  Business Management, Corporate Strategy and Development  Financi\u2026"
+      },
+      {
+        "salary_min": 130864.23,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -73.978504,
+        "location": {
+          "display_name": "Grand Central, Manhattan",
+          "area": [
+            "US",
+            "New York",
+            "New York City",
+            "Manhattan",
+            "Grand Central"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "description": "Senior Analyst, Marketing - Strategic Enablement  United States  New York, NY, United States (Hybrid) Job Description The U.S. Consumer Services Team (USCS) is responsible for our suite of consumer products, services, and experiences in the U.S., including our premium, cobrand, cash back, and lending portfolios, Membership Rewards, Global Travel & Lifestyle Services, the Centurion Lounge network, our Global Dining and Resy businesses, U.S. Consumer Banking, and best-in-class marketing programs \u2026",
+        "created": "2026-11-20T08:09:37Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "American Express"
+        },
+        "salary_is_predicted": "1",
+        "title": "Senior Analyst, Marketing - Strategic Enablement",
+        "id": "5972885915",
+        "salary_max": 130864.23,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTcyODg1OTE1In0.OzXOETSYVZwxcbNs3d4zpaBfLFawNEeJzCVRjiqSzNU",
+        "latitude": 40.755381,
+        "redirect_url": "https://www.adzuna.com/land/ad/5972885915?se=pE2smlfl8RGUPaFcE3-wxg&utm_medium=api&utm_source=d30dc240&v=160821655149790837FF3AF38FDB1A811078E6DC"
+      },
+      {
+        "salary_max": 132000,
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "contract_time": "full_time",
+        "id": "5972841706",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3Mjg0MTcwNiIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.3bb2YnZhSMe1rFF6kLOFVTWlEaiRymbjpDBjKSIyeLU",
+        "created": "2026-11-20T07:19:36Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Solventum"
+        },
+        "description": "At Solventum, we improve lives by helping healthcare professionals do their best work. Join a team using innovation and insight to make a real impact on the future of healthcare. All roles listed are with Solventum, and we\u2019re committed to protecting your personal information\u2014learn more in our Job Description: 3M Health Care is now Solventum At Solventum, we enable better, smarter, safer healthcare to improve lives. As a new company with a long legacy of creating breakthrough solutions for our c\u2026",
+        "title": "Analyst Marketing Technologies",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.com/details/5972841706?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 96000,
+        "location": {
+          "area": [
+            "US"
+          ],
+          "display_name": "US",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        }
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Castlewood, Centennial",
+          "area": [
+            "US",
+            "Colorado",
+            "Arapahoe County",
+            "Centennial",
+            "Castlewood"
+          ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjgzMzA4NCIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.f63dh6e5mYV-RYJllQ941wDJifhvT-a9iT9v8CnRTFM",
+        "latitude": 39.644001,
+        "contract_time": "full_time",
+        "salary_max": 69930,
+        "longitude": -104.902639,
+        "salary_min": 63890,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5972833084?utm_medium=api&utm_source=d30dc240",
+        "title": "Financial Analyst \u2013 FP&A Sales & Marketing",
+        "salary_is_predicted": "0",
+        "created": "2026-11-20T06:53:43Z",
+        "company": {
+          "display_name": "Group Voyagers",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Location: Denver, Colorado Hybrid ABOUT GLOBUS FAMILY OF BRANDS With 98 years in travel, the award-winning Globus family of brands \u2013 consisting of Globus, Cosmos, and Avalon Waterways \u2013 creates vacations that offer travelers culture-rich experiences featuring must-see sights, the stories behind the scenes and countless joy-filled memories in more than 70 countries on six continents across the globe. With equal measures vision and hard work; team collaboration and commitment; adaptability, hones\u2026",
+        "category": {
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5972833084"
+      },
+      {
+        "contract_time": "full_time",
+        "salary_max": 100493,
+        "id": "5972799275",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTcyNzk5Mjc1In0.56MuArWTYiCpFSPxl09j9mfSoDsNSM2TDJJ9gO6hqBc",
+        "company": {
+          "display_name": "Georgetown University",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T06:36:49Z",
+        "description": "Georgetown University comprises two unique campuses in the nation\u2019s capital. With the Hilltop Campus located in the heart of the historic Georgetown neighborhood, and the Capitol Campus, just minutes from the U.S. Capitol and U.S. Supreme Court, Georgetown University offers rigorous academic programs, a global perspective, and unparalleled opportunities to engage with Washington, D.C. Our community is a close-knit group of remarkable individuals driven by intellectual inquiry, a commitment to s\u2026",
+        "title": "Associate Director of Business Intelligence and Analytics",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.com/details/5972799275?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 54616,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US"
+          ],
+          "display_name": "US"
+        }
+      },
+      {
+        "contract_time": "full_time",
+        "salary_max": 140000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTcyNzk3MjgyIn0.O0dMWOaZmz-OYgXSuYadtMVNhpEl3_ik8PmLfKVlvh0",
+        "latitude": 40.767036,
+        "location": {
+          "area": [
+            "US",
+            "New York",
+            "New York City"
+          ],
+          "display_name": "New York City, New York",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "category": {
+          "tag": "pr-advertising-marketing-jobs",
+          "label": "PR, Advertising & Marketing Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5972797282",
+        "created": "2026-11-20T06:34:27Z",
+        "company": {
+          "display_name": "PermitFlow",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "PermitFlow is redefining how America builds. We\u2019re an applied AI company serving the nation\u2019s builders, tackling one of the largest information challenges in the economy: understanding what can be built, where, and how . Our AI agent workforce helps the fastest-growing construction companies navigate everything from permitting and licensing to inspections and project closeouts \u2013 accelerating housing, clean-energy, and infrastructure development across the country. Despite being a $1.6T industry\u2026",
+        "salary_is_predicted": "0",
+        "title": "Senior Revenue Operations Analyst, Marketing Ops",
+        "redirect_url": "https://www.adzuna.com/land/ad/5972797282?se=pE2smlfl8RGUPaFcE3-wxg&utm_medium=api&utm_source=d30dc240&v=AC116D5986D8E6AB988F1EC99F4BED6A28BD93D9",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 110000,
+        "longitude": -73.970368
+      },
+      {
+        "location": {
+          "area": [
+            "US"
+          ],
+          "display_name": "US",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_min": 300000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5972696176?utm_medium=api&utm_source=d30dc240",
+        "title": "Senior Vice President of Marketing",
+        "salary_is_predicted": "0",
+        "created": "2026-11-20T03:54:04Z",
+        "description": "About Cobalt At Cobalt, we believe everyone deserves to live and work in a safer, more secure world. Founded in 2013 on the belief that penetration testing could \u2013 and should \u2013 be better, we set out to challenge the status quo and transform how organizations approach offensive security. Today, we\u2019re leading the way in transforming the offensive security market, bringing together world-class security expertise, innovative technology and a global community of security professionals to make securi\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Cobalt"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjY5NjE3NiIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.g973YchNSrBTHi7Y9yn27bzKcN_u7-myC0jn1-ZoYpo",
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "contract_time": "full_time",
+        "salary_max": 390000,
+        "id": "5972696176"
+      },
+      {
+        "salary_min": 74771.62,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -74.01492,
+        "salary_is_predicted": "1",
+        "title": "Senior Analyst, Marketing - Strategic Enablement",
+        "created": "2026-11-20T03:29:11Z",
+        "company": {
+          "display_name": "American Express",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Description The U.S. Consumer Services Team (USCS) is responsible for our suite of consumer products, services, and experiences in the U.S., including our premium, cobrand, cash back, and lending portfolios, Membership Rewards, Global Travel & Lifestyle Services, the Centurion Lounge network, our Global Dining and Resy businesses, U.S. Consumer Banking, and best-in-class marketing programs across customer, prospect, and partner channels. The USCS team is focused on making membership an indisput\u2026",
+        "id": "5972675138",
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5972675138?utm_medium=api&utm_source=d30dc240",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Church Street, Manhattan",
+          "area": [
+            "US",
+            "New York",
+            "New York City",
+            "Manhattan",
+            "Church Street"
+          ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTcyNjc1MTM4In0.aLzDgd4o-zPuzsIE7XHi5UTPZCCo39Wvubd1KFX76t8",
+        "latitude": 40.71201,
+        "salary_max": 74771.62,
+        "contract_time": "full_time"
+      },
+      {
+        "contract_type": "contract",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "New York City, New York",
+          "area": [
+            "US",
+            "New York",
+            "New York City"
+          ]
+        },
+        "salary_min": 45760,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5972669713?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "0",
+        "title": "2027 Early Talent Internship: Corporate Strategy & Planning",
+        "created": "2026-11-20T03:19:38Z",
+        "description": "Intern Throughout the intensive 10-week summer program, participants engage in a structured professional development curriculum featuring: Comprehensive training modules Executive speaker series Educational workshops Mentorship programs Cohort-based learning experiences This position provides exposure to key business divisions including: Actuarial Services, Asset Management Business Management, Corporate Strategy and Development Financial Analysis and Accounting, Human Resources Internal Audit,\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "TIAA"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTcyNjY5NzEzIn0.8d6lXty_i56SNw9e6lq5B3PSERX2Hp1-KjG-PGX-Yfk",
+        "salary_max": 62400,
+        "id": "5972669713",
+        "contract_time": "full_time",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "consultancy-jobs",
+          "label": "Consultancy Jobs"
+        }
+      },
+      {
+        "latitude": 37.798085,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTcyNjY4MDU1In0.LGcSFU88w5LhV-F-4uZ6j1vbaBpmcQe8B-aZ8ZaE6-g",
+        "contract_time": "full_time",
+        "salary_max": 191000,
+        "location": {
+          "area": [
+            "US",
+            "California",
+            "San Francisco"
+          ],
+          "display_name": "San Francisco, California",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5972668055?utm_medium=api&utm_source=d30dc240",
+        "id": "5972668055",
+        "category": {
+          "label": "Sales Jobs",
+          "tag": "sales-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "0",
+        "title": "Senior Product Marketing Manager, Solutions & Services",
+        "created": "2026-11-20T03:12:50Z",
+        "description": "At Braze, we have found our people. We\u2019re a genuinely approachable, exceptionally kind, and intensely passionate crew. We seek to ignite that passion by setting high standards, championing teamwork, and creating work-life harmony as we collectively navigate rapid growth on a global scale while striving for greater equity and opportunity \u2013 inside and outside our organization. To flourish here, you must be prepared to set a high bar for yourself and those around you. There is always a way to cont\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Braze"
+        },
+        "longitude": -122.466538,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 140000
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTcyNTQxNjk0In0.RCsqLf5e4UOqGDV42ZJivw-2ZwQOWUnnvQiEvdh8EKg",
+        "latitude": 40.767036,
+        "salary_max": 191000,
+        "contract_time": "full_time",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "New York",
+            "New York City"
+          ],
+          "display_name": "New York City, New York"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5972541694?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "0",
+        "title": "Senior Product Marketing Manager, Solutions & Services",
+        "created": "2026-11-20T01:13:25Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Braze"
+        },
+        "description": "At Braze, we have found our people. We\u2019re a genuinely approachable, exceptionally kind, and intensely passionate crew. We seek to ignite that passion by setting high standards, championing teamwork, and creating work-life harmony as we collectively navigate rapid growth on a global scale while striving for greater equity and opportunity \u2013 inside and outside our organization. To flourish here, you must be prepared to set a high bar for yourself and those around you. There is always a way to cont\u2026",
+        "id": "5972541694",
+        "category": {
+          "label": "Sales Jobs",
+          "tag": "sales-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -73.970368,
+        "salary_min": 140000,
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "created": "2026-11-20T01:09:40Z",
+        "description": "About Nu Nu serves more than 140 million customers, guided by a mission to fight complexity and empower people. The company has been leading an industry transformation through innovative products and human-centered services. Proprietary technology and data at scale power Nu\u2019s digital platform, built to promote financial access, advancement, and transparency. Its business model thrives on customer love and lower costs, feeding a flywheel of growth and profitability. Visit our Institutional Page \u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Nubank"
+        },
+        "salary_is_predicted": "1",
+        "title": "Staff Business Analyst",
+        "id": "5972526783",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "pr-advertising-marketing-jobs",
+          "label": "PR, Advertising & Marketing Jobs"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5972526783?utm_medium=api&utm_source=d30dc240",
+        "salary_min": 78397.59,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -80.134484,
+        "contract_time": "full_time",
+        "salary_max": 78397.59,
+        "latitude": 25.756014,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjUyNjc4MyIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.PZrP3vWf_2cjuwvLbdoa7Yzb_aheA6GB6X5QTbOq66o",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Florida",
+            "Miami-Dade County",
+            "Miami"
+          ],
+          "display_name": "Miami, Miami-Dade County"
+        }
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5972494451?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjQ5NDQ1MSIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.d6qmrF0-ytWypJpjhON767SLRh2N9KInf2tjujukMpU",
+        "salary_max": 103410.73,
+        "id": "5972494451",
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "Senior Analyst, Digital Marketing - Email Marketing",
+        "salary_is_predicted": "1",
+        "created": "2026-11-20T00:56:23Z",
+        "description": "At Qualtrics, we create software the world\u2019s best brands use to deliver exceptional frontline experiences, build high-performing teams, and design products people love. But we are more than a platform\u2014we are the creators and stewards of the Experience Management category serving over 18K clients globally. Building a category takes grit, determination, and a disdain for convention\u2014but most of all it requires close-knit, high-functioning teams with an unwavering dedication to serving our customer\u2026",
+        "company": {
+          "display_name": "Qualtrics",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "location": {
+          "area": [
+            "US"
+          ],
+          "display_name": "US",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 103410.73
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Illinois",
+            "Cook County",
+            "Chicago"
+          ],
+          "display_name": "Chicago, Cook County"
+        },
+        "salary_min": 140000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5972488884?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "0",
+        "title": "Senior Product Marketing Manager, Solutions & Services",
+        "created": "2026-11-20T00:37:33Z",
+        "description": "At Braze, we have found our people. We\u2019re a genuinely approachable, exceptionally kind, and intensely passionate crew. We seek to ignite that passion by setting high standards, championing teamwork, and creating work-life harmony as we collectively navigate rapid growth on a global scale while striving for greater equity and opportunity \u2013 inside and outside our organization. To flourish here, you must be prepared to set a high bar for yourself and those around you. There is always a way to cont\u2026",
+        "company": {
+          "display_name": "Braze",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjQ4ODg4NCIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.ov66FbnercYGH5qa8alheeB53LB2KF4pJgMdbQnoZb4",
+        "contract_time": "full_time",
+        "salary_max": 182000,
+        "id": "5972488884",
+        "category": {
+          "label": "Sales Jobs",
+          "tag": "sales-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "contract_time": "full_time",
+        "salary_max": 85000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjQ4MzU2MCIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.SWWhmaf5GNB1yNgDp0ba-c1JDWYI3G1lH7p0Y6zK3fY",
+        "latitude": 34.255102,
+        "location": {
+          "area": [
+            "US",
+            "California",
+            "Los Angeles County",
+            "Chatsworth"
+          ],
+          "display_name": "Chatsworth, Los Angeles County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "redirect_url": "https://www.adzuna.com/land/ad/5972483560?se=pE2smlfl8RGUPaFcE3-wxg&utm_medium=api&utm_source=d30dc240&v=A75EEA18DCD052F40F182A7480DBA4C00DBBC17C",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5972483560",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Premier America Credit Union"
+        },
+        "created": "2026-11-20T00:24:00Z",
+        "description": "Full-time Description Job Title: Business Intelligence Marketing Analyst \u2013 onsite-Chatsworth Overview: We are seeking a skilled and driven Business Intelligence Marketing Analyst to join our team and play a pivotal role in advancing Premier America Credit Union\u2019s enterprise data strategy to drive marketing campaigns and media ROI. Business Intelligence Marketing Analyst will play a pivotal part in supporting Premier America\u2019s marketing team efforts to modernize its data infrastructure and empow\u2026",
+        "salary_is_predicted": "0",
+        "title": "Business Intelligence Marketing Analyst - Chatsworth on-site",
+        "longitude": -118.597553,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 68000
+      },
+      {
+        "latitude": 41.8865,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjQ0MDI2MiIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.JK9CysMMZMy4Yw4Mtnl3n455P3jDX611nI1pytKWl5k",
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5972440262",
+        "salary_max": 80000,
+        "salary_is_predicted": "0",
+        "title": "Paid Media Manager",
+        "created": "2026-11-19T23:32:12Z",
+        "description": "About Workshop Digital Workshop Digital is a results-oriented digital marketing agency located in Richmond, Virginia, dedicated to fostering strong and enduring partnerships. We prioritize transparency and collaboration , striving to deliver measurable results that drive businesses forward. We work as an extension of our clients' marketing teams, creating customized digital marketing strategies tailored to their business goals and service offerings. We are a dedicated, experienced team of digit\u2026",
+        "company": {
+          "display_name": "Workshop Digital",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5972440262?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 75000,
+        "location": {
+          "display_name": "The Gap, Chicago",
+          "area": [
+            "US",
+            "Illinois",
+            "Cook County",
+            "Chicago",
+            "The Gap"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": -87.6245
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5972440273?utm_medium=api&utm_source=d30dc240",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs"
+        },
+        "salary_max": 80000,
+        "id": "5972440273",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTcyNDQwMjczIn0.DviBhqH2f_hhqsPq-CaraUsmgtVfIcAbHzBdhSjciHc",
+        "latitude": 32.7211,
+        "created": "2026-11-19T23:32:12Z",
+        "company": {
+          "display_name": "Workshop Digital",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "About Workshop Digital Workshop Digital is a results-oriented digital marketing agency located in Richmond, Virginia, dedicated to fostering strong and enduring partnerships. We prioritize transparency and collaboration , striving to deliver measurable results that drive businesses forward. We work as an extension of our clients' marketing teams, creating customized digital marketing strategies tailored to their business goals and service offerings. We are a dedicated, experienced team of digit\u2026",
+        "title": "Paid Media Manager",
+        "salary_is_predicted": "0",
+        "location": {
+          "area": [
+            "US",
+            "California",
+            "San Diego County",
+            "San Diego"
+          ],
+          "display_name": "San Diego, San Diego County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": -117.16431,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 75000
+      },
+      {
+        "longitude": -78.503937,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Virginia",
+            "Charlottesville",
+            "Newcomb Hall"
+          ],
+          "display_name": "Newcomb Hall, Charlottesville"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 75000,
+        "redirect_url": "https://www.adzuna.com/details/5972440268?utm_medium=api&utm_source=d30dc240",
+        "id": "5972440268",
+        "salary_max": 80000,
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTcyNDQwMjY4In0.6XTHt7rhpA_OoVbxp62ZhIZPE3PqioM2uMA_10ElK0U",
+        "latitude": 38.071751,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Workshop Digital"
+        },
+        "created": "2026-11-19T23:32:12Z",
+        "description": "About Workshop Digital Workshop Digital is a results-oriented digital marketing agency located in Richmond, Virginia, dedicated to fostering strong and enduring partnerships. We prioritize transparency and collaboration , striving to deliver measurable results that drive businesses forward. We work as an extension of our clients' marketing teams, creating customized digital marketing strategies tailored to their business goals and service offerings. We are a dedicated, experienced team of digit\u2026",
+        "salary_is_predicted": "0",
+        "title": "Paid Media Manager"
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5972440266?utm_medium=api&utm_source=d30dc240",
+        "title": "Paid Media Manager",
+        "salary_is_predicted": "0",
+        "description": "About Workshop Digital Workshop Digital is a results-oriented digital marketing agency located in Richmond, Virginia, dedicated to fostering strong and enduring partnerships. We prioritize transparency and collaboration , striving to deliver measurable results that drive businesses forward. We work as an extension of our clients' marketing teams, creating customized digital marketing strategies tailored to their business goals and service offerings. We are a dedicated, experienced team of digit\u2026",
+        "created": "2026-11-19T23:32:12Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Workshop Digital"
+        },
+        "latitude": 41.472871,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTcyNDQwMjY2In0.6uFtqHzFZyOBeu4LG-wFlu5yiITnUrhsMTrsCcBxfL0",
+        "id": "5972440266",
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_max": 80000,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Ohio",
+            "Cuyahoga County",
+            "Cleveland"
+          ],
+          "display_name": "Cleveland, Cuyahoga County"
+        },
+        "longitude": -81.737446,
+        "salary_min": 75000,
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "location": {
+          "display_name": "Syracuse, Onondaga County",
+          "area": [
+            "US",
+            "New York",
+            "Onondaga County",
+            "Syracuse"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "longitude": -76.1512,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 75000,
+        "redirect_url": "https://www.adzuna.com/details/5972440267?utm_medium=api&utm_source=d30dc240",
+        "latitude": 43.04466,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjQ0MDI2NyIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.Byt8nezCjwG-azSSCQfOgp8IP6EuKVSeqtMXCV4UPb8",
+        "salary_max": 80000,
+        "id": "5972440267",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs"
+        },
+        "salary_is_predicted": "0",
+        "title": "Paid Media Manager",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Workshop Digital"
+        },
+        "created": "2026-11-19T23:32:12Z",
+        "description": "About Workshop Digital Workshop Digital is a results-oriented digital marketing agency located in Richmond, Virginia, dedicated to fostering strong and enduring partnerships. We prioritize transparency and collaboration , striving to deliver measurable results that drive businesses forward. We work as an extension of our clients' marketing teams, creating customized digital marketing strategies tailored to their business goals and service offerings. We are a dedicated, experienced team of digit\u2026"
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5972440274?utm_medium=api&utm_source=d30dc240",
+        "description": "About Workshop Digital Workshop Digital is a results-oriented digital marketing agency located in Richmond, Virginia, dedicated to fostering strong and enduring partnerships. We prioritize transparency and collaboration , striving to deliver measurable results that drive businesses forward. We work as an extension of our clients' marketing teams, creating customized digital marketing strategies tailored to their business goals and service offerings. We are a dedicated, experienced team of digit\u2026",
+        "created": "2026-11-19T23:32:12Z",
+        "company": {
+          "display_name": "Workshop Digital",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "title": "Paid Media Manager",
+        "salary_max": 80000,
+        "id": "5972440274",
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjQ0MDI3NCIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.fXUM56rYqOLdBEk2z2z6PcjT_AMYq8HHIv4MrNoIYxA",
+        "latitude": 39.749838,
+        "longitude": -104.995597,
+        "location": {
+          "area": [
+            "US",
+            "Colorado",
+            "Adams County",
+            "Federal Heights"
+          ],
+          "display_name": "Federal Heights, Adams County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_min": 75000,
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Rochester, Monroe County",
+          "area": [
+            "US",
+            "New York",
+            "Monroe County",
+            "Rochester"
+          ]
+        },
+        "longitude": -77.60315,
+        "salary_min": 75000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5972440265?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "0",
+        "title": "Paid Media Manager",
+        "created": "2026-11-19T23:32:12Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Workshop Digital"
+        },
+        "description": "About Workshop Digital Workshop Digital is a results-oriented digital marketing agency located in Richmond, Virginia, dedicated to fostering strong and enduring partnerships. We prioritize transparency and collaboration , striving to deliver measurable results that drive businesses forward. We work as an extension of our clients' marketing teams, creating customized digital marketing strategies tailored to their business goals and service offerings. We are a dedicated, experienced team of digit\u2026",
+        "latitude": 43.16293,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTcyNDQwMjY1In0.nc1uha6HYXxnhLaN1aM6RkdAuY-cOiGZTO_n8A1TIBI",
+        "id": "5972440265",
+        "salary_max": 80000,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs"
+        }
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5972440263?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 80000,
+        "id": "5972440263",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "pr-advertising-marketing-jobs",
+          "label": "PR, Advertising & Marketing Jobs"
+        },
+        "latitude": 35.227415,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTcyNDQwMjYzIn0.TEMem1y5KuyMMM-6ZKgQ13pUbMyhCHMdG_aNiqAM_OM",
+        "created": "2026-11-19T23:32:12Z",
+        "description": "About Workshop Digital Workshop Digital is a results-oriented digital marketing agency located in Richmond, Virginia, dedicated to fostering strong and enduring partnerships. We prioritize transparency and collaboration , striving to deliver measurable results that drive businesses forward. We work as an extension of our clients' marketing teams, creating customized digital marketing strategies tailored to their business goals and service offerings. We are a dedicated, experienced team of digit\u2026",
+        "company": {
+          "display_name": "Workshop Digital",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "title": "Paid Media Manager",
+        "longitude": -80.84523,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Charlotte, Mecklenburg County",
+          "area": [
+            "US",
+            "North Carolina",
+            "Mecklenburg County",
+            "Charlotte"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 75000
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5972440260?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-19T23:32:11Z",
+        "company": {
+          "display_name": "Workshop Digital",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "About Workshop Digital Workshop Digital is a results-oriented digital marketing agency located in Richmond, Virginia, dedicated to fostering strong and enduring partnerships. We prioritize transparency and collaboration , striving to deliver measurable results that drive businesses forward. We work as an extension of our clients' marketing teams, creating customized digital marketing strategies tailored to their business goals and service offerings. We are a dedicated, experienced team of digit\u2026",
+        "salary_is_predicted": "0",
+        "title": "Paid Media Manager",
+        "category": {
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5972440260",
+        "salary_max": 80000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MjQ0MDI2MCIsInMiOiJwRTJzbWxmbDhSR1VQYUZjRTMtd3hnIn0.82Gznb0qKUkXSoM7CFZnd7B049vMZpzYSmu4tqUzIKk",
+        "latitude": 37.58592,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Virginia",
+            "Henrico County",
+            "Lakeside"
+          ],
+          "display_name": "Lakeside, Henrico County"
+        },
+        "longitude": -77.48886,
+        "salary_min": 75000,
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "longitude": -91.035165,
+        "location": {
+          "area": [
+            "US",
+            "Louisiana",
+            "East Baton Rouge Parish",
+            "Shenandoah"
+          ],
+          "display_name": "Shenandoah, East Baton Rouge Parish",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 61660.45,
+        "redirect_url": "https://www.adzuna.com/details/5972432043?utm_medium=api&utm_source=d30dc240",
+        "id": "5972432043",
+        "salary_max": 61660.45,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "PR, Advertising & Marketing Jobs",
+          "tag": "pr-advertising-marketing-jobs"
+        },
+        "latitude": 30.426976,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTcyNDMyMDQzIn0.ZKpALuuuhe0pjRoaQv9ek6I8p9tjhacRIwu9jnbRYpk",
+        "created": "2026-11-19T23:20:08Z",
+        "company": {
+          "display_name": "Family Resource Group, Inc",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "About Family Resource Group, Inc About Family Resource Group Inc. At Family Resource Group Inc. (FRG) , we\u2019re more than a publishing company\u2014we\u2019re a media, marketing, and technology company on a mission to make communities stronger and businesses more successful. For more than 35 years, we\u2019ve helped millions of families discover local resources, events, healthcare providers, schools, camps, and businesses through our trusted magazines, websites, digital platforms, events, and technology. Today,\u2026",
+        "title": "Digital Marketing Analyst",
+        "salary_is_predicted": "1"
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "New York"
+          ],
+          "display_name": "New York, US"
+        },
+        "longitude": -75.574677,
+        "salary_min": 125602.82,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5972424702?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "display_name": "Lenmar Consulting Inc",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-19T23:15:43Z",
+        "description": "Hi- Our Investment Mgmt. client is looking for Sr Full Stack Application developer- Fulltime role. If interested, please respond to the job posting. Fulltime/ Permanent placement with the client Competitive Base Salary  Bonus and Excellent Benefits NYC - Hybrid Please note that WORK VISA sponsorship is not available for this position at this time. Global investment management firm with over $200 billion in Assets under Management spanning across a range of various equity and fixed income invest\u2026",
+        "salary_is_predicted": "1",
+        "title": "Sr Full Stack Application Developer",
+        "id": "5972424702",
+        "salary_max": 125602.82,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "latitude": 42.522869,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTcyNDI0NzAyIn0.OabWjyhCfTXLhL51BySuIanddFcaoa3UEtExSdu9KME"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 83800.32,
+        "longitude": -88.055632,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Forest Lake, Lake County",
+          "area": [
+            "US",
+            "Illinois",
+            "Lake County",
+            "Forest Lake"
+          ]
+        },
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_max": 83800.32,
+        "id": "5972418716",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoicEUyc21sZmw4UkdVUGFGY0UzLXd4ZyIsImkiOiI1OTcyNDE4NzE2In0.XCFhUUjElC6fyzSU8cRl5arm1nkRKskycY5qkChNcVs",
+        "latitude": 42.207524,
+        "description": "Hybrid; 3 days onsite and 2 days from home Monday-Friday, 8am-5pm Top 3 \u2013 5 Skills Needed for each role Experience with digital marketing operations, database/content management, project management. Hands-on experience with Smartsheet, Power BI, and Salesforce; proficiency in SQL (Snowflake). Exceptional communication and collaboration skills across business and technical teams. Demonstrated ability to operate independently, solve problems, and manage multiple priorities in a dynamic environmen\u2026",
+        "created": "2026-11-19T23:12:36Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Rangam"
+        },
+        "salary_is_predicted": "1",
+        "title": "RCI-ABBV-35990 Content Metadata Analyst (Digital Marketing Operations/Data Analytics/SQL/Content Governance/Taxonomy/Salesforce/Power BI)",
+        "redirect_url": "https://www.adzuna.com/details/5972418716?utm_medium=api&utm_source=d30dc240"
+      }
+    ],
+    "count": 1883,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "mean": 133407.69
+  }
+}

@@ -1,0 +1,1661 @@
+{
+  "search_term": "software engineer",
+  "fetched_at": "11-21-02-59",
+  "response": {
+    "count": 125971,
+    "mean": 153357.27,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "results": [
+      {
+        "latitude": 40.191713,
+        "location": {
+          "display_name": "Williams Grv, Cumberland County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Pennsylvania",
+            "Cumberland County",
+            "Williams Grv"
+          ]
+        },
+        "longitude": -76.992742,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMjIyNSIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.-3Fs5Uus1gbE80cpvu6Kx51vIAYjFzvl697ChimP144",
+        "company": {
+          "display_name": "Whitman, Requardt & Associates, LLP",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_max": 125000,
+        "redirect_url": "https://www.adzuna.com/details/5973412225?utm_medium=api&utm_source=d30dc240",
+        "salary_min": 70000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "At Whitman, Requardt & Associates, LLP, we are People Focused and Project Driven . We have been in business for more than 110 years and we are known for our quality work and quality employees. This is your chance to join our team - help us to design the infrastructure and buildings that improve the world. Whitman, Requardt & Associates, LLP is seeking a highly motivated entry-level engineer to join our Transportation Water Resources team in our York, PA office. This position offers the opportun\u2026",
+        "salary_is_predicted": "0",
+        "contract_type": "contract",
+        "title": "Water Resources Engineer - Entry Level",
+        "id": "5973412225",
+        "created": "2026-11-20T21:35:12Z",
+        "category": {
+          "tag": "engineering-jobs",
+          "label": "Engineering Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "contract_time": "full_time"
+      },
+      {
+        "salary_min": 137510,
+        "latitude": 39.206658,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "id": "5973412205",
+        "title": "Software Engineer (Hybrid) Clearable - 31084",
+        "location": {
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Columbia, Howard County"
+        },
+        "salary_max": 195000,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HII's Mission Technologies division"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973412205?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:35:11Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMjIwNSIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.uZDksk2LOCdNFiDtLttWJXLXuLYm9IUZLMhaE-8weus",
+        "longitude": -76.883626,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        }
+      },
+      {
+        "title": "Software Engineer (Hybrid) - 30869",
+        "id": "5973412203",
+        "location": {
+          "display_name": "Columbia, Howard County",
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 115199,
+        "latitude": 39.206658,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973412203?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 150000,
+        "created": "2026-11-20T21:35:11Z",
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "longitude": -76.883626,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMjIwMyIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.8x_-2KpCY80F6yBxIOl9JeZHcHuuUbXmoFzX-En8V68"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 29.46357,
+        "salary_min": 100173,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas",
+            "Bexar County",
+            "San Antonio"
+          ],
+          "display_name": "San Antonio, Bexar County"
+        },
+        "title": "DevOps Engineer (Hybrid) - 30778",
+        "id": "5973412159",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMjE1OSIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.3Fqi3iIjIuYLQIpUm6j_F7tInmwkUxiGbwg6CPbgLQQ",
+        "longitude": -98.522671,
+        "redirect_url": "https://www.adzuna.com/details/5973412159?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 130000,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HII's Mission Technologies division"
+        },
+        "created": "2026-11-20T21:35:10Z",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        }
+      },
+      {
+        "longitude": -97.078065,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDEyMTMzIn0.tr_5G1xy4q7Io9W5inUvkMHnTDmZyrH3KpTRAG_hRSk",
+        "redirect_url": "https://www.adzuna.com/details/5973412133?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 135000,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HII's Mission Technologies division"
+        },
+        "created": "2026-11-20T21:35:10Z",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "latitude": 32.934292,
+        "salary_min": 100173,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "location": {
+          "display_name": "Grapevine, Tarrant County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas",
+            "Tarrant County",
+            "Grapevine"
+          ]
+        },
+        "id": "5973412133",
+        "title": "Platform Engineer (Hybrid) - 28479"
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973412162?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 165000,
+        "created": "2026-11-20T21:35:10Z",
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDEyMTYyIn0.ow-ahDe4iG7EH87SdVa2dFWNp_R0TWRuFbyzEiUqZBw",
+        "longitude": -77.019023,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_min": 118987,
+        "latitude": 38.912068,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. Why Enlighten? At Enlighten, our team\u2019s unwavering work ethic, top talent and celebration of innovative ideas have helped us thrive. We know that our employees are essen\u2026",
+        "title": "Product Champion - 30120",
+        "id": "5973412162",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Washington, D.C.",
+            "Washington"
+          ],
+          "display_name": "Washington, Washington, D.C."
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 39.206658,
+        "salary_min": 111662,
+        "location": {
+          "display_name": "Columbia, Howard County",
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5973412072",
+        "title": "Software Engineer (Hybrid) - 30043",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMjA3MiIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.VNHd5k8VJ1YZxVGpq_tXiBIUGB0tbJYYl6ZfZDqtHg8",
+        "longitude": -76.883626,
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_max": 150000,
+        "redirect_url": "https://www.adzuna.com/details/5973412072?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:35:09Z",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        }
+      },
+      {
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "salary_is_predicted": "0",
+        "title": "Principal Software Engineer (Remote) - 31139",
+        "id": "5973412024",
+        "location": {
+          "area": [
+            "US",
+            "New York",
+            "New York City"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "New York City, New York"
+        },
+        "salary_min": 143507,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973412024?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 245000,
+        "created": "2026-11-20T21:35:09Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HII's Mission Technologies division"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDEyMDI0In0.6ALhMvuWLGvw2uH0hqz8e2KKW4f3N3oU1NTcEVT4WU8"
+      },
+      {
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "id": "5973412084",
+        "title": "DevOps Engineer (Hybrid) - 31008",
+        "location": {
+          "display_name": "San Antonio, Bexar County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas",
+            "Bexar County",
+            "San Antonio"
+          ]
+        },
+        "salary_min": 100173,
+        "latitude": 29.46357,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_max": 140000,
+        "redirect_url": "https://www.adzuna.com/details/5973412084?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:35:09Z",
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "longitude": -98.522671,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDEyMDg0In0.kmEB79eY-f4z1pW66AsbcYsy1Qs2MqOj67S0tEFtlG4"
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ],
+          "display_name": "Columbia, Howard County"
+        },
+        "id": "5973412038",
+        "title": "Software Engineer (Hybrid) - 30402",
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 39.206658,
+        "salary_min": 111662,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "longitude": -76.883626,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDEyMDM4In0.tPS4vzEGtNFYD-GP-7KX-HWeBI0xb2VjXgQnNr7TPuc",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HII's Mission Technologies division"
+        },
+        "salary_max": 150000,
+        "redirect_url": "https://www.adzuna.com/details/5973412038?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:35:09Z"
+      },
+      {
+        "salary_min": 124303,
+        "latitude": 39.206658,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "salary_is_predicted": "0",
+        "id": "5973412083",
+        "title": "Product Owner (Hybrid) - 30304",
+        "location": {
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Columbia, Howard County"
+        },
+        "salary_max": 190000,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HII's Mission Technologies division"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973412083?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:35:09Z",
+        "longitude": -76.883626,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDEyMDgzIn0.-FltFDeLlyYemq1o9FwfRn4quioGvO_uJkLaNv0p370",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        }
+      },
+      {
+        "longitude": -98.522671,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMjA3MyIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.OOBsCwI_IwfrgpjBFq-a3UqPUA8eup7lzh1qSzoPcWw",
+        "salary_max": 160000,
+        "redirect_url": "https://www.adzuna.com/details/5973412073?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:35:09Z",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 29.46357,
+        "salary_min": 115716,
+        "location": {
+          "area": [
+            "US",
+            "Texas",
+            "Bexar County",
+            "San Antonio"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "San Antonio, Bexar County"
+        },
+        "title": "Product Owner (Hybrid) - 28619",
+        "id": "5973412073",
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026"
+      },
+      {
+        "latitude": 29.46357,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas",
+            "Bexar County",
+            "San Antonio"
+          ],
+          "display_name": "San Antonio, Bexar County"
+        },
+        "salary_max": 140000,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HII's Mission Technologies division"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973412101?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDEyMTAxIn0.nMRPOhl69yVMFC3b89rZm2Wkb_oI7jSgDSM5XDdh3UI",
+        "longitude": -98.522671,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 100173,
+        "title": "Configuration Engineer (Hybrid) - 30857",
+        "id": "5973412101",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "salary_is_predicted": "0",
+        "created": "2026-11-20T21:35:09Z",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "contract_time": "full_time"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 39.206658,
+        "salary_min": 115199,
+        "location": {
+          "display_name": "Columbia, Howard County",
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5973412071",
+        "title": "Software Engineer (Hybrid) - 29116",
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDEyMDcxIn0.bOrki3uenIuxPYBbhZ1xHj6z7ooNLr2Gl6jPJMDkFv0",
+        "longitude": -76.883626,
+        "redirect_url": "https://www.adzuna.com/details/5973412071?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 140000,
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:35:09Z",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 100173,
+        "latitude": 29.46357,
+        "title": "DevOps Engineer (Hybrid) - 30762",
+        "id": "5973412068",
+        "location": {
+          "display_name": "San Antonio, Bexar County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas",
+            "Bexar County",
+            "San Antonio"
+          ]
+        },
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973412068?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 130000,
+        "created": "2026-11-20T21:35:09Z",
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "longitude": -98.522671,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMjA2OCIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.JEvOqQWGGDQkyxIYw9tpob2hsX-6du0ZWjzGFEInCLc",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 39.206658,
+        "salary_min": 115199,
+        "location": {
+          "display_name": "Columbia, Howard County",
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "title": "Software Engineer (Hybrid) - 29300",
+        "id": "5973412096",
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDEyMDk2In0.2YqQHguxLGpYg-G7JVVdgdy2ObW7weqAV6zJYsCMCqc",
+        "longitude": -76.883626,
+        "created": "2026-11-20T21:35:09Z",
+        "salary_max": 145000,
+        "redirect_url": "https://www.adzuna.com/details/5973412096?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HII's Mission Technologies division"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        }
+      },
+      {
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -98.522671,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDEyMDg1In0.GkVIwcS2r6N5XQzgsf5FRBkbeaAj4OlXwMaHM1Yj7HM",
+        "salary_max": 165000,
+        "created": "2026-11-20T21:35:09Z",
+        "redirect_url": "https://www.adzuna.com/details/5973412085?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "location": {
+          "area": [
+            "US",
+            "Texas",
+            "Bexar County",
+            "San Antonio"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "San Antonio, Bexar County"
+        },
+        "id": "5973412085",
+        "title": "Data Operations Engineer (Hybrid) - 31009",
+        "latitude": 29.46357,
+        "salary_min": 119574,
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "salary_min": 115716,
+        "latitude": 29.46357,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "salary_is_predicted": "0",
+        "id": "5973412093",
+        "title": "Product Owner (Hybrid) - 29307",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas",
+            "Bexar County",
+            "San Antonio"
+          ],
+          "display_name": "San Antonio, Bexar County"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973412093?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 160000,
+        "created": "2026-11-20T21:35:09Z",
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMjA5MyIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.OybnZM9-JEy0PRIaLvcJLxHtVwDuCca1cZoRGMaDTzU",
+        "longitude": -98.522671,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        }
+      },
+      {
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "created": "2026-11-20T21:35:08Z",
+        "salary_max": 145000,
+        "redirect_url": "https://www.adzuna.com/details/5973411967?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMTk2NyIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.ydDNQQtrm5RqNqz90-dBr_Nja4kCQpMHoBrKXlL18VM",
+        "longitude": -76.883626,
+        "title": "Platform Engineer (Hybrid) - 27674",
+        "id": "5973411967",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ],
+          "display_name": "Columbia, Howard County"
+        },
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 115199,
+        "latitude": 39.206658
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 39.206658,
+        "salary_min": 137510,
+        "location": {
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Columbia, Howard County"
+        },
+        "title": "Software Engineer (Hybrid) - 30870",
+        "id": "5973411926",
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "longitude": -76.883626,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMTkyNiIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.pEG3c-uDSM7jsJig6c70wxw8ANi8Ok0Q66UYlWuY0RQ",
+        "salary_max": 200000,
+        "redirect_url": "https://www.adzuna.com/details/5973411926?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:35:08Z",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        }
+      },
+      {
+        "longitude": -77.146988,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDExOTg3In0.3QhAxlZwOrCE4BfdoLV46-neboYVTukUC_5tswrANRA",
+        "salary_max": 200000,
+        "redirect_url": "https://www.adzuna.com/details/5973411987?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:35:08Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HII's Mission Technologies division"
+        },
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 38.70971,
+        "salary_min": 137510,
+        "location": {
+          "area": [
+            "US",
+            "Virginia",
+            "Fairfax County",
+            "Fort Belvoir"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Fort Belvoir, Fairfax County"
+        },
+        "title": "DevOps Engineer - $20K Sign On Bonus - 30876",
+        "id": "5973411987",
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. Why Enlighten? At Enlighten, our team\u2019s unwavering work ethic, top talent and celebration of innovative ideas have helped us thrive. We know that our employees are essen\u2026"
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973411916?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_max": 190000,
+        "longitude": -76.883626,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDExOTE2In0.W0dhtkDh9nZuajkTXloXBrSRg7LanYaTP-U0wzvIrp8",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ],
+          "display_name": "Columbia, Howard County"
+        },
+        "latitude": 39.206658,
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:35:08Z",
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "id": "5973411916",
+        "title": "Software Engineer (Hybrid) - 29023",
+        "salary_min": 137510,
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -98.522671,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDExOTk4In0.T5cpLdulEC02AwrIuYChDNf-mkkA9PJFg5-iIpe87wE",
+        "salary_max": 175000,
+        "created": "2026-11-20T21:35:08Z",
+        "redirect_url": "https://www.adzuna.com/details/5973411998?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HII's Mission Technologies division"
+        },
+        "location": {
+          "display_name": "San Antonio, Bexar County",
+          "area": [
+            "US",
+            "Texas",
+            "Bexar County",
+            "San Antonio"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5973411998",
+        "title": "Product Champion - 30703",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. Why Enlighten? At Enlighten, our team\u2019s unwavering work ethic, top talent and celebration of innovative ideas have helped us thrive. We know that our employees are essen\u2026",
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 29.46357,
+        "salary_min": 125653
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 137510,
+        "latitude": 39.206658,
+        "id": "5973411911",
+        "title": "DevOps Engineer - $20K Sign On Bonus - 29365",
+        "location": {
+          "display_name": "Columbia, Howard County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ]
+        },
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. Why Enlighten? At Enlighten, our team\u2019s unwavering work ethic, top talent and celebration of innovative ideas have helped us thrive. We know that our employees are essen\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973411911?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 195000,
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:35:08Z",
+        "longitude": -76.883626,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDExOTExIn0.ZKOTkaJfmBudjPEoHGOUIZpx4uyIepZO5zf2m6chcnY",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        }
+      },
+      {
+        "latitude": 42.380327,
+        "location": {
+          "display_name": "Cambridge, Middlesex County",
+          "area": [
+            "US",
+            "Massachusetts",
+            "Middlesex County",
+            "Cambridge"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_max": 108361.62,
+        "redirect_url": "https://www.adzuna.com/details/5973412012?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "GCR Professional Services"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMjAxMiIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.BOxlugm3fZ0tf3BfJdIqf65MN-b6BPoE6Sm5_NfVX90",
+        "longitude": -71.13891,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 108361.62,
+        "title": "Linux Administrator (RHEL)",
+        "id": "5973412012",
+        "salary_is_predicted": "1",
+        "description": "Linux Administrator ( RHEL ) Muliple Openings Contract 12- 24 Months 9/80 work schedule Position requires US Citzen, Work is ONSITE full time with ACTIVE SECRET CLEARANCE Position Overview We are looking for a seasoned linux administrator (mostly RHEL) who excels at automation and platform design. The successful candidate will build, secure, and operate large?scale, container?centric platforms that enable rapid, reliable software delivery across the organization. This role emphasizes containeri\u2026",
+        "created": "2026-11-20T21:35:08Z",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "contract_time": "full_time"
+      },
+      {
+        "location": {
+          "display_name": "San Francisco, California",
+          "area": [
+            "US",
+            "California",
+            "San Francisco"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "latitude": 37.798085,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDExOTUxIn0.-O3WT8T2ac9AfCLi9W3RVsu0JPX52rqMe1bNz_iLYC0",
+        "longitude": -122.466538,
+        "company": {
+          "display_name": "Credit Acceptance Corporation",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_max": 175700,
+        "redirect_url": "https://www.adzuna.com/details/5973411951?utm_medium=api&utm_source=d30dc240",
+        "title": "Senior ServiceNow Engineer",
+        "id": "5973411951",
+        "salary_is_predicted": "0",
+        "description": "At Credit Acceptance, we are building on the foundation of a successful business while investing in the future through technology, data, AI, and continuous improvement. As we continue to evolve, our Team Members play an active role in improving experiences, driving meaningful change, and shaping the future of our business. We foster an environment where people are empowered to contribute ideas, develop their careers, make an impact, and help lead our continued transformation. Our Engineering te\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 125500,
+        "contract_time": "full_time",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "created": "2026-11-20T21:35:08Z"
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973411979?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 135000,
+        "created": "2026-11-20T21:35:08Z",
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "longitude": -82.394,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDExOTc5In0.mF7ZHLAsanwHtdeZfjzeRAGMtPjihrfjEKX7DZosNe0",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 95164,
+        "latitude": 34.850555,
+        "id": "5973411979",
+        "title": "Software Engineer (Hybrid) - 29025",
+        "location": {
+          "display_name": "Greenville, Greenville County",
+          "area": [
+            "US",
+            "South Carolina",
+            "Greenville County",
+            "Greenville"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "salary_is_predicted": "0"
+      },
+      {
+        "location": {
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Columbia, Howard County"
+        },
+        "id": "5973411915",
+        "title": "Platform Engineer (Hybrid) - 28017",
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 39.206658,
+        "salary_min": 137510,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "longitude": -76.883626,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDExOTE1In0.5Ug1mDQT5Kzj6NWkVx-FGo7l6GPRjSh6GFSp1gCLsP0",
+        "salary_max": 185000,
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973411915?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:35:08Z"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDExOTMxIn0.cRT5AfiFcMs4-X8h0ojQEdMAGIF6z6B32XZWcVRgHLI",
+        "longitude": -76.883626,
+        "redirect_url": "https://www.adzuna.com/details/5973411931?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 145000,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HII's Mission Technologies division"
+        },
+        "created": "2026-11-20T21:35:08Z",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 39.206658,
+        "salary_min": 111662,
+        "location": {
+          "display_name": "Columbia, Howard County",
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5973411931",
+        "title": "Front End Developer (Hybrid) - 30401",
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 91548,
+        "latitude": 39.206658,
+        "title": "DevOps Engineer (Hybrid) - 30699",
+        "id": "5973411941",
+        "location": {
+          "display_name": "Columbia, Howard County",
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973411941?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 120000,
+        "created": "2026-11-20T21:35:08Z",
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "longitude": -76.883626,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDExOTQxIn0.c9MmSmiAX7UEvSiTkc2weMz8-hVLldcOTY9ilL07HjU",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        }
+      },
+      {
+        "salary_max": 185000,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HII's Mission Technologies division"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973411968?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:35:08Z",
+        "longitude": -76.883626,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMTk2OCIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.lOX_fCq9IrsbIubcRqClOkwcKYNCzZd7x7__MpWQA54",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_min": 137510,
+        "latitude": 39.206658,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "salary_is_predicted": "0",
+        "title": "DevOps Engineer (Hybrid) - 30706",
+        "id": "5973411968",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ],
+          "display_name": "Columbia, Howard County"
+        }
+      },
+      {
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "longitude": -98.656775,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDExOTg0In0.MjWKR79Mq2nGxRXunn4FxT9hmvpunBDugSxv6C1KSV8",
+        "redirect_url": "https://www.adzuna.com/details/5973411984?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 130000,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HII's Mission Technologies division"
+        },
+        "created": "2026-11-20T21:35:08Z",
+        "location": {
+          "display_name": "Texas, US",
+          "area": [
+            "US",
+            "Texas"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "id": "5973411984",
+        "title": "DevOps Engineer - 30149",
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. Why Enlighten? At Enlighten, our team\u2019s unwavering work ethic, top talent and celebration of innovative ideas have helped us thrive. We know that our employees are essen\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 31.709263,
+        "salary_min": 100173
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 95399,
+        "latitude": 39.206658,
+        "title": "Cyber Instructor (Hybrid) - 30858",
+        "id": "5973411912",
+        "location": {
+          "display_name": "Columbia, Howard County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ]
+        },
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.com/details/5973411912?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 140000,
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:35:08Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMTkxMiIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.brXfJR2nQMxOQQA4fL5HkagKEBtLxSlHpmx_YgVTdGg",
+        "longitude": -76.883626,
+        "category": {
+          "label": "Teaching Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "teaching-jobs"
+        }
+      },
+      {
+        "salary_min": 145317,
+        "latitude": 39.206658,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "id": "5973411847",
+        "title": "Program Manager (Hybrid) - 30331",
+        "location": {
+          "display_name": "Columbia, Howard County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ]
+        },
+        "salary_max": 215000,
+        "created": "2026-11-20T21:35:07Z",
+        "redirect_url": "https://www.adzuna.com/details/5973411847?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HII's Mission Technologies division"
+        },
+        "longitude": -76.883626,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDExODQ3In0.-COUJ1SikD7q-CW7tsu98fm919Fs27lL55_bdvpKtD4",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        }
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMTg3NSIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.RWmpmUo35nngtyEiVFLlceCGsmHUeS-ujWWumVIgUtA",
+        "longitude": -76.883626,
+        "salary_max": 155000,
+        "redirect_url": "https://www.adzuna.com/details/5973411875?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HII's Mission Technologies division"
+        },
+        "created": "2026-11-20T21:35:07Z",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 39.206658,
+        "salary_min": 115199,
+        "location": {
+          "display_name": "Columbia, Howard County",
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "title": "Software Engineer (Hybrid) - 30866",
+        "id": "5973411875",
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026"
+      },
+      {
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "salary_is_predicted": "0",
+        "title": "Cyber Instructor (Hybrid) - 30349",
+        "id": "5973411899",
+        "location": {
+          "display_name": "San Antonio, Bexar County",
+          "area": [
+            "US",
+            "Texas",
+            "Bexar County",
+            "San Antonio"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_min": 100664,
+        "latitude": 29.46357,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "tag": "teaching-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Teaching Jobs"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973411899?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 140000,
+        "created": "2026-11-20T21:35:07Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HII's Mission Technologies division"
+        },
+        "longitude": -98.522671,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDExODk5In0.zGXnA0ar14WNqHlo9geprTdjoqCAVqNp5ijIeL-hqZE"
+      },
+      {
+        "salary_min": 128887,
+        "latitude": 39.206658,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "salary_is_predicted": "0",
+        "title": "ISSE (Hybrid) - 29506",
+        "id": "5973411894",
+        "location": {
+          "display_name": "Columbia, Howard County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ]
+        },
+        "salary_max": 180000,
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973411894?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:35:07Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMTg5NCIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.COuNjqbEVwNwoQ6EidN_54LwEUKMsLVsh1UfDGLluW8",
+        "longitude": -76.883626,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        }
+      },
+      {
+        "salary_max": 185000,
+        "redirect_url": "https://www.adzuna.com/details/5973411888?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:35:07Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMTg4OCIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.QPtm-LyoJCmkl_1LYX-yrPdFxOaSCIwM9cAD-ifHIcc",
+        "longitude": -76.883626,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 137510,
+        "latitude": 39.206658,
+        "title": "Platform Engineer (Hybrid) - 30875",
+        "id": "5973411888",
+        "location": {
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Columbia, Howard County"
+        },
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026"
+      },
+      {
+        "latitude": 39.206658,
+        "salary_min": 137510,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "location": {
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Columbia, Howard County"
+        },
+        "title": "Data Operations Engineer (Hybrid) - 30039",
+        "id": "5973411852",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMTg1MiIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.cvq1_lr6sHAWzKpwOim_RHTbB4kEbeD3pWyDLt90LJQ",
+        "longitude": -76.883626,
+        "redirect_url": "https://www.adzuna.com/details/5973411852?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 195000,
+        "created": "2026-11-20T21:35:07Z",
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        }
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDExODExIn0.fP2UMKxrlC3b0Kfzrh2SoTSPk0gRGrGee_ik5HVVhtE",
+        "longitude": -98.522671,
+        "salary_max": 135000,
+        "redirect_url": "https://www.adzuna.com/details/5973411811?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:35:06Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HII's Mission Technologies division"
+        },
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 29.46357,
+        "salary_min": 97097,
+        "location": {
+          "display_name": "San Antonio, Bexar County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas",
+            "Bexar County",
+            "San Antonio"
+          ]
+        },
+        "title": "Platform Engineer (Hybrid) - 30868",
+        "id": "5973411811",
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026"
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Ohio",
+            "Franklin County",
+            "Linworth"
+          ],
+          "display_name": "Linworth, Franklin County"
+        },
+        "latitude": 40.10286,
+        "redirect_url": "https://www.adzuna.com/details/5973411833?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Genesis10"
+        },
+        "salary_max": 162240,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDExODMzIn0.Xm2Pk5P38NRHRENiCU8dO9tVWVzozkUn75BLHy7GSUk",
+        "longitude": -83.05368,
+        "id": "5973411833",
+        "contract_type": "contract",
+        "title": "Senior Software Developer - Hybrid - Can work in Columbus, OH; Fairfax, VA or Hampton, VA",
+        "salary_is_predicted": "0",
+        "description": "Genesis10 is currently seeking a Senior Software Developer for a hybrid position with a Technology Company. These positions are located in Columbus, OH, Fairfax, VA or Hampton, VA. This is a 6 month contract-to-hire opportunity. Compensation: $65.00 - $78.00 per hour, W2, based on qualifications Position Overview: The Senior Software Developer is responsible for designing, developing, and implementing robust software solutions by analyzing system workflows, user requirements, and work processes\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 135200,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:35:06Z"
+      },
+      {
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_max": 160000,
+        "redirect_url": "https://www.adzuna.com/details/5973411824?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:35:06Z",
+        "longitude": -98.656775,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMTgyNCIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.MQ_TRf9gIrNxtixiwT_IaIO5QmmSCs6ffoRnyEpiKvU",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 119574,
+        "latitude": 31.709263,
+        "title": "DevOps Engineer (Hybrid) - 31023",
+        "id": "5973411824",
+        "location": {
+          "display_name": "Texas, US",
+          "area": [
+            "US",
+            "Texas"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "salary_is_predicted": "0"
+      },
+      {
+        "contract_time": "full_time",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "created": "2026-11-20T21:35:06Z",
+        "title": "Senior Embedded Software Engineer",
+        "id": "5973411816",
+        "description": "POSITION OVERVIEW: As a Software Engineer, You will work with other engineers to enhance, test, and maintain a Linux C++ software architecture. You will be designing and implementing innovative algorithms that help our clients customers visualize and understand complex signal environments. You will have the opportunity to keep up with latest advances in computing hardware, operating systems, DSP techniques, machine learning, and other software technologies as we constantly adapt in a fast-movin\u2026",
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 130000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDExODE2In0.W61XrKM8cbHvQk93moOqv6YVI5ehfVhBxafQNeD-6Fc",
+        "longitude": -98.089432,
+        "salary_max": 190000,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Russ Hadick & Associates"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973411816?utm_medium=api&utm_source=d30dc240",
+        "location": {
+          "area": [
+            "US",
+            "Texas",
+            "Hays County",
+            "Mount Sharp"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Mount Sharp, Hays County"
+        },
+        "latitude": 30.224655
+      },
+      {
+        "salary_max": 130000,
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973411820?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:35:06Z",
+        "longitude": -98.522671,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMTgyMCIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.yW9cGc9CxKc0BgzU-AK8Ck4Nkgd3X23jk2krmP5vrmo",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 71471,
+        "latitude": 29.46357,
+        "title": "Deputy PM (Hybrid) - 29298",
+        "id": "5973411820",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas",
+            "Bexar County",
+            "San Antonio"
+          ],
+          "display_name": "San Antonio, Bexar County"
+        },
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "salary_is_predicted": "0"
+      },
+      {
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "salary_is_predicted": "0",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ],
+          "display_name": "Columbia, Howard County"
+        },
+        "id": "5973411836",
+        "title": "DevOps Engineer (Hybrid) - 31007",
+        "latitude": 39.206658,
+        "salary_min": 115199,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "longitude": -76.883626,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMTgzNiIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.QKstKSPQVKVebjgnOFlqROm5hzlhng_3PZc7LuXkwKM",
+        "redirect_url": "https://www.adzuna.com/details/5973411836?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 150000,
+        "created": "2026-11-20T21:35:06Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HII's Mission Technologies division"
+        }
+      },
+      {
+        "longitude": -76.883626,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDExODE1In0._A8T2uyCJDVnOtqs1Y5XeShIq5Djz8H5RzK9lAgYLEk",
+        "salary_max": 150000,
+        "redirect_url": "https://www.adzuna.com/details/5973411815?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HII's Mission Technologies division"
+        },
+        "created": "2026-11-20T21:35:06Z",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "latitude": 39.206658,
+        "salary_min": 115199,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "location": {
+          "display_name": "Columbia, Howard County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Maryland",
+            "Howard County",
+            "Columbia"
+          ]
+        },
+        "id": "5973411815",
+        "title": "DevOps Engineer (Hybrid) - 30760"
+      },
+      {
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas",
+            "Bexar County",
+            "San Antonio"
+          ],
+          "display_name": "San Antonio, Bexar County"
+        },
+        "id": "5973411827",
+        "title": "Software Engineer (Hybrid) - 29368",
+        "description": "Enlighten, honored as a Top Workplace from USA Today, is a leader in big data solution development and deployment, with expertise in cloud-based services, software and systems engineering, cyber capabilities, and data science. Enlighten provides continued innovation and proactivity in meeting our customers\u2019 greatest challenges. We recognize that the most effective environment for your projects doesn\u2019t always look the same. Our hybrid work approach ensures that you can make lasting relationships\u2026",
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 29.46357,
+        "salary_min": 100173,
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "longitude": -98.522671,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMTgyNyIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.JTzhlK5dUv4xthsScIEvI8e5o0fRxNj8wsOM4Tw8x20",
+        "company": {
+          "display_name": "HII's Mission Technologies division",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_max": 140000,
+        "redirect_url": "https://www.adzuna.com/details/5973411827?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:35:06Z"
+      },
+      {
+        "title": "Senior QA Engineer - Digital Asset Platform",
+        "id": "5973411223",
+        "location": {
+          "area": [
+            "US",
+            "New York",
+            "New York City"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "New York City, New York"
+        },
+        "description": "Job Title: Senior QA Engineer - Digital Asset Platform (DAP) | Capital Markets Location: New York, NY Duration: Contract - 12 months Pay Range: $57.90/hr (W2) Job ID: 412210 About BCforward BCforward is a leading global IT consulting and workforce solutions firm providing services and support to Fortune 500 and government clients. Founded in 1998, BCforward has grown with our customers needs into a full-service business solutions provider. With delivery centers and offices across North America \u2026",
+        "salary_is_predicted": "0",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 118560,
+        "contract_time": "full_time",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "company": {
+          "display_name": "BC Forward",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_max": 120432,
+        "redirect_url": "https://www.adzuna.com/details/5973411223?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:35:00Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMTIyMyIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.Cn5utKG3JIS5RgUtVB9cUC9qkDEsJgHXomnPoTqKaTw"
+      },
+      {
+        "category": {
+          "tag": "engineering-jobs",
+          "label": "Engineering Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:34:59Z",
+        "salary_is_predicted": "0",
+        "description": "Job Type: Full-Time Shift: 8-5, Monday - Friday Expected Hours: 40 Our client is seeking an Electrical Sales Engineer to join a fast-growing PCB manufacturing and technology company in Philadelphia. This is a highly visible role that combines technical engineering expertise with customer support and commercial engagement. Working directly with company leadership, you'll help customers navigate the PCB quoting and manufacturing process, review designs for manufacturability, and serve as the key \u2026",
+        "id": "5973411109",
+        "contract_type": "permanent",
+        "title": "Electrical Sales Engineer",
+        "salary_min": 75000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -75.164753,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMTEwOSIsInMiOiJFbkltamxmbDhSR3VQYXlveXAzRnpRIn0.HDiigVHwjvZ-BIpej3rejIVwU5ATh7Vitm-N9cV3zWQ",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Synerfac Technical Staffing"
+        },
+        "salary_max": 90000,
+        "redirect_url": "https://www.adzuna.com/details/5973411109?utm_medium=api&utm_source=d30dc240",
+        "location": {
+          "area": [
+            "US",
+            "Pennsylvania",
+            "Philadelphia County",
+            "Philadelphia"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Philadelphia, Philadelphia County"
+        },
+        "latitude": 39.955624
+      },
+      {
+        "salary_max": 390600,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Credit Acceptance Corporation"
+        },
+        "redirect_url": "https://www.adzuna.com/details/5973410844?utm_medium=api&utm_source=d30dc240",
+        "longitude": -122.466538,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiRW5JbWpsZmw4Ukd1UGF5b3lwM0Z6USIsImkiOiI1OTczNDEwODQ0In0.JEvFLqtuejgupQ6MVWa_Px3sPWqb-ODkJp8-xCDjTW4",
+        "latitude": 37.798085,
+        "location": {
+          "area": [
+            "US",
+            "California",
+            "San Francisco"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "San Francisco, California"
+        },
+        "created": "2026-11-20T21:34:57Z",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "contract_time": "full_time",
+        "salary_min": 279000,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "description": "At Credit Acceptance, we are building on the foundation of a successful business while investing in the future through technology, data, AI, and continuous improvement. As we continue to evolve, our Team Members play an active role in improving experiences, driving meaningful change, and shaping the future of our business. We foster an environment where people are empowered to contribute ideas, develop their careers, make an impact, and help lead our continued transformation. Our Engineering te\u2026",
+        "id": "5973410844",
+        "title": "Distinguished Software Engineer"
+      }
+    ]
+  }
+}

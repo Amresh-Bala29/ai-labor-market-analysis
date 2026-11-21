@@ -1,0 +1,1728 @@
+{
+  "search_term": "business analyst",
+  "fetched_at": "11-21-02-59",
+  "response": {
+    "results": [
+      {
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "title": "Product Owner - ServiceNow Platform - Hybrid",
+        "salary_is_predicted": "0",
+        "longitude": -104.970068,
+        "latitude": 39.759665,
+        "salary_max": 137280,
+        "contract_type": "contract",
+        "id": "5973406127",
+        "location": {
+          "area": [
+            "US",
+            "Colorado",
+            "Adams County",
+            "Commerce City"
+          ],
+          "display_name": "Commerce City, Adams County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDA2MTI3In0.hFEVDOnwnDM2MgHLrmBKE5Jh97-rV6drnffqOwUCq4M",
+        "redirect_url": "https://www.adzuna.com/details/5973406127?utm_medium=api&utm_source=d30dc240",
+        "description": "Genesis10 is currently seeking a Product Owner - ServiceNow Platform for a contract position with a Large Energy Company located in Denver, CO. This is a 12 month contract opportunity. Compensation: $56.00 - $66.00 per hour, W2, based on qualifications Position Overview: The Product Owner is responsible for maximizing business value delivered across the ServiceNow platform by partnering with business stakeholders, Product Management, Business Analysts, architects, and Agile delivery teams. This\u2026",
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:33:43Z",
+        "salary_min": 116480,
+        "company": {
+          "display_name": "Genesis10",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973406095?utm_medium=api&utm_source=d30dc240",
+        "description": "Title - Corporate Business Analyst II Location: Akron, OH 12 months  Description: Analyst Candidates will need to be local to Akron, 100% onsite Monday - Friday Possibility roles could be contract to hire.",
+        "created": "2026-11-20T21:33:42Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "ComTec"
+        },
+        "salary_min": 52000,
+        "latitude": 41.08146,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDA2MDk1In0.SWPdP-ClrjmOFEfzHmbfB2hSjyhtsXFS8JpK8vQWRtE",
+        "salary_max": 74880,
+        "salary_is_predicted": "0",
+        "longitude": -81.572784,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "consultancy-jobs",
+          "label": "Consultancy Jobs"
+        },
+        "title": "Corporate Business Analyst II",
+        "id": "5973406095",
+        "location": {
+          "area": [
+            "US",
+            "Ohio",
+            "Summit County",
+            "Maple Valley"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Maple Valley, Summit County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "salary_max": 187200,
+        "latitude": 42.632246,
+        "contract_type": "contract",
+        "longitude": -73.765437,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "title": "Senior ServiceNow Developer / Architect - Onsite",
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDA1OTU0In0.5l_b3G_GZ_OqZvpqKun5EHaFnw0TZayyLQHQ7rSbtpM",
+        "salary_min": 166400,
+        "company": {
+          "display_name": "Genesis10",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:33:39Z",
+        "contract_time": "full_time",
+        "description": "Genesis10 is currently seeking a Senior ServiceNow Developer / Architect for a Contract-to-Hire opportunity with a Major Insurance Company located in Albany, NY. This is a 6 month contract/contract to hire opportunity. This position will consider candidates who can work from Albany or New York City, NY, Richmond, VA, or Chicago, IL. Compensation: $80.00 - $90.00 per hour, W2, based on qualifications Interview Requirement: All interviews will be conducted in person at the applicable geographic l\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973405954?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Albany, Albany County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "New York",
+            "Albany County",
+            "Albany"
+          ]
+        },
+        "id": "5973405954"
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973405916?utm_medium=api&utm_source=d30dc240",
+        "description": "Job Description: Duck Creek Policy Architect Location: Morristown, NJ \u2014 Hybrid (3 days onsite) Position Overview We are looking for an experienced Duck Creek Policy Architect to join our team supporting CoAction in Morristown, NJ. The ideal candidate will have strong hands-on experience with Duck Creek Policy architecture, configuration, integration, and implementation within the P&C insurance domain. The architect will work closely with business stakeholders, Business Analysts, developers, QA \u2026",
+        "created": "2026-11-20T21:33:38Z",
+        "salary_min": 176800,
+        "company": {
+          "display_name": "Beta-Search, Inc",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "latitude": 40.795433,
+        "salary_max": 197600,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwNTkxNiIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.VsN7ZwDEfrz4s7ph42UjIjaYcBdTpXZa_Dc_L3Y6UaM",
+        "salary_is_predicted": "0",
+        "longitude": -74.489971,
+        "title": "Duck Creek Policy Architect",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973405916",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Morristown, Morris County",
+          "area": [
+            "US",
+            "New Jersey",
+            "Morris County",
+            "Morristown"
+          ]
+        }
+      },
+      {
+        "created": "2026-11-20T21:33:37Z",
+        "salary_min": 56160,
+        "company": {
+          "display_name": "ComTec",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Description: TFS Fleet Management is a new business unit focused on growing TFS Fleet and Mobility capabilities. The Fleet Business Analyst \u2013 plays a critical role in supporting the Fleet Management operational processes that power Toyota\u2019s business Mobility future. By supporting vital Fleet Management processes such as Fleet Vehicle Ordering, Vehicle Registration, Telematics, Vehicle Maintenance Accident Management and Vehicle Remarketing the Fleet Business Analyst powers the full vehicle life\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973405877?utm_medium=api&utm_source=d30dc240",
+        "latitude": 33.0735,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDA1ODc3In0.GAy6U99vcl8eFHLpgOfLMGGIGXRq39vmS_YuwwFDbcI",
+        "salary_max": 66560,
+        "longitude": -96.8044,
+        "salary_is_predicted": "0",
+        "category": {
+          "tag": "admin-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Admin Jobs"
+        },
+        "title": "Process Coordinator",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Prestonwood, Collin County",
+          "area": [
+            "US",
+            "Texas",
+            "Collin County",
+            "Prestonwood"
+          ]
+        },
+        "id": "5973405877"
+      },
+      {
+        "created": "2026-11-20T21:33:36Z",
+        "company": {
+          "display_name": "eStaffLLC",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 103119.42,
+        "description": "We are seeking a hands-on Data Architect and Engineer for a Hybrid project with our Sacramento, California sources into one governed place. Analysts, dashboards, apps and business users will rely on this data. The first phase covers public state and federal data. The next phase adds internal, non-public data from the departments. What you will do * Build and maintain automated pipelines that bring data from public portals, APIs and internal department systems into Delta tables. * Assists the pr\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973405845?utm_medium=api&utm_source=d30dc240",
+        "latitude": 38.596713,
+        "salary_max": 103119.42,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDA1ODQ1In0.tw-SN3ylP8zCJXAItUMqmjaWO8GM1jPkCTKAcLQ1D_U",
+        "longitude": -121.494174,
+        "title": "Data Architect and Engineer",
+        "salary_is_predicted": "1",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "California",
+            "Sacramento County",
+            "Sacramento"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Sacramento, Sacramento County"
+        },
+        "id": "5973405845"
+      },
+      {
+        "id": "5973405858",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Richmond, Richmond County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Virginia",
+            "Richmond County",
+            "Richmond"
+          ]
+        },
+        "description": "TreCom Systems Group, Inc. will be hiring Business Analysts to support technology initiatives and business process improvement projects. These will be full-time positions with TreCom and roles will be hybrid (onsite work in Richmond, VA). The Business Analysts will serve as a liaison between business stakeholders, project teams, technical teams, and vendors to ensure business needs are clearly understood, documented, and successfully delivered.",
+        "redirect_url": "https://www.adzuna.com/details/5973405858?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "TreCom Systems Group, Inc."
+        },
+        "salary_min": 80000,
+        "created": "2026-11-20T21:33:36Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwNTg1OCIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.fnYuQb4cm6Vxg7gMMT_2OkOo4KZAqvAtnOJtuulZVKw",
+        "title": "Business Analysts",
+        "longitude": -77.45,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_is_predicted": "0",
+        "contract_type": "permanent",
+        "salary_max": 100000,
+        "latitude": 37.56
+      },
+      {
+        "salary_max": 70720,
+        "latitude": 41.082065,
+        "contract_type": "contract",
+        "title": "Corporate Business Analyst II - Onsite",
+        "category": {
+          "tag": "healthcare-nursing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Healthcare & Nursing Jobs"
+        },
+        "salary_is_predicted": "0",
+        "longitude": -81.517635,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDA1NDUyIn0.A0h_11kLh1wVuMBPMLcdg40p5LF3MJlEfdYsC8LLnGU",
+        "description": "Genesis10 is currently seeking a Corporate Business Analyst II - Onsite for a contract-to-hire opportunity with a Major Utility Company located in Akron, OH. Compensation: $30.00 - $34.00 per hour, W2, based on qualifications Position Overview: This role involves managing a diverse group of interconnection projects. The successful candidate will be responsible for coordinating project meetings, managing scope, cost, and schedule changes, and communicating project expectations to both internal a\u2026",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973405452?utm_medium=api&utm_source=d30dc240",
+        "salary_min": 62400,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Genesis10"
+        },
+        "created": "2026-11-20T21:33:22Z",
+        "id": "5973405452",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "North Hill, Summit County",
+          "area": [
+            "US",
+            "Ohio",
+            "Summit County",
+            "North Hill"
+          ]
+        }
+      },
+      {
+        "id": "5973405242",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Minneapolis, Hennepin County",
+          "area": [
+            "US",
+            "Minnesota",
+            "Hennepin County",
+            "Minneapolis"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Genesis10 is currently seeking a Solution Architect for a hybrid position (3 days per week) with a Public Sector Organization located in Minneapolis, MN. This is a contract opportunity. Compensation: $80.00 - $95.00 per hour, W2, based on qualifications Position Overview: The Solution Architect will provide input for developing IT strategic plans, architectures, and standards required to support the client's business and technology vision. This role will also play a key part of the design and s\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973405242?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "salary_min": 166400,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Genesis10"
+        },
+        "created": "2026-11-20T21:33:14Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwNTI0MiIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.9fhQmICMARJ6XtISTFWo-jblRCh40ecM_lSZWQvjum4",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_is_predicted": "0",
+        "title": "Solution Architect - Hybrid",
+        "longitude": -93.269357,
+        "contract_type": "contract",
+        "salary_max": 197600,
+        "latitude": 44.983654
+      },
+      {
+        "id": "5973404402",
+        "location": {
+          "area": [
+            "US",
+            "Illinois",
+            "Cook County",
+            "Chicago"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Chicago, Cook County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "0",
+        "title": "Exciting BA Opportunities Across the USA",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwNDQwMiIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.wBR4DZaq9S7yqr_-dtsmNfaGgAMwDjL33x9IbJWBVqM",
+        "salary_max": 62400,
+        "redirect_url": "https://www.adzuna.com/details/5973404402?utm_medium=api&utm_source=d30dc240",
+        "description": "Company: Midwestern IT Inc. Location: Chicago,Illinois, USA Job Type: Full-Time | W2 Experience: 0 3 Years Eligible Work Authorizations: H-4 EAD, GC EAD, Green Card (GC), and U.S. Citizens Role Overview Midwestern IT Inc. is hiring Junior and Mid-Level Business Analysts for client opportunities across the United States. Key Responsibilities Gather, analyze, and document business requirements. Prepare reports and project documentation. Coordinate with business and technical teams. Track project \u2026",
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:32:52Z",
+        "contract_type": "permanent",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "MidWestern IT"
+        },
+        "salary_min": 54080
+      },
+      {
+        "salary_min": 145600,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Beta-Search, Inc"
+        },
+        "created": "2026-11-20T21:32:50Z",
+        "redirect_url": "https://www.adzuna.com/details/5973404276?utm_medium=api&utm_source=d30dc240",
+        "description": "Position Summary We are seeking a highly experienced TPA Data Manager , Subject Matter Expert (SME) and Business Data Analyst to support the existing landscape and the modernization of our Third-Party Administrator (TPA) Data Services platform as part of our enterprise transformation initiatives, including Project NOVA and Guidewire modernization. This role will be responsible to lead the TPA Data services workstream and for translating business requirements into scalable data solutions, improv\u2026",
+        "salary_max": 166400,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDA0Mjc2In0.OUmTQRCyUNqwUrKRBCoaQJ2wV-NFxNnffKTS_KwYmbo",
+        "latitude": 40.15866,
+        "longitude": -75.2796,
+        "salary_is_predicted": "0",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "title": "TPA Data Manager - Guidewire ClaimCenter - Property & Casualty insurance",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Center Square, Montgomery County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Pennsylvania",
+            "Montgomery County",
+            "Center Square"
+          ]
+        },
+        "id": "5973404276"
+      },
+      {
+        "id": "5973404207",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Greenfield Manor, Berks County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Pennsylvania",
+            "Berks County",
+            "Greenfield Manor"
+          ]
+        },
+        "longitude": -75.940099,
+        "title": "Director, Customer Data and Insights",
+        "salary_is_predicted": "1",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "latitude": 40.348325,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwNDIwNyIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.L39zF1Gt8c4hC_HNctlnyCiAEk8KcAl3SzFk0QwYgBo",
+        "salary_max": 147049.88,
+        "redirect_url": "https://www.adzuna.com/details/5973404207?utm_medium=api&utm_source=d30dc240",
+        "description": "Position Title: Director, Customer Data and Insights Description: Why Join Digital Products at Penske Most people know Penske for our big yellow trucks. But we\u2019re so much more than that. At Penske we have a 50-plus year history of leading the transportation and supply-chain industry, delivering world-class and award-winning technology solutions. What most people don\u2019t know, we are just as much a data company as we are a transportation and supply chain company. We collect and analyze billions of\u2026",
+        "created": "2026-11-20T21:32:49Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Penske Truck Rental"
+        },
+        "salary_min": 147049.88
+      },
+      {
+        "longitude": -74.1735,
+        "title": "Anaplan Product Owner - Hybrid",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_is_predicted": "1",
+        "contract_type": "contract",
+        "latitude": 40.7334,
+        "salary_max": 112351.2,
+        "location": {
+          "area": [
+            "US",
+            "New Jersey",
+            "Essex County",
+            "Newark"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Newark, Essex County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973404107",
+        "created": "2026-11-20T21:32:47Z",
+        "salary_min": 112351.2,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Genesis10"
+        },
+        "description": "Genesis10 is currently seeking an Anaplan Product Owner for a hybrid position with a Financial Services Organization located in Newark, NJ. This is a 6 month contract opportunity. The Product Owner is the bridge between finance business users and the Anaplan delivery team. This role owns the Anaplan roadmap and backlog, translates business needs into functional specifications, and coordinates delivery through testing and user acceptance. The organization has a substantial backlog of future road\u2026",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973404107?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDA0MTA3In0.pI6p2Z1sKs2CZ8B8AQzud4NYvRaGfrzqDeaxdju2tjA"
+      },
+      {
+        "longitude": -76.383214,
+        "title": "Microsoft Dynamics Financial Functional Analyst",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_is_predicted": "0",
+        "contract_type": "permanent",
+        "salary_max": 141775,
+        "latitude": 37.007436,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Hampton Roads, Hampton City",
+          "area": [
+            "US",
+            "Virginia",
+            "Hampton City",
+            "Hampton Roads"
+          ]
+        },
+        "id": "5973403845",
+        "company": {
+          "display_name": "Hampton Roads Transit",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 109058,
+        "created": "2026-11-20T21:32:43Z",
+        "contract_time": "full_time",
+        "description": "Hampton Roads Transit is looking for dynamic, customer service oriented, and energetic people to become part of a committed team providing excellent and effective public transportation to the Hampton Roads region. We offer unmatched benefits and competitive wages in a stimulating and rewarding environment. Salary Range: $109,058 - $141,775 Hampton Roads Transit is not considering applicants for this position that require any type of immigration sponsorship (additional work authorization or perm\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973403845?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwMzg0NSIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.suP6Q6U3e1BOXcC8KM1To9XKpoi_ZKAsUZEuJzja6L0"
+      },
+      {
+        "id": "5973403794",
+        "location": {
+          "area": [
+            "US",
+            "Texas",
+            "Collin County",
+            "Murphy"
+          ],
+          "display_name": "Murphy, Collin County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Job Title: Technical Recruiter Location: Plano, TX Employer: 4Consulting, Inc Position Type: Full Time Worksite: Onsite Position Summary 4Consulting, Inc is seeking a qualified Technical Recruiter to manage the full-cycle recruitment process for US-based clients, sourcing, screening, evaluating, and placing technical professionals against client requirements. Coordinate with account managers and hiring teams to maintain candidate pipelines, verify work authorization, and achieve recruitment tar\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973403794?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "4Ci"
+        },
+        "salary_min": 53188.65,
+        "created": "2026-11-20T21:32:42Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDAzNzk0In0.exuU_ddXaRcq0nt5arwMJxnky5OYhxAeQHrXkS-ikdY",
+        "category": {
+          "label": "HR & Recruitment Jobs",
+          "tag": "hr-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "1",
+        "title": "Technical Recruiter",
+        "longitude": -96.613945,
+        "contract_type": "permanent",
+        "salary_max": 53188.65,
+        "latitude": 33.019863
+      },
+      {
+        "id": "5973403664",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Plano, Collin County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas",
+            "Collin County",
+            "Plano"
+          ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwMzY2NCIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.l2MeRUTtcy3YwZmePEnGz28xaZpPe5r94vLtSHp-X2w",
+        "contract_time": "full_time",
+        "description": "Payrate: $42.00 - $42.75/hr Key Responsibilities: Data Analysis & Reporting: Under the guidance of the BI Manager, analyze sales data for mobile products to identify trends and prepare clear, actionable reports. Dashboard Creation: Build and maintain dashboards and visualizations to track key performance indicators and support ongoing business monitoring. System Maintenance: Perform routine maintenance and health checks on BI systems, dashboards, and reports to ensure data accuracy and system a\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973403664?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:32:40Z",
+        "salary_min": 87360,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Aditi Consulting"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "longitude": -96.737561,
+        "title": "Business Analyst",
+        "salary_is_predicted": "0",
+        "latitude": 33.056019,
+        "salary_max": 88920
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDAzNDA2In0.hjTmVOTV_ADewVxtQ9fvz50mnai8QaPObD4NfaNTHBo",
+        "salary_max": 157476,
+        "latitude": 44.983654,
+        "description": "Job Title: Epic Tapestry Analyst Location: Minneapolis, MN (Remote eligible) Duration: Contract - 31 months. Chance of extension is greater than 50%. Pay Range: $70/hr - $75.71/hr (W2) Job ID: 411785 About BCforward BCforward is a leading global IT consulting and workforce solutions firm providing services and support to Fortune 500 and government clients. Founded in 1998, BCforward has grown with our customers needs into a full-service business solutions provider. With delivery centers and off\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973403406?utm_medium=api&utm_source=d30dc240",
+        "salary_min": 145600,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "BC Forward"
+        },
+        "created": "2026-11-20T21:32:34Z",
+        "id": "5973403406",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Minneapolis, Hennepin County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Minnesota",
+            "Hennepin County",
+            "Minneapolis"
+          ]
+        },
+        "salary_is_predicted": "0",
+        "longitude": -93.269357,
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "title": "Epic Tapestry Analyst"
+      },
+      {
+        "description": "Hampton Roads Transit is looking for dynamic, customer service oriented, and energetic people to become part of a committed team providing excellent and effective public transportation to the Hampton Roads region. We offer unmatched benefits and competitive wages in a stimulating and rewarding environment. Salary Range: $96,511 - $125,465 Hampton Roads Transit is not considering applicants for this position that require any type of immigration sponsorship (additional work authorization or perma\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973403414?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:32:34Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Hampton Roads Transit"
+        },
+        "salary_min": 96511,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwMzQxNCIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.551kkW5gGGgOfdP2O9_StqaaRyv89J-2o_H5jmd_lSE",
+        "id": "5973403414",
+        "location": {
+          "area": [
+            "US",
+            "Virginia",
+            "Hampton City",
+            "Hampton Roads"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Hampton Roads, Hampton City"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_type": "permanent",
+        "latitude": 37.007436,
+        "salary_max": 125465,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "title": "IT Business Analyst",
+        "salary_is_predicted": "0",
+        "longitude": -76.383214
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwMzE5NiIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.jlDbsesfFTeuAODyffyZPXDZEtlS6HBvc87o3Hf_ZrU",
+        "contract_time": "full_time",
+        "description": "DTS is looking for experienced Business Analyst (Infrastructure) for our client project in Pontiac, MI Job Description: Business Systems Analyst on projects across Infrastructure Services, including Networking, Server, Workstation Services, O365, VOIP Telecommunications and Service Center teams. Candidate must be a self-starter who takes ownership and responsibility of project assignments. BSA will apply proven communication, analytical, and problem-solving skills to help support the project, a\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973403196?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:32:28Z",
+        "company": {
+          "display_name": "Digital Technology Solutions",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 91693.13,
+        "id": "5973403196",
+        "location": {
+          "display_name": "Pontiac, Oakland County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Michigan",
+            "Oakland County",
+            "Pontiac"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 42.668599,
+        "salary_max": 91693.13,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_is_predicted": "1",
+        "title": "Business Analyst (Infrastructure) - Pontiac, MI",
+        "longitude": -83.290343
+      },
+      {
+        "salary_max": 114476.92,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwMjc3NSIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.nWnou_mWuBIqV4qkVz4u4gnOXMh7VNdDCUKcPDtwFyo",
+        "redirect_url": "https://www.adzuna.com/details/5973402775?utm_medium=api&utm_source=d30dc240",
+        "description": "ComTec is seeking a Senior IT Business Analyst with end-to-end software development lifecycle experience, including requirements gathering, solution design, testing, and user training. The ideal candidate will have a strong background in facilitating workshops to gather, refine, and estimate requirements, as well as conducting GAP analysis. Prior experience working on Cyber Security projects is required. The candidate must have excellent written and verbal communication skills, high sense of ur\u2026",
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:32:18Z",
+        "salary_min": 114476.92,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "ComTec"
+        },
+        "id": "5973402775",
+        "location": {
+          "area": [
+            "US",
+            "Texas",
+            "Harris County",
+            "Houston"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Houston, Harris County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_is_predicted": "1",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "title": "Cybersecurity Business Analyst"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwMjE4NCIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.Mb2v4ceUS4bJwbkapkef4N5o5f2phkGZn79V2-vX4hU",
+        "contract_time": "part_time",
+        "description": "Pay Range: $60.00hr - $65.00hr Job Overview: The candidate will serve as an experienced SAP OTC BSA / Functional Consultant, working independently in a customer-facing role. The successful candidate will be responsible for translating business requirements into functional specifications, investigating system behaviors and interface issues, and working closely with development and cross-functional teams with limited direction. Requirements: Proven experience as an SAP OTC BSA / Functional Consul\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973402184?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:32:06Z",
+        "company": {
+          "display_name": "CYNET SYSTEMS",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 124800,
+        "id": "5973402184",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "California",
+            "Santa Clara County",
+            "Santa Clara"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Santa Clara, Santa Clara County"
+        },
+        "latitude": 37.3522,
+        "salary_max": 135200,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "title": "Senior SAP OTC Business System Analyst",
+        "longitude": -121.95476,
+        "salary_is_predicted": "0"
+      },
+      {
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "longitude": -84.868646,
+        "title": "Senior Microsoft Developer",
+        "salary_is_predicted": "0",
+        "latitude": 38.195048,
+        "salary_max": 93600,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Frankfort, Franklin County",
+          "area": [
+            "US",
+            "Kentucky",
+            "Franklin County",
+            "Frankfort"
+          ]
+        },
+        "id": "5973402168",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwMjE2OCIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.ZHJPi7TRT34LPsmTdEG3TuPOgCX8naSwWpnEkHlYRpQ",
+        "created": "2026-11-20T21:32:06Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "CYNET SYSTEMS"
+        },
+        "salary_min": 83200,
+        "description": "Pay Range: $40.00hr - $45.00hr Job Overview: Our client is currently seeking a Senior Microsoft Developer for the Division of Enterprise and Technology Services, Application Services Branch II. Located in Frankfort, Kentucky, the organization is responsible for the daily administration of three state-administered retirement systems with over $24.9 billion in combined assets. These systems have a membership of approximately 421,000 state and local government employees, including state employees,\u2026",
+        "contract_time": "part_time",
+        "redirect_url": "https://www.adzuna.com/details/5973402168?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "salary_is_predicted": "0",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "title": "Senior IT Procurement Analyst",
+        "longitude": -77.402403,
+        "latitude": 37.275483,
+        "salary_max": 72800,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Colonial Heights, Colonial Heights City",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Virginia",
+            "Colonial Heights City",
+            "Colonial Heights"
+          ]
+        },
+        "id": "5973401883",
+        "created": "2026-11-20T21:32:02Z",
+        "salary_min": 62400,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "CYNET SYSTEMS"
+        },
+        "contract_time": "part_time",
+        "description": "Pay Range: $30.00hr - $35.00hr Job Overview: Our client is seeking an experienced Senior IT Procurement Analyst to support the ITS Business Management Office. This position plays a key role in managing the procurement of technology goods and services and supporting the financial and operational activities of ITS. The ideal candidate will have experience with public-sector procurement and a strong understanding of the procurement lifecycle, contract purchasing, supplier management, purchase orde\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973401883?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwMTg4MyIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.DbDg4wKhIijD-8dliMGXMgYOTRuHM4l8UP7qy99JjSk"
+      },
+      {
+        "latitude": 39.105431,
+        "salary_max": 83200,
+        "salary_is_predicted": "0",
+        "title": "Guidewire PolicyCenter Developer",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "longitude": -84.502154,
+        "contract_time": "part_time",
+        "description": "Pay Range: $35.00hr - $40.00hr Job Overview: Our client is looking for a Guidewire PolicyCenter Configuration Developer with strong hands-on experience in configuring PolicyCenter using Gosu, PCF, and product model. The role involves implementing business requirements, supporting integrations, and ensuring high-quality delivery across Guidewire PolicyCenter implementations. Key Responsibilities: Configure and customize Guidewire PolicyCenter using Gosu, PCF, and Product Model. Implement policy \u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973401915?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:32:02Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "CYNET SYSTEMS"
+        },
+        "salary_min": 72800,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDAxOTE1In0.TNsK_2t_RoqzYaIBg8JdurATXSlQBMGbmOp1MKG9fR4",
+        "id": "5973401915",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Ohio",
+            "Hamilton County",
+            "Cincinnati"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Cincinnati, Hamilton County"
+        }
+      },
+      {
+        "id": "5973401657",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Washington",
+            "King County",
+            "Issaquah"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Issaquah, King County"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwMTY1NyIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.E9kpOVv3k3ko6a5QCGa9oLJCJ31tiYPznLTiRkypRMs",
+        "contract_time": "part_time",
+        "description": "Pay Range: $57.00hr - $62.00hr Job Overview: We are seeking a highly experienced and technically proficient Senior Backend Developer specializing in Java Spring Boot and Microservices Architecture. The ideal candidate will have a strong background in the retail domain, proven leadership capabilities, and a passion for implementing best development practices across onsite-offshore teams. The candidate will participate in all aspects of the SDLC lifecycle including solution design, implementation\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973401657?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:31:58Z",
+        "salary_min": 118560,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "CYNET SYSTEMS"
+        },
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "title": "Lead Java Spring Boot Backend Developer",
+        "salary_is_predicted": "0",
+        "longitude": -122.048633,
+        "latitude": 47.523926,
+        "salary_max": 128960
+      },
+      {
+        "salary_max": 104000,
+        "latitude": 30.271158,
+        "title": "Data Analyst",
+        "salary_is_predicted": "0",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -97.741701,
+        "description": "Pay Range: $45.00hr - $50.00hr Job Overview: We are seeking a highly skilled Senior Data Analyst / Business Data Consultant to partner with our Data Team. This role is pivotal in bridging business strategy with technical execution - converting complex business needs into scalable, data-driven solutions. The successful candidate will lead detailed data analysis efforts, uncover business-critical insights, and identify data use cases that drive measurable impact across the organization. This proj\u2026",
+        "contract_time": "part_time",
+        "redirect_url": "https://www.adzuna.com/details/5973401688?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "display_name": "CYNET SYSTEMS",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 93600,
+        "created": "2026-11-20T21:31:58Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwMTY4OCIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.rzO0Cq-p2xhAZKSfCc9g7-OXoGPJ4gcw83nj03cZOGk",
+        "id": "5973401688",
+        "location": {
+          "area": [
+            "US",
+            "Texas",
+            "Travis County",
+            "Austin"
+          ],
+          "display_name": "Austin, Travis County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "contract_time": "part_time",
+        "description": "Pay Range: $55.00hr - $60.00hr Job Overview: The candidate will serve as a Salesforce Product Owner and Business Analyst, shaping the Salesforce product roadmap and translating business needs into scalable solutions across Sales Cloud, Service Cloud, Experience Cloud, and Agentforce. Key Responsibilities: Product ownership and roadmap: Own and shape the Salesforce product roadmap, translating business objectives into prioritized epics, features, and measurable outcomes. Backlog management: Own,\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973401635?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:31:57Z",
+        "salary_min": 114400,
+        "company": {
+          "display_name": "CYNET SYSTEMS",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwMTYzNSIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.3QCySUS2q0lVswof0TT5WPdabCwnlDcID4PAfwHrxI4",
+        "id": "5973401635",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Austin, Travis County",
+          "area": [
+            "US",
+            "Texas",
+            "Travis County",
+            "Austin"
+          ]
+        },
+        "latitude": 30.271158,
+        "salary_max": 124800,
+        "title": "Senior Salesforce Product Owner / Business Analyst",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_is_predicted": "0",
+        "longitude": -97.741701
+      },
+      {
+        "location": {
+          "area": [
+            "US",
+            "Alaska",
+            "Anchorage"
+          ],
+          "display_name": "Anchorage, Alaska",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973401435",
+        "created": "2026-11-20T21:31:53Z",
+        "salary_min": 75035.57,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "WFNQAFR45D"
+        },
+        "contract_time": "full_time",
+        "description": "About the Role: The BVT Analyst plays a critical role in ensuring the accuracy, reliability, and efficiency of business validation testing processes within the organization. This position is responsible for analyzing complex data sets, identifying discrepancies, and validating business processes to support informed decision-making. The analyst collaborates closely with cross-functional teams to design, execute, and document test cases that align with business requirements and compliance standar\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973401435?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczNDAxNDM1In0.S1auhmYxuK-gqoHDvMAbQh7pdM-VifheoGu4D2IbmkU",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_is_predicted": "1",
+        "longitude": -149.850373,
+        "title": "BVT Analyst",
+        "contract_type": "permanent",
+        "latitude": 61.218923,
+        "salary_max": 75035.57
+      },
+      {
+        "latitude": 37.772927,
+        "salary_max": 148024.67,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczMzczNTU2In0.KGkqbiKc7go4NP96VDNaZ_ttQT-OrmowIIV7gL-gQHM",
+        "description": "Requisition ID  175201 Job Category: Business Operations / Strategy Job Level: Individual Contributor Business Unit: Energy Delivery Work Type: Hybrid Job Location: Oakland; Alameda; Alta; American Canyon; Angels Camp; Antioch; Auberry; Auburn; Avenal; Avila Beach; Bakersfield; Balch Camp; Bay Point; Bear Valley; Belden; Bellota; Belmont; Benicia; Berkeley; Brentwood; Brisbane; Buellton; Burney; Buttonwillow; Calistoga; Campbell; Canyon Dam; Canyondam; Capitola; Caruthers; Chico; Clearlake; Clo\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973373556?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T20:20:36Z",
+        "company": {
+          "display_name": "Pacific Gas And Electric Company",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 148024.67,
+        "id": "5973373556",
+        "location": {
+          "area": [
+            "US",
+            "California",
+            "Alameda County",
+            "Oakland"
+          ],
+          "display_name": "Oakland, Alameda County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -122.214332,
+        "salary_is_predicted": "1",
+        "title": "Business Analyst, Senior",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        }
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Tuckahoe, Henrico County",
+          "area": [
+            "US",
+            "Virginia",
+            "Henrico County",
+            "Tuckahoe"
+          ]
+        },
+        "id": "5973364880",
+        "salary_min": 82531.65,
+        "company": {
+          "display_name": "Altria Client Services LLC",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T20:12:09Z",
+        "contract_time": "full_time",
+        "description": "Are you passionate about using technology to strengthen quality systems, regulatory compliance, and business outcomes? Join us as an Associate Manager, Regulatory Infrastructure & Quality Control and help lead the design, development, testing, and delivery of critical technology solutions that support quality operations across Altria's Operating Companies! In this role, you'll drive enhancements, releases, and upgrades within our TrackWise Digital (TWD) and Quality Document Management System (Q\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973364880?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczMzY0ODgwIn0.994u9J5rVIFnMIXNbwvMWBtWWDARMReAc0F4U8aam9o",
+        "title": "Job Title:",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_is_predicted": "1",
+        "longitude": -77.5347,
+        "contract_type": "permanent",
+        "salary_max": 82531.65,
+        "latitude": 37.57758
+      },
+      {
+        "company": {
+          "display_name": "JPMorgan Chase Bank, N.A.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 106087.1,
+        "created": "2026-11-20T20:12:05Z",
+        "description": "At JPMorganChase, we recognize that rewarding careers do not always follow a conventional path. We value the diversity, fresh perspective and wealth of experience that returning professionals can bring. The ReEntry program offers experienced professionals, who are currently on an extended career break of at least two years, the support and resources needed to relaunch their careers. The program spans over 30 locations worldwide. The ReEntry Program is a 15-week fellowship program, beginning Apr\u2026",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973364571?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczMzY0NTcxIn0.2n9mCZ-BEbBKLCxHRxFxvcUOb54O88CKe0115k9LJJU",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Westerville, Franklin County",
+          "area": [
+            "US",
+            "Ohio",
+            "Franklin County",
+            "Westerville"
+          ]
+        },
+        "id": "5973364571",
+        "contract_type": "permanent",
+        "salary_max": 106087.1,
+        "latitude": 40.109302,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "title": "Consumer and Community Banking - Product/Strategy/Project Manager/Program Manager - United States - 2027 ReEntry Program",
+        "salary_is_predicted": "1",
+        "longitude": -82.907081
+      },
+      {
+        "id": "5973364148",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Warr Acres, Oklahoma County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Oklahoma",
+            "Oklahoma County",
+            "Warr Acres"
+          ]
+        },
+        "description": "This role is crucial in ensuring the seamless management of employee benefits accounts and delivering exceptional client service. The Client Coordinator will work closely with account managers (middle and large group markets), specialists, clients, and carriers to support day-to-day operations, maintain accurate records, and address client needs efficiently. Client Support Collaborate with Account Managers to manage a portfolio of employee benefits clients.Serve as a liaison between clients, ca\u2026",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973364148?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "display_name": "Dillingham Insurance",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 106225.7,
+        "created": "2026-11-20T20:12:02Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczMzY0MTQ4In0.V2Ag3-0fXNFNM_VbYPnb14M7ISTAF9h-rrs-SlVXLXM",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs"
+        },
+        "longitude": -97.5625,
+        "title": "Employee Benefits Client Coordinator",
+        "salary_is_predicted": "1",
+        "contract_type": "permanent",
+        "salary_max": 106225.7,
+        "latitude": 35.49155
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM2NDE5OSIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.3J_vO5_GsGlhXyfwevE3Y3GZminFQj2wYxuZOhmv3BM",
+        "created": "2026-11-20T20:12:02Z",
+        "salary_min": 171243.1,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Deloitte"
+        },
+        "contract_time": "full_time",
+        "description": "Our Deloitte Customer team empowers organizations to build deeper relationships with customers through innovative strategies, advanced analytics, Generative AI, transformative technologies, and creative design. We can enhance customer experiences and drive sustained growth and customer value creation and capture, through customer and commercial strategies, digital products and innovation, marketing, commerce, sales, and service. We are a team of strategists, data scientists, operators, creative\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973364199?utm_medium=api&utm_source=d30dc240",
+        "location": {
+          "area": [
+            "US",
+            "Florida",
+            "Duval County",
+            "Jacksonville"
+          ],
+          "display_name": "Jacksonville, Duval County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973364199",
+        "latitude": 30.3355,
+        "salary_max": 171243.1,
+        "contract_type": "permanent",
+        "salary_is_predicted": "1",
+        "title": "Project - Lead Software Engineer II (Microsoft Dynamics)",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "longitude": -81.7711
+      },
+      {
+        "title": "Senior Business Analyst",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "longitude": -84.39,
+        "salary_is_predicted": "1",
+        "contract_type": "permanent",
+        "latitude": 33.85,
+        "salary_max": 128301.76,
+        "location": {
+          "area": [
+            "US",
+            "Georgia",
+            "Fulton County",
+            "Lenox Square Finance"
+          ],
+          "display_name": "Lenox Square Finance, Fulton County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973363187",
+        "created": "2026-11-20T20:11:51Z",
+        "salary_min": 128301.76,
+        "company": {
+          "display_name": "GCH Technologies",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Your Job We are seeking a Senior Business Analyst to serve as the bridge between business stakeholders, product leadership, and engineering teams across our platform portfolio, including a regulatory registry platform, a business identity verification platform, and a business messaging platform. In this role, you will translate complex business, customer, and regulatory requirements into actionable solutions that drive product development and operational excellence. You will partner with stakeh\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973363187?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM2MzE4NyIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.pZNYCL2wtJqpjcKJaUhPJTBxdFdHIPnwYBWuO-Nc1-U"
+      },
+      {
+        "title": "Senior Business Analyst",
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_is_predicted": "1",
+        "longitude": -111.898635,
+        "contract_type": "permanent",
+        "salary_max": 120659.34,
+        "latitude": 40.754922,
+        "id": "5973363200",
+        "location": {
+          "area": [
+            "US",
+            "Utah",
+            "Salt Lake County",
+            "Salt Lake City"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Salt Lake City, Salt Lake County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "contract_time": "full_time",
+        "description": "Your Job We are seeking a Senior Business Analyst to serve as the bridge between business stakeholders, product leadership, and engineering teams across our platform portfolio, including a regulatory registry platform, a business identity verification platform, and a business messaging platform. In this role, you will translate complex business, customer, and regulatory requirements into actionable solutions that drive product development and operational excellence. You will partner with stakeh\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973363200?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "display_name": "GCH Technologies",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 120659.34,
+        "created": "2026-11-20T20:11:51Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczMzYzMjAwIn0.TEzNWgXhkGvZwk3JpCS6NchhF9sQC9g1tpNzBiTmVPM"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Texas",
+            "Dallas",
+            "Highland Park"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Highland Park, Dallas"
+        },
+        "id": "5973363189",
+        "created": "2026-11-20T20:11:51Z",
+        "salary_min": 117671.43,
+        "company": {
+          "display_name": "GCH Technologies",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "contract_time": "full_time",
+        "description": "Your Job We are seeking a Senior Business Analyst to serve as the bridge between business stakeholders, product leadership, and engineering teams across our platform portfolio, including a regulatory registry platform, a business identity verification platform, and a business messaging platform. In this role, you will translate complex business, customer, and regulatory requirements into actionable solutions that drive product development and operational excellence. You will partner with stakeh\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973363189?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM2MzE4OSIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.6Ega0dlMsMDZS7ZOxpfuo9dlo7CXMOI_0OZjDc2ECNk",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "title": "Senior Business Analyst",
+        "longitude": -96.798344,
+        "salary_is_predicted": "1",
+        "contract_type": "permanent",
+        "latitude": 32.786999,
+        "salary_max": 117671.43
+      },
+      {
+        "contract_type": "permanent",
+        "salary_max": 116400.05,
+        "latitude": 28.541508,
+        "salary_is_predicted": "1",
+        "title": "Senior Business Analyst",
+        "longitude": -81.374139,
+        "category": {
+          "label": "IT Jobs",
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_min": 116400.05,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "GCH Technologies"
+        },
+        "created": "2026-11-20T20:11:51Z",
+        "redirect_url": "https://www.adzuna.com/details/5973363203?utm_medium=api&utm_source=d30dc240",
+        "description": "Your Job We are seeking a Senior Business Analyst to serve as the bridge between business stakeholders, product leadership, and engineering teams across our platform portfolio, including a regulatory registry platform, a business identity verification platform, and a business messaging platform. In this role, you will translate complex business, customer, and regulatory requirements into actionable solutions that drive product development and operational excellence. You will partner with stakeh\u2026",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM2MzIwMyIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.LFeb_6RHUe5zpz8Fqwh064GQi5LP0WYFaOhtATOKGgg",
+        "location": {
+          "display_name": "Orlando, Orange County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Florida",
+            "Orange County",
+            "Orlando"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973363203"
+      },
+      {
+        "salary_max": 104148.36,
+        "latitude": 27.84058,
+        "contract_type": "permanent",
+        "salary_is_predicted": "1",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "title": "Senior Business Analyst",
+        "longitude": -82.71843,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczMzYzMjE4In0.kqxevN2LvhX7yxA5tRCSpm-oZDABkk92WJXmvPzeEew",
+        "description": "Your Job We are seeking a Senior Business Analyst to serve as the bridge between business stakeholders, product leadership, and engineering teams across our platform portfolio, including a regulatory registry platform, a business identity verification platform, and a business messaging platform. In this role, you will translate complex business, customer, and regulatory requirements into actionable solutions that drive product development and operational excellence. You will partner with stakeh\u2026",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973363218?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "display_name": "GCH Technologies",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 104148.36,
+        "created": "2026-11-20T20:11:51Z",
+        "id": "5973363218",
+        "location": {
+          "display_name": "Pinellas Park, Pinellas County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Florida",
+            "Pinellas County",
+            "Pinellas Park"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "contract_type": "permanent",
+        "salary_max": 132802.39,
+        "latitude": 44.9855,
+        "salary_is_predicted": "1",
+        "title": "Senior Business Analyst",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "longitude": -93.2719,
+        "contract_time": "full_time",
+        "description": "Your Job We are seeking a Senior Business Analyst to serve as the bridge between business stakeholders, product leadership, and engineering teams across our platform portfolio, including a regulatory registry platform, a business identity verification platform, and a business messaging platform. In this role, you will translate complex business, customer, and regulatory requirements into actionable solutions that drive product development and operational excellence. You will partner with stakeh\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973363228?utm_medium=api&utm_source=d30dc240",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "GCH Technologies"
+        },
+        "salary_min": 132802.39,
+        "created": "2026-11-20T20:11:51Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczMzYzMjI4In0.zFaV9IBoNfKvRW62LypciVruY_FV2tsPzjDx1E9CE3U",
+        "id": "5973363228",
+        "location": {
+          "display_name": "Minneapolis, Hennepin County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Minnesota",
+            "Hennepin County",
+            "Minneapolis"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Las Vegas, Clark County",
+          "area": [
+            "US",
+            "Nevada",
+            "Clark County",
+            "Las Vegas"
+          ]
+        },
+        "id": "5973363191",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczMzYzMTkxIn0.qf7fmH0B2dz0ZJQX5qhjhneWcZs3otSD1zjBYHIPoTU",
+        "salary_min": 111584.41,
+        "company": {
+          "display_name": "GCH Technologies",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T20:11:51Z",
+        "description": "Your Job We are seeking a Senior Business Analyst to serve as the bridge between business stakeholders, product leadership, and engineering teams across our platform portfolio, including a regulatory registry platform, a business identity verification platform, and a business messaging platform. In this role, you will translate complex business, customer, and regulatory requirements into actionable solutions that drive product development and operational excellence. You will partner with stakeh\u2026",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973363191?utm_medium=api&utm_source=d30dc240",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "longitude": -115.099621,
+        "title": "Senior Business Analyst",
+        "salary_is_predicted": "1",
+        "salary_max": 111584.41,
+        "latitude": 35.938013,
+        "contract_type": "permanent"
+      },
+      {
+        "location": {
+          "display_name": "The Gap, Chicago",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Illinois",
+            "Cook County",
+            "Chicago",
+            "The Gap"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973363194",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM2MzE5NCIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.toMwEChOZkD7-dxH14FeNmUOiNCyI5n5fgjB_fbRRKM",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "GCH Technologies"
+        },
+        "salary_min": 121190.05,
+        "created": "2026-11-20T20:11:51Z",
+        "contract_time": "full_time",
+        "description": "Your Job We are seeking a Senior Business Analyst to serve as the bridge between business stakeholders, product leadership, and engineering teams across our platform portfolio, including a regulatory registry platform, a business identity verification platform, and a business messaging platform. In this role, you will translate complex business, customer, and regulatory requirements into actionable solutions that drive product development and operational excellence. You will partner with stakeh\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973363194?utm_medium=api&utm_source=d30dc240",
+        "title": "Senior Business Analyst",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_is_predicted": "1",
+        "longitude": -87.6245,
+        "salary_max": 121190.05,
+        "latitude": 41.8865,
+        "contract_type": "permanent"
+      },
+      {
+        "salary_min": 120986.47,
+        "company": {
+          "display_name": "GCH Technologies",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T20:11:51Z",
+        "description": "Your Job We are seeking a Senior Business Analyst to serve as the bridge between business stakeholders, product leadership, and engineering teams across our platform portfolio, including a regulatory registry platform, a business identity verification platform, and a business messaging platform. In this role, you will translate complex business, customer, and regulatory requirements into actionable solutions that drive product development and operational excellence. You will partner with stakeh\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973363197?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczMzYzMTk3In0.a9l8tU6YP9vpBnqvvLG_dm_iV-Nb8eulnavf8_f3Bs4",
+        "location": {
+          "area": [
+            "US",
+            "North Carolina",
+            "Wake County",
+            "Raleigh"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Raleigh, Wake County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973363197",
+        "contract_type": "permanent",
+        "salary_max": 120986.47,
+        "latitude": 35.773993,
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "title": "Senior Business Analyst",
+        "salary_is_predicted": "1",
+        "longitude": -78.63276
+      },
+      {
+        "id": "5973363209",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Wisconsin",
+            "Brown County",
+            "Hansen Road"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Hansen Road, Brown County"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM2MzIwOSIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.br19Pmzow-mIanRFQVaBf1ZqGOad2X7z2__uy8jLvvw",
+        "description": "Your Job We are seeking a Senior Business Analyst to serve as the bridge between business stakeholders, product leadership, and engineering teams across our platform portfolio, including a regulatory registry platform, a business identity verification platform, and a business messaging platform. In this role, you will translate complex business, customer, and regulatory requirements into actionable solutions that drive product development and operational excellence. You will partner with stakeh\u2026",
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973363209?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T20:11:51Z",
+        "company": {
+          "display_name": "GCH Technologies",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 143166.6,
+        "title": "Senior Business Analyst",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_is_predicted": "1",
+        "longitude": -88.02234,
+        "latitude": 44.53932,
+        "salary_max": 143166.6,
+        "contract_type": "permanent"
+      },
+      {
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "title": "Senior Business Analyst",
+        "salary_is_predicted": "1",
+        "longitude": -80.19822,
+        "salary_max": 122927.59,
+        "latitude": 25.779,
+        "contract_type": "permanent",
+        "id": "5973363198",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "area": [
+            "US",
+            "Florida",
+            "Miami-Dade County",
+            "Seybold"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Seybold, Miami-Dade County"
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM2MzE5OCIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.3rmKOL1WczogMpAfxUGnTzfvBVy42hdbRsxAgSb-xoU",
+        "contract_time": "full_time",
+        "description": "Your Job We are seeking a Senior Business Analyst to serve as the bridge between business stakeholders, product leadership, and engineering teams across our platform portfolio, including a regulatory registry platform, a business identity verification platform, and a business messaging platform. In this role, you will translate complex business, customer, and regulatory requirements into actionable solutions that drive product development and operational excellence. You will partner with stakeh\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973363198?utm_medium=api&utm_source=d30dc240",
+        "salary_min": 122927.59,
+        "company": {
+          "display_name": "GCH Technologies",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T20:11:51Z"
+      },
+      {
+        "latitude": 29.7194,
+        "salary_max": 124986.85,
+        "contract_type": "permanent",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_is_predicted": "1",
+        "title": "Senior Business Analyst",
+        "longitude": -95.22285,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM2MzIwMiIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.yDje7RLkZuqBfjCeRNIpyJV910pZ14gPb-q9K6JG3_E",
+        "contract_time": "full_time",
+        "description": "Your Job We are seeking a Senior Business Analyst to serve as the bridge between business stakeholders, product leadership, and engineering teams across our platform portfolio, including a regulatory registry platform, a business identity verification platform, and a business messaging platform. In this role, you will translate complex business, customer, and regulatory requirements into actionable solutions that drive product development and operational excellence. You will partner with stakeh\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973363202?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T20:11:51Z",
+        "salary_min": 124986.85,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "GCH Technologies"
+        },
+        "id": "5973363202",
+        "location": {
+          "area": [
+            "US",
+            "Texas",
+            "Harris County",
+            "Galena Park"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Galena Park, Harris County"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "longitude": -119.812194,
+        "title": "Senior Business Analyst",
+        "salary_is_predicted": "1",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "latitude": 39.526407,
+        "salary_max": 132835.95,
+        "contract_type": "permanent",
+        "id": "5973363196",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Reno, Washoe County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Nevada",
+            "Washoe County",
+            "Reno"
+          ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM2MzE5NiIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.xnjrMb3ClM_yLKi6DcO3-UDDE-3aC4ai5dpFo15Z1_Y",
+        "description": "Your Job We are seeking a Senior Business Analyst to serve as the bridge between business stakeholders, product leadership, and engineering teams across our platform portfolio, including a regulatory registry platform, a business identity verification platform, and a business messaging platform. In this role, you will translate complex business, customer, and regulatory requirements into actionable solutions that drive product development and operational excellence. You will partner with stakeh\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973363196?utm_medium=api&utm_source=d30dc240",
+        "contract_time": "full_time",
+        "created": "2026-11-20T20:11:51Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "GCH Technologies"
+        },
+        "salary_min": 132835.95
+      },
+      {
+        "id": "5973363201",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "State Farm, Arlington County",
+          "area": [
+            "US",
+            "Virginia",
+            "Arlington County",
+            "State Farm"
+          ]
+        },
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczMzYzMjAxIn0.ZcUUgRn52ndcgtKcA0Er7WwTBFd5YnZWKfyHTGFpJVg",
+        "contract_time": "full_time",
+        "description": "Your Job We are seeking a Senior Business Analyst to serve as the bridge between business stakeholders, product leadership, and engineering teams across our platform portfolio, including a regulatory registry platform, a business identity verification platform, and a business messaging platform. In this role, you will translate complex business, customer, and regulatory requirements into actionable solutions that drive product development and operational excellence. You will partner with stakeh\u2026",
+        "redirect_url": "https://www.adzuna.com/details/5973363201?utm_medium=api&utm_source=d30dc240",
+        "salary_min": 122261.65,
+        "company": {
+          "display_name": "GCH Technologies",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T20:11:51Z",
+        "title": "Senior Business Analyst",
+        "salary_is_predicted": "1",
+        "longitude": -77.097739,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_max": 122261.65,
+        "latitude": 38.886306,
+        "contract_type": "permanent"
+      },
+      {
+        "id": "5973363222",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Wichita, Sedgwick County",
+          "area": [
+            "US",
+            "Kansas",
+            "Sedgwick County",
+            "Wichita"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczMzYzMjIyIn0.fRP0SlMigM1A5BdmFNJTDTjp1ZFLTN2CrOzRSXP9VMk",
+        "redirect_url": "https://www.adzuna.com/details/5973363222?utm_medium=api&utm_source=d30dc240",
+        "description": "Your Job We are seeking a Senior Business Analyst to serve as the bridge between business stakeholders, product leadership, and engineering teams across our platform portfolio, including a regulatory registry platform, a business identity verification platform, and a business messaging platform. In this role, you will translate complex business, customer, and regulatory requirements into actionable solutions that drive product development and operational excellence. You will partner with stakeh\u2026",
+        "contract_time": "full_time",
+        "created": "2026-11-20T20:11:51Z",
+        "salary_min": 134382.69,
+        "company": {
+          "display_name": "GCH Technologies",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_is_predicted": "1",
+        "title": "Senior Business Analyst",
+        "longitude": -97.34148,
+        "latitude": 37.68978,
+        "salary_max": 134382.69,
+        "contract_type": "permanent"
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/land/ad/5973362695?se=tGRBolfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=F12F28F7356C9DC1673A4914EA972E64B5EE9BBF",
+        "description": "Job Tittle: Business & Data Analyst Location: NYC Hybrid Duration: Long Term Contract 8\u201312 years of experience as a Business Analyst in Banking or Financial Services. Strong understanding of BCBS 239 and regulatory reporting. Experience with Data Lineage, Data Governance, and Data Mapping. Knowledge of Risk Data Aggregation and data quality concepts. Strong business requirement gathering and documentation skills. Experience working with business, technology, risk, and compliance stakeholders. K\u2026",
+        "salary_min": 108758.35,
+        "company": {
+          "display_name": "Momento USA LLC",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T20:11:47Z",
+        "salary_max": 108758.35,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzM2MjY5NSIsInMiOiJ0R1JCb2xmbDhSR3daNmdHUnhfdG5BIn0.25YEpYzp88m_I8fn6hnyfuxLMS0HP1eN89446j6nHW8",
+        "latitude": 40.75284,
+        "longitude": -73.97528,
+        "salary_is_predicted": "1",
+        "title": "Business Analyst",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "id": "5973362695",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Grand Central, Manhattan",
+          "area": [
+            "US",
+            "New York",
+            "New York City",
+            "Manhattan",
+            "Grand Central"
+          ]
+        },
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/land/ad/5973362645?se=tGRBolfl8RGwZ6gGRx_tnA&utm_medium=api&utm_source=d30dc240&v=204AF6AD48FCDBE5733C8A33571354905C66317F",
+        "description": "Datacenter Cloud Engineer Direct Hire Atlanta, GA 30339 (hybrid) Synergis' client, a nationally respected organization focused on nuclear power industry safety, performance, and reliability, is seeking an Enterprise Engineer II to join its IT Infrastructure Engineering Team Summary of Purpose: In Datacenter and Cloud Operations, the Engineer is responsible for technical aspects of the existing datacenter infrastructure on-prem and IaaS, cloud platform web integrations, security, and data protec\u2026",
+        "created": "2026-11-20T20:11:46Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Synergis"
+        },
+        "salary_min": 154949.31,
+        "latitude": 33.7487,
+        "salary_max": 154949.31,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidEdSQm9sZmw4Ukd3WjZnR1J4X3RuQSIsImkiOiI1OTczMzYyNjQ1In0.DPSm19ezwdyLBQWOo17LBtlFjvnverpzEPQ9t3hntzo",
+        "salary_is_predicted": "1",
+        "longitude": -84.3879,
+        "title": "DataCenter Cloud Engineer",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs",
+          "label": "IT Jobs"
+        },
+        "id": "5973362645",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "location": {
+          "display_name": "Northlake, DeKalb County",
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Georgia",
+            "DeKalb County",
+            "Northlake"
+          ]
+        }
+      }
+    ],
+    "count": 22972,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+    "mean": 112783.03
+  }
+}

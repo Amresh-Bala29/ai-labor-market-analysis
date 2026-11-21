@@ -1,0 +1,1685 @@
+{
+  "search_term": "data analyst",
+  "fetched_at": "11-21-02-59",
+  "response": {
+    "results": [
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Product Manager - Platform",
+        "longitude": -82.45632,
+        "redirect_url": "https://www.adzuna.com/details/5973424366?utm_medium=api&utm_source=d30dc240",
+        "location": {
+          "area": [
+            "US",
+            "Florida",
+            "Hillsborough County",
+            "Tampa"
+          ],
+          "display_name": "Tampa, Hillsborough County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "1",
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:41:26Z",
+        "salary_min": 174498.7,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Worth AI"
+        },
+        "latitude": 27.955269,
+        "id": "5973424366",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_max": 174498.7,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDI0MzY2In0.5cZIaKGH6u8T9F6TEoCNX9G1wGT4lQZs2xwJe96GWfc",
+        "description": "Worth AI, a leader in the computer software industry, is looking for a talented and experienced Product Manager to join their innovative team. At Worth AI, we are on a mission to revolutionize decision-making with the power of artificial intelligence while fostering an environment of collaboration, and adaptability, aiming to make a meaningful impact in the tech landscape. Our team values include extreme ownership, one team and creating reaving fans both for our employees and customers. We\u2019re s\u2026"
+      },
+      {
+        "id": "5973424382",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "latitude": 33.755711,
+        "salary_max": 169881.47,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQyNDM4MiIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.Za51IjVN7jK2ibosaRASTxbEqr_SXu6_XdPfMUdsclY",
+        "description": "Worth AI, a leader in the computer software industry, is looking for a talented and experienced Product Manager to join their innovative team. At Worth AI, we are on a mission to revolutionize decision-making with the power of artificial intelligence while fostering an environment of collaboration, and adaptability, aiming to make a meaningful impact in the tech landscape. Our team values include extreme ownership, one team and creating reaving fans both for our employees and customers. We\u2019re s\u2026",
+        "title": "Product Manager - Platform",
+        "longitude": -84.388372,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973424382?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:41:26Z",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Atlanta, Fulton County",
+          "area": [
+            "US",
+            "Georgia",
+            "Fulton County",
+            "Atlanta"
+          ]
+        },
+        "salary_is_predicted": "1",
+        "contract_time": "full_time",
+        "company": {
+          "display_name": "Worth AI",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 169881.47
+      },
+      {
+        "longitude": -80.134484,
+        "title": "Product Manager - Platform",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973424381?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:41:26Z",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Florida",
+            "Miami-Dade County",
+            "Miami"
+          ],
+          "display_name": "Miami, Miami-Dade County"
+        },
+        "contract_time": "full_time",
+        "salary_is_predicted": "1",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Worth AI"
+        },
+        "salary_min": 187881.56,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "id": "5973424381",
+        "latitude": 25.756014,
+        "salary_max": 187881.56,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDI0MzgxIn0.tNWoqGthqGVbQv4WRHkHqRy-L0dTzBNpP3fPHHnB8ig",
+        "description": "Worth AI, a leader in the computer software industry, is looking for a talented and experienced Product Manager to join their innovative team. At Worth AI, we are on a mission to revolutionize decision-making with the power of artificial intelligence while fostering an environment of collaboration, and adaptability, aiming to make a meaningful impact in the tech landscape. Our team values include extreme ownership, one team and creating reaving fans both for our employees and customers. We\u2019re s\u2026"
+      },
+      {
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "id": "5973424306",
+        "title": "Data Center - SOC Analyst L1",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973424306?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 123826.05,
+        "created": "2026-11-20T21:41:24Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQyNDMwNiIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.I6ujPi9hW_owkYytXOcv2VlJBmmBeTO5RQh7uweHcjU",
+        "contract_time": "full_time",
+        "location": {
+          "display_name": "US",
+          "area": [
+            "US"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "1",
+        "description": "Data Center - SOC Analyst L1 Location: Remote (United States) Reporting to: Director of Cybersecurity At STN , we don't just adapt to the digital future, we engineer it. Our mission is to help organizations thrive in a rapidly evolving technology landscape through strategic insight, cutting-edge solutions, and a security-first mindset. We provide end-to-end services spanning cloud consulting, AI infrastructure, and enterprise security, enabling secure, scalable, and future-ready transformation.\u2026",
+        "company": {
+          "display_name": "STN Incorporated",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 123826.05
+      },
+      {
+        "salary_is_predicted": "1",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "US",
+          "area": [
+            "US"
+          ]
+        },
+        "contract_time": "full_time",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQyNDI5OCIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.HvhX9FwsBFUwrFUwgK3b-TiEOWAz2KJkBXTmqMeOvxk",
+        "created": "2026-11-20T21:41:24Z",
+        "description": "Data Center - SOC Analyst L2 Location: Remote (United States) Reporting to: Director of Cybersecurity At STN , we don't just adapt to the digital future, we engineer it. Our mission is to help organizations thrive in a rapidly evolving technology landscape through strategic insight, cutting-edge solutions, and a security-first mindset. We provide end-to-end services spanning cloud consulting, AI infrastructure, and enterprise security, enabling secure, scalable, and future-ready transformation.\u2026",
+        "company": {
+          "display_name": "STN Incorporated",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 115123.41,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973424298",
+        "title": "Data Center - SOC Analyst L2",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "salary_max": 115123.41,
+        "redirect_url": "https://www.adzuna.com/details/5973424298?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "description": "Laid-Off Tech Jobseekers \u2014 Reset Your Career With a Stronger Stack A layoff can feel discouraging, but it does not erase your ability or your future. The tech market changes quickly, and candidates returning after layoffs often need to refresh their stack, rebuild confidence, and show recent proof that they can contribute. Applying endlessly without updating your profile can lead to more frustration. SynergisticIT is looking for candidates interested in Java full-stack development, Python devel\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDE1NzQ2In0.qF1PnHqlLgJLijk0USGrdHdQIUCHgGMYWbma5XZytGs",
+        "salary_max": 136000,
+        "id": "5973415746",
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "latitude": 42.365079,
+        "salary_min": 82000,
+        "company": {
+          "display_name": "SynergisticIT",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "created": "2026-11-20T21:36:21Z",
+        "salary_is_predicted": "0",
+        "location": {
+          "area": [
+            "US",
+            "Massachusetts",
+            "Middlesex County",
+            "Cambridgeport"
+          ],
+          "display_name": "Cambridgeport, Middlesex County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973415746?utm_medium=api&utm_source=d30dc240",
+        "title": "Junior Data Scientist/Junior Full-Stack Engineer \u2013 Remote",
+        "longitude": -71.104519,
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "created": "2026-11-20T21:36:19Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNTY0MyIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.Wu6hdOcsIDXh5Lf_j6iOiba6sNAWAsZOXMKRc7W96MI",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Colorado",
+            "Denver"
+          ],
+          "display_name": "Denver, Colorado"
+        },
+        "salary_is_predicted": "0",
+        "description": "About the Role The Team is seeking a Data Engineer to support the Statewide Longitudinal Data System (SLDS / COdata). You will be responsible for realizing the Data Architect's vision by implementing automated ETL/ELT data pipelines using Snowflake and Informatica\u2014moving data from partner state agency and third-party source systems into analytical platforms, managing data cleansing and quality, and presenting structured data for analysts and scientists.",
+        "company": {
+          "display_name": "Nexo Global Inc",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 93600,
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -104.99,
+        "id": "5973415643",
+        "title": "SLDS Data Engineer (Application Developer)",
+        "latitude": 39.75,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973415643?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 104000
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -78.63276,
+        "title": "Junior Data Engineer/Junior Spring Boot Developer \u2013 Remote",
+        "redirect_url": "https://www.adzuna.com/details/5973415619?utm_medium=api&utm_source=d30dc240",
+        "location": {
+          "area": [
+            "US",
+            "North Carolina",
+            "Wake County",
+            "Raleigh"
+          ],
+          "display_name": "Raleigh, Wake County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0",
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:36:18Z",
+        "salary_min": 82000,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "SynergisticIT"
+        },
+        "latitude": 35.773993,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "id": "5973415619",
+        "salary_max": 136000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNTYxOSIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.c570sdXFMrj47Jm1L6X5mVGG7xW3ML5Hd1O38dlQkww",
+        "description": "Easy Apply Is Not a Job Search A job search is targeted. Easy Apply is spray and pray LinkedIn Easy Apply feels like work. It is not. Data analyst hiring managers want SQL, a visual portfolio, and a story about a KPI you moved. They do not want another generic \"detail-oriented Excel user.\u201d If you never hear back, the button is doing what it was designed to do: collect volume, not champion you. Show the Work in 30 Seconds You create dashboards, data-quality stories, and business cases a recruite\u2026"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNTQ3NCIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.dIb6WnKeJY8SMc8OgLUs_NpVhNfmADWudWgBxhBoJ4o",
+        "description": "Degree on the Wall, Interview Inbox on Empty You did the coursework. Nobody taught you how hiring actually works. You walked across a stage, posted the photo, and expected software engineer interviews to follow. Instead, junior Java postings want Spring Boot, REST, SQL, Git, and \"two years of experience\u201d for an entry-level salary. Career services told you to network. Networking told you to apply online. Online applications told you nothing. What New Grads Must Be Able to Show Employers hire jun\u2026",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "id": "5973415474",
+        "latitude": 33.4492,
+        "salary_max": 136000,
+        "created": "2026-11-20T21:36:14Z",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Phoenix, Maricopa County",
+          "area": [
+            "US",
+            "Arizona",
+            "Maricopa County",
+            "Phoenix"
+          ]
+        },
+        "salary_is_predicted": "0",
+        "contract_time": "full_time",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "SynergisticIT"
+        },
+        "salary_min": 79000,
+        "contract_type": "contract",
+        "longitude": -112.0696,
+        "title": "Junior Software Engineer (Spring Boot and Microservices)/Junior Data Scientist \u2013 Remote",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973415474?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "description": "Mid-Career Reset: Roles for Jobseekers Starting Over Age Bias Is Real. Unpreparedness Makes It Worse. You are not a new grad. You may be changing careers, returning after a long break, or coming back from a non-coding role. Interviewers assume you are expensive, slow, or outdated before you speak. Jobseekers in this position often over-explain biography and under-show code. That is reversible. SynergisticIT JOPP works with jobseekers who need handholding to enter or reenter software engineering\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDE1MzU2In0.v82lWdl6ZvSqScay5euptfjbdpvzmInn4nNSnHtOmYg",
+        "salary_max": 142000,
+        "latitude": 40.750133,
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973415356",
+        "salary_min": 82000,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "SynergisticIT"
+        },
+        "contract_time": "full_time",
+        "location": {
+          "area": [
+            "US",
+            "New York",
+            "New York City",
+            "Manhattan",
+            "Chelsea and Clinton"
+          ],
+          "display_name": "Chelsea and Clinton, Manhattan",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-11-20T21:36:12Z",
+        "redirect_url": "https://www.adzuna.com/details/5973415356?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -73.997006,
+        "title": "Junior Data Engineer/Junior Backend Developer \u2013 Remote"
+      },
+      {
+        "contract_type": "contract",
+        "company": {
+          "display_name": "SynergisticIT",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 82000,
+        "location": {
+          "display_name": "Boston, Suffolk County",
+          "area": [
+            "US",
+            "Massachusetts",
+            "Suffolk County",
+            "Boston"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "salary_is_predicted": "0",
+        "created": "2026-11-20T21:36:09Z",
+        "redirect_url": "https://www.adzuna.com/details/5973415247?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -71.0691,
+        "title": "Junior Java Developer (Docker)/Junior Data Scientist \u2013 Remote",
+        "description": "Done With Staffing Runarounds: Jobs Without the Bench Story Marketing Your Resume Should Not Mean Sitting on a Bench You talked to consulting and staffing firms that promised interviews, asked you to inflate a resume, or left you waiting. Some offered contract roles that reset every few months. You wanted a full-time Java developer job. You got process. SynergisticIT contrasts JOPP with staffing companies that offer placement support without the upskilling, interview engine, and outcome model J\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDE1MjQ3In0.mNqgsuhJn7xU9xxC6wqM_P3qhuMuGKMd7fu-dHJ2dAI",
+        "salary_max": 136000,
+        "latitude": 42.3575,
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "id": "5973415247"
+      },
+      {
+        "created": "2026-11-20T21:36:07Z",
+        "location": {
+          "display_name": "San Jose, Santa Clara County",
+          "area": [
+            "US",
+            "California",
+            "Santa Clara County",
+            "San Jose"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0",
+        "contract_time": "full_time",
+        "salary_min": 82000,
+        "company": {
+          "display_name": "SynergisticIT",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "longitude": -121.889295,
+        "title": "Junior Java Developer/Junior Generative AI Engineer \u2013 Remote",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973415161?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDE1MTYxIn0.TYMNmEa6DjoQRGLHRKRRX-WPAdP30uPZ0dW_knoEfnc",
+        "description": "The Degree Was Enough to Apply. Not Enough to Get Hired. You finished a computer science, IT, or engineering degree and expected recruiters to call. Instead, applications sit in ATS queues, \"entry-level\u201d Java jobs ask for two years of Spring Boot, and campus career services send generic resume tips. That is not a personal failure. Employers hire people who can talk through production-style Java work, not people who only completed coursework. What Recent Graduates Actually Need Employers screeni\u2026",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "id": "5973415161",
+        "latitude": 37.333698,
+        "salary_max": 136000
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973415004?utm_medium=api&utm_source=d30dc240",
+        "longitude": -75.17415,
+        "title": "Entry Level Software Engineer / Deep Learning Engineer (Remote)",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 82000,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "SynergisticIT"
+        },
+        "created": "2026-11-20T21:36:03Z",
+        "location": {
+          "display_name": "Middle West, Philadelphia County",
+          "area": [
+            "US",
+            "Pennsylvania",
+            "Philadelphia County",
+            "Middle West"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "salary_is_predicted": "0",
+        "salary_max": 142000,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "id": "5973415004",
+        "latitude": 39.95278,
+        "description": "Three Hundred  Applications, Zero Recruiter Calls Volume Is Not a Strategy When Nobody Opens the Resume You track applications in a spreadsheet. The number looks impressive. The callback count is zero. ATS filters, keyword mismatches, and sourcers who never see your name are not mysteries. They are the default. If you cannot get Java interviews, the market is not \"ignoring talent.\u201d It is ignoring an unmarketed, unproven profile. SynergisticIT exists for jobseekers who cannot break the first-rou\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDE1MDA0In0.aqORk6FS7iZCkQ8aBuc8Fvj0lLfPHnRSPD7GTARCSeA"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Junior Spring Boot Microservices Developer/Junior Data Engineer \u2013 Remote",
+        "longitude": -117.829268,
+        "redirect_url": "https://www.adzuna.com/details/5973414965?utm_medium=api&utm_source=d30dc240",
+        "location": {
+          "display_name": "Newport Beach, Orange County",
+          "area": [
+            "US",
+            "California",
+            "Orange County",
+            "Newport Beach"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "salary_is_predicted": "0",
+        "created": "2026-11-20T21:36:02Z",
+        "salary_min": 82000,
+        "company": {
+          "display_name": "SynergisticIT",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "latitude": 33.661028,
+        "id": "5973414965",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_max": 127000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNDk2NSIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.H6Yhq69LFBl19S54UK6WkxPjNerlpOVKA0GUtagz7K4",
+        "description": "Ghosted After Applying: Candidates Tired of Silence Ghosting Is Now the Default. It Does Not Have to Be Your Default. You apply, sometimes complete a HackerRank, and then nothing. No rejection, no recruiter, no feedback. Data engineer roles are competitive, and companies ghost candidates who look generic: some SQL, some Python, no pipeline narrative, no cloud, no Spark. Silence is a market signal that your profile is not being championed. Make Your Profile Impossible to Ignore JOPP covers the p\u2026"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDE0NDEzIn0.VlaU1q-QNgDNiczYZQ2M8fqQcnRjBZHRbUJYUhe4TVM",
+        "description": "Advanced Personnel Resources is currently recruiting for an experienced Benefits Systems Analyst (HRIS) for one of our premier clients. Please note: This is not a general Business Analyst, Data Analyst, Financial Analyst, or IT Analyst position. Candidates must have professional experience supporting HRIS, Benefits Administration, Payroll, Compensation, or related HR systems. What We\u2019re Looking For The ideal candidate brings 5 years of hands-on HR systems experience and understands how Benefits\u2026",
+        "id": "5973414413",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "latitude": 36.067604,
+        "salary_max": 93600,
+        "created": "2026-11-20T21:35:48Z",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Greensboro, Guilford County",
+          "area": [
+            "US",
+            "North Carolina",
+            "Guilford County",
+            "Greensboro"
+          ]
+        },
+        "contract_time": "full_time",
+        "salary_is_predicted": "0",
+        "company": {
+          "display_name": "Advanced Personnel Resources, Inc.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 83200,
+        "title": "Benefits Systems Analyst \u2013 HRIS / SuccessFactors",
+        "longitude": -79.756811,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973414413?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "salary_is_predicted": "1",
+        "location": {
+          "display_name": "Staples Mill, Henrico County",
+          "area": [
+            "US",
+            "Virginia",
+            "Henrico County",
+            "Staples Mill"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:35:43Z",
+        "salary_min": 87586.2,
+        "company": {
+          "display_name": "Lateral Insights LLC",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Portfolio Data Analyst 3",
+        "longitude": -77.528317,
+        "redirect_url": "https://www.adzuna.com/details/5973414167?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNDE2NyIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.J3rFX48rXBtWxVXaRjjC1IFKmoBof_GveqAkuj4Mn5o",
+        "description": "Portfolio Data Analyst 3 Location: Richmond 2 days a week onsite VA Interview Types: Both Web Cam and In Person. (The first will be a webcam, followed by a in-person in Richmond VA) Summary: We need a (Portfolio) Data Analyst with experience with multiple data sources and creating visualizations of that data analysis. The Portfolio Data Analyst is a role within the PMCOE, created to elevate the Commonwealth's IT portfolio intelligence from compliance reporting to strategic decision support. Thi\u2026",
+        "latitude": 37.660285,
+        "id": "5973414167",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "salary_max": 87586.2
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973414048?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 114400,
+        "title": "Business Data Analyst",
+        "id": "5973414048",
+        "category": {
+          "label": "Engineering Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "engineering-jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "description": "Overview We are looking for a business data analyst for our banking client on a project basis. This contract role is onsite in New York, NY and has a duration of 3 months. Responsibilities Analyze front-to-back business processes and data flows, tracing transactions from Front Office through Middle Office, Operations, Risk, Finance, and downstream reporting. Perform data analysis, mapping, reconciliation, and root-cause analysis to identify data quality issues, process gaps, and breaks across u\u2026",
+        "salary_min": 93600,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Talent Shift"
+        },
+        "contract_type": "contract",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxNDA0OCIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.jtnwf-oRUUPnOy2vtpWddHX68z6ypyUa_CEQMsIr6D4",
+        "created": "2026-11-20T21:35:40Z",
+        "salary_is_predicted": "0",
+        "location": {
+          "display_name": "New York City, New York",
+          "area": [
+            "US",
+            "New York",
+            "New York City"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        }
+      },
+      {
+        "salary_max": 172900,
+        "redirect_url": "https://www.adzuna.com/details/5973413089?utm_medium=api&utm_source=d30dc240",
+        "latitude": 38.52245,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "tag": "engineering-jobs",
+          "label": "Engineering Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -77.289687,
+        "title": "Senior Program Analyst",
+        "id": "5973413089",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "ARCTICOM LLC"
+        },
+        "description": "SUMMARY Arcticom, LLC a company within the BSNC family, is currently seeking a qualified Senior Program Analyst for the Ground Based Air Defense Engineering and Logistics Contract at Quantico, VA. The Senior Program Analyst will provide data analysis liaison support of program-level activities. ESSENTIAL DUTIES & RESPONSIBILITIES The Essential Duties and Responsibilities are intended to present a descriptive list of the range of duties performed for this position and are not intended to reflect\u2026",
+        "salary_min": 172900,
+        "salary_is_predicted": "0",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Virginia",
+            "Prince William County",
+            "Quantico"
+          ],
+          "display_name": "Quantico, Prince William County"
+        },
+        "created": "2026-11-20T21:35:28Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMzA4OSIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.wJj2lq6kaGUSfm7akWrGdP1vMZ9QfKjZGvDZHR7LQm4"
+      },
+      {
+        "location": {
+          "display_name": "Dayton, Montgomery County",
+          "area": [
+            "US",
+            "Ohio",
+            "Montgomery County",
+            "Dayton"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "1",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMjU0NiIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.TNTbRJ3ZkFjKA-V4yh2Tyli13tCPYfzVBWu46mBT1SA",
+        "created": "2026-11-20T21:35:19Z",
+        "salary_min": 78222.16,
+        "description": "The DCS Air & Space Technology (AST) Sector is seeking a Computer Engineer for an exciting opportunity in support of the Air Force Research Laboratory (AFRL). In this role, you will help deliver technical expertise, with a focus on Modeling, Simulation & Analysis. You will collaborate closely with other DCS computer scientists and data analysts to support the customer\u2019s digital engineering initiatives. This position offers a chance for your curiosity and creativity to shine as you engineer uniq\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "DCS Corp"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 39.757443,
+        "id": "5973412546",
+        "title": "Computer Engineer I",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "longitude": -84.209435,
+        "salary_max": 78222.16,
+        "redirect_url": "https://www.adzuna.com/details/5973412546?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDEyMTY3In0.RI7hzBRCcsJKbhm1pTjoF6YosQRR60IKdrDB-rAgFBc",
+        "description": "Career Changer to Tech \u2014 Bring Your Experience, Build the Missing Skills Coming from business, healthcare, finance, education, operations, retail, QA, or project management? You may already have valuable workplace strengths: communication, problem-solving, stakeholder management, domain knowledge, and accountability. What you may be missing is the technical foundation and project proof needed to compete for tech roles. SynergisticIT is seeking motivated career changers interested in Java develo\u2026",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "id": "5973412167",
+        "latitude": 40.69398,
+        "salary_max": 142000,
+        "created": "2026-11-20T21:35:10Z",
+        "contract_time": "full_time",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Brooklyn Heights, Brooklyn",
+          "area": [
+            "US",
+            "New York",
+            "New York City",
+            "Brooklyn",
+            "Brooklyn Heights"
+          ]
+        },
+        "salary_is_predicted": "0",
+        "company": {
+          "display_name": "SynergisticIT",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 82000,
+        "longitude": -73.98978,
+        "title": "Junior BI Analyst/Junior Software Developer \u2013 Remote",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973412167?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "id": "5973411884",
+        "latitude": 33.753601,
+        "salary_max": 127000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMTg4NCIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.paXarebqheoXNegwUo_zx0vfvXNI_-Iyka4F-YomDz4",
+        "description": "Career Gap to Tech Career \u2014 Rebuild Momentum With Java or Data Skills If you have been unemployed for several months, returning to the job market can feel frustrating. You may have talent, education, or past experience, but hiring teams often look for recent proof that your skills are current. A career gap does not define your ability, but it does mean you need a strategy to rebuild confidence and show employers that you are ready. SynergisticIT is considering candidates interested in Java deve\u2026",
+        "longitude": -84.390145,
+        "title": "Junior Data Scientist/Junior Java Backend Developer \u2013 Remote",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973411884?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:35:07Z",
+        "salary_is_predicted": "0",
+        "location": {
+          "display_name": "Atlanta, Fulton County",
+          "area": [
+            "US",
+            "Georgia",
+            "Fulton County",
+            "Atlanta"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "salary_min": 79000,
+        "company": {
+          "display_name": "SynergisticIT",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        }
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMTg3MCIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.iCiBnchvYyCn8Pq-BdiH6I3_-MqlF_KbqLx3FWyismU",
+        "description": "LeetCode Strong but Still Unemployed? Build Real-World Project Proof Solving coding problems is important, but LeetCode alone does not always convince employers that you are job-ready. Hiring teams also want to see whether you can build applications, work with frameworks, connect databases, use Git, explain architecture, debug issues, and collaborate in realistic development workflows. SynergisticIT is looking for candidates interested in Java, Spring Boot, full-stack development, APIs, SQL, Gi\u2026",
+        "latitude": 45.518244,
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "id": "5973411870",
+        "salary_max": 136000,
+        "salary_is_predicted": "0",
+        "location": {
+          "area": [
+            "US",
+            "Oregon",
+            "Multnomah County",
+            "Portland"
+          ],
+          "display_name": "Portland, Multnomah County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:35:07Z",
+        "salary_min": 78000,
+        "company": {
+          "display_name": "SynergisticIT",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -122.67199,
+        "title": "Junior Data Engineer/Junior Spring Boot Developer \u2013 Remote",
+        "redirect_url": "https://www.adzuna.com/details/5973411870?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "location": {
+          "area": [
+            "US",
+            "Ohio",
+            "Greene County",
+            "Wpafb"
+          ],
+          "display_name": "Wpafb, Greene County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-11-20T21:35:06Z",
+        "contract_type": "contract",
+        "salary_min": 90000,
+        "company": {
+          "display_name": "Integrated Data Services",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -84.05911,
+        "title": "AFLCMC OZ - Business Data Analyst (Wright Patterson Air Force Base, OH)",
+        "redirect_url": "https://www.adzuna.com/details/5973411834?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMTgzNCIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.HMBkoMqzulKh5XAXxNay-LC9iOHltXKExaG4w-W6glE",
+        "description": "Company Overview: Integrated Data Services (IDS) is a leading provider of custom software products and Government financial management services. IDS was founded in 1997 in El Segundo, CA, and since that time has seen tremendous growth and success. Currently IDS has offices supporting customers nationwide. By providing customers with fast, efficient and reliable information systems and support services, IDS has become a preferred provider of financial and programmatic systems, services, and solu\u2026",
+        "latitude": 39.797074,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "id": "5973411834",
+        "salary_max": 130000
+      },
+      {
+        "latitude": 34.048345,
+        "id": "5973411323",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_max": 71122.78,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMTMyMyIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.e1agIngInP6wevPC_7xz_u3YhqqcKsY1goVmBUaLrQA",
+        "description": "Job Title:Senior Quality Analyst \u2013Software Implementation & Data Mapping Position Overview Play a key role in the final stages of enterprise software implementation, ensuring software functionality, data mapping, and business processes align with program area requirements. This position combines quality assurance, business process testing, data mapping, and software improvement initiatives while collaborating with project management, internal stakeholders, and software vendors. The role provide\u2026",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Quality Assurance Analyst",
+        "longitude": -81.106613,
+        "redirect_url": "https://www.adzuna.com/details/5973411323?utm_medium=api&utm_source=d30dc240",
+        "location": {
+          "area": [
+            "US",
+            "South Carolina",
+            "Richland County",
+            "Dutch Fork"
+          ],
+          "display_name": "Dutch Fork, Richland County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "1",
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:35:01Z",
+        "contract_type": "permanent",
+        "salary_min": 71122.78,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HTC Global Services Inc"
+        }
+      },
+      {
+        "salary_max": 210000,
+        "redirect_url": "https://www.adzuna.com/details/5973410604?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "id": "5973410604",
+        "title": "Senior Data Lead",
+        "salary_min": 160000,
+        "description": "As Senior Data Lead, you will sit at the intersection of data architecture and business strategy. You will own Charm\u2019s data infrastructure and analytics function \u2014 building the systems, governance frameworks, and team culture that transform raw data into clear, actionable intelligence. This is a senior, player-coach role for someone who can design scalable data infrastructure, lead a technical team, and communicate insights directly to executive stakeholders. You\u2019ll be a key voice in shaping ho\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Exor Solutions Inc"
+        },
+        "location": {
+          "display_name": "New York City, New York",
+          "area": [
+            "US",
+            "New York",
+            "New York City"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "salary_is_predicted": "0",
+        "created": "2026-11-20T21:34:54Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMDYwNCIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.V8eVdvdtv5eqgPDF7OQNk70DZ-4VuJEzcYuiuXiZ-A4"
+      },
+      {
+        "salary_max": 66560,
+        "redirect_url": "https://www.adzuna.com/details/5973410334?utm_medium=api&utm_source=d30dc240",
+        "latitude": 45.09498,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "id": "5973410334",
+        "title": "Financial Analyst",
+        "category": {
+          "tag": "accounting-finance-jobs",
+          "label": "Accounting & Finance Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "longitude": -93.25716,
+        "company": {
+          "display_name": "Compunnel Inc",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "Job Summary Seeking a Financial Analyst to analyze financial data, prepare reports, perform variance analysis, and support month-end closing activities.",
+        "salary_min": 54080,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Minnesota",
+            "Anoka County",
+            "Spring Lake Park"
+          ],
+          "display_name": "Spring Lake Park, Anoka County"
+        },
+        "salary_is_predicted": "0",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQxMDMzNCIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.aTfi_hWYWlGgHKR7emyIufyo44HNeDP19KgViG9t7ls",
+        "created": "2026-11-20T21:34:50Z"
+      },
+      {
+        "contract_time": "full_time",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Michigan",
+            "Ingham County",
+            "Lansing"
+          ],
+          "display_name": "Lansing, Ingham County"
+        },
+        "salary_is_predicted": "1",
+        "created": "2026-11-20T21:34:45Z",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Digital Technology Solutions"
+        },
+        "salary_min": 87577.34,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Data Warehouse Architect - Lansing, MI",
+        "longitude": -84.522934,
+        "redirect_url": "https://www.adzuna.com/details/5973409948?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwOTk0OCIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.rETxkO0VTlwwzwkpJKGDs3tzdfpNfpEpiSDt8ZiYFsI",
+        "description": "DTS is looking for Data Warehouse Architect for a direct client position in Lansing, MI Job Description: Required Skills: 1. Minimum 4 years of hand-on experience is required in hydrating the enterprise Data Lake on a Cloud Service Provider (AWS, Azure, or Google) from relational, semi-structured and unstructured data sources by building Extract and Load Data Pipelines. 2. Minimum of 4 years hands-on experience is required in Transforming the datasets in a Data Lake on a Cloud Service Provider \u2026",
+        "latitude": 42.704602,
+        "id": "5973409948",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_max": 87577.34
+      },
+      {
+        "salary_max": 76435.73,
+        "redirect_url": "https://www.adzuna.com/details/5973409157?utm_medium=api&utm_source=d30dc240",
+        "latitude": 40.631435,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -74.509387,
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "id": "5973409157",
+        "title": "AI Data Analyst",
+        "salary_min": 76435.73,
+        "description": "Job Summary: The AI Data Analyst transforms business questions and complex data into trusted analyses, dashboards, predictive insights, and responsible AI-enabled solutions. This role combines analytics, reporting, visualization, and emerging AI technologies to improve operational efficiency and business performance. The ideal candidate is a recent Master\u2019s graduate or early-career professional who is passionate about data, technology, and solving business challenges in a growing biopharmaceuti\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Aquestive Therapeutics Inc."
+        },
+        "location": {
+          "display_name": "Warren, Somerset County",
+          "area": [
+            "US",
+            "New Jersey",
+            "Somerset County",
+            "Warren"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "1",
+        "created": "2026-11-20T21:34:35Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDA5MTU3In0.JE0m-ssz-H3tT-QRg7gRla0uNAsTnx9CMx34VJkP4VY"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDA4MjUzIn0.NQhSKWsnOlOvz_nUvTxnlz7VrkmPysxfiPmMAj06JYo",
+        "description": "Senior Data Engineer Sponsorship is not provided No Third Party Resumes Onsite in Peachtree Corners, GA - Hybrid Salary - Competitive Position Summary We are seeking an experienced, highly motivated Senior Data Engineer to help design, develop, and optimize our enterprise data infrastructure. This role requires a strong technical background in data engineering, cloud-based technologies, and modern data architecture, with a particular focus on Microsoft Azure, Azure Databricks, Azure Data Factor\u2026",
+        "latitude": 33.97008,
+        "id": "5973408253",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "salary_max": 125521.76,
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Georgia",
+            "Gwinnett County",
+            "Parkway"
+          ],
+          "display_name": "Parkway, Gwinnett County"
+        },
+        "salary_is_predicted": "1",
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:34:20Z",
+        "salary_min": 125521.76,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Capstone Logistics LLC"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Senior Data Engineer",
+        "longitude": -84.23604,
+        "redirect_url": "https://www.adzuna.com/details/5973408253?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "redirect_url": "https://www.adzuna.com/details/5973406965?utm_medium=api&utm_source=d30dc240",
+        "title": "Entry Level Backend Developer / Machine Learning Engineer (Remote)",
+        "longitude": -96.798344,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 82000,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "SynergisticIT"
+        },
+        "contract_type": "contract",
+        "created": "2026-11-20T21:33:59Z",
+        "salary_is_predicted": "0",
+        "location": {
+          "display_name": "Highland Park, Dallas",
+          "area": [
+            "US",
+            "Texas",
+            "Dallas",
+            "Highland Park"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "salary_max": 136000,
+        "id": "5973406965",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "latitude": 32.786999,
+        "description": "Done With Staffing Runarounds: Jobs Without the Bench Story Marketing Your Resume Should Not Mean Sitting on a Bench You talked to consulting and staffing firms that promised interviews, asked you to inflate a resume, or left you waiting. Some offered contract roles that reset every few months. You wanted a full-time Java developer job. You got process. SynergisticIT contrasts JOPP with staffing companies that offer placement support without the upskilling, interview engine, and outcome model J\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDA2OTY1In0.O5ujyXTX5ktJbuLwP1HyoZDmQKhOx38kWJ5c0-LV7Q8"
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDA2ODIwIn0.X6YmNuhSUT5Qpu5LLCwNPNgLUbXoKEEav9wnIp9QABo",
+        "description": "The Assessment Went Out. The Recruiter Never Came Back. Ghosting by recruiters after an assessment is still a no. You applied, sometimes finished a HackerRank, and then nothing. No rejection. No feedback. Data engineer roles are competitive, and companies ghost candidates who look generic: some SQL, some Python, no pipeline narrative, no cloud, no Spark. Silence is a signal that nobody is championing you. Make Your Profile Hard to Ignore by Recruiters and Hiring Managers SQL performance, Python\u2026",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "id": "5973406820",
+        "latitude": 35.773993,
+        "salary_max": 142000,
+        "created": "2026-11-20T21:33:56Z",
+        "location": {
+          "area": [
+            "US",
+            "North Carolina",
+            "Wake County",
+            "Raleigh"
+          ],
+          "display_name": "Raleigh, Wake County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "salary_is_predicted": "0",
+        "company": {
+          "display_name": "SynergisticIT",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 82000,
+        "longitude": -78.63276,
+        "title": "Junior Java Developer / Cloud Data Engineer \u2013 Retail (Remote)",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973406820?utm_medium=api&utm_source=d30dc240"
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Entry Level Software Engineer / Data Scientist \u2013 (Remote)",
+        "longitude": -93.2719,
+        "redirect_url": "https://www.adzuna.com/details/5973406812?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "0",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Minneapolis, Hennepin County",
+          "area": [
+            "US",
+            "Minnesota",
+            "Hennepin County",
+            "Minneapolis"
+          ]
+        },
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:33:56Z",
+        "salary_min": 79000,
+        "company": {
+          "display_name": "SynergisticIT",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "latitude": 44.9855,
+        "id": "5973406812",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "salary_max": 136000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDA2ODEyIn0.bnHcavQGy35W3P7w8PQyUe3z-4svrLHOb7T2ExXqjXA",
+        "description": "Easy Apply Is Not a Job Search A job search is targeted. Easy Apply is spray and pray LinkedIn Easy Apply feels like work. It is not. Data analyst hiring managers want SQL, a visual portfolio, and a story about a KPI you moved. They do not want another generic \"detail-oriented Excel user.\u201d If you never hear back, the button is doing what it was designed to do: collect volume, not champion you. Show the Work in 30 Seconds You create dashboards, data-quality stories, and business cases a recruite\u2026"
+      },
+      {
+        "created": "2026-11-20T21:33:55Z",
+        "contract_time": "full_time",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Massachusetts",
+            "Suffolk County",
+            "Boston"
+          ],
+          "display_name": "Boston, Suffolk County"
+        },
+        "salary_is_predicted": "0",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "SynergisticIT"
+        },
+        "salary_min": 82000,
+        "longitude": -71.0691,
+        "title": "Entry Level Full Stack Developer / AI Engineer (Remote)",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973406745?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDA2NzQ1In0.ivFjwWt9V2CfeToMvVKf7oabvcymFnRUFkZj9Q_AjRI",
+        "description": "The Last Resort That Actually Works: When Every Other Path Did not You Have Already Tried the Usual Advice You rewrote the resume. You networked. You applied daily. You took a cheaper bootcamp. You used a staffing firm. You practiced on LeetCode at midnight. You still are not hired\u2014or you get interviews and lose them. for the jobseeker who is out of tactics: recent graduates, people who cannot get interviews, people who fail interviews, caregivers back from family leave, career-gap candidates, \u2026",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "id": "5973406745",
+        "latitude": 42.3575,
+        "salary_max": 142000
+      },
+      {
+        "salary_max": 136000,
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "id": "5973406769",
+        "latitude": 33.753601,
+        "description": "Your Capstone Is Not a Production Portfolio Class projects fail the hiring screen You finished a stats, CS, economics, or engineering degree with a tidy capstone. Recruiters still bounce you because they want SQL you can write live, a dashboard a VP could read, and a model story that includes messy data, metrics, and limits. Academic notebooks look like homework. Data jobs look like production. Build the Artifacts Analysts and Scientists Get Hired On JOPP covers Python, SQL, Tableau, Power BI, \u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwNjc2OSIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.bSI5xjpaipN72Z2qTH9sb32O2VvVfk1ZFmf_n0XTNXE",
+        "redirect_url": "https://www.adzuna.com/details/5973406769?utm_medium=api&utm_source=d30dc240",
+        "longitude": -84.390145,
+        "title": "Junior Java Developer / Analytics Engineer (Remote)",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "salary_min": 79000,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "SynergisticIT"
+        },
+        "created": "2026-11-20T21:33:55Z",
+        "contract_time": "full_time",
+        "location": {
+          "area": [
+            "US",
+            "Georgia",
+            "Fulton County",
+            "Atlanta"
+          ],
+          "display_name": "Atlanta, Fulton County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0"
+      },
+      {
+        "description": "Career Switchers: for People Moving from Non-Tech TO Tech Domain Knowledge Is an Asset Until You Cannot Query It Teachers, finance ops, marketing coordinators, researchers, and business analysts often have the judgment companies want and none of the stack they screen for. You cannot get a data analyst interview because your resume still reads like your last industry, not like SQL, Tableau, and a project that answers a business question. SynergisticIT Data Science JOPP is a fit for career change\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDA2NTQ3In0.NrkFNpyWksz2cYlL-Npqy9VoPBJvmwzqkqc7w8CvrXI",
+        "salary_max": 136000,
+        "latitude": 37.374431,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "id": "5973406547",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "SynergisticIT"
+        },
+        "salary_min": 82000,
+        "location": {
+          "display_name": "San Jose, Santa Clara County",
+          "area": [
+            "US",
+            "California",
+            "Santa Clara County",
+            "San Jose"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0",
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:33:51Z",
+        "redirect_url": "https://www.adzuna.com/details/5973406547?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -121.856157,
+        "title": "Entry Level Java Developer / AWS Cloud Engineer (Remote)"
+      },
+      {
+        "created": "2026-11-20T21:33:51Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwNjU0MSIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.IjREks59ZoXofMZbSsJ9Po5JDHkp86ZJC4Gw6HTUlRk",
+        "salary_is_predicted": "0",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "New Jersey",
+            "Somerset County",
+            "Basking Ridge"
+          ],
+          "display_name": "Basking Ridge, Somerset County"
+        },
+        "description": "At Daiichi Sankyo, we are united by a single purpose, to improve lives around the world through innovative medicines. With a legacy of innovation since 1899, a presence in more than 30 countries, and more than 19,000 employees, we are advancing breakthrough therapies in oncology, cardiovascular disease, rare diseases, and immune disorders. Guided by our 2030 vision to \"be an innovative global healthcare company contributing to the sustainable development of society\", we are shaping a healthier,\u2026",
+        "salary_min": 136080,
+        "company": {
+          "display_name": "Daiichi Sankyo, Inc.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "category": {
+          "label": "HR & Recruitment Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "hr-jobs"
+        },
+        "longitude": -74.570764,
+        "id": "5973406541",
+        "title": "Manager, Talent & Workforce Analytics, Global Strategic Workforce Planning",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 40.673633,
+        "redirect_url": "https://www.adzuna.com/details/5973406541?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 204120
+      },
+      {
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Junior Java DevOps Engineer / Python Developer (Remote)",
+        "longitude": -87.6245,
+        "redirect_url": "https://www.adzuna.com/details/5973406416?utm_medium=api&utm_source=d30dc240",
+        "salary_is_predicted": "0",
+        "location": {
+          "display_name": "The Gap, Chicago",
+          "area": [
+            "US",
+            "Illinois",
+            "Cook County",
+            "Chicago",
+            "The Gap"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:33:49Z",
+        "contract_type": "contract",
+        "salary_min": 79000,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "SynergisticIT"
+        },
+        "latitude": 41.8865,
+        "id": "5973406416",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_max": 127000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDA2NDE2In0.4bZ3-g12K8bRn7gKHs8MbOd3TrE2CRr9y3blFtwEfb8",
+        "description": "Degree on the Wall, Interview Inbox on Empty You did the coursework. Nobody taught you how hiring actually works. You walked across a stage, posted the photo, and expected software engineer interviews to follow. Instead, junior Java postings want Spring Boot, REST, SQL, Git, and \"two years of experience\u201d for an entry-level salary. Career services told you to network. Networking told you to apply online. Online applications told you nothing. What New Grads Must Be Able to Show Employers hire jun\u2026"
+      },
+      {
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "SynergisticIT"
+        },
+        "salary_min": 79000,
+        "salary_is_predicted": "0",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Dowtown Carrier Annex, Los Angeles County",
+          "area": [
+            "US",
+            "California",
+            "Los Angeles County",
+            "Dowtown Carrier Annex"
+          ]
+        },
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:33:46Z",
+        "redirect_url": "https://www.adzuna.com/details/5973406262?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "longitude": -118.239742,
+        "title": "Junior Java Full Stack Developer / BI Analyst \u2013 (Remote)",
+        "description": "Failed the Coding Test: For Candidates Who struggle at Assessments One Timed SQL Test Should Not Define Your Career You know the work, then a 70-minute HackerRank on window functions, joins, or Python puzzles ends the process. Some jobseekers fail the same class of assessment ten times and keep applying without changing how they practice. Companies use these tests as cheap filters. If you cannot pass them, you will not reach hiring managers who would have liked your domain sense. SynergisticIT \u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDA2MjYyIn0.4d-OsqNnOEu4hHKG6UTrNOYU6TU7SB6Hawa1VvZPtkM",
+        "salary_max": 127000,
+        "latitude": 34.060732,
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "id": "5973406262"
+      },
+      {
+        "salary_is_predicted": "0",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Portland, Multnomah County",
+          "area": [
+            "US",
+            "Oregon",
+            "Multnomah County",
+            "Portland"
+          ]
+        },
+        "contract_time": "full_time",
+        "created": "2026-11-20T21:33:45Z",
+        "salary_min": 82000,
+        "company": {
+          "display_name": "SynergisticIT",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Entry Level Data Scientist/Analyst/Java full stack developer-remote",
+        "longitude": -122.67199,
+        "redirect_url": "https://www.adzuna.com/details/5973406233?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwNjIzMyIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.jFhZ4AzIInJsXN5RLRyVZaUp4pfngI2koYm4MIiufFA",
+        "description": "Quiet Years Do Not Have to Mean a Quiet Career A Break Is Recoverable. An Old Stack Is Not, Unless You Update It. Career gaps follow long layoffs, visa stalls, burnout, family needs, or a move. Java, React, cloud, and interview bars moved anyway. You apply to software engineer jobs with yesterday's tools and collect automated rejections. Staffing firms offer short contracts that recreate the gap later. Close the Hole With Work From This Year JOPP covers Data Science, Data analytics Core Java, S\u2026",
+        "latitude": 45.518244,
+        "id": "5973406233",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "salary_max": 142000
+      },
+      {
+        "title": "Junior Java Microservices Developer / BI Analyst (Remote)",
+        "longitude": -112.0696,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973406232?utm_medium=api&utm_source=d30dc240",
+        "created": "2026-11-20T21:33:45Z",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Arizona",
+            "Maricopa County",
+            "Phoenix"
+          ],
+          "display_name": "Phoenix, Maricopa County"
+        },
+        "salary_is_predicted": "0",
+        "contract_time": "full_time",
+        "company": {
+          "display_name": "SynergisticIT",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 79000,
+        "id": "5973406232",
+        "category": {
+          "tag": "it-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs"
+        },
+        "latitude": 33.4492,
+        "salary_max": 136000,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDA2MjMyIn0.ycC6CDh35BXUr39akeoZBxKra0umbUc7fxE8JEMCahc",
+        "description": "Three Hundred  Applications, Zero Recruiter Calls Volume Is Not a Strategy When Nobody Opens the Resume You track applications in a spreadsheet. The number looks impressive. The callback count is zero. ATS filters, keyword mismatches, and sourcers who never see your name are not mysteries. They are the default. If you cannot get Java interviews, the market is not \"ignoring talent.\u201d It is ignoring an unmarketed, unproven profile. SynergisticIT exists for jobseekers who cannot break the first-rou\u2026"
+      },
+      {
+        "contract_type": "contract",
+        "company": {
+          "display_name": "Genesis10",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 166400,
+        "contract_time": "full_time",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Texas",
+            "Dallas",
+            "Highland Park"
+          ],
+          "display_name": "Highland Park, Dallas"
+        },
+        "salary_is_predicted": "0",
+        "created": "2026-11-20T21:33:44Z",
+        "redirect_url": "https://www.adzuna.com/details/5973406156?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "title": "Senior Data Architect (SDA)",
+        "longitude": -96.798344,
+        "description": "Genesis10 is seeking a Data Architect for our client in the utilities industry. This long term contract position is located in Dallas, TX 77202. Hybrid schedule 2-3 days onsite. W2 Hourly Pay rate range: ($85-100/hr Depending on experience) Description: We are seeking a Data Architect to own the strategic design and governance of our enterprise data landscape, built on Oracle on-premise database platforms and modeled using Erwin. This role sits above individual project data models: you will def\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwNjE1NiIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.YEJuhTKWevWNqblw5gfdjzXphuVqCX1ukdsY1dpnQA8",
+        "salary_max": 228800,
+        "latitude": 32.786999,
+        "id": "5973406156",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        }
+      },
+      {
+        "description": "Ghosted After Applying: Candidates Tired of Silence Ghosting Is Now the Default. It Does Not Have to Be Your Default. You apply, sometimes complete a HackerRank, and then nothing. No rejection, no recruiter, no feedback. Data engineer roles are competitive, and companies ghost candidates who look generic: some SQL, some Python, no pipeline narrative, no cloud, no Spark. Silence is a market signal that your profile is not being championed. Make Your Profile Impossible to Ignore JOPP covers the p\u2026",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDA2MDk4In0.7G3RBRvJPdlfg4oup5gSTTdXxi0vF6kPKbxE9olK7bA",
+        "salary_max": 136000,
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "id": "5973406098",
+        "latitude": 38.908569,
+        "company": {
+          "display_name": "SynergisticIT",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 82000,
+        "created": "2026-11-20T21:33:42Z",
+        "salary_is_predicted": "0",
+        "location": {
+          "area": [
+            "US",
+            "Washington, D.C."
+          ],
+          "display_name": "Washington, D.C., US",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "redirect_url": "https://www.adzuna.com/details/5973406098?utm_medium=api&utm_source=d30dc240",
+        "longitude": -77.017972,
+        "title": "Junior full Stack Developer / Data Engineer (Remote)",
+        "__CLASS__": "Adzuna::API::Response::Job"
+      },
+      {
+        "id": "5973405317",
+        "title": "Sr. Data Analyst - P&C Insurance",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Accounting & Finance Jobs",
+          "tag": "accounting-finance-jobs"
+        },
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973405317?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 57122.39,
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwNTMxNyIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.iH34UixIBP_-WqBZZTsbf6IHTrPAc9Z7N4pm3mYj4Yg",
+        "created": "2026-11-20T21:33:17Z",
+        "contract_time": "full_time",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "US",
+          "area": [
+            "US"
+          ]
+        },
+        "salary_is_predicted": "1",
+        "description": "P&C Insurance Data Analyst / Financial Analysis SME Position Overview Work at the intersection of Property & Casualty (P&C) insurance, financial analysis, and data-driven process improvement. This role is suited to an experienced professional who understands insurance finance, can independently analyze financial data, and can clearly communicate financial differences and insights. The position combines hands-on financial analysis and reporting with opportunities to identify process improvements\u2026",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "HTC Global Services Inc"
+        },
+        "salary_min": 57122.39,
+        "contract_type": "permanent"
+      },
+      {
+        "company": {
+          "display_name": "Daiichi Sankyo, Inc.",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "At Daiichi Sankyo, we are united by a single purpose, to improve lives around the world through innovative medicines. With a legacy of innovation since 1899, a presence in more than 30 countries, and more than 19,000 employees, we are advancing breakthrough therapies in oncology, cardiovascular disease, rare diseases, and immune disorders. Guided by our 2030 vision to \"be an innovative global healthcare company contributing to the sustainable development of society\", we are shaping a healthier,\u2026",
+        "salary_min": 184240,
+        "salary_is_predicted": "0",
+        "location": {
+          "area": [
+            "US",
+            "New Jersey",
+            "Somerset County",
+            "Basking Ridge"
+          ],
+          "display_name": "Basking Ridge, Somerset County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "created": "2026-11-20T21:32:57Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwNDYwMCIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.uJkHur8b5V98f9xLzzka5WFJAJoTqSYQRnaSpGTWGkY",
+        "salary_max": 276360,
+        "redirect_url": "https://www.adzuna.com/details/5973404600?utm_medium=api&utm_source=d30dc240",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 40.673633,
+        "longitude": -74.570764,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "HR & Recruitment Jobs",
+          "tag": "hr-jobs"
+        },
+        "id": "5973404600",
+        "title": "Director, Global Strategic Workforce Planning, Workforce Analytics"
+      },
+      {
+        "description": "Position Summary We are seeking a highly experienced TPA Data Manager , Subject Matter Expert (SME) and Business Data Analyst to support the existing landscape and the modernization of our Third-Party Administrator (TPA) Data Services platform as part of our enterprise transformation initiatives, including Project NOVA and Guidewire modernization. This role will be responsible to lead the TPA Data services workstream and for translating business requirements into scalable data solutions, improv\u2026",
+        "company": {
+          "display_name": "Beta-Search, Inc",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "salary_min": 145600,
+        "created": "2026-11-20T21:32:50Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwNDI3NiIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.1exWQgNkSu1jWolHZyvxD5YJ776w4MWj8TM_cmj_RsA",
+        "location": {
+          "display_name": "Center Square, Montgomery County",
+          "area": [
+            "US",
+            "Pennsylvania",
+            "Montgomery County",
+            "Center Square"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "0",
+        "redirect_url": "https://www.adzuna.com/details/5973404276?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 166400,
+        "longitude": -75.2796,
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "title": "TPA Data Manager - Guidewire ClaimCenter - Property & Casualty insurance",
+        "id": "5973404276",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 40.15866
+      },
+      {
+        "latitude": 40.348325,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "tag": "it-jobs"
+        },
+        "longitude": -75.940099,
+        "id": "5973404207",
+        "title": "Director, Customer Data and Insights",
+        "salary_max": 147049.88,
+        "redirect_url": "https://www.adzuna.com/details/5973404207?utm_medium=api&utm_source=d30dc240",
+        "location": {
+          "display_name": "Greenfield Manor, Berks County",
+          "area": [
+            "US",
+            "Pennsylvania",
+            "Berks County",
+            "Greenfield Manor"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "1",
+        "created": "2026-11-20T21:32:49Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwNDIwNyIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.-GenyUkoMmuW8vUt1uycuDpxKSVA1A9q52yYmsVNQh0",
+        "description": "Position Title: Director, Customer Data and Insights Description: Why Join Digital Products at Penske Most people know Penske for our big yellow trucks. But we\u2019re so much more than that. At Penske we have a 50-plus year history of leading the transportation and supply-chain industry, delivering world-class and award-winning technology solutions. What most people don\u2019t know, we are just as much a data company as we are a transportation and supply chain company. We collect and analyze billions of\u2026",
+        "salary_min": 147049.88,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Penske Truck Rental"
+        }
+      },
+      {
+        "created": "2026-11-20T21:32:32Z",
+        "salary_is_predicted": "0",
+        "location": {
+          "area": [
+            "US",
+            "New York",
+            "Rensselaer County",
+            "Rensselaer"
+          ],
+          "display_name": "Rensselaer, Rensselaer County",
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "contract_time": "full_time",
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "Whitney M. Young Health Center"
+        },
+        "salary_min": 49920,
+        "longitude": -73.75481,
+        "title": "Senior Care Coordinator - Community Prevention and Treatment Services",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973403333?utm_medium=api&utm_source=d30dc240",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTk3MzQwMzMzMyIsInMiOiJkbm11a0ZmbDhSR0ItYkRJeTVkRGdRIn0.MJylLc0ljxUAN6s6xO8sW8q7Hkn9Qx6DYiNWWHu2uT8",
+        "description": "Description GENERAL RESPONSIBILITIES: The Senior Care Coordinator is responsible for the performance of specialty retention and adherence specific care coordination services. Central to this role, is the conduct of comprehensive screenings/assessments and enhanced service planning aimed to improve the health and well-being of people living with HIV/AIDS (PLWHA). Designed to reduce viral load while supporting PLWHA to independently manage their health care. While addressing the medical, behavior\u2026",
+        "category": {
+          "tag": "healthcare-nursing-jobs",
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "Healthcare & Nursing Jobs"
+        },
+        "id": "5973403333",
+        "latitude": 42.65036,
+        "salary_max": 54080
+      },
+      {
+        "longitude": -86.711455,
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "title": "513 EWS USRL Tech ELINT Analyst",
+        "id": "5973402852",
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "latitude": 30.613102,
+        "redirect_url": "https://www.adzuna.com/details/5973402852?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 98812.59,
+        "created": "2026-11-20T21:32:20Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDAyODUyIn0.OV-6Ndtsr8dcaG3R0eDegdMwIDiqvpjEuSn0D35yLgw",
+        "location": {
+          "display_name": "Eglin, Okaloosa County",
+          "area": [
+            "US",
+            "Florida",
+            "Okaloosa County",
+            "Eglin"
+          ],
+          "__CLASS__": "Adzuna::API::Response::Location"
+        },
+        "salary_is_predicted": "1",
+        "company": {
+          "display_name": "DCS Corp",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "description": "DCS Corp has an immediate opening for a Technical Electronic Intelligence (ELINT) Analyst III supporting the United States Reprogramming Lab and the 513th Electronic Warfare Squadron at Eglin AFB, Florida. The Technical ELINT Analyst III is an experienced technical analyst within the Technical ELINT job family. The analyst supports the Mission Data Development Team by independently producing Technical ELINT analysis, data assessments, reports, and related analytic products in support of advance\u2026",
+        "salary_min": 98812.59
+      },
+      {
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDAyNzg2In0.CpXZny9IkyiLy4rz83uwuCOSJ4avlj0tSm4qYd3Mjpo",
+        "created": "2026-11-20T21:32:18Z",
+        "salary_is_predicted": "1",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "area": [
+            "US",
+            "Florida",
+            "Okaloosa County",
+            "Eglin"
+          ],
+          "display_name": "Eglin, Okaloosa County"
+        },
+        "description": "DCS Corp has an immediate opening for a Technical Electronic Intelligence (ELINT) Analyst IV supporting the United States Reprogramming Lab and the 513th Electronic Warfare Squadron at Eglin AFB, Florida. The Technical ELINT Analyst IV is a senior technical subject-matter expert within the Technical ELINT job family. The analyst supports the Mission Data Development Team by providing advanced Technical ELINT expertise for complex analytic efforts supporting advanced fifth-generation fighter air\u2026",
+        "salary_min": 100056.54,
+        "company": {
+          "display_name": "DCS Corp",
+          "__CLASS__": "Adzuna::API::Response::Company"
+        },
+        "id": "5973402786",
+        "title": "513 EWS USRL Tech ELINT Analyst",
+        "longitude": -86.711455,
+        "category": {
+          "tag": "it-jobs",
+          "label": "IT Jobs",
+          "__CLASS__": "Adzuna::API::Response::Category"
+        },
+        "latitude": 30.613102,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "redirect_url": "https://www.adzuna.com/details/5973402786?utm_medium=api&utm_source=d30dc240",
+        "salary_max": 100056.54
+      },
+      {
+        "salary_is_predicted": "1",
+        "location": {
+          "__CLASS__": "Adzuna::API::Response::Location",
+          "display_name": "Eglin, Okaloosa County",
+          "area": [
+            "US",
+            "Florida",
+            "Okaloosa County",
+            "Eglin"
+          ]
+        },
+        "created": "2026-11-20T21:32:18Z",
+        "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZG5tdWtGZmw4UkdCLWJESXk1ZERnUSIsImkiOiI1OTczNDAyNzcwIn0.8Ys71Hh1Owrn9WCq7n7qw0rhCuXk5O9WZmIC7tuG-rA",
+        "description": "DCS Corp has an immediate opening for an Intel Technical Electronic Intelligence (ELINT) Analyst III supporting the United States Reprogramming Lab and the 513th Electronic Warfare Squadron at Eglin AFB, Florida. The Intel Tech ELINT Analyst III is an experienced technical analyst within the Technical ELINT, Electronic Warfare (EW), and Signals Intelligence (SIGINT) job family. The analyst supports the Operational Mission Data Analysis Team by independently producing Technical ELINT and EW anal\u2026",
+        "salary_min": 96674.51,
+        "company": {
+          "__CLASS__": "Adzuna::API::Response::Company",
+          "display_name": "DCS Corp"
+        },
+        "latitude": 30.613102,
+        "__CLASS__": "Adzuna::API::Response::Job",
+        "category": {
+          "__CLASS__": "Adzuna::API::Response::Category",
+          "label": "IT Jobs",
+          "tag": "it-jobs"
+        },
+        "longitude": -86.711455,
+        "title": "513 EWS USRL Intel Tech ELINT Analyst",
+        "id": "5973402770",
+        "salary_max": 96674.51,
+        "redirect_url": "https://www.adzuna.com/details/5973402770?utm_medium=api&utm_source=d30dc240"
+      }
+    ],
+    "mean": 118128.74,
+    "count": 14544,
+    "__CLASS__": "Adzuna::API::Response::JobSearchResults"
+  }
+}
